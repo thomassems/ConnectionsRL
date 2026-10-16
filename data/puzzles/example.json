@@ -1,0 +1,25 @@
+{
+  "puzzle_id": "example-001",
+  "groups": [
+    {
+      "title": "Colors",
+      "color": "yellow",
+      "words": ["RED", "BLUE", "GREEN", "GOLD"]
+    },
+    {
+      "title": "Animals",
+      "color": "green",
+      "words": ["DOG", "CAT", "HORSE", "SHEEP"]
+    },
+    {
+      "title": "Fruits",
+      "color": "blue",
+      "words": ["APPLE", "PEAR", "BANANA", "PEACH"]
+    },
+    {
+      "title": "Shapes",
+      "color": "purple",
+      "words": ["CIRCLE", "SQUARE", "TRIANGLE", "OVAL"]
+    }
+  ]
+}
