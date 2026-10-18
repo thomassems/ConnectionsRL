@@ -1,0 +1,147 @@
+{
+  "validation_count": 141,
+  "test_count_used": 0,
+  "manifest_sha256": "2346e606b7e39378641823162003c109fb624dae07f94cf23f55f610792fd621",
+  "seeds": [
+    {
+      "seed": 7,
+      "report": "reports/network_training_seed7_diagnostics.json",
+      "warm_wins": 14,
+      "dqn_wins": 16,
+      "warm_mean_groups": 0.9290780141843972,
+      "dqn_mean_groups": 1.148936170212766,
+      "warm_mean_reward": -4.8255319148936175,
+      "dqn_mean_reward": -4.49645390070922,
+      "win_change": 2,
+      "mean_group_change": 0.2198581560283689,
+      "mean_reward_change": 0.32907801418439764,
+      "warm_zero_group_puzzles": 70,
+      "dqn_zero_group_puzzles": 49,
+      "warm_purple_median_rank": 925,
+      "dqn_purple_median_rank": 883,
+      "warm_initial_true_groups_top_10": 113,
+      "dqn_initial_true_groups_top_10": 111,
+      "warm_incorrect_followup_overlap_at_least_3": 105,
+      "dqn_incorrect_followup_overlap_at_least_3": 21,
+      "warm_incorrect_followup_count": 209,
+      "dqn_incorrect_followup_count": 215,
+      "warm_one_away_next_correct": 27,
+      "dqn_one_away_next_correct": 29,
+      "warm_one_away_followup_count": 187,
+      "dqn_one_away_followup_count": 180
+    },
+    {
+      "seed": 17,
+      "report": "reports/network_training_seed17.json",
+      "warm_wins": 12,
+      "dqn_wins": 22,
+      "warm_mean_groups": 0.8794326241134752,
+      "dqn_mean_groups": 1.297872340425532,
+      "warm_mean_reward": -5.080851063829788,
+      "dqn_mean_reward": -3.8397163120567375,
+      "win_change": 10,
+      "mean_group_change": 0.4184397163120567,
+      "mean_reward_change": 1.2411347517730502,
+      "warm_zero_group_puzzles": 73,
+      "dqn_zero_group_puzzles": 44,
+      "warm_purple_median_rank": 805,
+      "dqn_purple_median_rank": 844,
+      "warm_initial_true_groups_top_10": 115,
+      "dqn_initial_true_groups_top_10": 124,
+      "warm_incorrect_followup_overlap_at_least_3": 124,
+      "dqn_incorrect_followup_overlap_at_least_3": 14,
+      "warm_incorrect_followup_count": 220,
+      "dqn_incorrect_followup_count": 201,
+      "warm_one_away_next_correct": 28,
+      "dqn_one_away_next_correct": 31,
+      "warm_one_away_followup_count": 177,
+      "dqn_one_away_followup_count": 192
+    },
+    {
+      "seed": 27,
+      "report": "reports/network_training_seed27.json",
+      "warm_wins": 17,
+      "dqn_wins": 19,
+      "warm_mean_groups": 1.0070921985815602,
+      "dqn_mean_groups": 1.2695035460992907,
+      "warm_mean_reward": -4.563120567375886,
+      "dqn_mean_reward": -4.06241134751773,
+      "win_change": 2,
+      "mean_group_change": 0.26241134751773054,
+      "mean_reward_change": 0.5007092198581562,
+      "warm_zero_group_puzzles": 64,
+      "dqn_zero_group_puzzles": 45,
+      "warm_purple_median_rank": 919,
+      "dqn_purple_median_rank": 1047,
+      "warm_initial_true_groups_top_10": 123,
+      "dqn_initial_true_groups_top_10": 133,
+      "warm_incorrect_followup_overlap_at_least_3": 97,
+      "dqn_incorrect_followup_overlap_at_least_3": 34,
+      "warm_incorrect_followup_count": 214,
+      "dqn_incorrect_followup_count": 196,
+      "warm_one_away_next_correct": 30,
+      "dqn_one_away_next_correct": 34,
+      "warm_one_away_followup_count": 182,
+      "dqn_one_away_followup_count": 204
+    }
+  ],
+  "win_consistency": {
+    "validation_after_supervised": {
+      "won_by_no_seed": 121,
+      "won_by_any_seed": 20,
+      "won_by_every_seed": 9
+    },
+    "validation_after_rl": {
+      "won_by_no_seed": 111,
+      "won_by_any_seed": 30,
+      "won_by_every_seed": 9
+    }
+  },
+  "across_seeds": {
+    "warm_wins": {
+      "mean": 14.333333333333334,
+      "min": 12,
+      "max": 17
+    },
+    "dqn_wins": {
+      "mean": 19,
+      "min": 16,
+      "max": 22
+    },
+    "win_change": {
+      "mean": 4.666666666666667,
+      "min": 2,
+      "max": 10
+    },
+    "warm_mean_groups": {
+      "mean": 0.9385342789598109,
+      "min": 0.8794326241134752,
+      "max": 1.0070921985815602
+    },
+    "dqn_mean_groups": {
+      "mean": 1.2387706855791962,
+      "min": 1.148936170212766,
+      "max": 1.297872340425532
+    },
+    "mean_group_change": {
+      "mean": 0.3002364066193854,
+      "min": 0.2198581560283689,
+      "max": 0.4184397163120567
+    },
+    "warm_mean_reward": {
+      "mean": -4.823167848699764,
+      "min": -5.080851063829788,
+      "max": -4.563120567375886
+    },
+    "dqn_mean_reward": {
+      "mean": -4.132860520094562,
+      "min": -4.49645390070922,
+      "max": -3.8397163120567375
+    },
+    "mean_reward_change": {
+      "mean": 0.6903073286052014,
+      "min": 0.32907801418439764,
+      "max": 1.2411347517730502
+    }
+  }
+}
