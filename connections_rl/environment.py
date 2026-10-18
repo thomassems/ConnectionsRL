@@ -25,7 +25,6 @@ class GuessRecord:
 
 @dataclass(frozen=True)
 class Observation:
-    puzzle_id: str
     remaining_words: tuple[str, ...]
     solved_groups: tuple[Group, ...]
     mistakes_left: int
@@ -68,7 +67,6 @@ class ConnectionsEnv:
     def observation(self) -> Observation:
         self._require_started()
         return Observation(
-            puzzle_id=self._puzzle.puzzle_id,
             remaining_words=tuple(self._remaining_words),
             solved_groups=tuple(self._solved_groups),
             mistakes_left=self._mistakes_left,
