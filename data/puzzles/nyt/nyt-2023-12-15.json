@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-15",
+  "groups": [
+    {
+      "title": "CURMUDGEON",
+      "color": "yellow",
+      "words": [
+        "CRAB",
+        "CRANK",
+        "GROUCH",
+        "GRUMP"
+      ]
+    },
+    {
+      "title": "GET LOW",
+      "color": "green",
+      "words": [
+        "CROUCH",
+        "DUCK",
+        "SQUAT",
+        "STOOP"
+      ]
+    },
+    {
+      "title": "NATIONAL SYMBOLS",
+      "color": "blue",
+      "words": [
+        "ANTHEM",
+        "FLAG",
+        "MOTTO",
+        "SEAL"
+      ]
+    },
+    {
+      "title": "SWINDLER",
+      "color": "purple",
+      "words": [
+        "CHEAT",
+        "CROOK",
+        "QUACK",
+        "SHARK"
+      ]
+    }
+  ]
+}

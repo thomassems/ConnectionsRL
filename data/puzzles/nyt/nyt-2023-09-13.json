@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-13",
+  "groups": [
+    {
+      "title": "\"SKEDADDLE!\"",
+      "color": "yellow",
+      "words": [
+        "GET OUT",
+        "GO",
+        "LEAVE",
+        "SCRAM"
+      ]
+    },
+    {
+      "title": "PRONOUNS",
+      "color": "green",
+      "words": [
+        "ME",
+        "THEM",
+        "US",
+        "YOU"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "color": "blue",
+      "words": [
+        "NOPE",
+        "OPEN",
+        "PEON",
+        "PONE"
+      ]
+    },
+    {
+      "title": "___ BABY",
+      "color": "purple",
+      "words": [
+        "BEANIE",
+        "FUR",
+        "NEPO",
+        "SANTA"
+      ]
+    }
+  ]
+}

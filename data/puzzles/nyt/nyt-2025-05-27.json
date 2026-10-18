@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-27",
+  "groups": [
+    {
+      "title": "ROUND FLAT THINGS",
+      "color": "yellow",
+      "words": [
+        "COASTER",
+        "FRISBEE",
+        "PANCAKE",
+        "RECORD"
+      ]
+    },
+    {
+      "title": "AIRPORT FEATURES",
+      "color": "green",
+      "words": [
+        "CAROUSEL",
+        "FOOD COURT",
+        "GATE",
+        "LOUNGE"
+      ]
+    },
+    {
+      "title": "GUITAR PLAYING TECHNIQUES",
+      "color": "blue",
+      "words": [
+        "BEND",
+        "PICK",
+        "SLIDE",
+        "STRUM"
+      ]
+    },
+    {
+      "title": "WHAT CHARACTERS WERE TRANSFORMED INTO IN “BEAUTY AND THE BEAST”",
+      "color": "purple",
+      "words": [
+        "BEAST",
+        "CANDELABRA",
+        "CLOCK",
+        "TEACUP"
+      ]
+    }
+  ]
+}

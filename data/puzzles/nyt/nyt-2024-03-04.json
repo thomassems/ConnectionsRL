@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-04",
+  "groups": [
+    {
+      "title": "ROOMS IN THE GAME CLUE",
+      "color": "yellow",
+      "words": [
+        "HALL",
+        "LIBRARY",
+        "LOUNGE",
+        "STUDY"
+      ]
+    },
+    {
+      "title": "COLLEAGUE",
+      "color": "green",
+      "words": [
+        "ASSOCIATE",
+        "FELLOW",
+        "PARTNER",
+        "PEER"
+      ]
+    },
+    {
+      "title": "SEEN DURING EASTER",
+      "color": "blue",
+      "words": [
+        "BUNNY",
+        "EGG",
+        "JELLY BEAN",
+        "PEEP"
+      ]
+    },
+    {
+      "title": "WHAT A MOLE CAN BE",
+      "color": "purple",
+      "words": [
+        "ANIMAL",
+        "BIRTHMARK",
+        "SPY",
+        "UNIT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-23",
+  "groups": [
+    {
+      "title": "ROBUST",
+      "color": "yellow",
+      "words": [
+        "FIT",
+        "HEALTHY",
+        "SOUND",
+        "STRONG"
+      ]
+    },
+    {
+      "title": "DECLINE",
+      "color": "green",
+      "words": [
+        "DIP",
+        "DROP",
+        "FALL",
+        "SINK"
+      ]
+    },
+    {
+      "title": "WATER SOURCES",
+      "color": "blue",
+      "words": [
+        "FOUNTAIN",
+        "SPRING",
+        "TAP",
+        "WELL"
+      ]
+    },
+    {
+      "title": "WOMEN SINGERS",
+      "color": "purple",
+      "words": [
+        "KEYS",
+        "NICKS",
+        "SUMMER",
+        "SWIFT"
+      ]
+    }
+  ]
+}

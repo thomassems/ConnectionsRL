@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-26",
+  "groups": [
+    {
+      "title": "FOUND ON A STOVE TOP",
+      "color": "yellow",
+      "words": [
+        "GRIDDLE",
+        "KETTLE",
+        "PAN",
+        "POT"
+      ]
+    },
+    {
+      "title": "ORNAMENTAL BORDER",
+      "color": "green",
+      "words": [
+        "FRILL",
+        "FRINGE",
+        "RUFFLE",
+        "TRIM"
+      ]
+    },
+    {
+      "title": "DEPOSIT, WITH “DOWN”",
+      "color": "blue",
+      "words": [
+        "LAY",
+        "PLACE",
+        "PUT",
+        "SET"
+      ]
+    },
+    {
+      "title": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+      "color": "purple",
+      "words": [
+        "GEEZ",
+        "SEIZE",
+        "TEASE",
+        "WISE"
+      ]
+    }
+  ]
+}

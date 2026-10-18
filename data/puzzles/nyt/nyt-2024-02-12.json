@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-12",
+  "groups": [
+    {
+      "title": "BAD THINGS FOR A VIDEO CALL TO DO",
+      "color": "yellow",
+      "words": [
+        "DROP",
+        "ECHO",
+        "FREEZE",
+        "LAG"
+      ]
+    },
+    {
+      "title": "COSTUMES WITH STRIPED SHIRTS",
+      "color": "green",
+      "words": [
+        "MIME",
+        "PRISONER",
+        "REFEREE",
+        "SAILOR"
+      ]
+    },
+    {
+      "title": "SEEN IN “ALADDIN”",
+      "color": "blue",
+      "words": [
+        "GENIE",
+        "MONKEY",
+        "PARROT",
+        "PRINCESS"
+      ]
+    },
+    {
+      "title": "MOVIES MINUS NUMBERS",
+      "color": "purple",
+      "words": [
+        "APOLLO",
+        "CANDLES",
+        "FANTASTIC",
+        "SAMURAI"
+      ]
+    }
+  ]
+}

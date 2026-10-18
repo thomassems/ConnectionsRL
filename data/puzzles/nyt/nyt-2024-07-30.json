@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-30",
+  "groups": [
+    {
+      "title": "PEACHY KEEN",
+      "color": "yellow",
+      "words": [
+        "NEAT",
+        "NIFTY",
+        "SUPER",
+        "SWELL"
+      ]
+    },
+    {
+      "title": "PROVIDE MORE DETAILS",
+      "color": "green",
+      "words": [
+        "ELABORATE",
+        "EXPAND",
+        "EXPLAIN",
+        "SPECIFY"
+      ]
+    },
+    {
+      "title": "ABILITY TO DO SOMETHING WELL",
+      "color": "blue",
+      "words": [
+        "FACILITY",
+        "FLAIR",
+        "GIFT",
+        "KNACK"
+      ]
+    },
+    {
+      "title": "GROUP OF BUILDINGS",
+      "color": "purple",
+      "words": [
+        "BLOCK",
+        "COMPLEX",
+        "COMPOUND",
+        "DEVELOPMENT"
+      ]
+    }
+  ]
+}

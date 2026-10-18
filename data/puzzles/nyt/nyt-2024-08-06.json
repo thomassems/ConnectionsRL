@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-06",
+  "groups": [
+    {
+      "title": "FLUFFY WHITE THINGS",
+      "color": "yellow",
+      "words": [
+        "CLOUD",
+        "COTTON BALL",
+        "DANDELION",
+        "SHEEP"
+      ]
+    },
+    {
+      "title": "ONE IN A RESEARCH STUDY",
+      "color": "green",
+      "words": [
+        "GUINEA PIG",
+        "PARTICIPANT",
+        "SUBJECT",
+        "VOLUNTEER"
+      ]
+    },
+    {
+      "title": "TAKE ISSUE",
+      "color": "blue",
+      "words": [
+        "DISAPPROVE",
+        "MIND",
+        "OBJECT",
+        "PROTEST"
+      ]
+    },
+    {
+      "title": "___HORN",
+      "color": "purple",
+      "words": [
+        "BULL",
+        "FOG",
+        "MATTER",
+        "SHOE"
+      ]
+    }
+  ]
+}

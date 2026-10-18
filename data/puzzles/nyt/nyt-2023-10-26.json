@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-26",
+  "groups": [
+    {
+      "title": "INCREASE",
+      "color": "yellow",
+      "words": [
+        "BUILD",
+        "GROW",
+        "SWELL",
+        "MOUNT"
+      ]
+    },
+    {
+      "title": "EXCELLENT, IN OLD SLANG",
+      "color": "green",
+      "words": [
+        "ACES",
+        "KEEN",
+        "NEATO",
+        "NIFTY"
+      ]
+    },
+    {
+      "title": "FINE BUBBLES",
+      "color": "blue",
+      "words": [
+        "FOAM",
+        "FROTH",
+        "HEAD",
+        "LATHER"
+      ]
+    },
+    {
+      "title": "SPHERICAL THINGS",
+      "color": "purple",
+      "words": [
+        "BUBBLE",
+        "GLOBE",
+        "MARBLE",
+        "PEARL"
+      ]
+    }
+  ]
+}

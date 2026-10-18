@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-14",
+  "groups": [
+    {
+      "title": "EARLY ITERATION",
+      "color": "yellow",
+      "words": [
+        "DRAFT",
+        "OUTLINE",
+        "PLAN",
+        "SKETCH"
+      ]
+    },
+    {
+      "title": "ENJOY A MEAL",
+      "color": "green",
+      "words": [
+        "DINE",
+        "FEAST",
+        "FEED",
+        "SUP"
+      ]
+    },
+    {
+      "title": "SPANISH PRONOUNS/POSSESSIVES",
+      "color": "blue",
+      "words": [
+        "ELLA",
+        "ME",
+        "SUS",
+        "YO"
+      ]
+    },
+    {
+      "title": "SLIM ___",
+      "color": "purple",
+      "words": [
+        "FIT",
+        "JIM",
+        "PICKINGS",
+        "SHADY"
+      ]
+    }
+  ]
+}

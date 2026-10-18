@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-07",
+  "groups": [
+    {
+      "title": "THINK OF TOGETHER",
+      "color": "yellow",
+      "words": [
+        "AFFILIATE",
+        "ASSOCIATE",
+        "EQUATE",
+        "RELATE"
+      ]
+    },
+    {
+      "title": "WAYS TO ATTRACT FISH",
+      "color": "green",
+      "words": [
+        "BAIT",
+        "CHUM",
+        "FLY",
+        "LURE"
+      ]
+    },
+    {
+      "title": "W.N.B.A. TEAMS",
+      "color": "blue",
+      "words": [
+        "LIBERTY",
+        "STORM",
+        "SUN",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "LONG___",
+      "color": "purple",
+      "words": [
+        "BOW",
+        "FELLOW",
+        "HORN",
+        "LEGS"
+      ]
+    }
+  ]
+}

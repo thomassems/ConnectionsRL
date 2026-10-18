@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-28",
+  "groups": [
+    {
+      "title": "COMPOSITE",
+      "color": "yellow",
+      "words": [
+        "BLEND",
+        "COMPOUND",
+        "CROSS",
+        "HYBRID"
+      ]
+    },
+    {
+      "title": "EMBED",
+      "color": "green",
+      "words": [
+        "LODGE",
+        "PLANT",
+        "STICK",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "ITEMS IN A MONOPOLY BOX",
+      "color": "blue",
+      "words": [
+        "DEED",
+        "HOTEL",
+        "HOUSE",
+        "TOKEN"
+      ]
+    },
+    {
+      "title": "___ CONTROL",
+      "color": "purple",
+      "words": [
+        "BIRTH",
+        "CRUISE",
+        "QUALITY",
+        "REMOTE"
+      ]
+    }
+  ]
+}

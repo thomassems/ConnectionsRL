@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-03",
+  "groups": [
+    {
+      "title": "COMMERCIAL ORGANIZATION",
+      "color": "yellow",
+      "words": [
+        "AGENCY",
+        "COMPANY",
+        "ENTERPRISE",
+        "FIRM"
+      ]
+    },
+    {
+      "title": "FARM FIXTURES",
+      "color": "green",
+      "words": [
+        "COOP",
+        "PEN",
+        "STABLE",
+        "STY"
+      ]
+    },
+    {
+      "title": "CLASSIC DOG NAMES",
+      "color": "blue",
+      "words": [
+        "FLUFFY",
+        "REX",
+        "ROVER",
+        "SPOT"
+      ]
+    },
+    {
+      "title": "COLORS MINUS THEIR FIRST LETTERS",
+      "color": "purple",
+      "words": [
+        "INK",
+        "LACK",
+        "OLD",
+        "RANGE"
+      ]
+    }
+  ]
+}

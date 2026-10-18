@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-26",
+  "groups": [
+    {
+      "title": "PARTS OF A TABLE SETTING",
+      "color": "yellow",
+      "words": [
+        "FORK",
+        "GLASS",
+        "NAPKIN",
+        "PLATE"
+      ]
+    },
+    {
+      "title": "INCREASED, WITH “UP”",
+      "color": "green",
+      "words": [
+        "FLEW",
+        "ROSE",
+        "SHOT",
+        "THRUST"
+      ]
+    },
+    {
+      "title": "KINDS OF DIGITAL STORAGE",
+      "color": "blue",
+      "words": [
+        "CARD",
+        "CLOUD",
+        "DISK",
+        "DRIVE"
+      ]
+    },
+    {
+      "title": "UNITS OF VOLUME PLUS LETTER",
+      "color": "purple",
+      "words": [
+        "BOUNCE",
+        "GALLEON",
+        "PINOT",
+        "QUARTZ"
+      ]
+    }
+  ]
+}

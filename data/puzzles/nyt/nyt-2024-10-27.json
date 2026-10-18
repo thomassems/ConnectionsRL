@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-27",
+  "groups": [
+    {
+      "title": "SASSY",
+      "color": "yellow",
+      "words": [
+        "CUTE",
+        "FRESH",
+        "SMART",
+        "WISE"
+      ]
+    },
+    {
+      "title": "AMBIENCE",
+      "color": "green",
+      "words": [
+        "AIR",
+        "MOOD",
+        "FEELING",
+        "QUALITY"
+      ]
+    },
+    {
+      "title": "UNITS",
+      "color": "blue",
+      "words": [
+        "BAR",
+        "BEL",
+        "LUX",
+        "MOLE"
+      ]
+    },
+    {
+      "title": "THE LITTLE ___",
+      "color": "purple",
+      "words": [
+        "MERMAID",
+        "PRINCE",
+        "RASCALS",
+        "TRAMP"
+      ]
+    }
+  ]
+}

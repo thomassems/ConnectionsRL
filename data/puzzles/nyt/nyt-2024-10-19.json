@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-19",
+  "groups": [
+    {
+      "title": "BRING ABOUT",
+      "color": "yellow",
+      "words": [
+        "GENERATE",
+        "INSPIRE",
+        "PROMPT",
+        "PROVOKE"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE OFTEN SCENTED",
+      "color": "green",
+      "words": [
+        "CANDLE",
+        "INCENSE",
+        "LOTION",
+        "SOAP"
+      ]
+    },
+    {
+      "title": "THINGS THAT MIGHT STING",
+      "color": "blue",
+      "words": [
+        "INSULT",
+        "JELLYFISH",
+        "NETTLE",
+        "WASP"
+      ]
+    },
+    {
+      "title": "VIDEO GAME FRANCHISES",
+      "color": "purple",
+      "words": [
+        "CIVILIZATION",
+        "HALO",
+        "MADDEN",
+        "METROID"
+      ]
+    }
+  ]
+}

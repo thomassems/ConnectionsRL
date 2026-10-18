@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-23",
+  "groups": [
+    {
+      "title": "HOMOPHONES",
+      "color": "yellow",
+      "words": [
+        "EWE",
+        "U",
+        "YEW",
+        "YOU"
+      ]
+    },
+    {
+      "title": "NECKLINES",
+      "color": "green",
+      "words": [
+        "BOAT",
+        "CREW",
+        "SCOOP",
+        "V"
+      ]
+    },
+    {
+      "title": "WAYS TO EXPRESS 1,000",
+      "color": "blue",
+      "words": [
+        "GRAND",
+        "K",
+        "M",
+        "THOU"
+      ]
+    },
+    {
+      "title": "SUPER ___",
+      "color": "purple",
+      "words": [
+        "8",
+        "BOWL",
+        "GLUE",
+        "TUESDAY"
+      ]
+    }
+  ]
+}

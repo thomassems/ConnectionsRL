@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-17",
+  "groups": [
+    {
+      "title": "FILAMENT",
+      "color": "yellow",
+      "words": [
+        "FIBER",
+        "STRAND",
+        "STRING",
+        "THREAD"
+      ]
+    },
+    {
+      "title": "UNINHIBITEDNESS",
+      "color": "green",
+      "words": [
+        "ABANDON",
+        "FREEDOM",
+        "SPONTANEITY",
+        "UNRESTRAINT"
+      ]
+    },
+    {
+      "title": "KINDS OF TRUCKS",
+      "color": "blue",
+      "words": [
+        "DUMP",
+        "GARBAGE",
+        "MONSTER",
+        "PICKUP"
+      ]
+    },
+    {
+      "title": "BANDS MINUS THE NUMBER FIVE",
+      "color": "purple",
+      "words": [
+        "BEN FOLDS",
+        "JACKSON",
+        "MAROON",
+        "MC"
+      ]
+    }
+  ]
+}

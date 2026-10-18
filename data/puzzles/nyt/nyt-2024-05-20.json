@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-20",
+  "groups": [
+    {
+      "title": "SORCERER’S OUTPUT",
+      "color": "yellow",
+      "words": [
+        "CHARM",
+        "HEX",
+        "MAGIC",
+        "SPELL"
+      ]
+    },
+    {
+      "title": "ONE BEING MANIPULATED",
+      "color": "green",
+      "words": [
+        "INSTRUMENT",
+        "PAWN",
+        "PUPPET",
+        "TOOL"
+      ]
+    },
+    {
+      "title": "CLASSIC SUPERHERO WEAR",
+      "color": "blue",
+      "words": [
+        "CAPE",
+        "MASK",
+        "TIGHTS",
+        "UNDERWEAR"
+      ]
+    },
+    {
+      "title": "ACTION MOVIE DIRECTORS",
+      "color": "purple",
+      "words": [
+        "BAY",
+        "CARPENTER",
+        "SCOTT",
+        "WOO"
+      ]
+    }
+  ]
+}

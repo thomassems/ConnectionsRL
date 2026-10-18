@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-04",
+  "groups": [
+    {
+      "title": "UNIT OF BREAD",
+      "color": "yellow",
+      "words": [
+        "BAGUETTE",
+        "BUN",
+        "LOAF",
+        "ROLL"
+      ]
+    },
+    {
+      "title": "ASSURE, AS A WIN",
+      "color": "green",
+      "words": [
+        "CLINCH",
+        "GUARANTEE",
+        "LOCK",
+        "SECURE"
+      ]
+    },
+    {
+      "title": "SMALL IMPERFECTION",
+      "color": "blue",
+      "words": [
+        "CHIP",
+        "MARK",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "title": "HEAD OF ___",
+      "color": "purple",
+      "words": [
+        "HAIR",
+        "LETTUCE",
+        "STATE",
+        "STEAM"
+      ]
+    }
+  ]
+}

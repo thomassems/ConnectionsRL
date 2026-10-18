@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-21",
+  "groups": [
+    {
+      "title": "LOOP",
+      "color": "yellow",
+      "words": [
+        "BAND",
+        "CIRCLE",
+        "HOOP",
+        "RING"
+      ]
+    },
+    {
+      "title": "COOKING VESSELS",
+      "color": "green",
+      "words": [
+        "CASSEROLE",
+        "CROCK",
+        "PAN",
+        "POT"
+      ]
+    },
+    {
+      "title": "KINDS OF BEDS",
+      "color": "blue",
+      "words": [
+        "BUNK",
+        "CANOPY",
+        "MURPHY",
+        "SLEIGH"
+      ]
+    },
+    {
+      "title": "THINGS CALLED “OSCAR”",
+      "color": "purple",
+      "words": [
+        "BALONEY",
+        "GROUCH",
+        "O",
+        "STATUETTE"
+      ]
+    }
+  ]
+}

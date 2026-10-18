@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-22",
+  "groups": [
+    {
+      "title": "SLANG FOR HEAD",
+      "color": "yellow",
+      "words": [
+        "COCONUT",
+        "CROWN",
+        "DOME",
+        "SKULL"
+      ]
+    },
+    {
+      "title": "PALINDROMES",
+      "color": "green",
+      "words": [
+        "ABBA",
+        "KAYAK",
+        "NUN",
+        "STATS"
+      ]
+    },
+    {
+      "title": "POLICE PROCEDURALS",
+      "color": "blue",
+      "words": [
+        "BONES",
+        "ELEMENTARY",
+        "KOJAK",
+        "MONK"
+      ]
+    },
+    {
+      "title": "FIRST IN A COMEDY DUO",
+      "color": "purple",
+      "words": [
+        "ABBOTT",
+        "FRY",
+        "KEY",
+        "LAUREL"
+      ]
+    }
+  ]
+}

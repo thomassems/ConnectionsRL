@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-03",
+  "groups": [
+    {
+      "title": "ABSOLVE",
+      "color": "yellow",
+      "words": [
+        "EXCUSE",
+        "PARDON",
+        "SAVE",
+        "SPARE"
+      ]
+    },
+    {
+      "title": "EXCESSIVELY",
+      "color": "green",
+      "words": [
+        "BEYOND",
+        "EXTRA",
+        "OVER",
+        "TOO"
+      ]
+    },
+    {
+      "title": "GLOBAL CURRENCIES",
+      "color": "blue",
+      "words": [
+        "POUND",
+        "REAL",
+        "WON",
+        "YEN"
+      ]
+    },
+    {
+      "title": "___HEAD",
+      "color": "purple",
+      "words": [
+        "ARROW",
+        "BLOCK",
+        "FORE",
+        "KNUCKLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-06",
+  "groups": [
+    {
+      "title": "PARTS OF AN AIRPORT",
+      "color": "yellow",
+      "words": [
+        "HANGAR",
+        "RUNWAY",
+        "TARMAC",
+        "TERMINAL"
+      ]
+    },
+    {
+      "title": "LEGAL TERMS",
+      "color": "green",
+      "words": [
+        "ACTION",
+        "CLAIM",
+        "COMPLAINT",
+        "LAWSUIT"
+      ]
+    },
+    {
+      "title": "THINGS A JUGGLER JUGGLES",
+      "color": "blue",
+      "words": [
+        "BEANBAG",
+        "CLUB",
+        "RING",
+        "TORCH"
+      ]
+    },
+    {
+      "title": "WORDS ENDING IN CLOTHING",
+      "color": "purple",
+      "words": [
+        "FOXGLOVE",
+        "GUMSHOE",
+        "TURNCOAT",
+        "WINDSOCK"
+      ]
+    }
+  ]
+}

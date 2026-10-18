@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-29",
+  "groups": [
+    {
+      "title": "ESPECIALLY",
+      "color": "yellow",
+      "words": [
+        "MIGHTY",
+        "PRETTY",
+        "REALLY",
+        "VERY"
+      ]
+    },
+    {
+      "title": "DISNEY CHARACTERS",
+      "color": "green",
+      "words": [
+        "DAISY",
+        "GOOFY",
+        "HAPPY",
+        "LADY"
+      ]
+    },
+    {
+      "title": "KINDS OF BLUE",
+      "color": "blue",
+      "words": [
+        "BABY",
+        "NAVY",
+        "SKY",
+        "TIFFANY"
+      ]
+    },
+    {
+      "title": "BODY PARTS PLUS \"Y\"",
+      "color": "purple",
+      "words": [
+        "ARMY",
+        "COLONY",
+        "LIVERY",
+        "SHINY"
+      ]
+    }
+  ]
+}

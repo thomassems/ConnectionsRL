@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-25",
+  "groups": [
+    {
+      "title": "•",
+      "color": "yellow",
+      "words": [
+        "DOT",
+        "PERIOD",
+        "POINT",
+        "TITTLE"
+      ]
+    },
+    {
+      "title": "EVENT WITH DANCING",
+      "color": "green",
+      "words": [
+        "BALL",
+        "FORMAL",
+        "HOP",
+        "RAVE"
+      ]
+    },
+    {
+      "title": "IPHONE MESSAGE TAPBACK RESPONSES",
+      "color": "blue",
+      "words": [
+        "EXCLAMATION POINTS",
+        "HEART",
+        "QUESTION MARK",
+        "THUMBS UP"
+      ]
+    },
+    {
+      "title": "“PAN”",
+      "color": "purple",
+      "words": [
+        "BAD REVIEW",
+        "CAMERA MOVEMENT",
+        "COOKWARE",
+        "SATYR"
+      ]
+    }
+  ]
+}

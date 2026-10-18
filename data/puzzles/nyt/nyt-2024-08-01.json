@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-01",
+  "groups": [
+    {
+      "title": "PROMOTE",
+      "color": "yellow",
+      "words": [
+        "HYPE",
+        "MARKET",
+        "PITCH",
+        "SELL"
+      ]
+    },
+    {
+      "title": "THROW",
+      "color": "green",
+      "words": [
+        "CAST",
+        "CHUCK",
+        "FLING",
+        "HURL"
+      ]
+    },
+    {
+      "title": "BOOKSTORE SECTIONS",
+      "color": "blue",
+      "words": [
+        "FICTION",
+        "HUMOR",
+        "ROMANCE",
+        "TRAVEL"
+      ]
+    },
+    {
+      "title": "___ SOCKS",
+      "color": "purple",
+      "words": [
+        "ANKLE",
+        "CREW",
+        "SWEAT",
+        "TUBE"
+      ]
+    }
+  ]
+}

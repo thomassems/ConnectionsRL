@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-03",
+  "groups": [
+    {
+      "title": "LARGE AMOUNT",
+      "color": "yellow",
+      "words": [
+        "MASS",
+        "SEA",
+        "SLEW",
+        "TON"
+      ]
+    },
+    {
+      "title": "FALL IN UNDER PRESSURE",
+      "color": "green",
+      "words": [
+        "BUCKLE",
+        "CAVE",
+        "COLLAPSE",
+        "GIVE"
+      ]
+    },
+    {
+      "title": "WAYS TO GET ATTENTION",
+      "color": "blue",
+      "words": [
+        "SHOUT",
+        "SNAP",
+        "WAVE",
+        "WHISTLE"
+      ]
+    },
+    {
+      "title": "BELLY ___",
+      "color": "purple",
+      "words": [
+        "BUTTON",
+        "DANCE",
+        "FLOP",
+        "LAUGH"
+      ]
+    }
+  ]
+}

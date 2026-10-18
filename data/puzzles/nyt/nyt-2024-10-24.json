@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-24",
+  "groups": [
+    {
+      "title": "LINEUP",
+      "color": "yellow",
+      "words": [
+        "BILL",
+        "PROGRAM",
+        "SCHEDULE",
+        "SLATE"
+      ]
+    },
+    {
+      "title": "NYT OFFERINGS",
+      "color": "green",
+      "words": [
+        "AUDIO",
+        "COOKING",
+        "GAMES",
+        "NEWS"
+      ]
+    },
+    {
+      "title": "THINGS MADE BY FOLDING PAPER",
+      "color": "blue",
+      "words": [
+        "AIRPLANE",
+        "CRANE",
+        "FAN",
+        "FORTUNE TELLER"
+      ]
+    },
+    {
+      "title": "FRENCH WORDS",
+      "color": "purple",
+      "words": [
+        "ADIEU",
+        "BELLE",
+        "PAIN",
+        "TEMPS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-23",
+  "groups": [
+    {
+      "title": "NOT SMOOTH, AS TERRAIN",
+      "color": "yellow",
+      "words": [
+        "BUMPY",
+        "ROUGH",
+        "RUGGED",
+        "UNEVEN"
+      ]
+    },
+    {
+      "title": "BIT OF LAND FOR GROWING",
+      "color": "green",
+      "words": [
+        "BED",
+        "PARCEL",
+        "PATCH",
+        "PLOT"
+      ]
+    },
+    {
+      "title": "MEMBER OF A CARTOON DUO",
+      "color": "blue",
+      "words": [
+        "CHIP",
+        "ROCKY",
+        "SCRATCHY",
+        "STITCH"
+      ]
+    },
+    {
+      "title": "___ PARK",
+      "color": "purple",
+      "words": [
+        "AMUSEMENT",
+        "NATIONAL",
+        "PARALLEL",
+        "SOUTH"
+      ]
+    }
+  ]
+}

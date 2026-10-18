@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-06",
+  "groups": [
+    {
+      "title": "FOUND ON SHEET MUSIC",
+      "color": "yellow",
+      "words": [
+        "CLEF",
+        "NOTE",
+        "REST",
+        "STAFF"
+      ]
+    },
+    {
+      "title": "ZODIAC SYMBOLS",
+      "color": "green",
+      "words": [
+        "BULL",
+        "CRAB",
+        "SCALES",
+        "TWINS"
+      ]
+    },
+    {
+      "title": "RECORD LABELS",
+      "color": "blue",
+      "words": [
+        "CAPITOL",
+        "COLUMBIA",
+        "VIRGIN",
+        "ISLAND"
+      ]
+    },
+    {
+      "title": "ZODIAC SIGN BEGINNINGS",
+      "color": "purple",
+      "words": [
+        "CAN",
+        "GEM",
+        "LIB",
+        "TAU"
+      ]
+    }
+  ]
+}

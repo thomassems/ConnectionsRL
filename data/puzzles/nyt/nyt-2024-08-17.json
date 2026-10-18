@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-17",
+  "groups": [
+    {
+      "title": "SPOKEN COMMUNICATION",
+      "color": "yellow",
+      "words": [
+        "DIALECT",
+        "LANGUAGE",
+        "SPEECH",
+        "TONGUE"
+      ]
+    },
+    {
+      "title": "CANOODLE",
+      "color": "green",
+      "words": [
+        "FRENCH",
+        "KISS",
+        "MAKE OUT",
+        "NECK"
+      ]
+    },
+    {
+      "title": "FIRST AID KIT ITEMS",
+      "color": "blue",
+      "words": [
+        "BANDAGE",
+        "DRESSING",
+        "SCISSORS",
+        "TAPE"
+      ]
+    },
+    {
+      "title": "HOUSE STYLES",
+      "color": "purple",
+      "words": [
+        "COTTAGE",
+        "CRAFTSMAN",
+        "PRAIRIE",
+        "RANCH"
+      ]
+    }
+  ]
+}

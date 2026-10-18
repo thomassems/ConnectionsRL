@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-24",
+  "groups": [
+    {
+      "title": "SMARTPHONE FEATURES BEGINNING WITH “C”",
+      "color": "yellow",
+      "words": [
+        "CALCULATOR",
+        "CALENDAR",
+        "CAMERA",
+        "CLOCK"
+      ]
+    },
+    {
+      "title": "PARTS OF THE EYE",
+      "color": "green",
+      "words": [
+        "CONE",
+        "IRIS",
+        "LENS",
+        "PUPIL"
+      ]
+    },
+    {
+      "title": "FAMILIAL NICKNAMES",
+      "color": "blue",
+      "words": [
+        "DADA",
+        "GRAMMY",
+        "MUM",
+        "POPPY"
+      ]
+    },
+    {
+      "title": "WORDS PRONOUNCED DIFFERENTLY WITH ACCENT MARKS",
+      "color": "purple",
+      "words": [
+        "EXPOSE",
+        "PATE",
+        "RESUME",
+        "ROSE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-14",
+  "groups": [
+    {
+      "title": "BASIC EMOTIONS",
+      "color": "yellow",
+      "words": [
+        "ANGER",
+        "FEAR",
+        "HAPPINESS",
+        "SURPRISE"
+      ]
+    },
+    {
+      "title": "BIT OF VOCAL FANFARE",
+      "color": "green",
+      "words": [
+        "BEHOLD",
+        "PRESTO",
+        "TADA",
+        "VOILA"
+      ]
+    },
+    {
+      "title": "OBTAIN",
+      "color": "blue",
+      "words": [
+        "GET",
+        "LAND",
+        "SECURE",
+        "WIN"
+      ]
+    },
+    {
+      "title": "___ ANT",
+      "color": "purple",
+      "words": [
+        "ADAM",
+        "CARPENTER",
+        "FIRE",
+        "RED"
+      ]
+    }
+  ]
+}

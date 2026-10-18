@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-02",
+  "groups": [
+    {
+      "title": "CONTAINERS",
+      "color": "yellow",
+      "words": [
+        "BASKET",
+        "BIN",
+        "CHEST",
+        "HAMPER"
+      ]
+    },
+    {
+      "title": "CIRCULAR SHAPES",
+      "color": "green",
+      "words": [
+        "BAND",
+        "CIRCLE",
+        "HOOP",
+        "RING"
+      ]
+    },
+    {
+      "title": "RESTRICT",
+      "color": "blue",
+      "words": [
+        "CAP",
+        "CHECK",
+        "CURB",
+        "LIMIT"
+      ]
+    },
+    {
+      "title": "___ JAM",
+      "color": "purple",
+      "words": [
+        "NBA",
+        "PAPER",
+        "PEARL",
+        "TRAFFIC"
+      ]
+    }
+  ]
+}

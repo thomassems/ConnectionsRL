@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-13",
+  "groups": [
+    {
+      "title": "FOOTWEAR",
+      "color": "yellow",
+      "words": [
+        "BOOT",
+        "LOAFER",
+        "PUMP",
+        "SNEAKER"
+      ]
+    },
+    {
+      "title": "UNITS OF LENGTH",
+      "color": "green",
+      "words": [
+        "FOOT",
+        "LEAGUE",
+        "MILE",
+        "YARD"
+      ]
+    },
+    {
+      "title": "MAGAZINES",
+      "color": "blue",
+      "words": [
+        "ESSENCE",
+        "PEOPLE",
+        "TIME",
+        "US"
+      ]
+    },
+    {
+      "title": "LETTER HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "ARE",
+        "QUEUE",
+        "SEA",
+        "WHY"
+      ]
+    }
+  ]
+}

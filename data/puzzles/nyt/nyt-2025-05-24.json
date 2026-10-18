@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-24",
+  "groups": [
+    {
+      "title": "BABY GEAR",
+      "color": "yellow",
+      "words": [
+        "BIB",
+        "BOTTLE",
+        "MONITOR",
+        "STROLLER"
+      ]
+    },
+    {
+      "title": "KINDS OF PANTS MINUS \"S\"",
+      "color": "green",
+      "words": [
+        "CAPRI",
+        "JEAN",
+        "JOGGER",
+        "SLACK"
+      ]
+    },
+    {
+      "title": "NEW YORK SPORTS TEAM MEMBERS",
+      "color": "blue",
+      "words": [
+        "JET",
+        "MET",
+        "NET",
+        "RANGER"
+      ]
+    },
+    {
+      "title": "BLACK WOMEN AUTHORS",
+      "color": "purple",
+      "words": [
+        "BUTLER",
+        "GAY",
+        "HOOKS",
+        "WALKER"
+      ]
+    }
+  ]
+}

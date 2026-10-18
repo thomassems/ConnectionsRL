@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-30",
+  "groups": [
+    {
+      "title": "PLUNDER",
+      "color": "yellow",
+      "words": [
+        "LOOT",
+        "RAID",
+        "ROB",
+        "SACK"
+      ]
+    },
+    {
+      "title": "INFLUENCE",
+      "color": "green",
+      "words": [
+        "CLOUT",
+        "PULL",
+        "SWAY",
+        "WEIGHT"
+      ]
+    },
+    {
+      "title": "HAIRSTYLES",
+      "color": "blue",
+      "words": [
+        "BOB",
+        "CROP",
+        "FADE",
+        "SHAG"
+      ]
+    },
+    {
+      "title": "___ PIN",
+      "color": "purple",
+      "words": [
+        "BOBBY",
+        "HAIR",
+        "PUSH",
+        "SAFETY"
+      ]
+    }
+  ]
+}

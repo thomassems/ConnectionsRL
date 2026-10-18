@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-19",
+  "groups": [
+    {
+      "title": "POSITIONS IN FAVOR",
+      "color": "yellow",
+      "words": [
+        "AYE",
+        "FOR",
+        "PRO",
+        "YEA"
+      ]
+    },
+    {
+      "title": "GO OUT WITH",
+      "color": "green",
+      "words": [
+        "COURT",
+        "DATE",
+        "SEE",
+        "WOO"
+      ]
+    },
+    {
+      "title": "MULTITUDE",
+      "color": "blue",
+      "words": [
+        "DROVE",
+        "HOST",
+        "PACK",
+        "SEA"
+      ]
+    },
+    {
+      "title": "THINGS READ IN DIVINATION",
+      "color": "purple",
+      "words": [
+        "AURA",
+        "PALM",
+        "TAROT",
+        "TEA"
+      ]
+    }
+  ]
+}

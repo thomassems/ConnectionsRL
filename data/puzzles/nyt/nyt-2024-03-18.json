@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-18",
+  "groups": [
+    {
+      "title": "SEGMENT OF A PROCESS",
+      "color": "yellow",
+      "words": [
+        "CYCLE",
+        "PHASE",
+        "ROUND",
+        "STAGE"
+      ]
+    },
+    {
+      "title": "CONSTELLATIONS",
+      "color": "green",
+      "words": [
+        "CYGNUS",
+        "GEMINI",
+        "ORION",
+        "PEGASUS"
+      ]
+    },
+    {
+      "title": "SPIRALS IN NATURE",
+      "color": "blue",
+      "words": [
+        "CYCLONE",
+        "GALAXY",
+        "SNAIL",
+        "SUNFLOWER"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH “ONE”",
+      "color": "purple",
+      "words": [
+        "CYCLOPS",
+        "MONOLOGUE",
+        "SOLITAIRE",
+        "UNICYCLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-19",
+  "groups": [
+    {
+      "title": "SUNDAE TOPPINGS",
+      "color": "yellow",
+      "words": [
+        "CHERRY",
+        "FUDGE",
+        "NUTS",
+        "SPRINKLES"
+      ]
+    },
+    {
+      "title": "LEAVE HIGH AND DRY",
+      "color": "green",
+      "words": [
+        "DESERT",
+        "DITCH",
+        "MAROON",
+        "STRAND"
+      ]
+    },
+    {
+      "title": "“PHOOEY!”",
+      "color": "blue",
+      "words": [
+        "CURSES",
+        "DARN",
+        "RATS",
+        "SHOOT"
+      ]
+    },
+    {
+      "title": "WORDS IN TONGUE TWISTERS",
+      "color": "purple",
+      "words": [
+        "FUZZY",
+        "PEPPERS",
+        "SEASHELLS",
+        "WOODCHUCK"
+      ]
+    }
+  ]
+}

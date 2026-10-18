@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-31",
+  "groups": [
+    {
+      "title": "TERMS OF ENDEARMENT",
+      "color": "yellow",
+      "words": [
+        "DARLING",
+        "LOVE",
+        "PUMPKIN",
+        "TREASURE"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN DO WITH YOUR EYELIDS",
+      "color": "green",
+      "words": [
+        "BAT",
+        "BLINK",
+        "FLUTTER",
+        "WINK"
+      ]
+    },
+    {
+      "title": "SPORTS CARS",
+      "color": "blue",
+      "words": [
+        "DIABLO",
+        "MUSTANG",
+        "SPIDER",
+        "VIPER"
+      ]
+    },
+    {
+      "title": "___ HUNT",
+      "color": "purple",
+      "words": [
+        "EGG",
+        "JOB",
+        "SCAVENGER",
+        "WITCH"
+      ]
+    }
+  ]
+}

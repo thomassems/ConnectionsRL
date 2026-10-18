@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-19",
+  "groups": [
+    {
+      "title": "MUSIC GENRES",
+      "color": "yellow",
+      "words": [
+        "BLUES",
+        "COUNTRY",
+        "FOLK",
+        "ROCK"
+      ]
+    },
+    {
+      "title": "BRATWURST GO-WITHS",
+      "color": "green",
+      "words": [
+        "BRAT",
+        "BUN",
+        "MUSTARD",
+        "SAUERKRAUT"
+      ]
+    },
+    {
+      "title": "YOGA POSES",
+      "color": "blue",
+      "words": [
+        "CHAIR",
+        "MOUNTAIN",
+        "TREE",
+        "WARRIOR"
+      ]
+    },
+    {
+      "title": "STARTING WITH PIXAR MOVIES",
+      "color": "purple",
+      "words": [
+        "COCONUT",
+        "SOULMATE",
+        "UPDO",
+        "WALLET"
+      ]
+    }
+  ]
+}

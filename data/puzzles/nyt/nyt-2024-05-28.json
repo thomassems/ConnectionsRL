@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-28",
+  "groups": [
+    {
+      "title": "AMENABLE",
+      "color": "yellow",
+      "words": [
+        "EASY",
+        "FLEXIBLE",
+        "OPEN",
+        "RECEPTIVE"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "color": "green",
+      "words": [
+        "EVIL",
+        "LIVE",
+        "VEIL",
+        "VILE"
+      ]
+    },
+    {
+      "title": "SPELLING BEE RANKS",
+      "color": "blue",
+      "words": [
+        "AMAZING",
+        "BEGINNER",
+        "GENIUS",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "ADJECTIVES FOR A CANDLE",
+      "color": "purple",
+      "words": [
+        "LIT",
+        "SCENTED",
+        "WAXY",
+        "WICKED"
+      ]
+    }
+  ]
+}

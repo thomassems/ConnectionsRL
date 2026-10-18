@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-21",
+  "groups": [
+    {
+      "title": "FRUIT",
+      "color": "yellow",
+      "words": [
+        "DATE",
+        "KIWI",
+        "LEMON",
+        "ORANGE"
+      ]
+    },
+    {
+      "title": "COUNTRIES",
+      "color": "green",
+      "words": [
+        "CHAD",
+        "GEORGIA",
+        "JORDAN",
+        "TOGO"
+      ]
+    },
+    {
+      "title": "BIRDS",
+      "color": "blue",
+      "words": [
+        "CRANE",
+        "JAY",
+        "SWALLOW",
+        "TURKEY"
+      ]
+    },
+    {
+      "title": "ZODIAC SYMBOLS",
+      "color": "purple",
+      "words": [
+        "FISH",
+        "GOAT",
+        "SCALES",
+        "TWINS"
+      ]
+    }
+  ]
+}

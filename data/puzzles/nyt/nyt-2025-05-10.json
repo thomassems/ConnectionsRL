@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-10",
+  "groups": [
+    {
+      "title": "LETTER SIGN-OFFS",
+      "color": "yellow",
+      "words": [
+        "BEST",
+        "CHEERS",
+        "LOVE",
+        "SINCERELY"
+      ]
+    },
+    {
+      "title": "WITHOUT",
+      "color": "green",
+      "words": [
+        "ABSENT",
+        "MINUS",
+        "SANS",
+        "WANTING"
+      ]
+    },
+    {
+      "title": "VIGOR",
+      "color": "blue",
+      "words": [
+        "BEANS",
+        "ENERGY",
+        "PEP",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "___ STRIP",
+      "color": "purple",
+      "words": [
+        "BACON",
+        "COMIC",
+        "LANDING",
+        "SUNSET"
+      ]
+    }
+  ]
+}

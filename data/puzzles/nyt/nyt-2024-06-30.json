@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-30",
+  "groups": [
+    {
+      "title": "OLD SAYING",
+      "color": "yellow",
+      "words": [
+        "ADAGE",
+        "CHESTNUT",
+        "MAXIM",
+        "SAW"
+      ]
+    },
+    {
+      "title": "GRILL FUEL SOURCES",
+      "color": "green",
+      "words": [
+        "CHARCOAL",
+        "ELECTRIC",
+        "GAS",
+        "WOOD"
+      ]
+    },
+    {
+      "title": "TREES",
+      "color": "blue",
+      "words": [
+        "ASH",
+        "CHERRY",
+        "EBONY",
+        "GUM"
+      ]
+    },
+    {
+      "title": "HOT TUB COMPONENTS",
+      "color": "purple",
+      "words": [
+        "FILTER",
+        "HEATER",
+        "JET",
+        "PUMP"
+      ]
+    }
+  ]
+}

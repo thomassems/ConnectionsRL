@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-11",
+  "groups": [
+    {
+      "title": "FILM SET DIRECTIVES",
+      "color": "yellow",
+      "words": [
+        "ACTION",
+        "CAMERA",
+        "CUT",
+        "LIGHTS"
+      ]
+    },
+    {
+      "title": "CONDITIONAL WORDS",
+      "color": "green",
+      "words": [
+        "CAN",
+        "COULD",
+        "MAY",
+        "MIGHT"
+      ]
+    },
+    {
+      "title": "FOREMOST",
+      "color": "blue",
+      "words": [
+        "HEAD",
+        "LEAD",
+        "PRIME",
+        "TOP"
+      ]
+    },
+    {
+      "title": "___ PAPER",
+      "color": "purple",
+      "words": [
+        "BUTCHER",
+        "SCRAP",
+        "TOILET",
+        "WAX"
+      ]
+    }
+  ]
+}

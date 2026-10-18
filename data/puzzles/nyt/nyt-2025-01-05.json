@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-05",
+  "groups": [
+    {
+      "title": "HARDLY BUSTLING",
+      "color": "yellow",
+      "words": [
+        "CALM",
+        "QUIET",
+        "SLEEPY",
+        "SLOW"
+      ]
+    },
+    {
+      "title": "EARN",
+      "color": "green",
+      "words": [
+        "GROSS",
+        "MAKE",
+        "NET",
+        "YIELD"
+      ]
+    },
+    {
+      "title": "REMOTE CONTROL FUNCTIONS",
+      "color": "blue",
+      "words": [
+        "HOME",
+        "MUTE",
+        "STOP",
+        "VOLUME"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “DRUM”",
+      "color": "purple",
+      "words": [
+        "EAR",
+        "KETTLE",
+        "OIL",
+        "SNARE"
+      ]
+    }
+  ]
+}

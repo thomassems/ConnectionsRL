@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-22",
+  "groups": [
+    {
+      "title": "CLASSIC HALLOWEEN COSTUMES",
+      "color": "yellow",
+      "words": [
+        "ANGEL",
+        "CLOWN",
+        "PIRATE",
+        "WITCH"
+      ]
+    },
+    {
+      "title": "BEE CREATIONS",
+      "color": "green",
+      "words": [
+        "COMB",
+        "HIVE",
+        "HONEY",
+        "WAX"
+      ]
+    },
+    {
+      "title": "INTERVAL OF TIME",
+      "color": "blue",
+      "words": [
+        "PERIOD",
+        "SPELL",
+        "STRETCH",
+        "WHILE"
+      ]
+    },
+    {
+      "title": "ANIMAL HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "DEAR",
+        "HAIR",
+        "HOARSE",
+        "WAIL"
+      ]
+    }
+  ]
+}

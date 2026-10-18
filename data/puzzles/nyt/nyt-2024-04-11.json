@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-11",
+  "groups": [
+    {
+      "title": "HAIRCUTS, WITH “CUT”",
+      "color": "yellow",
+      "words": [
+        "BOWL",
+        "BUZZ",
+        "CREW",
+        "PIXIE"
+      ]
+    },
+    {
+      "title": "MEASURING INSTRUMENTS",
+      "color": "green",
+      "words": [
+        "COMPASS",
+        "RULER",
+        "SCALE",
+        "WATCH"
+      ]
+    },
+    {
+      "title": "WATER AND GAS CONDUITS",
+      "color": "blue",
+      "words": [
+        "CHANNEL",
+        "LINE",
+        "MAIN",
+        "PIPE"
+      ]
+    },
+    {
+      "title": "FAST FOOD MASCOTS",
+      "color": "purple",
+      "words": [
+        "CLOWN",
+        "COLONEL",
+        "KING",
+        "MERMAID"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-21",
+  "groups": [
+    {
+      "title": "PESTERS",
+      "color": "yellow",
+      "words": [
+        "BADGERS",
+        "BUGS",
+        "HOUNDS",
+        "NAGS"
+      ]
+    },
+    {
+      "title": "TONY WINNERS FOR BEST MUSICAL",
+      "color": "green",
+      "words": [
+        "ANNIE",
+        "CABARET",
+        "CATS",
+        "COMPANY"
+      ]
+    },
+    {
+      "title": "THEY HAVE KEYS",
+      "color": "blue",
+      "words": [
+        "COMPUTER",
+        "PIANO",
+        "SUPER",
+        "TESTS"
+      ]
+    },
+    {
+      "title": "SCHOOL OF ___",
+      "color": "purple",
+      "words": [
+        "FISH",
+        "HARD KNOCKS",
+        "ROCK",
+        "THOUGHT"
+      ]
+    }
+  ]
+}

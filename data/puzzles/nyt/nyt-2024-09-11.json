@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-11",
+  "groups": [
+    {
+      "title": "LARGE AMOUNT OF MONEY",
+      "color": "yellow",
+      "words": [
+        "BUNDLE",
+        "FORTUNE",
+        "MINT",
+        "PILE"
+      ]
+    },
+    {
+      "title": "BITS OF WISDOM",
+      "color": "green",
+      "words": [
+        "KERNEL",
+        "NUGGET",
+        "PEARL",
+        "TIDBIT"
+      ]
+    },
+    {
+      "title": "FEATURED IN “JURASSIC PARK”",
+      "color": "blue",
+      "words": [
+        "AMBER",
+        "DINOSAUR",
+        "PALEONTOLOGIST",
+        "MOSQUITO"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE PURPLE",
+      "color": "purple",
+      "words": [
+        "AMETHYST",
+        "EGGPLANT",
+        "GRIMACE",
+        "LAVENDER"
+      ]
+    }
+  ]
+}

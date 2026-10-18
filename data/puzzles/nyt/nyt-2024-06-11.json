@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-11",
+  "groups": [
+    {
+      "title": "HOMOPHONES",
+      "color": "yellow",
+      "words": [
+        "BI",
+        "BUY",
+        "BY",
+        "BYE"
+      ]
+    },
+    {
+      "title": "MUSCLES, INFORMALLY",
+      "color": "green",
+      "words": [
+        "AB",
+        "PEC",
+        "QUAD",
+        "TRI"
+      ]
+    },
+    {
+      "title": "MUSIC GENRES",
+      "color": "blue",
+      "words": [
+        "DUB",
+        "EMO",
+        "POP",
+        "TRAP"
+      ]
+    },
+    {
+      "title": "SETTINGS ON AN APPLIANCE KNOB",
+      "color": "purple",
+      "words": [
+        "HI",
+        "LO",
+        "MED",
+        "OFF"
+      ]
+    }
+  ]
+}

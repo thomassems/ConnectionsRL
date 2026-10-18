@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-04",
+  "groups": [
+    {
+      "title": "GIFT-GIVING ACCESSORIES",
+      "color": "yellow",
+      "words": [
+        "BOW",
+        "BOX",
+        "CARD",
+        "WRAPPING"
+      ]
+    },
+    {
+      "title": "DATING APP ACTIONS",
+      "color": "green",
+      "words": [
+        "BLOCK",
+        "MATCH",
+        "MESSAGE",
+        "SWIPE"
+      ]
+    },
+    {
+      "title": "COOL, IN SLANG",
+      "color": "blue",
+      "words": [
+        "FIRE",
+        "LIT",
+        "SICK",
+        "TIGHT"
+      ]
+    },
+    {
+      "title": "LUCKY ___",
+      "color": "purple",
+      "words": [
+        "BREAK",
+        "CHARM",
+        "DUCK",
+        "STRIKE"
+      ]
+    }
+  ]
+}

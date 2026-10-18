@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-16",
+  "groups": [
+    {
+      "title": "IN A BAD MOOD",
+      "color": "yellow",
+      "words": [
+        "CROSS",
+        "SHORT",
+        "SURLY",
+        "TESTY"
+      ]
+    },
+    {
+      "title": "EXPERIMENTAL",
+      "color": "green",
+      "words": [
+        "EXPLORATORY",
+        "PILOT",
+        "PRELIMINARY",
+        "TRIAL"
+      ]
+    },
+    {
+      "title": "STARTS OF BROADWAY MUSICALS",
+      "color": "blue",
+      "words": [
+        "FIDDLER",
+        "JERSEY",
+        "KINKY",
+        "MERRILY"
+      ]
+    },
+    {
+      "title": "PETER ___",
+      "color": "purple",
+      "words": [
+        "PAN",
+        "PARKER",
+        "PIPER",
+        "RABBIT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-20",
+  "groups": [
+    {
+      "title": "ACCOUNT BOOK",
+      "color": "yellow",
+      "words": [
+        "LEDGER",
+        "LOG",
+        "RECORD",
+        "REGISTER"
+      ]
+    },
+    {
+      "title": "SEEN IN A BARN",
+      "color": "green",
+      "words": [
+        "BALE",
+        "HORSE",
+        "PITCHFORK",
+        "TROUGH"
+      ]
+    },
+    {
+      "title": "DETECTIVES OF KID-LIT",
+      "color": "blue",
+      "words": [
+        "BROWN",
+        "DREW",
+        "HARDY",
+        "HOLMES"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “BED”",
+      "color": "purple",
+      "words": [
+        "CANOPY",
+        "DAY",
+        "MURPHY",
+        "WATER"
+      ]
+    }
+  ]
+}

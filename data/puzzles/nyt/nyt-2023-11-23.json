@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-23",
+  "groups": [
+    {
+      "title": "FOODS WITH CRUSTS",
+      "color": "yellow",
+      "words": [
+        "PASTY",
+        "PIE",
+        "TART",
+        "TURNOVER"
+      ]
+    },
+    {
+      "title": "ENDING IN A SILENT “T”",
+      "color": "green",
+      "words": [
+        "BOUQUET",
+        "PARFAIT",
+        "RAGOUT",
+        "RAPPORT"
+      ]
+    },
+    {
+      "title": "COUNTRIES WITH RED AND WHITE FLAGS",
+      "color": "blue",
+      "words": [
+        "JAPAN",
+        "POLAND",
+        "TUNISIA",
+        "TURKEY"
+      ]
+    },
+    {
+      "title": "N.B.A. GREATS",
+      "color": "purple",
+      "words": [
+        "BIRD",
+        "CURRY",
+        "JAMES",
+        "JORDAN"
+      ]
+    }
+  ]
+}

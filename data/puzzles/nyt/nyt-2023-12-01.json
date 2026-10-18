@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-01",
+  "groups": [
+    {
+      "title": "PLACES TO SHOP",
+      "color": "yellow",
+      "words": [
+        "MALL",
+        "MARKET",
+        "OUTLET",
+        "STORE"
+      ]
+    },
+    {
+      "title": "WAYS TO REMOVE HAIR",
+      "color": "green",
+      "words": [
+        "SHAVE",
+        "THREAD",
+        "TWEEZE",
+        "WAX"
+      ]
+    },
+    {
+      "title": "PORTION OF PROFIT",
+      "color": "blue",
+      "words": [
+        "CUT",
+        "PIECE",
+        "SHARE",
+        "TAKE"
+      ]
+    },
+    {
+      "title": "KINDS OF WRENCHES",
+      "color": "purple",
+      "words": [
+        "ALLEN",
+        "CRESCENT",
+        "MONKEY",
+        "SOCKET"
+      ]
+    }
+  ]
+}

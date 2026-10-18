@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-11",
+  "groups": [
+    {
+      "title": "CHERISH",
+      "color": "yellow",
+      "words": [
+        "RELISH",
+        "SAVOR",
+        "TREASURE",
+        "VALUE"
+      ]
+    },
+    {
+      "title": "QUICK JUMP IN THE POOL",
+      "color": "green",
+      "words": [
+        "DIP",
+        "DIVE",
+        "SPLASH",
+        "SWIM"
+      ]
+    },
+    {
+      "title": "ADDITIONAL BENEFIT",
+      "color": "blue",
+      "words": [
+        "BONUS",
+        "EXTRA",
+        "FROSTING",
+        "GRAVY"
+      ]
+    },
+    {
+      "title": "BRASHNESS",
+      "color": "purple",
+      "words": [
+        "BRASS",
+        "CHEEK",
+        "NERVE",
+        "SAUCE"
+      ]
+    }
+  ]
+}

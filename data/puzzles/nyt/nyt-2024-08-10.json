@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-10",
+  "groups": [
+    {
+      "title": "THINGS THAT ARE RED",
+      "color": "yellow",
+      "words": [
+        "DEVIL",
+        "MARS",
+        "ROSE",
+        "STRAWBERRY"
+      ]
+    },
+    {
+      "title": "BE IN COMMISSION",
+      "color": "green",
+      "words": [
+        "FUNCTION",
+        "OPERATE",
+        "RUN",
+        "WORK"
+      ]
+    },
+    {
+      "title": "MICROSOFT PRODUCTS",
+      "color": "blue",
+      "words": [
+        "EDGE",
+        "OFFICE",
+        "TEAMS",
+        "WINDOWS"
+      ]
+    },
+    {
+      "title": "BIOPICS",
+      "color": "purple",
+      "words": [
+        "BLONDE",
+        "JOBS",
+        "MILK",
+        "VICE"
+      ]
+    }
+  ]
+}

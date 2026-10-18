@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-27",
+  "groups": [
+    {
+      "title": "CONTACT VIA TELEPHONE",
+      "color": "yellow",
+      "words": [
+        "CALL",
+        "DIAL",
+        "PHONE",
+        "RING"
+      ]
+    },
+    {
+      "title": "PARTS OF A CAR",
+      "color": "green",
+      "words": [
+        "BELT",
+        "HORN",
+        "MIRROR",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "LEVELS OF BIOLOGICAL ORGANIZATION",
+      "color": "blue",
+      "words": [
+        "ATOM",
+        "CELL",
+        "ORGAN",
+        "TISSUE"
+      ]
+    },
+    {
+      "title": "ENDING WITH UNITS OF MEASURE",
+      "color": "purple",
+      "words": [
+        "BIGFOOT",
+        "COMPOUND",
+        "INSTAGRAM",
+        "THERMOMETER"
+      ]
+    }
+  ]
+}

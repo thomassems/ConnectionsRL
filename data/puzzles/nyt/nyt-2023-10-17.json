@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-17",
+  "groups": [
+    {
+      "title": "TAUNTS",
+      "color": "yellow",
+      "words": [
+        "BOO",
+        "HISS",
+        "JEER",
+        "RASPBERRY"
+      ]
+    },
+    {
+      "title": "FAILURE",
+      "color": "green",
+      "words": [
+        "BOMB",
+        "DUD",
+        "FLOP",
+        "LEMON"
+      ]
+    },
+    {
+      "title": "RUDELY BREAK OFF CONTACT",
+      "color": "blue",
+      "words": [
+        "DESERT",
+        "GHOST",
+        "IGNORE",
+        "JILT"
+      ]
+    },
+    {
+      "title": "ROCK ___",
+      "color": "purple",
+      "words": [
+        "BOTTOM",
+        "CANDY",
+        "GARDEN",
+        "STAR"
+      ]
+    }
+  ]
+}

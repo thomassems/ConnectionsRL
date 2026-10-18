@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-27",
+  "groups": [
+    {
+      "title": "PRODUCED BY TREES",
+      "color": "yellow",
+      "words": [
+        "ACORN",
+        "CONE",
+        "POLLEN",
+        "SAP"
+      ]
+    },
+    {
+      "title": "CANDY STORE TREATS",
+      "color": "green",
+      "words": [
+        "CHOCOLATE",
+        "GUM",
+        "LICORICE",
+        "LOLLIPOP"
+      ]
+    },
+    {
+      "title": "TARGET OF A SCHEME",
+      "color": "blue",
+      "words": [
+        "CHUMP",
+        "FOOL",
+        "MARK",
+        "SUCKER"
+      ]
+    },
+    {
+      "title": "THINGS WITH EYE(S)",
+      "color": "purple",
+      "words": [
+        "FACE",
+        "HURRICANE",
+        "NEEDLE",
+        "POTATO"
+      ]
+    }
+  ]
+}

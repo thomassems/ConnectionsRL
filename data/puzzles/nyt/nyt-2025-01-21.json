@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-21",
+  "groups": [
+    {
+      "title": "PUTDOWN",
+      "color": "yellow",
+      "words": [
+        "BARB",
+        "CRACK",
+        "DIG",
+        "SLIGHT"
+      ]
+    },
+    {
+      "title": "SMALL LIKENESS",
+      "color": "green",
+      "words": [
+        "DOLL",
+        "FIGURE",
+        "MINIATURE",
+        "MODEL"
+      ]
+    },
+    {
+      "title": "USED TO CLEAR SNOW",
+      "color": "blue",
+      "words": [
+        "PLOW",
+        "SALT",
+        "SAND",
+        "SHOVEL"
+      ]
+    },
+    {
+      "title": "DOCTORS IN POP CULTURE",
+      "color": "purple",
+      "words": [
+        "NO",
+        "OCTOPUS",
+        "PEPPER",
+        "WHO"
+      ]
+    }
+  ]
+}

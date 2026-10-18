@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-14",
+  "groups": [
+    {
+      "title": "BUTT",
+      "color": "yellow",
+      "words": [
+        "BOTTOM",
+        "BUNS",
+        "SEAT",
+        "TAIL"
+      ]
+    },
+    {
+      "title": "ROTARY PHONE PARTS",
+      "color": "green",
+      "words": [
+        "CORD",
+        "CRADLE",
+        "DIAL",
+        "HANDSET"
+      ]
+    },
+    {
+      "title": "SLANG FOR HOME",
+      "color": "blue",
+      "words": [
+        "CRIB",
+        "DIGS",
+        "JOINT",
+        "PAD"
+      ]
+    },
+    {
+      "title": "PLUNDER",
+      "color": "purple",
+      "words": [
+        "BOOTY",
+        "LOOT",
+        "SPOILS",
+        "SWAG"
+      ]
+    }
+  ]
+}

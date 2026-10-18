@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-07",
+  "groups": [
+    {
+      "title": "VOCAL MUSIC",
+      "color": "yellow",
+      "words": [
+        "A CAPPELLA",
+        "BARBERSHOP",
+        "DOO-WOP",
+        "MADRIGAL"
+      ]
+    },
+    {
+      "title": "A HANDFUL OF",
+      "color": "green",
+      "words": [
+        "A FEW",
+        "CERTAIN",
+        "SOME",
+        "VARIOUS"
+      ]
+    },
+    {
+      "title": "BOOK SUBTITLES",
+      "color": "blue",
+      "words": [
+        "A LIFE",
+        "A NOVEL",
+        "ESSAYS",
+        "PART ONE"
+      ]
+    },
+    {
+      "title": "___ IS ___ (IS ___)",
+      "color": "purple",
+      "words": [
+        "A DEAL",
+        "A ROSE",
+        "ENOUGH",
+        "LOVE"
+      ]
+    }
+  ]
+}

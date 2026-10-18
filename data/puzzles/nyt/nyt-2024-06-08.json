@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-08",
+  "groups": [
+    {
+      "title": "GRAB ONE’S ATTENTION",
+      "color": "yellow",
+      "words": [
+        "ABSORB",
+        "ENGROSS",
+        "HOLD",
+        "RIVET"
+      ]
+    },
+    {
+      "title": "DOCUMENT WITH VIDEO",
+      "color": "green",
+      "words": [
+        "FILM",
+        "RECORD",
+        "SHOOT",
+        "TAPE"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "color": "blue",
+      "words": [
+        "PASTEL",
+        "PETALS",
+        "PLEATS",
+        "STAPLE"
+      ]
+    },
+    {
+      "title": "PRETTY ___",
+      "color": "purple",
+      "words": [
+        "GOOD",
+        "PENNY",
+        "PLEASE",
+        "WOMAN"
+      ]
+    }
+  ]
+}

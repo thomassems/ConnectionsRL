@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-24",
+  "groups": [
+    {
+      "title": "SORE TO THE TOUCH",
+      "color": "yellow",
+      "words": [
+        "DELICATE",
+        "RAW",
+        "SENSITIVE",
+        "TENDER"
+      ]
+    },
+    {
+      "title": "RESTAURANT COURSES",
+      "color": "green",
+      "words": [
+        "DESSERT",
+        "MAIN",
+        "SIDE",
+        "STARTER"
+      ]
+    },
+    {
+      "title": "ANIMAL HOMOPHONES",
+      "color": "blue",
+      "words": [
+        "BARE",
+        "DEAR",
+        "MOUSSE",
+        "NEW"
+      ]
+    },
+    {
+      "title": "RED ___",
+      "color": "purple",
+      "words": [
+        "CARPET",
+        "DELICIOUS",
+        "MEAT",
+        "TAPE"
+      ]
+    }
+  ]
+}

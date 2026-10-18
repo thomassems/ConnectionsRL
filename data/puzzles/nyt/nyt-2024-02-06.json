@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-06",
+  "groups": [
+    {
+      "title": "OSTENTATIOUS, AS AN OUTFIT",
+      "color": "yellow",
+      "words": [
+        "BRIGHT",
+        "FLASHY",
+        "GARISH",
+        "LOUD"
+      ]
+    },
+    {
+      "title": "EUPHEMISMS FOR FLATULENCE",
+      "color": "green",
+      "words": [
+        "GAS",
+        "STINKER",
+        "TOOT",
+        "WIND"
+      ]
+    },
+    {
+      "title": "KINDS OF BLOND",
+      "color": "blue",
+      "words": [
+        "DIRTY",
+        "HONEY",
+        "PLATINUM",
+        "STRAWBERRY"
+      ]
+    },
+    {
+      "title": "WHAT “O” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "HUG",
+        "OF",
+        "OXYGEN",
+        "ZERO"
+      ]
+    }
+  ]
+}

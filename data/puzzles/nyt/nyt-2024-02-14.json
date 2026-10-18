@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-14",
+  "groups": [
+    {
+      "title": "TOUCH LIGHTLY",
+      "color": "yellow",
+      "words": [
+        "BRUSH",
+        "GRAZE",
+        "KISS",
+        "SKIM"
+      ]
+    },
+    {
+      "title": "KINDS OF NUMBERS",
+      "color": "green",
+      "words": [
+        "ODD",
+        "PERFECT",
+        "PRIME",
+        "WHOLE"
+      ]
+    },
+    {
+      "title": "SAUCES IN CHINESE CUISINE",
+      "color": "blue",
+      "words": [
+        "OYSTER",
+        "PLUM",
+        "SOY",
+        "XO"
+      ]
+    },
+    {
+      "title": "BEAR ___",
+      "color": "purple",
+      "words": [
+        "CLAW",
+        "FRUIT",
+        "HUG",
+        "WITNESS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-04",
+  "groups": [
+    {
+      "title": "DRINKS WITH CAFFEINE",
+      "color": "yellow",
+      "words": [
+        "COCOA",
+        "COFFEE",
+        "MATE",
+        "TEA"
+      ]
+    },
+    {
+      "title": "UNEXCITING",
+      "color": "green",
+      "words": [
+        "BORING",
+        "DULL",
+        "MUNDANE",
+        "VANILLA"
+      ]
+    },
+    {
+      "title": "COMEDIAN’S PERFORMANCE",
+      "color": "blue",
+      "words": [
+        "ACT",
+        "BIT",
+        "ROUTINE",
+        "SET"
+      ]
+    },
+    {
+      "title": "MARTINI SPECIFICATIONS",
+      "color": "purple",
+      "words": [
+        "DIRTY",
+        "DRY",
+        "TWIST",
+        "UP"
+      ]
+    }
+  ]
+}

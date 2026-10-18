@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-25",
+  "groups": [
+    {
+      "title": "HOW FAST SOMETHING IS GOING",
+      "color": "yellow",
+      "words": [
+        "CLIP",
+        "PACE",
+        "RATE",
+        "SPEED"
+      ]
+    },
+    {
+      "title": "\"STEP ON IT!\"",
+      "color": "green",
+      "words": [
+        "FASTER",
+        "GO",
+        "HURRY",
+        "MOVE"
+      ]
+    },
+    {
+      "title": "N.B.A. TEAM PLAYER",
+      "color": "blue",
+      "words": [
+        "CLIPPER",
+        "PACER",
+        "ROCKET",
+        "SPUR"
+      ]
+    },
+    {
+      "title": "TELE___",
+      "color": "purple",
+      "words": [
+        "COMMUTE",
+        "MEDICINE",
+        "PROMPTER",
+        "VISION"
+      ]
+    }
+  ]
+}

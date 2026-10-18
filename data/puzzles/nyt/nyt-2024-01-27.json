@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-27",
+  "groups": [
+    {
+      "title": "HURT",
+      "color": "yellow",
+      "words": [
+        "ACHE",
+        "BURN",
+        "SMART",
+        "STING"
+      ]
+    },
+    {
+      "title": "LOOK AFTER",
+      "color": "green",
+      "words": [
+        "GUARD",
+        "MIND",
+        "TEND",
+        "WATCH"
+      ]
+    },
+    {
+      "title": "SOUGHT AFTER IN \"THE WIZARD OF OZ\"",
+      "color": "blue",
+      "words": [
+        "BRAIN",
+        "COURAGE",
+        "HEART",
+        "HOME"
+      ]
+    },
+    {
+      "title": "SILENT \"W\"",
+      "color": "purple",
+      "words": [
+        "ANSWER",
+        "TWO",
+        "WRIST",
+        "WRONG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-22",
+  "groups": [
+    {
+      "title": "MEMBER OF A TEAM WITH THE MOST CHAMPIONSHIPS IN THEIR RESPECTIVE SPORTS",
+      "color": "yellow",
+      "words": [
+        "CANADIEN",
+        "CELTIC",
+        "PACKER",
+        "YANKEE"
+      ]
+    },
+    {
+      "title": "CREATE SOME VOLUME/TEXTURE IN HAIR",
+      "color": "green",
+      "words": [
+        "CRIMP",
+        "CURL",
+        "FEATHER",
+        "TEASE"
+      ]
+    },
+    {
+      "title": "SUPPLIES FOR MACARONI ART",
+      "color": "blue",
+      "words": [
+        "GLITTER",
+        "GLUE",
+        "MACARONI",
+        "PAPER"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “GOLDEN”",
+      "color": "purple",
+      "words": [
+        "DOODLE",
+        "GOOSE",
+        "PARACHUTE",
+        "ROD"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-29",
+  "groups": [
+    {
+      "title": "KINDS OF PIANOS",
+      "color": "yellow",
+      "words": [
+        "ELECTRONIC",
+        "GRAND",
+        "PLAYER",
+        "UPRIGHT"
+      ]
+    },
+    {
+      "title": "DEEM",
+      "color": "green",
+      "words": [
+        "CONSIDER",
+        "COUNT",
+        "JUDGE",
+        "REGARD"
+      ]
+    },
+    {
+      "title": "U.S. COLLEGES/UNIVERSITIES",
+      "color": "blue",
+      "words": [
+        "BROWN",
+        "DUKE",
+        "HOWARD",
+        "SMITH"
+      ]
+    },
+    {
+      "title": "SECOND NAMES IN COMPANIES WITH AMPERSANDS",
+      "color": "purple",
+      "words": [
+        "GAMBLE",
+        "JOHNSON",
+        "NOBLE",
+        "YOUNG"
+      ]
+    }
+  ]
+}

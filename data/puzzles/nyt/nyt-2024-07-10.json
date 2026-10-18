@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-10",
+  "groups": [
+    {
+      "title": "FUTURE LIKELIHOOD",
+      "color": "yellow",
+      "words": [
+        "CHANCE",
+        "FORECAST",
+        "OUTLOOK",
+        "PROSPECT"
+      ]
+    },
+    {
+      "title": "BACK TALK",
+      "color": "green",
+      "words": [
+        "ATTITUDE",
+        "CHEEK",
+        "LIP",
+        "SASS"
+      ]
+    },
+    {
+      "title": "FISH",
+      "color": "blue",
+      "words": [
+        "BASS",
+        "FLUKE",
+        "PERCH",
+        "PIKE"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF EYEGLASSES",
+      "color": "purple",
+      "words": [
+        "BRIDGE",
+        "LENS",
+        "RIM",
+        "TEMPLE"
+      ]
+    }
+  ]
+}

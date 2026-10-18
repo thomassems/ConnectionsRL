@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-21",
+  "groups": [
+    {
+      "title": "U.S. MOUNTAIN STATES",
+      "color": "yellow",
+      "words": [
+        "ARIZONA",
+        "COLORADO",
+        "NEVADA",
+        "UTAH"
+      ]
+    },
+    {
+      "title": "SODA BRANDS",
+      "color": "green",
+      "words": [
+        "CRUSH",
+        "MUG",
+        "SPRITE",
+        "SQUIRT"
+      ]
+    },
+    {
+      "title": "CLASSIC ROCK BANDS",
+      "color": "blue",
+      "words": [
+        "GENESIS",
+        "KANSAS",
+        "RUSH",
+        "YES"
+      ]
+    },
+    {
+      "title": "TONY ___",
+      "color": "purple",
+      "words": [
+        "HAWK",
+        "MONTANA",
+        "SOPRANO",
+        "STARK"
+      ]
+    }
+  ]
+}

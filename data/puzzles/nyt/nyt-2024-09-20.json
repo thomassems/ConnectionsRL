@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-20",
+  "groups": [
+    {
+      "title": "PRESUME",
+      "color": "yellow",
+      "words": [
+        "FIGURE",
+        "IMAGINE",
+        "SUSPECT",
+        "THINK"
+      ]
+    },
+    {
+      "title": "SOMEBODY",
+      "color": "green",
+      "words": [
+        "CHARACTER",
+        "INDIVIDUAL",
+        "PARTY",
+        "PERSON"
+      ]
+    },
+    {
+      "title": "CHARACTERS IN “THE EMPIRE STRIKES BACK,\" FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "BOBA",
+        "CHEWIE",
+        "EMPEROR",
+        "SOLO"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “KITTY”",
+      "color": "purple",
+      "words": [
+        "CAT",
+        "CORNER",
+        "HAWK",
+        "LITTER"
+      ]
+    }
+  ]
+}

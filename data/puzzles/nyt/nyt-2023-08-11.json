@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-11",
+  "groups": [
+    {
+      "title": "THEORETICAL PHYSICISTS",
+      "color": "yellow",
+      "words": [
+        "EINSTEIN",
+        "FEYNMAN",
+        "HAWKING",
+        "OPPENHEIMER"
+      ]
+    },
+    {
+      "title": "TALENT",
+      "color": "green",
+      "words": [
+        "FACULTY",
+        "FLAIR",
+        "GENIUS",
+        "GIFT"
+      ]
+    },
+    {
+      "title": "AUSTRALIAN TERMS",
+      "color": "blue",
+      "words": [
+        "BARBIE",
+        "BUSH",
+        "CRIKEY",
+        "MATE"
+      ]
+    },
+    {
+      "title": "___ POINT",
+      "color": "purple",
+      "words": [
+        "MATCH",
+        "MOOT",
+        "SELLING",
+        "WEST"
+      ]
+    }
+  ]
+}

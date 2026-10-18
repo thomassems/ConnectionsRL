@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-31",
+  "groups": [
+    {
+      "title": "ORGANIZATION",
+      "color": "yellow",
+      "words": [
+        "CLUB",
+        "GROUP",
+        "PARTY",
+        "TEAM"
+      ]
+    },
+    {
+      "title": "SHARPNESS, AS OF AN IMAGE",
+      "color": "green",
+      "words": [
+        "CLARITY",
+        "DEFINITION",
+        "DETAIL",
+        "RESOLUTION"
+      ]
+    },
+    {
+      "title": "PLACES IN FRANCE",
+      "color": "blue",
+      "words": [
+        "CHAMPAGNE",
+        "DIJON",
+        "NICE",
+        "TOURS"
+      ]
+    },
+    {
+      "title": "HAPPY NEW YEAR!",
+      "color": "purple",
+      "words": [
+        "BALL",
+        "COUNTDOWN",
+        "FIREWORKS",
+        "KISS"
+      ]
+    }
+  ]
+}

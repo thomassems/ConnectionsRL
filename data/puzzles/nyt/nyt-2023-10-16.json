@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-16",
+  "groups": [
+    {
+      "title": "DAYS OF THE WEEK",
+      "color": "yellow",
+      "words": [
+        "FRIDAY",
+        "SATURDAY",
+        "SUNDAY",
+        "THURSDAY"
+      ]
+    },
+    {
+      "title": "GO BAD",
+      "color": "green",
+      "words": [
+        "ROT",
+        "SOUR",
+        "SPOIL",
+        "TURN"
+      ]
+    },
+    {
+      "title": "“THE ADDAMS FAMILY” CHARACTERS",
+      "color": "blue",
+      "words": [
+        "FESTER",
+        "LURCH",
+        "THING",
+        "WEDNESDAY"
+      ]
+    },
+    {
+      "title": "FAT ___",
+      "color": "purple",
+      "words": [
+        "CAT",
+        "CHANCE",
+        "LIP",
+        "TUESDAY"
+      ]
+    }
+  ]
+}

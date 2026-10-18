@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-06",
+  "groups": [
+    {
+      "title": "DVR BUTTONS",
+      "color": "yellow",
+      "words": [
+        "PAUSE",
+        "PLAY",
+        "RECORD",
+        "STOP"
+      ]
+    },
+    {
+      "title": "GROUNDBREAKING",
+      "color": "green",
+      "words": [
+        "DIFFERENT",
+        "NEW",
+        "NOVEL",
+        "ORIGINAL"
+      ]
+    },
+    {
+      "title": "COMMUNICATE THROUGH WRITING",
+      "color": "blue",
+      "words": [
+        "CORRESPOND",
+        "MESSAGE",
+        "TEXT",
+        "WRITE"
+      ]
+    },
+    {
+      "title": "THINGS WITH FEET",
+      "color": "purple",
+      "words": [
+        "BIPED",
+        "FURNITURE",
+        "POEM",
+        "YARDSTICK"
+      ]
+    }
+  ]
+}

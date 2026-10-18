@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-28",
+  "groups": [
+    {
+      "title": "CHEESES, FAMILIARLY",
+      "color": "yellow",
+      "words": [
+        "AMERICAN",
+        "BLUE",
+        "JACK",
+        "SWISS"
+      ]
+    },
+    {
+      "title": "TRACK AND FIELD EQUIPMENT",
+      "color": "green",
+      "words": [
+        "HAMMER",
+        "HURDLE",
+        "JAVELIN",
+        "POLE"
+      ]
+    },
+    {
+      "title": "KINDS OF HEELS",
+      "color": "blue",
+      "words": [
+        "CUBAN",
+        "KITTEN",
+        "STILETTO",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "DOUBLE ___",
+      "color": "purple",
+      "words": [
+        "DATE",
+        "DUTCH",
+        "JEOPARDY",
+        "SPACE"
+      ]
+    }
+  ]
+}

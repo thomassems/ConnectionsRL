@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-18",
+  "groups": [
+    {
+      "title": "USED IN HAIR CARE",
+      "color": "yellow",
+      "words": [
+        "COMB",
+        "DRYER",
+        "HAIRSPRAY",
+        "ROLLERS"
+      ]
+    },
+    {
+      "title": "MONTHLY EXPENSES",
+      "color": "green",
+      "words": [
+        "GAS",
+        "INTERNET",
+        "PHONE",
+        "RENT"
+      ]
+    },
+    {
+      "title": "THINGS WITH SPOTS",
+      "color": "blue",
+      "words": [
+        "DALMATIAN",
+        "DIE",
+        "DOMINO",
+        "LADYBUG"
+      ]
+    },
+    {
+      "title": "___ CRAB",
+      "color": "purple",
+      "words": [
+        "FIDDLER",
+        "HERMIT",
+        "HORSESHOE",
+        "SPIDER"
+      ]
+    }
+  ]
+}

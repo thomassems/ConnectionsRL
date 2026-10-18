@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-03",
+  "groups": [
+    {
+      "title": "MOVE THROUGH THE AIR",
+      "color": "yellow",
+      "words": [
+        "FLOAT",
+        "FLY",
+        "GLIDE",
+        "SOAR"
+      ]
+    },
+    {
+      "title": "HIDDEN LISTENING DEVICES",
+      "color": "green",
+      "words": [
+        "BUG",
+        "MIKE",
+        "TAP",
+        "WIRE"
+      ]
+    },
+    {
+      "title": "SELECT, AS A BOX ON A FORM",
+      "color": "blue",
+      "words": [
+        "CHECK",
+        "MARK",
+        "TICK",
+        "X"
+      ]
+    },
+    {
+      "title": "RAPPERS MINUS FIRST LETTER",
+      "color": "purple",
+      "words": [
+        "40",
+        "COLE",
+        "PAIN",
+        "TIP"
+      ]
+    }
+  ]
+}

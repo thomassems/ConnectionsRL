@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-20",
+  "groups": [
+    {
+      "title": "SOUND LIKE A DOG",
+      "color": "yellow",
+      "words": [
+        "BARK",
+        "BAY",
+        "HOWL",
+        "SNARL"
+      ]
+    },
+    {
+      "title": "BROADCAST, AS ONLINE MEDIA",
+      "color": "green",
+      "words": [
+        "AIR",
+        "PLAY",
+        "RUN",
+        "STREAM"
+      ]
+    },
+    {
+      "title": "COCKTAIL-MAKING VERBS",
+      "color": "blue",
+      "words": [
+        "GARNISH",
+        "MUDDLE",
+        "STIR",
+        "STRAIN"
+      ]
+    },
+    {
+      "title": "ORGANIZATIONAL STRUCTURES, METAPHORICALLY",
+      "color": "purple",
+      "words": [
+        "CHAIN",
+        "LADDER",
+        "PYRAMID",
+        "TREE"
+      ]
+    }
+  ]
+}

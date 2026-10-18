@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-29",
+  "groups": [
+    {
+      "title": "FOOT PARTS",
+      "color": "yellow",
+      "words": [
+        "ARCH",
+        "BALL",
+        "SOLE",
+        "TOE"
+      ]
+    },
+    {
+      "title": "MUSICAL INSTRUMENTS",
+      "color": "green",
+      "words": [
+        "BASS",
+        "HARP",
+        "HORN",
+        "ORGAN"
+      ]
+    },
+    {
+      "title": "DOG COMMANDS",
+      "color": "blue",
+      "words": [
+        "COME",
+        "DOWN",
+        "SIT",
+        "STAY"
+      ]
+    },
+    {
+      "title": "BADDIE",
+      "color": "purple",
+      "words": [
+        "DOG",
+        "HEEL",
+        "JERK",
+        "SNAKE"
+      ]
+    }
+  ]
+}

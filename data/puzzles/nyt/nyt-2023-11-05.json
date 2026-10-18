@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-05",
+  "groups": [
+    {
+      "title": "UNCHANGING",
+      "color": "yellow",
+      "words": [
+        "EVEN",
+        "LEVEL",
+        "STABLE",
+        "STEADY"
+      ]
+    },
+    {
+      "title": "LONG, SHARP OBJECTS",
+      "color": "green",
+      "words": [
+        "LANCE",
+        "PIN",
+        "SKEWER",
+        "SPIT"
+      ]
+    },
+    {
+      "title": "MUSIC PUBLICATIONS",
+      "color": "blue",
+      "words": [
+        "BILLBOARD",
+        "PITCHFORK",
+        "ROLLING STONE",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "WORDS WITH NUMERICAL PREFIXES",
+      "color": "purple",
+      "words": [
+        "UNIFORM",
+        "BICYCLE",
+        "TRILOGY",
+        "QUADRANT"
+      ]
+    }
+  ]
+}

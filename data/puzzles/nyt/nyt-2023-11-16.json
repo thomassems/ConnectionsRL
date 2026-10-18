@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-16",
+  "groups": [
+    {
+      "title": "BALDERDASH",
+      "color": "yellow",
+      "words": [
+        "BULL",
+        "HOGWASH",
+        "NONSENSE",
+        "ROT"
+      ]
+    },
+    {
+      "title": "HELM",
+      "color": "green",
+      "words": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "STEER"
+      ]
+    },
+    {
+      "title": "SINGLE/PLURAL ANIMALS",
+      "color": "blue",
+      "words": [
+        "BUFFALO",
+        "DEER",
+        "FISH",
+        "MOOSE"
+      ]
+    },
+    {
+      "title": "GREAT ___",
+      "color": "purple",
+      "words": [
+        "DANE",
+        "LAKE",
+        "SEAL",
+        "WHITE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-22",
+  "groups": [
+    {
+      "title": "FINE PRINT",
+      "color": "yellow",
+      "words": [
+        "ASTERISK",
+        "CATCH",
+        "CONDITION",
+        "STRINGS"
+      ]
+    },
+    {
+      "title": "CHARACTERS WITH GREEN SKIN",
+      "color": "green",
+      "words": [
+        "ELPHABA",
+        "GRINCH",
+        "HULK",
+        "SHREK"
+      ]
+    },
+    {
+      "title": "FEATURES OF THE NATIONAL MALL IN D.C.",
+      "color": "blue",
+      "words": [
+        "CAPITOL",
+        "MALL",
+        "OBELISK",
+        "POOL"
+      ]
+    },
+    {
+      "title": "FAMOUS RIDDLE-GIVERS",
+      "color": "purple",
+      "words": [
+        "BRIDGE TROLL",
+        "MAD HATTER",
+        "RIDDLER",
+        "SPHINX"
+      ]
+    }
+  ]
+}

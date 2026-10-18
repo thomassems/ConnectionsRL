@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-15",
+  "groups": [
+    {
+      "title": "MEANS",
+      "color": "yellow",
+      "words": [
+        "MECHANISM",
+        "MEDIUM",
+        "TOOL",
+        "VEHICLE"
+      ]
+    },
+    {
+      "title": "LACKING",
+      "color": "green",
+      "words": [
+        "LIGHT",
+        "LOW",
+        "SHORT",
+        "SHY"
+      ]
+    },
+    {
+      "title": "MARTINI SPECIFICATIONS",
+      "color": "blue",
+      "words": [
+        "DIRTY",
+        "DRY",
+        "PERFECT",
+        "WET"
+      ]
+    },
+    {
+      "title": "FICTIONAL MISTERS",
+      "color": "purple",
+      "words": [
+        "BIG",
+        "PEANUT",
+        "ROBOT",
+        "TOAD"
+      ]
+    }
+  ]
+}

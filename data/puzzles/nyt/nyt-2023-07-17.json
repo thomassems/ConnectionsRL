@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-17",
+  "groups": [
+    {
+      "title": "MARSUPIALS",
+      "color": "yellow",
+      "words": [
+        "KANGAROO",
+        "KOALA",
+        "WALLABY",
+        "WOMBAT"
+      ]
+    },
+    {
+      "title": "CHOCOLATE BARS",
+      "color": "green",
+      "words": [
+        "CHUNKY",
+        "CRUNCH",
+        "MARS",
+        "MOUNDS"
+      ]
+    },
+    {
+      "title": "SLANG FOR MONEY",
+      "color": "blue",
+      "words": [
+        "CHEDDAR",
+        "DOUGH",
+        "PAPER",
+        "STACKS"
+      ]
+    },
+    {
+      "title": "NAKED ___",
+      "color": "purple",
+      "words": [
+        "EYE",
+        "GUN",
+        "MOLE RAT",
+        "TRUTH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-25",
+  "groups": [
+    {
+      "title": "ENTHUSIASM",
+      "color": "yellow",
+      "words": [
+        "GUSTO",
+        "PASSION",
+        "RELISH",
+        "ZEST"
+      ]
+    },
+    {
+      "title": "“MANY” IN DIFFERENT LANGUAGES",
+      "color": "green",
+      "words": [
+        "BEAUCOUP",
+        "MOLTO",
+        "MUCHO",
+        "MULTI"
+      ]
+    },
+    {
+      "title": "RECTANGULAR PRISMS",
+      "color": "blue",
+      "words": [
+        "BRICK",
+        "FISH TANK",
+        "MICROWAVE",
+        "SHOEBOX"
+      ]
+    },
+    {
+      "title": "RHYME WITH U.S. COINS",
+      "color": "purple",
+      "words": [
+        "JENNY",
+        "LIME",
+        "MORTAR",
+        "PICKLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-07",
+  "groups": [
+    {
+      "title": "ROCKY HORROR PICTURE SHOW",
+      "color": "yellow",
+      "words": [
+        "HORROR",
+        "PICTURE",
+        "ROCKY",
+        "SHOW"
+      ]
+    },
+    {
+      "title": "WHO FRAMED ROGER RABBIT",
+      "color": "green",
+      "words": [
+        "FRAMED",
+        "RABBIT",
+        "ROGER",
+        "WHO"
+      ]
+    },
+    {
+      "title": "WHEN HARRY MET SALLY",
+      "color": "blue",
+      "words": [
+        "HARRY",
+        "MET",
+        "SALLY",
+        "WHEN"
+      ]
+    },
+    {
+      "title": "MAD MAX FURY ROAD",
+      "color": "purple",
+      "words": [
+        "FURY",
+        "MAD",
+        "MAX",
+        "ROAD"
+      ]
+    }
+  ]
+}

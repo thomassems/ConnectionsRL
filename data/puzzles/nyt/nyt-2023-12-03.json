@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-03",
+  "groups": [
+    {
+      "title": "MONTHLY BILLS",
+      "color": "yellow",
+      "words": [
+        "CABLE",
+        "ELECTRIC",
+        "GAS",
+        "WATER"
+      ]
+    },
+    {
+      "title": "RELATED TO SOUND/HEARING",
+      "color": "green",
+      "words": [
+        "ACOUSTIC",
+        "AUDITORY",
+        "HEARD",
+        "SONIC"
+      ]
+    },
+    {
+      "title": "CONNECT",
+      "color": "blue",
+      "words": [
+        "COUPLE",
+        "HITCH",
+        "LINK",
+        "TIE"
+      ]
+    },
+    {
+      "title": "EXCITE, WITH “UP”",
+      "color": "purple",
+      "words": [
+        "AMP",
+        "FIRE",
+        "HYPE",
+        "PUMP"
+      ]
+    }
+  ]
+}

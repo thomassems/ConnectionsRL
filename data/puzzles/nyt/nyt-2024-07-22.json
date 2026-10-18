@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-22",
+  "groups": [
+    {
+      "title": "REALM OF EXPERTISE",
+      "color": "yellow",
+      "words": [
+        "AREA",
+        "DOMAIN",
+        "FIELD",
+        "SPHERE"
+      ]
+    },
+    {
+      "title": "MUSICAL INSTRUMENTS",
+      "color": "green",
+      "words": [
+        "FIDDLE",
+        "HORN",
+        "RECORDER",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "title": "USED TO REDIRECT TRAFFIC",
+      "color": "blue",
+      "words": [
+        "BARRIER",
+        "CONE",
+        "FLAG",
+        "FLARE"
+      ]
+    },
+    {
+      "title": "FOOD ___",
+      "color": "purple",
+      "words": [
+        "CHAIN",
+        "FIGHT",
+        "PROCESSOR",
+        "PYRAMID"
+      ]
+    }
+  ]
+}

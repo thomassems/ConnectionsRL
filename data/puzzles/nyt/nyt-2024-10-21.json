@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-21",
+  "groups": [
+    {
+      "title": "KINDS OF BEANS",
+      "color": "yellow",
+      "words": [
+        "KIDNEY",
+        "MUNG",
+        "NAVY",
+        "PINTO"
+      ]
+    },
+    {
+      "title": "ATTRACT",
+      "color": "green",
+      "words": [
+        "DRAW",
+        "GRAB",
+        "HOOK",
+        "PULL"
+      ]
+    },
+    {
+      "title": "AUTOMATIC GEAR SHIFTER POSITIONS",
+      "color": "blue",
+      "words": [
+        "DRIVE",
+        "LOW",
+        "NEUTRAL",
+        "REVERSE"
+      ]
+    },
+    {
+      "title": "___POOL",
+      "color": "purple",
+      "words": [
+        "CAR",
+        "DEAD",
+        "LIVER",
+        "WHIRL"
+      ]
+    }
+  ]
+}

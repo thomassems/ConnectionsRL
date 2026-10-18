@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-09",
+  "groups": [
+    {
+      "title": "FEELING SOME TYPE OF WAY",
+      "color": "yellow",
+      "words": [
+        "BITTER",
+        "SALTY",
+        "SORE",
+        "UPSET"
+      ]
+    },
+    {
+      "title": "THROW HERE AND THERE",
+      "color": "green",
+      "words": [
+        "PEPPER",
+        "SCATTER",
+        "SPRINKLE",
+        "STREW"
+      ]
+    },
+    {
+      "title": "THINGS WITH LAYERS",
+      "color": "blue",
+      "words": [
+        "CAKE",
+        "EARTH",
+        "ONION",
+        "PLYWOOD"
+      ]
+    },
+    {
+      "title": "___ POTATO",
+      "color": "purple",
+      "words": [
+        "BAKED",
+        "COUCH",
+        "HOT",
+        "SWEET"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-15",
+  "groups": [
+    {
+      "title": "CRITICIZE",
+      "color": "yellow",
+      "words": [
+        "BLAST",
+        "KNOCK",
+        "SLAM",
+        "TRASH"
+      ]
+    },
+    {
+      "title": "“MY MISTAKE!”",
+      "color": "green",
+      "words": [
+        "APOLOGIES",
+        "OOPS",
+        "PARDON",
+        "SORRY"
+      ]
+    },
+    {
+      "title": "ALIBI",
+      "color": "blue",
+      "words": [
+        "DEFENSE",
+        "EXCUSE",
+        "OUT",
+        "REASON"
+      ]
+    },
+    {
+      "title": "PLAY ___",
+      "color": "purple",
+      "words": [
+        "DATE",
+        "DEAD",
+        "DIRTY",
+        "DOH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-20",
+  "groups": [
+    {
+      "title": "ANIMAL HOMES",
+      "color": "yellow",
+      "words": [
+        "DEN",
+        "HIVE",
+        "LAIR",
+        "NEST"
+      ]
+    },
+    {
+      "title": "VIRTUAL SPACES",
+      "color": "green",
+      "words": [
+        "CLOUD",
+        "METAVERSE",
+        "NET",
+        "WEB"
+      ]
+    },
+    {
+      "title": "EQUITABLE",
+      "color": "blue",
+      "words": [
+        "EQUAL",
+        "EVEN",
+        "FAIR",
+        "JUST"
+      ]
+    },
+    {
+      "title": "___ BURGER",
+      "color": "purple",
+      "words": [
+        "GOOD",
+        "IMPOSSIBLE",
+        "NOTHING",
+        "WARREN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-27",
+  "groups": [
+    {
+      "title": "CALCULATOR BUTTONS",
+      "color": "yellow",
+      "words": [
+        "EQUALS",
+        "MINUS",
+        "PERCENT",
+        "TIMES"
+      ]
+    },
+    {
+      "title": "AMOUNTS OF HAIR",
+      "color": "green",
+      "words": [
+        "LOCK",
+        "SHOCK",
+        "THATCH",
+        "TUFT"
+      ]
+    },
+    {
+      "title": "SALTY SNACK UNIT",
+      "color": "blue",
+      "words": [
+        "COMBO",
+        "GOLDFISH",
+        "RUFFLE",
+        "TAKI"
+      ]
+    },
+    {
+      "title": "SWEDISH ___",
+      "color": "purple",
+      "words": [
+        "CHEF",
+        "FISH",
+        "MASSAGE",
+        "MEATBALL"
+      ]
+    }
+  ]
+}

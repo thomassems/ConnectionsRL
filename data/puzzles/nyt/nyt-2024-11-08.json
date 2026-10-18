@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-08",
+  "groups": [
+    {
+      "title": "ESCAPADE",
+      "color": "yellow",
+      "words": [
+        "ANTIC",
+        "CAPER",
+        "EXPLOIT",
+        "STUNT"
+      ]
+    },
+    {
+      "title": "KINDS OF PICKLES",
+      "color": "green",
+      "words": [
+        "DILL",
+        "KOSHER",
+        "SOUR",
+        "SWEET"
+      ]
+    },
+    {
+      "title": "RISQUÉ",
+      "color": "blue",
+      "words": [
+        "ADULT",
+        "BLUE",
+        "SPICY",
+        "SUGGESTIVE"
+      ]
+    },
+    {
+      "title": "CUT THE ___",
+      "color": "purple",
+      "words": [
+        "CHEESE",
+        "CORD",
+        "DECK",
+        "MUSTARD"
+      ]
+    }
+  ]
+}

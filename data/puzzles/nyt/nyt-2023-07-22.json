@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-22",
+  "groups": [
+    {
+      "title": "BOTTLED WATER BRANDS",
+      "color": "yellow",
+      "words": [
+        "DASANI",
+        "EVIAN",
+        "FIJI",
+        "VOSS"
+      ]
+    },
+    {
+      "title": "SLANG FOR COFFEE",
+      "color": "green",
+      "words": [
+        "BREW",
+        "JAVA",
+        "JOE",
+        "MUD"
+      ]
+    },
+    {
+      "title": "ISLAND COUNTRIES",
+      "color": "blue",
+      "words": [
+        "CUBA",
+        "JAPAN",
+        "MALTA",
+        "PALAU"
+      ]
+    },
+    {
+      "title": "CEREAL MASCOTS",
+      "color": "purple",
+      "words": [
+        "LUCKY",
+        "POP",
+        "SAM",
+        "TONY"
+      ]
+    }
+  ]
+}

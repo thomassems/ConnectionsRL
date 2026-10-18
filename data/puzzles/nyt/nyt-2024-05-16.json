@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-16",
+  "groups": [
+    {
+      "title": "PHOTO",
+      "color": "yellow",
+      "words": [
+        "PIC",
+        "SHOT",
+        "SNAP",
+        "STILL"
+      ]
+    },
+    {
+      "title": "ASSURE, AS A VICTORY",
+      "color": "green",
+      "words": [
+        "CINCH",
+        "ICE",
+        "LOCK",
+        "SECURE"
+      ]
+    },
+    {
+      "title": "MOVE IN AN EFFORTLESS WAY",
+      "color": "blue",
+      "words": [
+        "BREEZE",
+        "COAST",
+        "GLIDE",
+        "SAIL"
+      ]
+    },
+    {
+      "title": "___ BLANKET",
+      "color": "purple",
+      "words": [
+        "PICNIC",
+        "SECURITY",
+        "THROW",
+        "WET"
+      ]
+    }
+  ]
+}

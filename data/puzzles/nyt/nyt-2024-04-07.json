@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-07",
+  "groups": [
+    {
+      "title": "DISORDERLY PLACE",
+      "color": "yellow",
+      "words": [
+        "DUMP",
+        "MESS",
+        "PIGPEN",
+        "STY"
+      ]
+    },
+    {
+      "title": "STURDY",
+      "color": "green",
+      "words": [
+        "FIRM",
+        "SOLID",
+        "SOUND",
+        "STABLE"
+      ]
+    },
+    {
+      "title": "FOUND IN CRACKER JACKS",
+      "color": "blue",
+      "words": [
+        "CARAMEL",
+        "PEANUTS",
+        "POPCORN",
+        "PRIZE"
+      ]
+    },
+    {
+      "title": "___ HORSE",
+      "color": "purple",
+      "words": [
+        "CHARLEY",
+        "CRAZY",
+        "DARK",
+        "GIFT"
+      ]
+    }
+  ]
+}

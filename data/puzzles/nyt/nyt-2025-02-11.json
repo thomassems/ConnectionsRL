@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-11",
+  "groups": [
+    {
+      "title": "WREST",
+      "color": "yellow",
+      "words": [
+        "JERK",
+        "TUG",
+        "WRENCH",
+        "YANK"
+      ]
+    },
+    {
+      "title": "BUSTER",
+      "color": "green",
+      "words": [
+        "BUB",
+        "BUD",
+        "JACK",
+        "MAN"
+      ]
+    },
+    {
+      "title": "YOGA ACCESSORIES",
+      "color": "blue",
+      "words": [
+        "BLOCK",
+        "BOLSTER",
+        "MAT",
+        "STRAP"
+      ]
+    },
+    {
+      "title": "___CAP",
+      "color": "purple",
+      "words": [
+        "HUB",
+        "KNEE",
+        "MAD",
+        "NIGHT"
+      ]
+    }
+  ]
+}

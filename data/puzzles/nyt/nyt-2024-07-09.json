@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-09",
+  "groups": [
+    {
+      "title": "CHRONICLE",
+      "color": "yellow",
+      "words": [
+        "JOURNAL",
+        "LOG",
+        "RECORD",
+        "REGISTER"
+      ]
+    },
+    {
+      "title": "MESS OF HAIR",
+      "color": "green",
+      "words": [
+        "MANE",
+        "MOP",
+        "SHOCK",
+        "TANGLE"
+      ]
+    },
+    {
+      "title": "TV SHOWS MINUS “S”",
+      "color": "blue",
+      "words": [
+        "CHEER",
+        "FRIEND",
+        "SCRUB",
+        "WEED"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “HEDGE”",
+      "color": "purple",
+      "words": [
+        "FUND",
+        "HOG",
+        "MAZE",
+        "TRIMMER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-08",
+  "groups": [
+    {
+      "title": "THINGS TO SEW",
+      "color": "yellow",
+      "words": [
+        "DART",
+        "HEM",
+        "PLEAT",
+        "SEAM"
+      ]
+    },
+    {
+      "title": "WAYS TO PRESERVE FOOD",
+      "color": "green",
+      "words": [
+        "CAN",
+        "CURE",
+        "DRY",
+        "FREEZE"
+      ]
+    },
+    {
+      "title": "SHARP QUALITY",
+      "color": "blue",
+      "words": [
+        "BITE",
+        "EDGE",
+        "PUNCH",
+        "SPICE"
+      ]
+    },
+    {
+      "title": "BIRDS MINUS LAST LETTER",
+      "color": "purple",
+      "words": [
+        "CONDO",
+        "HAW",
+        "HERO",
+        "LOO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-03",
+  "groups": [
+    {
+      "title": "NEVERTHELESS",
+      "color": "yellow",
+      "words": [
+        "HOWEVER",
+        "STILL",
+        "THOUGH",
+        "YET"
+      ]
+    },
+    {
+      "title": "REPEATED WORDS IN EXPRESSIONS",
+      "color": "green",
+      "words": [
+        "HEAR",
+        "KNOCK",
+        "THERE",
+        "TUT"
+      ]
+    },
+    {
+      "title": "WORDS ABBREVIATED WITH LETTERS",
+      "color": "blue",
+      "words": [
+        "ARE",
+        "SEE",
+        "WHY",
+        "YOU"
+      ]
+    },
+    {
+      "title": "ROYAL ___",
+      "color": "purple",
+      "words": [
+        "FAMILY",
+        "FLUSH",
+        "JELLY",
+        "WE"
+      ]
+    }
+  ]
+}

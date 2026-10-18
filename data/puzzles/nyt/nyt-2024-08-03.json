@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-03",
+  "groups": [
+    {
+      "title": "BIT OF EXCITEMENT",
+      "color": "yellow",
+      "words": [
+        "HIGH",
+        "KICK",
+        "RUSH",
+        "THRILL"
+      ]
+    },
+    {
+      "title": "TOLERATE",
+      "color": "green",
+      "words": [
+        "BEAR",
+        "STAND",
+        "STOMACH",
+        "TAKE"
+      ]
+    },
+    {
+      "title": "NONSENSE",
+      "color": "blue",
+      "words": [
+        "BALONEY",
+        "BULL",
+        "BUNK",
+        "TRIPE"
+      ]
+    },
+    {
+      "title": "THINGS TO CLICK",
+      "color": "purple",
+      "words": [
+        "HEELS",
+        "MOUSE",
+        "REMOTE",
+        "TONGUE"
+      ]
+    }
+  ]
+}

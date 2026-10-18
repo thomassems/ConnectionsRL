@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-15",
+  "groups": [
+    {
+      "title": "DESIST",
+      "color": "yellow",
+      "words": [
+        "ABSTAIN",
+        "AVOID",
+        "CEASE",
+        "REFRAIN"
+      ]
+    },
+    {
+      "title": "CARD GAMES",
+      "color": "green",
+      "words": [
+        "BRIDGE",
+        "HEARTS",
+        "SPEED",
+        "SPOONS"
+      ]
+    },
+    {
+      "title": "ELEMENTS OF GREEK DRAMA",
+      "color": "blue",
+      "words": [
+        "CHORUS",
+        "HERO",
+        "HUBRIS",
+        "TRAGEDY"
+      ]
+    },
+    {
+      "title": "SECOND WORDS OF “PETER PAN” CHARACTERS",
+      "color": "purple",
+      "words": [
+        "BELL",
+        "DARLING",
+        "HOOK",
+        "PAN"
+      ]
+    }
+  ]
+}

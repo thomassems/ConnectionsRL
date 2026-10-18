@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-29",
+  "groups": [
+    {
+      "title": "EXERCISES",
+      "color": "yellow",
+      "words": [
+        "BRIDGE",
+        "CRUNCH",
+        "DIP",
+        "SQUAT"
+      ]
+    },
+    {
+      "title": "FEATURED IN WESTERNS",
+      "color": "green",
+      "words": [
+        "BOUNTY",
+        "COWBOY",
+        "DUEL",
+        "SALOON"
+      ]
+    },
+    {
+      "title": "LEADERS WHO RECEIVED THE NOBEL PEACE PRIZE",
+      "color": "blue",
+      "words": [
+        "CARTER",
+        "GORE",
+        "KING",
+        "TUTU"
+      ]
+    },
+    {
+      "title": "___ BEE",
+      "color": "purple",
+      "words": [
+        "BUSY",
+        "HONEY",
+        "QUEEN",
+        "SPELLING"
+      ]
+    }
+  ]
+}

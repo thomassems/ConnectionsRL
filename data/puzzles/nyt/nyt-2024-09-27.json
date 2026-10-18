@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-27",
+  "groups": [
+    {
+      "title": "AREA OF HIGH GROUND",
+      "color": "yellow",
+      "words": [
+        "BANK",
+        "DUNE",
+        "HILL",
+        "MOUND"
+      ]
+    },
+    {
+      "title": "SIGNIFICANCE",
+      "color": "green",
+      "words": [
+        "GRAVITY",
+        "IMPORT",
+        "SUBSTANCE",
+        "WEIGHT"
+      ]
+    },
+    {
+      "title": "ACTIONS IN FANTASY SPORTS",
+      "color": "blue",
+      "words": [
+        "BENCH",
+        "DRAFT",
+        "START",
+        "TRADE"
+      ]
+    },
+    {
+      "title": "SCI-FI MOVIES, WITH “THE”",
+      "color": "purple",
+      "words": [
+        "ABYSS",
+        "FLY",
+        "MATRIX",
+        "THING"
+      ]
+    }
+  ]
+}

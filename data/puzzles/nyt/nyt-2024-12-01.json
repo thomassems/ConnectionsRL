@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-01",
+  "groups": [
+    {
+      "title": "SANCTUARY",
+      "color": "yellow",
+      "words": [
+        "HAVEN",
+        "PORT",
+        "RETREAT",
+        "SHELTER"
+      ]
+    },
+    {
+      "title": "FOOTBALL GEAR",
+      "color": "green",
+      "words": [
+        "CLEATS",
+        "HELMET",
+        "JERSEY",
+        "PADS"
+      ]
+    },
+    {
+      "title": "CANDY NAMES",
+      "color": "blue",
+      "words": [
+        "CHARMS",
+        "KINDER",
+        "WONKA",
+        "YORK"
+      ]
+    },
+    {
+      "title": "“FREE ___”",
+      "color": "purple",
+      "words": [
+        "BIRD",
+        "FALLIN’",
+        "SOLO",
+        "WILLY"
+      ]
+    }
+  ]
+}

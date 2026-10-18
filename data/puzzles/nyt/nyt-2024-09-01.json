@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-01",
+  "groups": [
+    {
+      "title": "COOK IN A PAN",
+      "color": "yellow",
+      "words": [
+        "BROWN",
+        "CHAR",
+        "GRILL",
+        "SEAR"
+      ]
+    },
+    {
+      "title": "PARTS OF THE EAR",
+      "color": "green",
+      "words": [
+        "ANVIL",
+        "CANAL",
+        "DRUM",
+        "HAMMER"
+      ]
+    },
+    {
+      "title": "SHADES OF BLACK",
+      "color": "blue",
+      "words": [
+        "CHARCOAL",
+        "JET",
+        "RAVEN",
+        "SABLE"
+      ]
+    },
+    {
+      "title": "WHERE YOU MIGHT FIND “A DRIVER”",
+      "color": "purple",
+      "words": [
+        "GOLF BAG",
+        "LIMOUSINE",
+        "MOVIE SET",
+        "TOOLBOX"
+      ]
+    }
+  ]
+}

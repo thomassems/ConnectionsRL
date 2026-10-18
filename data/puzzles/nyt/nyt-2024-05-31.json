@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-31",
+  "groups": [
+    {
+      "title": "CORPUS",
+      "color": "yellow",
+      "words": [
+        "BODY",
+        "CANON",
+        "OEUVRE",
+        "WORKS"
+      ]
+    },
+    {
+      "title": "MOUNT ___",
+      "color": "green",
+      "words": [
+        "FUJI",
+        "HOOD",
+        "OLYMPUS",
+        "WHITNEY"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF AN LP",
+      "color": "blue",
+      "words": [
+        "INSERT",
+        "JACKET",
+        "RECORD",
+        "SLEEVE"
+      ]
+    },
+    {
+      "title": "THINGS PEOPLE SHAKE",
+      "color": "purple",
+      "words": [
+        "HANDS",
+        "MARACA",
+        "POLAROID",
+        "SNOWGLOBE"
+      ]
+    }
+  ]
+}

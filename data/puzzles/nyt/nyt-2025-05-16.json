@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-16",
+  "groups": [
+    {
+      "title": "KINDS OF PLANTS",
+      "color": "yellow",
+      "words": [
+        "HERB",
+        "SHRUB",
+        "TREE",
+        "VINE"
+      ]
+    },
+    {
+      "title": "DISCONTINUE",
+      "color": "green",
+      "words": [
+        "DISSOLVE",
+        "END",
+        "SCRAP",
+        "SUNSET"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH BULLS",
+      "color": "blue",
+      "words": [
+        "MICHAEL JORDAN",
+        "RODEO",
+        "TAURUS",
+        "WALL STREET"
+      ]
+    },
+    {
+      "title": "ENDING WITH BUILDING MATERIALS",
+      "color": "purple",
+      "words": [
+        "HOLLYWOOD",
+        "HOURGLASS",
+        "KUBRICK",
+        "NEUROPLASTIC"
+      ]
+    }
+  ]
+}

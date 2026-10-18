@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-29",
+  "groups": [
+    {
+      "title": "SHIRTS",
+      "color": "yellow",
+      "words": [
+        "CROP",
+        "POLO",
+        "TANK",
+        "TEE"
+      ]
+    },
+    {
+      "title": "COOL, IN ’80S SLANG",
+      "color": "green",
+      "words": [
+        "BAD",
+        "FLY",
+        "FRESH",
+        "RAD"
+      ]
+    },
+    {
+      "title": "LETTER SPELLINGS",
+      "color": "blue",
+      "words": [
+        "BEE",
+        "EX",
+        "GEE",
+        "JAY"
+      ]
+    },
+    {
+      "title": "___ GEORGE",
+      "color": "purple",
+      "words": [
+        "BOY",
+        "BY",
+        "CURIOUS",
+        "SAINT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-12",
+  "groups": [
+    {
+      "title": "DRAPED ACCESSORIES",
+      "color": "yellow",
+      "words": [
+        "SCARF",
+        "SHAWL",
+        "STOLE",
+        "WRAP"
+      ]
+    },
+    {
+      "title": "TOLERATE",
+      "color": "green",
+      "words": [
+        "BEAR",
+        "STAND",
+        "SWALLOW",
+        "TAKE"
+      ]
+    },
+    {
+      "title": "BIRD ONOMATOPOEIA",
+      "color": "blue",
+      "words": [
+        "COO",
+        "GOBBLE",
+        "HONK",
+        "HOOT"
+      ]
+    },
+    {
+      "title": "STARTS OF CELL PHONE MAKERS",
+      "color": "purple",
+      "words": [
+        "APP",
+        "GOO",
+        "MOTOR",
+        "SAM"
+      ]
+    }
+  ]
+}

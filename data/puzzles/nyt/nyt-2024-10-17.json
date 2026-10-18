@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-17",
+  "groups": [
+    {
+      "title": "GRASSY AREA",
+      "color": "yellow",
+      "words": [
+        "GREEN",
+        "LAWN",
+        "PARK",
+        "YARD"
+      ]
+    },
+    {
+      "title": "DEAL WITH",
+      "color": "green",
+      "words": [
+        "ADDRESS",
+        "ANSWER",
+        "FIELD",
+        "HANDLE"
+      ]
+    },
+    {
+      "title": "MOVIES WITH “S” REMOVED",
+      "color": "blue",
+      "words": [
+        "CAR",
+        "GOODFELLA",
+        "JAW",
+        "SWINGER"
+      ]
+    },
+    {
+      "title": "___ LAW",
+      "color": "purple",
+      "words": [
+        "CRIMINAL",
+        "HARVARD",
+        "LEMON",
+        "NATURAL"
+      ]
+    }
+  ]
+}

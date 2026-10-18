@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-05",
+  "groups": [
+    {
+      "title": "EMPLOY",
+      "color": "yellow",
+      "words": [
+        "CONTRACT",
+        "ENGAGE",
+        "RETAIN",
+        "SIGN"
+      ]
+    },
+    {
+      "title": "PARTS OF A WEBSITE",
+      "color": "green",
+      "words": [
+        "BANNER",
+        "HEADER",
+        "MENU",
+        "SIDEBAR"
+      ]
+    },
+    {
+      "title": "MAGAZINES",
+      "color": "blue",
+      "words": [
+        "BILLBOARD",
+        "PEOPLE",
+        "STAR",
+        "TIME"
+      ]
+    },
+    {
+      "title": "ENDING WITH MEDIEVAL WEAPONS",
+      "color": "purple",
+      "words": [
+        "CROSSWORD",
+        "GRIMACE",
+        "RAINBOW",
+        "SEMBLANCE"
+      ]
+    }
+  ]
+}

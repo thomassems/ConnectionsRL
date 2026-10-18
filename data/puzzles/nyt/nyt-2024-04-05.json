@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-05",
+  "groups": [
+    {
+      "title": "PIECES OF FURNITURE",
+      "color": "yellow",
+      "words": [
+        "BED",
+        "CHAIR",
+        "COUCH",
+        "TABLE"
+      ]
+    },
+    {
+      "title": "CARRY, AS A FEELING",
+      "color": "green",
+      "words": [
+        "BEAR",
+        "HARBOR",
+        "HOLD",
+        "MAINTAIN"
+      ]
+    },
+    {
+      "title": "WINE TASTING DESCRIPTORS",
+      "color": "blue",
+      "words": [
+        "BALANCED",
+        "DRY",
+        "FULL",
+        "SWEET"
+      ]
+    },
+    {
+      "title": "STARTING WITH METALS",
+      "color": "purple",
+      "words": [
+        "GOLDILOCKS",
+        "IRONIC",
+        "LEADERSHIP",
+        "TINDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-11",
+  "groups": [
+    {
+      "title": "TREAT WITH EXCESSIVE CARE",
+      "color": "yellow",
+      "words": [
+        "BABY",
+        "MOTHER",
+        "PAMPER",
+        "SPOIL"
+      ]
+    },
+    {
+      "title": "BACKSIDE",
+      "color": "green",
+      "words": [
+        "BOOTY",
+        "BUM",
+        "CAN",
+        "REAR"
+      ]
+    },
+    {
+      "title": "THINGS IN A SPA LOCKER ROOM",
+      "color": "blue",
+      "words": [
+        "ROBE",
+        "SLIPPERS",
+        "TOWEL",
+        "WASHCLOTH"
+      ]
+    },
+    {
+      "title": "CAT’S ___",
+      "color": "purple",
+      "words": [
+        "CRADLE",
+        "EYE",
+        "MEOW",
+        "PAJAMAS"
+      ]
+    }
+  ]
+}

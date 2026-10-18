@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-05",
+  "groups": [
+    {
+      "title": "PLAYFULLY BOTHER",
+      "color": "yellow",
+      "words": [
+        "JOSH",
+        "KID",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "title": "APEX",
+      "color": "green",
+      "words": [
+        "HEIGHT",
+        "MAX",
+        "PEAK",
+        "TOP"
+      ]
+    },
+    {
+      "title": "WORDS FOR SPECIFIC QUANTITIES",
+      "color": "blue",
+      "words": [
+        "DOZEN",
+        "GROSS",
+        "PAIR",
+        "SCORE"
+      ]
+    },
+    {
+      "title": "WHAT \"X\" MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ADULT",
+        "KISS",
+        "TEN",
+        "TIMES"
+      ]
+    }
+  ]
+}

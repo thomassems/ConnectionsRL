@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-15",
+  "groups": [
+    {
+      "title": "DIVULGE",
+      "color": "yellow",
+      "words": [
+        "BLAB",
+        "DISH",
+        "SPILL",
+        "TELL"
+      ]
+    },
+    {
+      "title": "WORDS ON A MAC KEYBOARD",
+      "color": "green",
+      "words": [
+        "COMMAND",
+        "CONTROL",
+        "OPTION",
+        "RETURN"
+      ]
+    },
+    {
+      "title": "WORDS SHORTENED IN ROCK GENRES",
+      "color": "blue",
+      "words": [
+        "ALTERNATIVE",
+        "EMOTIONAL",
+        "POPULAR",
+        "PROGRESSIVE"
+      ]
+    },
+    {
+      "title": "___CAKE",
+      "color": "purple",
+      "words": [
+        "CHEESE",
+        "CUP",
+        "PAN",
+        "SHORT"
+      ]
+    }
+  ]
+}

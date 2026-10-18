@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-14",
+  "groups": [
+    {
+      "title": "ABSORB USING CAPILLARY ACTION",
+      "color": "yellow",
+      "words": [
+        "DRAW",
+        "PULL",
+        "SUCK",
+        "WICK"
+      ]
+    },
+    {
+      "title": "GREEK PREFIXES",
+      "color": "green",
+      "words": [
+        "HYPER",
+        "KILO",
+        "META",
+        "NEO"
+      ]
+    },
+    {
+      "title": "TITULAR ANIMALS OF FILM",
+      "color": "blue",
+      "words": [
+        "BABE",
+        "BOLT",
+        "DUMBO",
+        "TED"
+      ]
+    },
+    {
+      "title": "STARTING WITH SILENT LETTERS",
+      "color": "purple",
+      "words": [
+        "GNOME",
+        "KNEE",
+        "MNEMONIC",
+        "PSYCHE"
+      ]
+    }
+  ]
+}

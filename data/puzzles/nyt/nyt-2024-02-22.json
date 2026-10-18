@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-22",
+  "groups": [
+    {
+      "title": "DOG SOUNDS",
+      "color": "yellow",
+      "words": [
+        "BARK",
+        "GROWL",
+        "HOWL",
+        "WHINE"
+      ]
+    },
+    {
+      "title": "DEPARTMENT",
+      "color": "green",
+      "words": [
+        "ARM",
+        "BRANCH",
+        "CHAPTER",
+        "WING"
+      ]
+    },
+    {
+      "title": "ORIGIN",
+      "color": "blue",
+      "words": [
+        "CRADLE",
+        "FONT",
+        "ROOT",
+        "SOURCE"
+      ]
+    },
+    {
+      "title": "COLORS WITH THEIR FIRST LETTERS CHANGED",
+      "color": "purple",
+      "words": [
+        "CLUE",
+        "FROWN",
+        "MELLOW",
+        "PREEN"
+      ]
+    }
+  ]
+}

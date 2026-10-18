@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-24",
+  "groups": [
+    {
+      "title": "TACO TOPPINGS",
+      "color": "yellow",
+      "words": [
+        "CILANTRO",
+        "LIME",
+        "ONION",
+        "SALSA"
+      ]
+    },
+    {
+      "title": "METRIC PREFIXES",
+      "color": "green",
+      "words": [
+        "KILO",
+        "MEGA",
+        "MICRO",
+        "PICO"
+      ]
+    },
+    {
+      "title": "KINDS OF SKIRTS",
+      "color": "blue",
+      "words": [
+        "MINI",
+        "PENCIL",
+        "POODLE",
+        "WRAP"
+      ]
+    },
+    {
+      "title": "WORDS WITH “HILL”",
+      "color": "purple",
+      "words": [
+        "CAPITOL",
+        "FAITH",
+        "FOOT",
+        "MOLE"
+      ]
+    }
+  ]
+}

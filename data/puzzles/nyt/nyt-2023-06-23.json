@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-23",
+  "groups": [
+    {
+      "title": "ANIMAL GROUP NAMES",
+      "color": "yellow",
+      "words": [
+        "FLOCK",
+        "PACK",
+        "POD",
+        "SCHOOL"
+      ]
+    },
+    {
+      "title": "DEADLY SINS",
+      "color": "green",
+      "words": [
+        "ENVY",
+        "GREED",
+        "LUST",
+        "PRIDE"
+      ]
+    },
+    {
+      "title": "SLOW ANIMALS",
+      "color": "blue",
+      "words": [
+        "LORIS",
+        "SLOTH",
+        "SNAIL",
+        "TORTOISE"
+      ]
+    },
+    {
+      "title": "TRIG FUNCTIONS",
+      "color": "purple",
+      "words": [
+        "COT",
+        "SEC",
+        "SIN",
+        "TAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-19",
+  "groups": [
+    {
+      "title": "DEFER",
+      "color": "yellow",
+      "words": [
+        "DELAY",
+        "POSTPONE",
+        "SHELVE",
+        "TABLE"
+      ]
+    },
+    {
+      "title": "BAR FIXTURES",
+      "color": "green",
+      "words": [
+        "COUNTER",
+        "KEG",
+        "STOOL",
+        "TAP"
+      ]
+    },
+    {
+      "title": "WATERCRAFT",
+      "color": "blue",
+      "words": [
+        "BARGE",
+        "JUNK",
+        "SUB",
+        "TUG"
+      ]
+    },
+    {
+      "title": "SEEN IN “DONKEY KONG”",
+      "color": "purple",
+      "words": [
+        "BARREL",
+        "GORILLA",
+        "HAMMER",
+        "LADDER"
+      ]
+    }
+  ]
+}

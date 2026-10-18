@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-04",
+  "groups": [
+    {
+      "title": "TAKE HOME, AS INCOME",
+      "color": "yellow",
+      "words": [
+        "CLEAR",
+        "EARN",
+        "MAKE",
+        "NET"
+      ]
+    },
+    {
+      "title": "PARTS OF A WIZARD COSTUME",
+      "color": "green",
+      "words": [
+        "BEARD",
+        "HAT",
+        "ROBE",
+        "STAFF"
+      ]
+    },
+    {
+      "title": "FOUND ON A SHIP",
+      "color": "blue",
+      "words": [
+        "BRIDGE",
+        "DECK",
+        "HATCH",
+        "KEEL"
+      ]
+    },
+    {
+      "title": "C-___",
+      "color": "purple",
+      "words": [
+        "CLEF",
+        "SECTION",
+        "SPAN",
+        "SUITE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-19",
+  "groups": [
+    {
+      "title": "BOARD GAMES",
+      "color": "yellow",
+      "words": [
+        "BACKGAMMON",
+        "CHECKERS",
+        "CHESS",
+        "GO"
+      ]
+    },
+    {
+      "title": "MATTRESS SIZES",
+      "color": "green",
+      "words": [
+        "FULL",
+        "KING",
+        "QUEEN",
+        "TWIN"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE RED",
+      "color": "blue",
+      "words": [
+        "CHERRY",
+        "FIRE TRUCK",
+        "RUBY",
+        "STOP SIGN"
+      ]
+    },
+    {
+      "title": "THINGS WITH KEYS",
+      "color": "purple",
+      "words": [
+        "CRYPTOGRAPHY",
+        "FLORIDA",
+        "LOCKSMITH",
+        "PIANO"
+      ]
+    }
+  ]
+}

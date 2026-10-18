@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-27",
+  "groups": [
+    {
+      "title": "UPDATE FOR ACCURACY",
+      "color": "yellow",
+      "words": [
+        "AMEND",
+        "CORRECT",
+        "FIX",
+        "REVISE"
+      ]
+    },
+    {
+      "title": "QUARREL",
+      "color": "green",
+      "words": [
+        "FIGHT",
+        "ROW",
+        "SCRAP",
+        "TIFF"
+      ]
+    },
+    {
+      "title": "GAMES OF CHANCE",
+      "color": "blue",
+      "words": [
+        "BINGO",
+        "LOTTERY",
+        "ROULETTE",
+        "WAR"
+      ]
+    },
+    {
+      "title": "___ CHIP",
+      "color": "purple",
+      "words": [
+        "BLUE",
+        "COMPUTER",
+        "POKER",
+        "POTATO"
+      ]
+    }
+  ]
+}

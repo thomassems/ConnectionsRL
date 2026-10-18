@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-28",
+  "groups": [
+    {
+      "title": "PARTS OF A BOOK",
+      "color": "yellow",
+      "words": [
+        "COVER",
+        "JACKET",
+        "PAGE",
+        "SPINE"
+      ]
+    },
+    {
+      "title": "CAT COAT PATTERNS",
+      "color": "green",
+      "words": [
+        "CALICO",
+        "TABBY",
+        "TORTOISESHELL",
+        "TUXEDO"
+      ]
+    },
+    {
+      "title": "NERVOUSNESS, IN THE SINGULAR",
+      "color": "blue",
+      "words": [
+        "BUTTERFLY",
+        "JITTER",
+        "NERVE",
+        "WILLY"
+      ]
+    },
+    {
+      "title": "STARTING WITH VEGETABLES",
+      "color": "purple",
+      "words": [
+        "BEETHOVEN",
+        "CORNUCOPIA",
+        "KALEIDOSCOPE",
+        "PEACOCK"
+      ]
+    }
+  ]
+}

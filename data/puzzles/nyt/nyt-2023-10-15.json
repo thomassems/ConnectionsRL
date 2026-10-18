@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-15",
+  "groups": [
+    {
+      "title": "TOOLS",
+      "color": "yellow",
+      "words": [
+        "FILE",
+        "HAMMER",
+        "LEVEL",
+        "SAW"
+      ]
+    },
+    {
+      "title": "PULL",
+      "color": "green",
+      "words": [
+        "JERK",
+        "TUG",
+        "WRENCH",
+        "YANK"
+      ]
+    },
+    {
+      "title": "SHORTCUT COMMANDS",
+      "color": "blue",
+      "words": [
+        "COPY",
+        "FIND",
+        "PRINT",
+        "SAVE"
+      ]
+    },
+    {
+      "title": "TITLE MOVIE ANIMALS",
+      "color": "purple",
+      "words": [
+        "BABE",
+        "BEETHOVEN",
+        "CHARLOTTE",
+        "WILLY"
+      ]
+    }
+  ]
+}

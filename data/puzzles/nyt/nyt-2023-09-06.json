@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-06",
+  "groups": [
+    {
+      "title": "CREATURES IN FOLKLORE",
+      "color": "yellow",
+      "words": [
+        "GNOME",
+        "GOBLIN",
+        "OGRE",
+        "TROLL"
+      ]
+    },
+    {
+      "title": "FLOWER PARTS",
+      "color": "green",
+      "words": [
+        "BUD",
+        "LEAF",
+        "PETAL",
+        "STALK"
+      ]
+    },
+    {
+      "title": "ONE INVOLVED IN ESPIONAGE",
+      "color": "blue",
+      "words": [
+        "AGENT",
+        "MOLE",
+        "PLANT",
+        "SPY"
+      ]
+    },
+    {
+      "title": "CHINESE ZODIAC ANIMALS",
+      "color": "purple",
+      "words": [
+        "DRAGON",
+        "HORSE",
+        "RABBIT",
+        "TIGER"
+      ]
+    }
+  ]
+}

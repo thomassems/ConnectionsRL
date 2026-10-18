@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-10",
+  "groups": [
+    {
+      "title": "HORROR FRANCHISES",
+      "color": "yellow",
+      "words": [
+        "PURGE",
+        "RING",
+        "SAW",
+        "SCREAM"
+      ]
+    },
+    {
+      "title": "SPORTS VENUES",
+      "color": "green",
+      "words": [
+        "COURT",
+        "DIAMOND",
+        "FIELD",
+        "RINK"
+      ]
+    },
+    {
+      "title": "MAKE HAPPY",
+      "color": "blue",
+      "words": [
+        "CHARM",
+        "DELIGHT",
+        "PLEASE",
+        "TICKLE"
+      ]
+    },
+    {
+      "title": "JEWELRY",
+      "color": "purple",
+      "words": [
+        "ANKLET",
+        "BANGLE",
+        "BROOCH",
+        "PENDANT"
+      ]
+    }
+  ]
+}

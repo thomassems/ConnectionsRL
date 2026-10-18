@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-18",
+  "groups": [
+    {
+      "title": "CRATER",
+      "color": "yellow",
+      "words": [
+        "CAVITY",
+        "HOLE",
+        "HOLLOW",
+        "PIT"
+      ]
+    },
+    {
+      "title": "ACCESSIBLE",
+      "color": "green",
+      "words": [
+        "AVAILABLE",
+        "HANDY",
+        "NEARBY",
+        "READY"
+      ]
+    },
+    {
+      "title": "SUBSTANTIAL, AS A MEAL",
+      "color": "blue",
+      "words": [
+        "FILLING",
+        "HEARTY",
+        "SOLID",
+        "SQUARE"
+      ]
+    },
+    {
+      "title": "BRITISHISMS",
+      "color": "purple",
+      "words": [
+        "BUTTY",
+        "CHIPPY",
+        "FOOTY",
+        "TELLY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-25",
+  "groups": [
+    {
+      "title": "BRIDAL ACCESSORIES",
+      "color": "yellow",
+      "words": [
+        "BOUQUET",
+        "RING",
+        "TRAIN",
+        "VEIL"
+      ]
+    },
+    {
+      "title": "“C” WORDS FOR “ENVELOP”",
+      "color": "green",
+      "words": [
+        "CAKE",
+        "COAT",
+        "COVER",
+        "CRUST"
+      ]
+    },
+    {
+      "title": "JACKS",
+      "color": "blue",
+      "words": [
+        "BLACK",
+        "FROST",
+        "MA",
+        "SPARROW"
+      ]
+    },
+    {
+      "title": "SOCIAL MEDIA APP ENDINGS",
+      "color": "purple",
+      "words": [
+        "BOOK",
+        "GRAM",
+        "IN",
+        "TUBE"
+      ]
+    }
+  ]
+}

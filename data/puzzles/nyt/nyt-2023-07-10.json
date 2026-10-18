@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-10",
+  "groups": [
+    {
+      "title": "WINGED INSECTS",
+      "color": "yellow",
+      "words": [
+        "FLY",
+        "GNAT",
+        "MOTH",
+        "WASP"
+      ]
+    },
+    {
+      "title": "ARITHMETIC OPERATIONS",
+      "color": "green",
+      "words": [
+        "ADD",
+        "DIVIDE",
+        "MULTIPLY",
+        "SUBTRACT"
+      ]
+    },
+    {
+      "title": "FISH",
+      "color": "blue",
+      "words": [
+        "TANG",
+        "TETRA",
+        "SKATE",
+        "SOLE"
+      ]
+    },
+    {
+      "title": "___ CAT",
+      "color": "purple",
+      "words": [
+        "ALLEY",
+        "COOL",
+        "COPY",
+        "LAP"
+      ]
+    }
+  ]
+}

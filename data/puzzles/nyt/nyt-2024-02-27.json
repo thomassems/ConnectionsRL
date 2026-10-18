@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-27",
+  "groups": [
+    {
+      "title": "'80S FASHION TRENDS",
+      "color": "yellow",
+      "words": [
+        "HEADBAND",
+        "MULLET",
+        "NEON",
+        "SPANDEX"
+      ]
+    },
+    {
+      "title": "GYMNASTICS POSITIONS",
+      "color": "green",
+      "words": [
+        "PIKE",
+        "SPLIT",
+        "STRADDLE",
+        "TUCK"
+      ]
+    },
+    {
+      "title": "KINDS OF CRACKERS",
+      "color": "blue",
+      "words": [
+        "ANIMAL",
+        "GOLDFISH",
+        "OYSTER",
+        "RITZ"
+      ]
+    },
+    {
+      "title": "___ LADDER",
+      "color": "purple",
+      "words": [
+        "CORPORATE",
+        "ROPE",
+        "SALMON",
+        "WORD"
+      ]
+    }
+  ]
+}

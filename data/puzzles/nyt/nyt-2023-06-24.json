@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-24",
+  "groups": [
+    {
+      "title": "AIRLINES",
+      "color": "yellow",
+      "words": [
+        "FRONTIER",
+        "SPIRIT",
+        "UNITED",
+        "VIRGIN"
+      ]
+    },
+    {
+      "title": "GREEK LETTERS",
+      "color": "green",
+      "words": [
+        "BETA",
+        "CHI",
+        "DELTA",
+        "IOTA"
+      ]
+    },
+    {
+      "title": "SILENT “G”",
+      "color": "blue",
+      "words": [
+        "GNAT",
+        "GNAW",
+        "GNOCCHI",
+        "GNOME"
+      ]
+    },
+    {
+      "title": "HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "GNU",
+        "KNEW",
+        "NEW",
+        "NU"
+      ]
+    }
+  ]
+}

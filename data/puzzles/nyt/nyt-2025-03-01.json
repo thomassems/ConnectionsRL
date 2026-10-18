@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-01",
+  "groups": [
+    {
+      "title": "ASSOCIATED WITH GOOD LUCK",
+      "color": "yellow",
+      "words": [
+        "HORSESHOE",
+        "LADYBUG",
+        "PENNY",
+        "SHAMROCK"
+      ]
+    },
+    {
+      "title": "TO-BO- COMPOUND WORDS",
+      "color": "green",
+      "words": [
+        "TOLLBOOTH",
+        "TOMBOY",
+        "TOOLBOX",
+        "TOWBOAT"
+      ]
+    },
+    {
+      "title": "BROADWAY MUSICALS, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "FIDDLER",
+        "MERRILY",
+        "PHANTOM",
+        "SUNSET"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “COWBOY” IN FILM AND MUSIC",
+      "color": "purple",
+      "words": [
+        "DRUGSTORE",
+        "MIDNIGHT",
+        "RHINESTONE",
+        "SPACE"
+      ]
+    }
+  ]
+}

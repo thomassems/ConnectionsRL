@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-12",
+  "groups": [
+    {
+      "title": "DOCUMENTS OF OWNERSHIP",
+      "color": "yellow",
+      "words": [
+        "CERTIFICATE",
+        "DEED",
+        "RECEIPT",
+        "TITLE"
+      ]
+    },
+    {
+      "title": "BITS IN A VARIETY SHOW",
+      "color": "green",
+      "words": [
+        "DANCE",
+        "MONOLOGUE",
+        "SKETCH",
+        "SONG"
+      ]
+    },
+    {
+      "title": "PROPS FOR CHARACTERS ON \"THE SIMPSONS\"",
+      "color": "blue",
+      "words": [
+        "DONUT",
+        "PACIFIER",
+        "SAXOPHONE",
+        "SKATEBOARD"
+      ]
+    },
+    {
+      "title": "STARTING WITH \"SHAKE, RATTLE AND ROLL\"",
+      "color": "purple",
+      "words": [
+        "ANDROID",
+        "RATTLESNAKE",
+        "ROLLERBLADE",
+        "SHAKESPEARE"
+      ]
+    }
+  ]
+}

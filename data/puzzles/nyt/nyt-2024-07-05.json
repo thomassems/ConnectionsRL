@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-05",
+  "groups": [
+    {
+      "title": "YEARN",
+      "color": "yellow",
+      "words": [
+        "DESIRE",
+        "LONG",
+        "PINE",
+        "YEN"
+      ]
+    },
+    {
+      "title": "MAGAZINES",
+      "color": "green",
+      "words": [
+        "FORTUNE",
+        "MAD",
+        "NATURE",
+        "O"
+      ]
+    },
+    {
+      "title": "CHARACTERS IN BOND MOVIES",
+      "color": "blue",
+      "words": [
+        "BOND",
+        "M",
+        "MONEYPENNY",
+        "Q"
+      ]
+    },
+    {
+      "title": "WORDS THAT PRECEDE “POP” IN MUSIC GENRES",
+      "color": "purple",
+      "words": [
+        "BUBBLEGUM",
+        "EURO",
+        "K",
+        "POWER"
+      ]
+    }
+  ]
+}

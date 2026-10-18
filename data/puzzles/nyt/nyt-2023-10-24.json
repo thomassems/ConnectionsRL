@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-24",
+  "groups": [
+    {
+      "title": "ANIMAL GROUPS",
+      "color": "yellow",
+      "words": [
+        "COLONY",
+        "HERD",
+        "PRIDE",
+        "SCHOOL"
+      ]
+    },
+    {
+      "title": "SMALL OPENING",
+      "color": "green",
+      "words": [
+        "CRANNY",
+        "NICHE",
+        "NOOK",
+        "RECESS"
+      ]
+    },
+    {
+      "title": "PARADIGMATIC",
+      "color": "blue",
+      "words": [
+        "CLASSIC",
+        "DEFINITIVE",
+        "MODEL",
+        "TEXTBOOK"
+      ]
+    },
+    {
+      "title": "RHYMING COMPOUND WORDS",
+      "color": "purple",
+      "words": [
+        "BACKPACK",
+        "BIGWIG",
+        "DOWNTOWN",
+        "RAGTAG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-28",
+  "groups": [
+    {
+      "title": "APPRECIATION",
+      "color": "yellow",
+      "words": [
+        "CREDIT",
+        "PRAISE",
+        "RECOGNITION",
+        "THANKS"
+      ]
+    },
+    {
+      "title": "FRAUDSTER",
+      "color": "green",
+      "words": [
+        "CHEAT",
+        "CON",
+        "FAKE",
+        "QUACK"
+      ]
+    },
+    {
+      "title": "EAT VORACIOUSLY",
+      "color": "blue",
+      "words": [
+        "BOLT",
+        "DOWN",
+        "GOBBLE",
+        "SCARF"
+      ]
+    },
+    {
+      "title": "___ TUESDAY",
+      "color": "purple",
+      "words": [
+        "FAT",
+        "GIVING",
+        "SUPER",
+        "TACO"
+      ]
+    }
+  ]
+}

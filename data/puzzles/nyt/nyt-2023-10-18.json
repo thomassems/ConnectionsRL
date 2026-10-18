@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-18",
+  "groups": [
+    {
+      "title": "SOMETHING TIRESOME",
+      "color": "yellow",
+      "words": [
+        "BORE",
+        "DRAG",
+        "SNOOZE",
+        "YAWN"
+      ]
+    },
+    {
+      "title": "BIT OF WIND",
+      "color": "green",
+      "words": [
+        "BREEZE",
+        "DRAFT",
+        "GUST",
+        "PUFF"
+      ]
+    },
+    {
+      "title": "PIQUANCY",
+      "color": "blue",
+      "words": [
+        "BITE",
+        "KICK",
+        "TANG",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "SINGULAR OF THINGS SEEN IN PAIRS",
+      "color": "purple",
+      "words": [
+        "BOXER",
+        "GOGGLE",
+        "PANT",
+        "TONG"
+      ]
+    }
+  ]
+}

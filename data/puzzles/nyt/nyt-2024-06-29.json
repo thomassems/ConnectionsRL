@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-29",
+  "groups": [
+    {
+      "title": "HOMOPHONES",
+      "color": "yellow",
+      "words": [
+        "TO",
+        "TOO",
+        "TUE",
+        "TWO"
+      ]
+    },
+    {
+      "title": "CONNECT",
+      "color": "green",
+      "words": [
+        "COUPLE",
+        "TIE",
+        "UNITE",
+        "WED"
+      ]
+    },
+    {
+      "title": "SITUATED",
+      "color": "blue",
+      "words": [
+        "LAID",
+        "PLACED",
+        "PUT",
+        "SAT"
+      ]
+    },
+    {
+      "title": "___FLOWER",
+      "color": "purple",
+      "words": [
+        "MAY",
+        "SUN",
+        "WALL",
+        "WILD"
+      ]
+    }
+  ]
+}

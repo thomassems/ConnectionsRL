@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-18",
+  "groups": [
+    {
+      "title": "GATHERING SPOT OUTSIDE A RESIDENCE",
+      "color": "yellow",
+      "words": [
+        "DECK",
+        "PORCH",
+        "STOOP",
+        "YARD"
+      ]
+    },
+    {
+      "title": "LOWDOWN",
+      "color": "green",
+      "words": [
+        "DISH",
+        "DOPE",
+        "INFO",
+        "SCOOP"
+      ]
+    },
+    {
+      "title": "KINDS OF REELS",
+      "color": "blue",
+      "words": [
+        "BLOOPER",
+        "DEMO",
+        "HIGHLIGHT",
+        "SIZZLE"
+      ]
+    },
+    {
+      "title": "CARTOON DOGS MINUS “Y”",
+      "color": "purple",
+      "words": [
+        "DROOP",
+        "GOOF",
+        "LAD",
+        "SNOOP"
+      ]
+    }
+  ]
+}

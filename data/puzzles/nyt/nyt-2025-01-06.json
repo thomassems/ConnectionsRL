@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-06",
+  "groups": [
+    {
+      "title": "BREATHE HARD",
+      "color": "yellow",
+      "words": [
+        "GASP",
+        "HEAVE",
+        "PANT",
+        "PUFF"
+      ]
+    },
+    {
+      "title": "CATCHALL",
+      "color": "green",
+      "words": [
+        "BLANKET",
+        "BROAD",
+        "GENERAL",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "title": "METAPHORS FOR EASY THINGS",
+      "color": "blue",
+      "words": [
+        "ABC",
+        "BREEZE",
+        "PICNIC",
+        "PIE"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR REAR END MINUS LAST LETTER",
+      "color": "purple",
+      "words": [
+        "ARS",
+        "BOOT",
+        "BUT",
+        "RUM"
+      ]
+    }
+  ]
+}

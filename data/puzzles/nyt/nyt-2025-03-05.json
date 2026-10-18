@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-05",
+  "groups": [
+    {
+      "title": "PERIPHERY",
+      "color": "yellow",
+      "words": [
+        "BORDER",
+        "EDGE",
+        "FRINGE",
+        "SKIRT"
+      ]
+    },
+    {
+      "title": "THINGS PEOPLE DO TO FINGERNAILS",
+      "color": "green",
+      "words": [
+        "BITE",
+        "CLIP",
+        "FILE",
+        "PAINT"
+      ]
+    },
+    {
+      "title": "WHAT MIGHT BRING TEARS TO YOUR EYES",
+      "color": "blue",
+      "words": [
+        "ALLERGY",
+        "MELODRAMA",
+        "ONION",
+        "RELIEF"
+      ]
+    },
+    {
+      "title": "___BALL RECREATIONAL SPORTS",
+      "color": "purple",
+      "words": [
+        "DODGE",
+        "KICK",
+        "PICKLE",
+        "SOFT"
+      ]
+    }
+  ]
+}

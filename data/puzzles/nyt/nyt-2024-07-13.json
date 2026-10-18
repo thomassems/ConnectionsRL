@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-13",
+  "groups": [
+    {
+      "title": "ENORMOUS",
+      "color": "yellow",
+      "words": [
+        "GIANT",
+        "MAMMOTH",
+        "MONSTER",
+        "TITANIC"
+      ]
+    },
+    {
+      "title": "EMBODIMENT",
+      "color": "green",
+      "words": [
+        "AVATAR",
+        "CHARACTER",
+        "FIGURE",
+        "PERSONA"
+      ]
+    },
+    {
+      "title": "COME ACROSS AS",
+      "color": "blue",
+      "words": [
+        "APPEAR",
+        "LOOK",
+        "SEEM",
+        "SOUND"
+      ]
+    },
+    {
+      "title": "SILENT “T”",
+      "color": "purple",
+      "words": [
+        "CASTLE",
+        "HUSTLE",
+        "LISTEN",
+        "WITCH"
+      ]
+    }
+  ]
+}

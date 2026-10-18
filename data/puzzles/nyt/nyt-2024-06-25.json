@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-25",
+  "groups": [
+    {
+      "title": "DIVULGE, AS PRIVATE INFORMATION",
+      "color": "yellow",
+      "words": [
+        "DISH",
+        "SPILL",
+        "TALK",
+        "TELL"
+      ]
+    },
+    {
+      "title": "DIVIDE",
+      "color": "green",
+      "words": [
+        "BRANCH",
+        "FORK",
+        "PART",
+        "SPLIT"
+      ]
+    },
+    {
+      "title": "SILENT “K”",
+      "color": "blue",
+      "words": [
+        "DOORKNOB",
+        "KNIFE",
+        "TOPKNOT",
+        "UNKNOWN"
+      ]
+    },
+    {
+      "title": "KEY TO SUCCESS, SO TO SPEAK",
+      "color": "purple",
+      "words": [
+        "FORMULA",
+        "RECIPE",
+        "SECRET",
+        "TICKET"
+      ]
+    }
+  ]
+}

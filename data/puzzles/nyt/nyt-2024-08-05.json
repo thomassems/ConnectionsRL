@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-05",
+  "groups": [
+    {
+      "title": "SURVIVE",
+      "color": "yellow",
+      "words": [
+        "GET BY",
+        "HACK IT",
+        "MAKE DO",
+        "MANAGE"
+      ]
+    },
+    {
+      "title": "KINDS OF GREETING CARDS",
+      "color": "green",
+      "words": [
+        "BIRTHDAY",
+        "CONGRATULATIONS",
+        "GET WELL",
+        "THANK YOU"
+      ]
+    },
+    {
+      "title": "ARE WE CLEAR?",
+      "color": "blue",
+      "words": [
+        "CAPISCE",
+        "GET IT",
+        "SEE",
+        "UNDERSTAND"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “EYE”",
+      "color": "purple",
+      "words": [
+        "CANDY",
+        "CONTACT",
+        "SHADOW",
+        "WITNESS"
+      ]
+    }
+  ]
+}

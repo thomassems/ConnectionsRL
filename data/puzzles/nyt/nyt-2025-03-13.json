@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-13",
+  "groups": [
+    {
+      "title": "PARTIALITY",
+      "color": "yellow",
+      "words": [
+        "ANGLE",
+        "BIAS",
+        "SLANT",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "SIGNAL DOWN, AS A TAXI",
+      "color": "green",
+      "words": [
+        "FLAG",
+        "HAIL",
+        "WAVE",
+        "WHISTLE"
+      ]
+    },
+    {
+      "title": "CARDS IN TEXAS HOLD ’EM",
+      "color": "blue",
+      "words": [
+        "FLOP",
+        "HOLE",
+        "RIVER",
+        "TURN"
+      ]
+    },
+    {
+      "title": "SHAKESPEAREAN WORDS",
+      "color": "purple",
+      "words": [
+        "ANON",
+        "ART",
+        "THOU",
+        "WILT"
+      ]
+    }
+  ]
+}

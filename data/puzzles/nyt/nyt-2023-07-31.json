@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-31",
+  "groups": [
+    {
+      "title": "UNITS OF LENGTH",
+      "color": "yellow",
+      "words": [
+        "FOOT",
+        "INCH",
+        "MILE",
+        "YARD"
+      ]
+    },
+    {
+      "title": "TYPES OF PAINT",
+      "color": "green",
+      "words": [
+        "ACRYLIC",
+        "OIL",
+        "TEMPERA",
+        "WATERCOLOR"
+      ]
+    },
+    {
+      "title": "DEEP-FRIED FOOD",
+      "color": "blue",
+      "words": [
+        "FALAFEL",
+        "KATSU",
+        "SAMOSA",
+        "SCHNITZEL"
+      ]
+    },
+    {
+      "title": "STARTS OF U.S. COINS",
+      "color": "purple",
+      "words": [
+        "DIM",
+        "NICK",
+        "PEN",
+        "QUART"
+      ]
+    }
+  ]
+}

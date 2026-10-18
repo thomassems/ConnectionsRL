@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-09",
+  "groups": [
+    {
+      "title": "DELIBERATION",
+      "color": "yellow",
+      "words": [
+        "CONSIDERATION",
+        "REFLECTION",
+        "SCRUTINY",
+        "THOUGHT"
+      ]
+    },
+    {
+      "title": "USED IN STARTING A FIRE",
+      "color": "green",
+      "words": [
+        "FLINT",
+        "LIGHTER",
+        "MAGNIFYING GLASS",
+        "MATCHES"
+      ]
+    },
+    {
+      "title": "USED TO VIEW A BIOLOGICAL SAMPLE",
+      "color": "blue",
+      "words": [
+        "MICROSCOPE",
+        "SLIDE",
+        "SPECIMEN",
+        "STAIN"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “X”",
+      "color": "purple",
+      "words": [
+        "FACTOR",
+        "FILES",
+        "GAMES",
+        "RAY"
+      ]
+    }
+  ]
+}

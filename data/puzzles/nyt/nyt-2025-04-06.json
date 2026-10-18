@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-06",
+  "groups": [
+    {
+      "title": "ALOOF",
+      "color": "yellow",
+      "words": [
+        "COOL",
+        "DISTANT",
+        "REMOTE",
+        "RESERVED"
+      ]
+    },
+    {
+      "title": "UTILITIES",
+      "color": "green",
+      "words": [
+        "CABLE",
+        "GAS",
+        "TRASH",
+        "WATER"
+      ]
+    },
+    {
+      "title": "WHAT AN ELECTROMETER MEASURES",
+      "color": "blue",
+      "words": [
+        "CHARGE",
+        "CURRENT",
+        "RESISTANCE",
+        "VOLTAGE"
+      ]
+    },
+    {
+      "title": "___ JOINT",
+      "color": "purple",
+      "words": [
+        "DOVETAIL",
+        "HIP",
+        "PIZZA",
+        "SPIKE LEE"
+      ]
+    }
+  ]
+}

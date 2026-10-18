@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-06",
+  "groups": [
+    {
+      "title": "CONNECT",
+      "color": "yellow",
+      "words": [
+        "COUPLE",
+        "JOIN",
+        "LINK",
+        "TIE"
+      ]
+    },
+    {
+      "title": "NUISANCE",
+      "color": "green",
+      "words": [
+        "BOTHER",
+        "HANDFUL",
+        "PAIN",
+        "PEST"
+      ]
+    },
+    {
+      "title": "QUANTITY WORDS",
+      "color": "blue",
+      "words": [
+        "FEW",
+        "MANY",
+        "SEVERAL",
+        "SOME"
+      ]
+    },
+    {
+      "title": "TAROT CARDS, WITH “THE”",
+      "color": "purple",
+      "words": [
+        "FOOL",
+        "LOVERS",
+        "MAGICIAN",
+        "TOWER"
+      ]
+    }
+  ]
+}

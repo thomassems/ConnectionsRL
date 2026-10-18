@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-14",
+  "groups": [
+    {
+      "title": "OPERATING",
+      "color": "yellow",
+      "words": [
+        "ACTIVE",
+        "FUNCTIONAL",
+        "RUNNING",
+        "WORKING"
+      ]
+    },
+    {
+      "title": "TERM",
+      "color": "green",
+      "words": [
+        "MEETING",
+        "PERIOD",
+        "SESSION",
+        "SITTING"
+      ]
+    },
+    {
+      "title": "THINGS IN A CAMERA KIT",
+      "color": "blue",
+      "words": [
+        "BODY",
+        "FLASH",
+        "LENS",
+        "STRAP"
+      ]
+    },
+    {
+      "title": "BIRD PLUS LETTER",
+      "color": "purple",
+      "words": [
+        "CROWD",
+        "GULLY",
+        "PUFFING",
+        "SWANK"
+      ]
+    }
+  ]
+}

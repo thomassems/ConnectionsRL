@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-17",
+  "groups": [
+    {
+      "title": "BIT OF HAIR",
+      "color": "yellow",
+      "words": [
+        "CURL",
+        "LOCK",
+        "RINGLET",
+        "TRESS"
+      ]
+    },
+    {
+      "title": "MEDIA ATTENTION",
+      "color": "green",
+      "words": [
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS",
+        "PUBLICITY"
+      ]
+    },
+    {
+      "title": "NOUN SUFFIXES",
+      "color": "blue",
+      "words": [
+        "DOM",
+        "ION",
+        "NESS",
+        "SHIP"
+      ]
+    },
+    {
+      "title": "___ CIRCUS",
+      "color": "purple",
+      "words": [
+        "FAMILY",
+        "FLEA",
+        "FLYING",
+        "MEDIA"
+      ]
+    }
+  ]
+}

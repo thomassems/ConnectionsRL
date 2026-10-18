@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-24",
+  "groups": [
+    {
+      "title": "EAT VORACIOUSLY",
+      "color": "yellow",
+      "words": [
+        "GOBBLE",
+        "GULP",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "title": "BEND UNDER PRESSURE",
+      "color": "green",
+      "words": [
+        "BOW",
+        "BUCKLE",
+        "CAVE",
+        "GIVE"
+      ]
+    },
+    {
+      "title": "CLASSIC NAUTICAL TATTOOS",
+      "color": "blue",
+      "words": [
+        "ANCHOR",
+        "COMPASS",
+        "MERMAID",
+        "SWALLOW"
+      ]
+    },
+    {
+      "title": "BODY PARTS PLUS LETTER",
+      "color": "purple",
+      "words": [
+        "BUTTE",
+        "CHINA",
+        "HEARTH",
+        "SHINE"
+      ]
+    }
+  ]
+}

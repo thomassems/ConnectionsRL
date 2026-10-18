@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-26",
+  "groups": [
+    {
+      "title": "APPROXIMATELY",
+      "color": "yellow",
+      "words": [
+        "ABOUT",
+        "AROUND",
+        "LIKE",
+        "ROUGHLY"
+      ]
+    },
+    {
+      "title": "TREES",
+      "color": "green",
+      "words": [
+        "ELDER",
+        "PALM",
+        "PINE",
+        "SPRUCE"
+      ]
+    },
+    {
+      "title": "SIZABLE, AS AN AMOUNT",
+      "color": "blue",
+      "words": [
+        "HANDSOME",
+        "HEALTHY",
+        "RESPECTABLE",
+        "TIDY"
+      ]
+    },
+    {
+      "title": "U.S. STATE ABBREVIATIONS, PER AP STYLE GUIDE",
+      "color": "purple",
+      "words": [
+        "ALA",
+        "ARK",
+        "MISS",
+        "ORE"
+      ]
+    }
+  ]
+}

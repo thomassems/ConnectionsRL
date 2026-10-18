@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-15",
+  "groups": [
+    {
+      "title": "PLEASANT SMELLS",
+      "color": "yellow",
+      "words": [
+        "AROMA",
+        "BOUQUET",
+        "FRAGRANCE",
+        "SCENT"
+      ]
+    },
+    {
+      "title": "MUSIC GENRES",
+      "color": "green",
+      "words": [
+        "BLUES",
+        "COUNTRY",
+        "FUNK",
+        "SOUL"
+      ]
+    },
+    {
+      "title": "ROCK PAPER SCISSORS",
+      "color": "blue",
+      "words": [
+        "PAPER",
+        "ROCK",
+        "SCISSORS",
+        "SHOOT"
+      ]
+    },
+    {
+      "title": "MALE ANIMALS",
+      "color": "purple",
+      "words": [
+        "BOAR",
+        "BUCK",
+        "BULL",
+        "JACK"
+      ]
+    }
+  ]
+}

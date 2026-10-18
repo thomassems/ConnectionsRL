@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-24",
+  "groups": [
+    {
+      "title": "BAD-SMELLING",
+      "color": "yellow",
+      "words": [
+        "FOUL",
+        "RANK",
+        "RIPE",
+        "SOUR"
+      ]
+    },
+    {
+      "title": "UNFLUCTUATING",
+      "color": "green",
+      "words": [
+        "CONSTANT",
+        "LEVEL",
+        "STABLE",
+        "UNIFORM"
+      ]
+    },
+    {
+      "title": "WHO VIDEO GAMES ARE FOR, PER ESRB RATINGS",
+      "color": "blue",
+      "words": [
+        "ADULTS ONLY",
+        "EVERYONE",
+        "TEEN",
+        "MATURE"
+      ]
+    },
+    {
+      "title": "THINGS WITH LAYERS",
+      "color": "purple",
+      "words": [
+        "EARTH",
+        "HENHOUSE",
+        "ONION",
+        "PHOTOSHOP"
+      ]
+    }
+  ]
+}

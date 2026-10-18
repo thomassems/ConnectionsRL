@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-20",
+  "groups": [
+    {
+      "title": "BALDERDASH",
+      "color": "yellow",
+      "words": [
+        "BUNK",
+        "CROCK",
+        "HOGWASH",
+        "HORSEFEATHERS"
+      ]
+    },
+    {
+      "title": "TRACK AND FIELD EQUIPMENT",
+      "color": "green",
+      "words": [
+        "BATON",
+        "HAMMER",
+        "HURDLE",
+        "POLE"
+      ]
+    },
+    {
+      "title": "PARTS OF A DEVIL COSTUME",
+      "color": "blue",
+      "words": [
+        "GOATEE",
+        "HORNS",
+        "PITCHFORK",
+        "TAIL"
+      ]
+    },
+    {
+      "title": "TYPES OF KNOTS",
+      "color": "purple",
+      "words": [
+        "BEND",
+        "BOWLINE",
+        "HITCH",
+        "SHEEPSHANK"
+      ]
+    }
+  ]
+}

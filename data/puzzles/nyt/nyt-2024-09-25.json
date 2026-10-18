@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-25",
+  "groups": [
+    {
+      "title": "TRIO OF SPORTS ACHIEVEMENTS",
+      "color": "yellow",
+      "words": [
+        "HAT TRICK",
+        "THREEPEAT",
+        "TRIFECTA",
+        "TRIPLE CROWN"
+      ]
+    },
+    {
+      "title": "NEEDS FOR PAINTING A ROOM",
+      "color": "green",
+      "words": [
+        "DROP CLOTH",
+        "PAINT",
+        "ROLLER",
+        "TAPE"
+      ]
+    },
+    {
+      "title": "FOOD NAMED AFTER CITIES",
+      "color": "blue",
+      "words": [
+        "BROIL",
+        "CHEESESTEAK",
+        "SPROUTS",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "___ DERBY",
+      "color": "purple",
+      "words": [
+        "DEMOLITION",
+        "HOME RUN",
+        "KENTUCKY",
+        "SOAP BOX"
+      ]
+    }
+  ]
+}

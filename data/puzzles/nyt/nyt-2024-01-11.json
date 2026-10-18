@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-11",
+  "groups": [
+    {
+      "title": "STATES OF MATTER",
+      "color": "yellow",
+      "words": [
+        "GAS",
+        "LIQUID",
+        "PLASMA",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "ALL-TIMER",
+      "color": "green",
+      "words": [
+        "GREAT",
+        "HERO",
+        "ICON",
+        "LEGEND"
+      ]
+    },
+    {
+      "title": "“PH” WORDS THAT ALSO WORK WITH “F”",
+      "color": "blue",
+      "words": [
+        "PHAT",
+        "PHEW",
+        "PHILLY",
+        "PHISH"
+      ]
+    },
+    {
+      "title": "___ PITCH",
+      "color": "purple",
+      "words": [
+        "ELEVATOR",
+        "FEVER",
+        "PERFECT",
+        "SALES"
+      ]
+    }
+  ]
+}

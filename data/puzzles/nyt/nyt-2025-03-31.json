@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-31",
+  "groups": [
+    {
+      "title": "CONSUMED",
+      "color": "yellow",
+      "words": [
+        "ATE",
+        "HAD",
+        "PUT AWAY",
+        "TOOK IN"
+      ]
+    },
+    {
+      "title": "ALSO",
+      "color": "green",
+      "words": [
+        "AS WELL",
+        "BESIDES",
+        "TO BOOT",
+        "TOO"
+      ]
+    },
+    {
+      "title": "ATM OPTIONS",
+      "color": "blue",
+      "words": [
+        "BALANCE",
+        "DEPOSIT",
+        "TRANSFER",
+        "WITHDRAWAL"
+      ]
+    },
+    {
+      "title": "___PLAY",
+      "color": "purple",
+      "words": [
+        "FORE",
+        "HORSE",
+        "SCREEN",
+        "WORD"
+      ]
+    }
+  ]
+}

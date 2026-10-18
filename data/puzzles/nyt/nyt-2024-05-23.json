@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-23",
+  "groups": [
+    {
+      "title": "TAKE ADVANTAGE OF",
+      "color": "yellow",
+      "words": [
+        "EXPLOIT",
+        "LEVERAGE",
+        "MILK",
+        "USE"
+      ]
+    },
+    {
+      "title": "FINISHED, AS TIME",
+      "color": "green",
+      "words": [
+        "DONE",
+        "OVER",
+        "THROUGH",
+        "UP"
+      ]
+    },
+    {
+      "title": "NEWSPAPER DESKS",
+      "color": "blue",
+      "words": [
+        "CITY",
+        "COPY",
+        "CULTURE",
+        "SPORTS"
+      ]
+    },
+    {
+      "title": "WORDS BEGINNING WITH GREETINGS",
+      "color": "purple",
+      "words": [
+        "HEYDAY",
+        "HIJINKS",
+        "SUPPER",
+        "YOGURT"
+      ]
+    }
+  ]
+}

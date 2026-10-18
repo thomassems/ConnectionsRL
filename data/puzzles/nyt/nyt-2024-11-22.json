@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-22",
+  "groups": [
+    {
+      "title": "PUBLICITY",
+      "color": "yellow",
+      "words": [
+        "ATTENTION",
+        "COVERAGE",
+        "EXPOSURE",
+        "PRESS"
+      ]
+    },
+    {
+      "title": "POINT OF VIEW",
+      "color": "green",
+      "words": [
+        "ANGLE",
+        "LENS",
+        "PERSPECTIVE",
+        "POSITION"
+      ]
+    },
+    {
+      "title": "WORK COMMUNICATION PLATFORMS",
+      "color": "blue",
+      "words": [
+        "MEET",
+        "SLACK",
+        "TEAMS",
+        "ZOOM"
+      ]
+    },
+    {
+      "title": "“___ ISLAND”",
+      "color": "purple",
+      "words": [
+        "FANTASY",
+        "LOVE",
+        "SHUTTER",
+        "TREASURE"
+      ]
+    }
+  ]
+}

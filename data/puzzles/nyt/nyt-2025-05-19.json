@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-19",
+  "groups": [
+    {
+      "title": "FUNDRAISING EVENT",
+      "color": "yellow",
+      "words": [
+        "BALL",
+        "BENEFIT",
+        "GALA",
+        "FUNCTION"
+      ]
+    },
+    {
+      "title": "SPACES ON A MONOPOLY BOARD",
+      "color": "green",
+      "words": [
+        "AVENUE",
+        "CHANCE",
+        "RAILROAD",
+        "UTILITY"
+      ]
+    },
+    {
+      "title": "FEATURES OF A TOOTHED WHALE",
+      "color": "blue",
+      "words": [
+        "BLUBBER",
+        "FLIPPER",
+        "FLUKE",
+        "MELON"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF PARTS OF THE FOOT",
+      "color": "purple",
+      "words": [
+        "BAWL",
+        "HEAL",
+        "SOUL",
+        "TOW"
+      ]
+    }
+  ]
+}

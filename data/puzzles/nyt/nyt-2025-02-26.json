@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-26",
+  "groups": [
+    {
+      "title": "EXPENDITURE",
+      "color": "yellow",
+      "words": [
+        "CHARGE",
+        "COST",
+        "PRICE",
+        "RATE"
+      ]
+    },
+    {
+      "title": "ONETIME",
+      "color": "green",
+      "words": [
+        "FORMER",
+        "LATE",
+        "PAST",
+        "PRIOR"
+      ]
+    },
+    {
+      "title": "MADE WITH HORIZONTAL LINES",
+      "color": "blue",
+      "words": [
+        "DASH",
+        "HYPHEN",
+        "MINUS",
+        "UNDERSCORE"
+      ]
+    },
+    {
+      "title": "SIMPSON FAMILY MEMBERS WITH FIRST LETTER CHANGED",
+      "color": "purple",
+      "words": [
+        "BAGGIE",
+        "BARGE",
+        "COMER",
+        "PISA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-27",
+  "groups": [
+    {
+      "title": "MOVIE TITLE CITIES",
+      "color": "yellow",
+      "words": [
+        "CHICAGO",
+        "MUNICH",
+        "PHILADELPHIA",
+        "RIO"
+      ]
+    },
+    {
+      "title": "FASHION MAGAZINES",
+      "color": "green",
+      "words": [
+        "ALLURE",
+        "ELLE",
+        "GLAMOUR",
+        "W"
+      ]
+    },
+    {
+      "title": "STORMS",
+      "color": "blue",
+      "words": [
+        "BLIZZARD",
+        "CYCLONE",
+        "SQUALL",
+        "TORNADO"
+      ]
+    },
+    {
+      "title": "COCKTAILS",
+      "color": "purple",
+      "words": [
+        "COSMOPOLITAN",
+        "HURRICANE",
+        "MANHATTAN",
+        "SCREWDRIVER"
+      ]
+    }
+  ]
+}

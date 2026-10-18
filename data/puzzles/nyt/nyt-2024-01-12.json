@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-12",
+  "groups": [
+    {
+      "title": "TOPIC OF DISCUSSION",
+      "color": "yellow",
+      "words": [
+        "ISSUE",
+        "MATTER",
+        "POINT",
+        "SUBJECT"
+      ]
+    },
+    {
+      "title": "SECTION OF ONE’S LIFE",
+      "color": "green",
+      "words": [
+        "CHAPTER",
+        "PERIOD",
+        "PHASE",
+        "STAGE"
+      ]
+    },
+    {
+      "title": "PARTS OF A CAR, INFORMALLY",
+      "color": "blue",
+      "words": [
+        "DASH",
+        "SHOCK",
+        "TANK",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "COLOR HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "BLEW",
+        "CHORAL",
+        "READ",
+        "ROWS"
+      ]
+    }
+  ]
+}

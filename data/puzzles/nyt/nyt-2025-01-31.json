@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-31",
+  "groups": [
+    {
+      "title": "STORAGE CONTAINERS",
+      "color": "yellow",
+      "words": [
+        "CASE",
+        "CHEST",
+        "CRATE",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "SCHNOZZ",
+      "color": "green",
+      "words": [
+        "BEAK",
+        "HONKER",
+        "SNOOT",
+        "SNOUT"
+      ]
+    },
+    {
+      "title": "ONES WITH DISCERNING TASTES",
+      "color": "blue",
+      "words": [
+        "CONNOISSEUR",
+        "CRITIC",
+        "EXPERT",
+        "SNOB"
+      ]
+    },
+    {
+      "title": "STARTS OF SWIMMING STROKES",
+      "color": "purple",
+      "words": [
+        "BACK",
+        "BREAST",
+        "BUTTER",
+        "FREE"
+      ]
+    }
+  ]
+}

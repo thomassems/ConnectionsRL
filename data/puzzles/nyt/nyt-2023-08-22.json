@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-22",
+  "groups": [
+    {
+      "title": "PERFORMING ARTISTS",
+      "color": "yellow",
+      "words": [
+        "ACTOR",
+        "DANCER",
+        "SINGER",
+        "STAND-UP"
+      ]
+    },
+    {
+      "title": "SANTA’S REINDEER",
+      "color": "green",
+      "words": [
+        "COMET",
+        "CUPID",
+        "DASHER",
+        "VIXEN"
+      ]
+    },
+    {
+      "title": "SEEN ON VALENTINE’S DAY",
+      "color": "blue",
+      "words": [
+        "CARD",
+        "CHOCOLATE",
+        "HEART",
+        "ROSE"
+      ]
+    },
+    {
+      "title": "“BAD ___” MOVIES",
+      "color": "purple",
+      "words": [
+        "BOYS",
+        "LIEUTENANT",
+        "SANTA",
+        "TASTE"
+      ]
+    }
+  ]
+}

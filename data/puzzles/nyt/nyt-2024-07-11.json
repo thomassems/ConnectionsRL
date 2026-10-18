@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-11",
+  "groups": [
+    {
+      "title": "SCHOOL SUPPLIES",
+      "color": "yellow",
+      "words": [
+        "PEN",
+        "RULER",
+        "SCISSORS",
+        "TAPE"
+      ]
+    },
+    {
+      "title": "FUNDAMENTAL",
+      "color": "green",
+      "words": [
+        "ESSENTIAL",
+        "KEY",
+        "PRINCIPAL",
+        "STAPLE"
+      ]
+    },
+    {
+      "title": "TRANSFER",
+      "color": "blue",
+      "words": [
+        "GIVE",
+        "HAND",
+        "PASS",
+        "SEND"
+      ]
+    },
+    {
+      "title": "LIGHT-UP SIGNS",
+      "color": "purple",
+      "words": [
+        "APPLAUSE",
+        "EXIT",
+        "RECORDING",
+        "WALK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-20",
+  "groups": [
+    {
+      "title": "RELIGIOUS FIGURES",
+      "color": "yellow",
+      "words": [
+        "CARDINAL",
+        "LAMA",
+        "MONK",
+        "PASTOR"
+      ]
+    },
+    {
+      "title": "PRIMATES",
+      "color": "green",
+      "words": [
+        "BABOON",
+        "BONOBO",
+        "GIBBON",
+        "GORILLA"
+      ]
+    },
+    {
+      "title": "CHUTNEY VARIETIES",
+      "color": "blue",
+      "words": [
+        "MANGO",
+        "MINT",
+        "TAMARIND",
+        "TOMATO"
+      ]
+    },
+    {
+      "title": "IMITATE",
+      "color": "purple",
+      "words": [
+        "APE",
+        "MIME",
+        "MIRROR",
+        "PARROT"
+      ]
+    }
+  ]
+}

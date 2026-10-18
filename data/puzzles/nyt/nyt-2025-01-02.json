@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-02",
+  "groups": [
+    {
+      "title": "PERCEIVE",
+      "color": "yellow",
+      "words": [
+        "CATCH",
+        "CLOCK",
+        "NOTICE",
+        "REGISTER"
+      ]
+    },
+    {
+      "title": "CADENCE",
+      "color": "green",
+      "words": [
+        "BEAT",
+        "METER",
+        "RHYTHM",
+        "TIME"
+      ]
+    },
+    {
+      "title": "ONE IN A GROUP OF TWELVE",
+      "color": "blue",
+      "words": [
+        "DONUT",
+        "INCH",
+        "JUROR",
+        "MONTH"
+      ]
+    },
+    {
+      "title": "DOG ___",
+      "color": "purple",
+      "words": [
+        "DAYS",
+        "PADDLE",
+        "TAG",
+        "TIRED"
+      ]
+    }
+  ]
+}

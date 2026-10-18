@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-07",
+  "groups": [
+    {
+      "title": "DREAM UP",
+      "color": "yellow",
+      "words": [
+        "CONCEIVE",
+        "ENVISION",
+        "IMAGINE",
+        "PICTURE"
+      ]
+    },
+    {
+      "title": "THIN COVERING",
+      "color": "green",
+      "words": [
+        "COAT",
+        "FILM",
+        "LAYER",
+        "SKIN"
+      ]
+    },
+    {
+      "title": "REMOVE, AS CRUMBS",
+      "color": "blue",
+      "words": [
+        "BRUSH",
+        "FLICK",
+        "SWEEP",
+        "WIPE"
+      ]
+    },
+    {
+      "title": "VERBS FOR A SOFTWARE ENGINEER",
+      "color": "purple",
+      "words": [
+        "CODE",
+        "DEVELOP",
+        "HACK",
+        "PROGRAM"
+      ]
+    }
+  ]
+}

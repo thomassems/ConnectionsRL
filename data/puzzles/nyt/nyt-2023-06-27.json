@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-27",
+  "groups": [
+    {
+      "title": "COFFEE DRINKS",
+      "color": "yellow",
+      "words": [
+        "AMERICANO",
+        "CAPPUCCINO",
+        "ESPRESSO",
+        "LATTE"
+      ]
+    },
+    {
+      "title": "TREE NUTS",
+      "color": "green",
+      "words": [
+        "ALMOND",
+        "CASHEW",
+        "PECAN",
+        "WALNUT"
+      ]
+    },
+    {
+      "title": "SHADES OF GREEN",
+      "color": "blue",
+      "words": [
+        "EMERALD",
+        "FOREST",
+        "KELLY",
+        "OLIVE"
+      ]
+    },
+    {
+      "title": "MR. ___",
+      "color": "purple",
+      "words": [
+        "BEAN",
+        "CLEAN",
+        "FOX",
+        "PEANUT"
+      ]
+    }
+  ]
+}

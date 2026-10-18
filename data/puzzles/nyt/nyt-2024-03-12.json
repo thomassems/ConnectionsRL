@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-12",
+  "groups": [
+    {
+      "title": "SECTION",
+      "color": "yellow",
+      "words": [
+        "CLASS",
+        "DIVISION",
+        "RANK",
+        "TIER"
+      ]
+    },
+    {
+      "title": "INCLUDING",
+      "color": "green",
+      "words": [
+        "AND",
+        "ALSO",
+        "PLUS",
+        "WITH"
+      ]
+    },
+    {
+      "title": "DOG BREEDS, INFORMALLY",
+      "color": "blue",
+      "words": [
+        "BOSTON",
+        "GOLDEN",
+        "LAB",
+        "PIT"
+      ]
+    },
+    {
+      "title": "FAMOUS POEMS",
+      "color": "purple",
+      "words": [
+        "DADDY",
+        "HARLEM",
+        "HOWL",
+        "IF"
+      ]
+    }
+  ]
+}

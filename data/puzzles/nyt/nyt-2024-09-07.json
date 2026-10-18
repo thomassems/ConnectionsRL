@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-07",
+  "groups": [
+    {
+      "title": "WAYS TO TRANSFORM AN IMAGE",
+      "color": "yellow",
+      "words": [
+        "CROP",
+        "FLIP",
+        "ROTATE",
+        "SCALE"
+      ]
+    },
+    {
+      "title": "THINGS USED IN GOLF",
+      "color": "green",
+      "words": [
+        "BALL",
+        "DRIVER",
+        "GLOVE",
+        "TEE"
+      ]
+    },
+    {
+      "title": "AQUARIUM PURCHASES",
+      "color": "blue",
+      "words": [
+        "FILTER",
+        "PUMP",
+        "ROCKS",
+        "TANK"
+      ]
+    },
+    {
+      "title": "LOGOS WITH HORSES",
+      "color": "purple",
+      "words": [
+        "COACH",
+        "GODIVA",
+        "MUSTANG",
+        "POLO"
+      ]
+    }
+  ]
+}

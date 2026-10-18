@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-29",
+  "groups": [
+    {
+      "title": "COOKING CONCOCTIONS",
+      "color": "yellow",
+      "words": [
+        "BATTER",
+        "DOUGH",
+        "MIXTURE",
+        "PASTE"
+      ]
+    },
+    {
+      "title": "SEEN ON A TABLE AT A DINNER PARTY",
+      "color": "green",
+      "words": [
+        "CANDLESTICK",
+        "PITCHER",
+        "PLACEMAT",
+        "PLATE"
+      ]
+    },
+    {
+      "title": "THINGS TO CLIMB",
+      "color": "blue",
+      "words": [
+        "LADDER",
+        "MOUNTAIN",
+        "ROPE",
+        "TREE"
+      ]
+    },
+    {
+      "title": "WHAT \"DIAMOND\" CAN REFER TO",
+      "color": "purple",
+      "words": [
+        "GEMSTONE",
+        "INFIELD",
+        "RHOMBUS",
+        "SUIT"
+      ]
+    }
+  ]
+}

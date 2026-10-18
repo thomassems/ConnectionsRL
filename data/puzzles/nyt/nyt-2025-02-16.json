@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-16",
+  "groups": [
+    {
+      "title": "GLIMMER",
+      "color": "yellow",
+      "words": [
+        "HINT",
+        "SUGGESTION",
+        "TOUCH",
+        "TRACE"
+      ]
+    },
+    {
+      "title": "CORRESPOND WELL WITH",
+      "color": "green",
+      "words": [
+        "COMPLEMENT",
+        "FIT",
+        "MATCH",
+        "SUIT"
+      ]
+    },
+    {
+      "title": "FAMOUS PUPPETS",
+      "color": "blue",
+      "words": [
+        "LAMB CHOP",
+        "OSCAR",
+        "PUNCH",
+        "TRIUMPH"
+      ]
+    },
+    {
+      "title": "DOG BREEDS MINUS “ER” SOUND",
+      "color": "purple",
+      "words": [
+        "BOX",
+        "POINT",
+        "RETRIEVE",
+        "SET"
+      ]
+    }
+  ]
+}

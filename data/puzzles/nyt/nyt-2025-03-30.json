@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-30",
+  "groups": [
+    {
+      "title": "AVERAGE",
+      "color": "yellow",
+      "words": [
+        "MEAN",
+        "NORM",
+        "PAR",
+        "STANDARD"
+      ]
+    },
+    {
+      "title": "PICTURED ON THE U.S. GREAT SEAL",
+      "color": "green",
+      "words": [
+        "ARROWS",
+        "EAGLE",
+        "OLIVE BRANCH",
+        "SHIELD"
+      ]
+    },
+    {
+      "title": "PROPER NOUNS IN BROADWAY MUSICAL TITLES THAT ARE SPOKEN PHRASES",
+      "color": "blue",
+      "words": [
+        "BIRDIE",
+        "DOLLY",
+        "KATE",
+        "YANKEES"
+      ]
+    },
+    {
+      "title": "___MAN",
+      "color": "purple",
+      "words": [
+        "BOGEY",
+        "CRAFTS",
+        "GENTLE",
+        "SPOKES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-14",
+  "groups": [
+    {
+      "title": "THINGS TO PAY",
+      "color": "yellow",
+      "words": [
+        "BILL",
+        "CHECK",
+        "INVOICE",
+        "TAB"
+      ]
+    },
+    {
+      "title": "THIEVE",
+      "color": "green",
+      "words": [
+        "PINCH",
+        "ROB",
+        "STEAL",
+        "SWIPE"
+      ]
+    },
+    {
+      "title": "MALE ANIMALS",
+      "color": "blue",
+      "words": [
+        "BUCK",
+        "BULL",
+        "JACK",
+        "TOM"
+      ]
+    },
+    {
+      "title": "LEGWEAR, IN THE SINGULAR",
+      "color": "purple",
+      "words": [
+        "JEAN",
+        "PANT",
+        "SHORT",
+        "TIGHT"
+      ]
+    }
+  ]
+}

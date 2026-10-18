@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-10",
+  "groups": [
+    {
+      "title": "SPRINKLE",
+      "color": "yellow",
+      "words": [
+        "DUST",
+        "PEPPER",
+        "SCATTER",
+        "SHOWER"
+      ]
+    },
+    {
+      "title": "SCENTS OF WINE",
+      "color": "green",
+      "words": [
+        "AROMA",
+        "BOUQUET",
+        "NOSE",
+        "NOTE"
+      ]
+    },
+    {
+      "title": "“AAH, ENOUGH!”",
+      "color": "blue",
+      "words": [
+        "MERCY",
+        "STOP",
+        "TRUCE",
+        "UNCLE"
+      ]
+    },
+    {
+      "title": "WORDS FAMOUSLY PRONOUNCED DIFFERENT WAYS",
+      "color": "purple",
+      "words": [
+        "AUNT",
+        "EITHER",
+        "TOMATO",
+        "VASE"
+      ]
+    }
+  ]
+}

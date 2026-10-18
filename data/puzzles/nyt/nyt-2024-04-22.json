@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-22",
+  "groups": [
+    {
+      "title": "SLANG FOR FRIEND",
+      "color": "yellow",
+      "words": [
+        "BUD",
+        "CHUM",
+        "MATE",
+        "PAL"
+      ]
+    },
+    {
+      "title": "ADJECTIVES FOR A BASEMENT",
+      "color": "green",
+      "words": [
+        "COLD",
+        "DANK",
+        "DARK",
+        "MUSTY"
+      ]
+    },
+    {
+      "title": "STUBBLE",
+      "color": "blue",
+      "words": [
+        "FUZZ",
+        "SCRUFF",
+        "SHADOW",
+        "WHISKERS"
+      ]
+    },
+    {
+      "title": "COLLECTION OF MONEY",
+      "color": "purple",
+      "words": [
+        "FUND",
+        "KITTY",
+        "POOL",
+        "POT"
+      ]
+    }
+  ]
+}

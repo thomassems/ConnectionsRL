@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-20",
+  "groups": [
+    {
+      "title": "CONTACT VIA PHONE",
+      "color": "yellow",
+      "words": [
+        "BUZZ",
+        "CALL",
+        "DIAL",
+        "RING"
+      ]
+    },
+    {
+      "title": "BOOK SECTIONS",
+      "color": "green",
+      "words": [
+        "APPENDIX",
+        "CHAPTER",
+        "INDEX",
+        "PREFACE"
+      ]
+    },
+    {
+      "title": "WEE",
+      "color": "blue",
+      "words": [
+        "DINKY",
+        "LITTLE",
+        "MINUTE",
+        "SLIGHT"
+      ]
+    },
+    {
+      "title": "CARTOON MICE",
+      "color": "purple",
+      "words": [
+        "ITCHY",
+        "JERRY",
+        "PINKY",
+        "SPEEDY"
+      ]
+    }
+  ]
+}

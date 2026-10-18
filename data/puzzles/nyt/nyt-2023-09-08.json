@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-08",
+  "groups": [
+    {
+      "title": "INHERENT NATURE",
+      "color": "yellow",
+      "words": [
+        "ESSENCE",
+        "HEART",
+        "SPIRIT",
+        "SOUL"
+      ]
+    },
+    {
+      "title": "FERMENTED ALCOHOLIC BEVERAGES",
+      "color": "green",
+      "words": [
+        "CIDER",
+        "PORT",
+        "SAKE",
+        "STOUT"
+      ]
+    },
+    {
+      "title": "PIXAR MOVIES",
+      "color": "blue",
+      "words": [
+        "BRAVE",
+        "CARS",
+        "COCO",
+        "UP"
+      ]
+    },
+    {
+      "title": "___ TAPE",
+      "color": "purple",
+      "words": [
+        "DEMO",
+        "RED",
+        "SCOTCH",
+        "TICKER"
+      ]
+    }
+  ]
+}

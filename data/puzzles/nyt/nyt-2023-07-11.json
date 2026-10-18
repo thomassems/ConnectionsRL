@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-11",
+  "groups": [
+    {
+      "title": "NFL PLAYERS",
+      "color": "yellow",
+      "words": [
+        "BRONCO",
+        "COWBOY",
+        "PACKER",
+        "RAVEN"
+      ]
+    },
+    {
+      "title": "PASTA SHAPES",
+      "color": "green",
+      "words": [
+        "BOWTIE",
+        "ELBOW",
+        "SHELL",
+        "SPIRAL"
+      ]
+    },
+    {
+      "title": "JOINTS",
+      "color": "blue",
+      "words": [
+        "HIP",
+        "KNEE",
+        "SHOULDER",
+        "WRIST"
+      ]
+    },
+    {
+      "title": "MOVIES WITH “!”",
+      "color": "purple",
+      "words": [
+        "AIRPLANE",
+        "MOTHER",
+        "OKLAHOMA",
+        "THEM"
+      ]
+    }
+  ]
+}

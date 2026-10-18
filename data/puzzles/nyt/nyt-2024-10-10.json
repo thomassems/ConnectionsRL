@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-10",
+  "groups": [
+    {
+      "title": "BODY PARTS",
+      "color": "yellow",
+      "words": [
+        "ARM",
+        "EYE",
+        "HIP",
+        "LEG"
+      ]
+    },
+    {
+      "title": "COOL, IN ’80S SLANG",
+      "color": "green",
+      "words": [
+        "BAD",
+        "FLY",
+        "ILL",
+        "RAD"
+      ]
+    },
+    {
+      "title": "MOVIES",
+      "color": "blue",
+      "words": [
+        "BIG",
+        "ELF",
+        "HER",
+        "SAW"
+      ]
+    },
+    {
+      "title": "WORDS IN “DO-RE-MI”",
+      "color": "purple",
+      "words": [
+        "DOE",
+        "FAR",
+        "SEW",
+        "TEA"
+      ]
+    }
+  ]
+}

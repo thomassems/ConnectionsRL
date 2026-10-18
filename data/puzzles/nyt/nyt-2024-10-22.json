@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-22",
+  "groups": [
+    {
+      "title": "BRAND-NAME",
+      "color": "yellow",
+      "words": [
+        "DESIGNER",
+        "HAUTE",
+        "HIGH-END",
+        "LUXURY"
+      ]
+    },
+    {
+      "title": "DEVISE",
+      "color": "green",
+      "words": [
+        "CONCOCT",
+        "ENGINEER",
+        "HATCH",
+        "MASTERMIND"
+      ]
+    },
+    {
+      "title": "NASA SPACECRAFT",
+      "color": "blue",
+      "words": [
+        "GALILEO",
+        "PIONEER",
+        "VIKING",
+        "VOYAGER"
+      ]
+    },
+    {
+      "title": "GAMES WHERE YOU SAY THE GAME’S NAME",
+      "color": "purple",
+      "words": [
+        "BINGO",
+        "MARCO POLO",
+        "TAG",
+        "UNO"
+      ]
+    }
+  ]
+}

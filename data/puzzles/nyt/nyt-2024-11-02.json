@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-02",
+  "groups": [
+    {
+      "title": "SEEN IN A KITCHEN",
+      "color": "yellow",
+      "words": [
+        "COUNTER",
+        "FRIDGE",
+        "RANGE",
+        "SINK"
+      ]
+    },
+    {
+      "title": "GROUP OF ADVISORS",
+      "color": "green",
+      "words": [
+        "BOARD",
+        "CABINET",
+        "COUNCIL",
+        "PANEL"
+      ]
+    },
+    {
+      "title": "CORE EXERCISES",
+      "color": "blue",
+      "words": [
+        "BOAT",
+        "CRUNCH",
+        "MOUNTAIN CLIMBER",
+        "PLANK"
+      ]
+    },
+    {
+      "title": "KINDS OF EARRINGS",
+      "color": "purple",
+      "words": [
+        "CHANDELIER",
+        "DROP",
+        "HOOP",
+        "STUD"
+      ]
+    }
+  ]
+}

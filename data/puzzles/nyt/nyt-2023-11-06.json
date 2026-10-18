@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-06",
+  "groups": [
+    {
+      "title": "INVESTMENTS",
+      "color": "yellow",
+      "words": [
+        "BOND",
+        "CD",
+        "OPTION",
+        "STOCK"
+      ]
+    },
+    {
+      "title": "TERMS FOR RECORDS",
+      "color": "green",
+      "words": [
+        "LP",
+        "PLATTER",
+        "VINYL",
+        "WAX"
+      ]
+    },
+    {
+      "title": "CUBE-SHAPED",
+      "color": "blue",
+      "words": [
+        "BOUILLON",
+        "DIE",
+        "ICE",
+        "SUGAR"
+      ]
+    },
+    {
+      "title": "WORDS THAT GO WITH “BONE”",
+      "color": "purple",
+      "words": [
+        "FUNNY",
+        "HERRING",
+        "SOUP",
+        "WISH"
+      ]
+    }
+  ]
+}

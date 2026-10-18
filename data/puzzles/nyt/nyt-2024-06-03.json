@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-03",
+  "groups": [
+    {
+      "title": "REMOVE, AS BODY HAIR",
+      "color": "yellow",
+      "words": [
+        "LASER",
+        "PLUCK",
+        "THREAD",
+        "WAX"
+      ]
+    },
+    {
+      "title": "TWIST AROUND",
+      "color": "green",
+      "words": [
+        "COIL",
+        "SPOOL",
+        "WIND",
+        "WRAP"
+      ]
+    },
+    {
+      "title": "THINGS MADE OF CELLS",
+      "color": "blue",
+      "words": [
+        "HONEYCOMB",
+        "ORGANISM",
+        "SOLAR PANEL",
+        "SPREADSHEET"
+      ]
+    },
+    {
+      "title": "B-___",
+      "color": "purple",
+      "words": [
+        "BALL",
+        "MOVIE",
+        "SCHOOL",
+        "VITAMIN"
+      ]
+    }
+  ]
+}

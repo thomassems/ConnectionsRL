@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-12",
+  "groups": [
+    {
+      "title": "SHORT PERIOD OF TIME",
+      "color": "yellow",
+      "words": [
+        "BIT",
+        "FLASH",
+        "JIFF",
+        "SEC"
+      ]
+    },
+    {
+      "title": "DO WRONG",
+      "color": "green",
+      "words": [
+        "ERR",
+        "FALL",
+        "SIN",
+        "STRAY"
+      ]
+    },
+    {
+      "title": "N.B.A. PLAYER",
+      "color": "blue",
+      "words": [
+        "BUCK",
+        "NET",
+        "SPUR",
+        "SUN"
+      ]
+    },
+    {
+      "title": "STARTS OF AFRICAN COUNTRIES",
+      "color": "purple",
+      "words": [
+        "BOTS",
+        "CAME",
+        "KEN",
+        "TAN"
+      ]
+    }
+  ]
+}

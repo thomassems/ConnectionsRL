@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-02",
+  "groups": [
+    {
+      "title": "WAYS TO SHOW RESPECT",
+      "color": "yellow",
+      "words": [
+        "BOW",
+        "KNEEL",
+        "SALUTE",
+        "STAND"
+      ]
+    },
+    {
+      "title": "IPHONE APPS",
+      "color": "green",
+      "words": [
+        "CLOCK",
+        "MAIL",
+        "MAPS",
+        "NOTES"
+      ]
+    },
+    {
+      "title": "ANIMAL COVERINGS",
+      "color": "blue",
+      "words": [
+        "DOWN",
+        "FUR",
+        "SCALES",
+        "SHELL"
+      ]
+    },
+    {
+      "title": "“POINTERS”",
+      "color": "purple",
+      "words": [
+        "ARROW",
+        "DOG",
+        "FINGER",
+        "HINT"
+      ]
+    }
+  ]
+}

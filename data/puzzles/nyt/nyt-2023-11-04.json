@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-04",
+  "groups": [
+    {
+      "title": "WAYS TO PREPARE",
+      "color": "yellow",
+      "words": [
+        "DRILL",
+        "PRACTICE",
+        "STUDY",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "HOLLOW CYLINDERS",
+      "color": "green",
+      "words": [
+        "HOSE",
+        "PIPE",
+        "STRAW",
+        "TUBE"
+      ]
+    },
+    {
+      "title": "WEAPONS IN THE GAME CLUE",
+      "color": "blue",
+      "words": [
+        "CANDLESTICK",
+        "KNIFE",
+        "ROPE",
+        "WRENCH"
+      ]
+    },
+    {
+      "title": "“E-” THINGS",
+      "color": "purple",
+      "words": [
+        "CIGARETTE",
+        "BIKE",
+        "TICKET",
+        "SPORTS"
+      ]
+    }
+  ]
+}

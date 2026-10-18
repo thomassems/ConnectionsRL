@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-21",
+  "groups": [
+    {
+      "title": "TABLEWARE",
+      "color": "yellow",
+      "words": [
+        "BOWL",
+        "DISH",
+        "PLATE",
+        "SAUCER"
+      ]
+    },
+    {
+      "title": "NONSENSE",
+      "color": "green",
+      "words": [
+        "BALONEY",
+        "BUNK",
+        "CROCK",
+        "TRIPE"
+      ]
+    },
+    {
+      "title": "BRA PARTS",
+      "color": "blue",
+      "words": [
+        "CUP",
+        "HOOK",
+        "STRAP",
+        "WIRE"
+      ]
+    },
+    {
+      "title": "ACRONYMS",
+      "color": "purple",
+      "words": [
+        "LASER",
+        "RADAR",
+        "SCUBA",
+        "SPAM"
+      ]
+    }
+  ]
+}

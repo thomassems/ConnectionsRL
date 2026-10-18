@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-02",
+  "groups": [
+    {
+      "title": "CELLPHONE MODES",
+      "color": "yellow",
+      "words": [
+        "AIRPLANE",
+        "DO NOT DISTURB",
+        "RING",
+        "VIBRATE"
+      ]
+    },
+    {
+      "title": "EVADE",
+      "color": "green",
+      "words": [
+        "DODGE",
+        "ESCAPE",
+        "LOSE",
+        "SHAKE"
+      ]
+    },
+    {
+      "title": "WHAT “W” MIGHT STAND FOR",
+      "color": "blue",
+      "words": [
+        "TUNGSTEN",
+        "WATT",
+        "WEST",
+        "WIN"
+      ]
+    },
+    {
+      "title": "___STRING",
+      "color": "purple",
+      "words": [
+        "DRAW",
+        "HAM",
+        "HEART",
+        "SHOE"
+      ]
+    }
+  ]
+}

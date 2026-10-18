@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-06",
+  "groups": [
+    {
+      "title": "DESSERTS",
+      "color": "yellow",
+      "words": [
+        "CHEESECAKE",
+        "FLAN",
+        "MOUSSE",
+        "TIRAMISU"
+      ]
+    },
+    {
+      "title": "MILD OATHS",
+      "color": "green",
+      "words": [
+        "DARN",
+        "FUDGE",
+        "HECK",
+        "SHOOT"
+      ]
+    },
+    {
+      "title": "ANIMALS WITH TUSKS",
+      "color": "blue",
+      "words": [
+        "ELEPHANT",
+        "HIPPO",
+        "NARWHAL",
+        "WARTHOG"
+      ]
+    },
+    {
+      "title": "MUSTACHES",
+      "color": "purple",
+      "words": [
+        "HANDLEBAR",
+        "HORSESHOE",
+        "PENCIL",
+        "WALRUS"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-26",
+  "groups": [
+    {
+      "title": "BOARD GAMES",
+      "color": "yellow",
+      "words": [
+        "RISK",
+        "SORRY",
+        "TABOO",
+        "TROUBLE"
+      ]
+    },
+    {
+      "title": "NEWSPAPER SECTIONS",
+      "color": "green",
+      "words": [
+        "BUSINESS",
+        "NATIONAL",
+        "OPINION",
+        "STYLE"
+      ]
+    },
+    {
+      "title": "FIGURES IN GREEK MYTH",
+      "color": "blue",
+      "words": [
+        "ATLAS",
+        "HERMES",
+        "NIKE",
+        "PARIS"
+      ]
+    },
+    {
+      "title": "FIRST WORDS IN RAPPERS’ NAMES",
+      "color": "purple",
+      "words": [
+        "FOXY",
+        "GUCCI",
+        "KILLER",
+        "NOTORIOUS"
+      ]
+    }
+  ]
+}

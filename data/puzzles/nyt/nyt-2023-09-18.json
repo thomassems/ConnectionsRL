@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-18",
+  "groups": [
+    {
+      "title": "INTELLIGENT",
+      "color": "yellow",
+      "words": [
+        "BRIGHT",
+        "CLEVER",
+        "QUICK",
+        "SHARP"
+      ]
+    },
+    {
+      "title": "AIRLINES",
+      "color": "green",
+      "words": [
+        "ALASKA",
+        "FRONTIER",
+        "SOUTHWEST",
+        "SPIRIT"
+      ]
+    },
+    {
+      "title": "WESTERN TROPES",
+      "color": "blue",
+      "words": [
+        "COWBOY",
+        "DRIFTER",
+        "OUTLAW",
+        "SHERIFF"
+      ]
+    },
+    {
+      "title": "TV SHOW TITLE SURNAMES",
+      "color": "purple",
+      "words": [
+        "LASSO",
+        "MARS",
+        "ROGERS",
+        "SMART"
+      ]
+    }
+  ]
+}

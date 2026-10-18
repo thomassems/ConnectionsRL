@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-22",
+  "groups": [
+    {
+      "title": "MUSICAL INSTRUMENTS",
+      "color": "yellow",
+      "words": [
+        "TAMBOURINE",
+        "THEREMIN",
+        "TIMPANI",
+        "TROMBONE"
+      ]
+    },
+    {
+      "title": "KNICKKNACK",
+      "color": "green",
+      "words": [
+        "TCHOTCHKE",
+        "THINGAMAJIG",
+        "TRIFLE",
+        "TRINKET"
+      ]
+    },
+    {
+      "title": "WORDS WITH THE PREFIX MEANING “THREE”",
+      "color": "blue",
+      "words": [
+        "TRIANGLE",
+        "TRIDENT",
+        "TRILLION",
+        "TRILOBITE"
+      ]
+    },
+    {
+      "title": "WORDS ABBREVIATED WITH “T” + LETTER",
+      "color": "purple",
+      "words": [
+        "TELEVISION",
+        "TOUCHDOWN",
+        "TRADEMARK",
+        "TUBERCULOSIS"
+      ]
+    }
+  ]
+}

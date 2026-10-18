@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-11",
+  "groups": [
+    {
+      "title": "MONOTONOUS SOUNDS",
+      "color": "yellow",
+      "words": [
+        "BUZZ",
+        "DRONE",
+        "HUM",
+        "PURR"
+      ]
+    },
+    {
+      "title": "BOATS",
+      "color": "green",
+      "words": [
+        "BARGE",
+        "DORY",
+        "SCOW",
+        "SLOOP"
+      ]
+    },
+    {
+      "title": "CAPTAINS",
+      "color": "blue",
+      "words": [
+        "AMERICA",
+        "HOOK",
+        "MORGAN",
+        "NEMO"
+      ]
+    },
+    {
+      "title": "PREFIXES WITH -CRACY",
+      "color": "purple",
+      "words": [
+        "AUTO",
+        "BUREAU",
+        "DEMO",
+        "PLUTO"
+      ]
+    }
+  ]
+}

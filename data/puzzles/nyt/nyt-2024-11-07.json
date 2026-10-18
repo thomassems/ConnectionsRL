@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-07",
+  "groups": [
+    {
+      "title": "FOOD-RELATED JUMBLES",
+      "color": "yellow",
+      "words": [
+        "HASH",
+        "SALAD",
+        "SCRAMBLE",
+        "STEW"
+      ]
+    },
+    {
+      "title": "PUBLIC STANDING",
+      "color": "green",
+      "words": [
+        "CHARACTER",
+        "IMAGE",
+        "NAME",
+        "REPUTATION"
+      ]
+    },
+    {
+      "title": "INFO ON A MUSEUM PLACARD",
+      "color": "blue",
+      "words": [
+        "ARTIST",
+        "MEDIUM",
+        "TITLE",
+        "YEAR"
+      ]
+    },
+    {
+      "title": "ANAGRAMS OF FAMOUS PAINTERS",
+      "color": "purple",
+      "words": [
+        "DIAL",
+        "EGADS",
+        "MONTE",
+        "YOGA"
+      ]
+    }
+  ]
+}

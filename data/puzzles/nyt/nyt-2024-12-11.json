@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-11",
+  "groups": [
+    {
+      "title": "UTOPIA",
+      "color": "yellow",
+      "words": [
+        "PARADISE",
+        "SEVENTH HEAVEN",
+        "SHANGRI-LA",
+        "XANADU"
+      ]
+    },
+    {
+      "title": "THINGS YOU SHAKE",
+      "color": "green",
+      "words": [
+        "HAIRSPRAY",
+        "MAGIC 8 BALL",
+        "SALAD DRESSING",
+        "SNOWGLOBE"
+      ]
+    },
+    {
+      "title": "PROPER NOUN PORTMANTEAUX",
+      "color": "blue",
+      "words": [
+        "JAZZERCISE",
+        "PARALYMPICS",
+        "POKÉMON",
+        "WIKIPEDIA"
+      ]
+    },
+    {
+      "title": "ENDING IN SYNONYMS FOR “FRIEND”",
+      "color": "purple",
+      "words": [
+        "KETCHUM",
+        "PAYPAL",
+        "PRIMATE",
+        "ROSEBUD"
+      ]
+    }
+  ]
+}

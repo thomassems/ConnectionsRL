@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-28",
+  "groups": [
+    {
+      "title": "ROOMS IN A HOUSE",
+      "color": "yellow",
+      "words": [
+        "BEDROOM",
+        "DEN",
+        "KITCHEN",
+        "STUDY"
+      ]
+    },
+    {
+      "title": "LAND SURROUNDED BY WATER",
+      "color": "green",
+      "words": [
+        "ATOLL",
+        "BAR",
+        "ISLAND",
+        "KEY"
+      ]
+    },
+    {
+      "title": "FILL TO EXCESS",
+      "color": "blue",
+      "words": [
+        "CRAM",
+        "JAM",
+        "PACK",
+        "STUFF"
+      ]
+    },
+    {
+      "title": "BEAN ___",
+      "color": "purple",
+      "words": [
+        "BAG",
+        "COUNTER",
+        "DIP",
+        "SPROUT"
+      ]
+    }
+  ]
+}

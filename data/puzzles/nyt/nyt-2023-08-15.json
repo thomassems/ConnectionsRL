@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-15",
+  "groups": [
+    {
+      "title": "STATES OF MATTER",
+      "color": "yellow",
+      "words": [
+        "GAS",
+        "LIQUID",
+        "PLASMA",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "ENERGY",
+      "color": "green",
+      "words": [
+        "JUICE",
+        "SPIRIT",
+        "STEAM",
+        "VIGOR"
+      ]
+    },
+    {
+      "title": "CLASSICAL ELEMENTS",
+      "color": "blue",
+      "words": [
+        "AIR",
+        "EARTH",
+        "FIRE",
+        "WATER"
+      ]
+    },
+    {
+      "title": "THINGS WITH RINGS",
+      "color": "purple",
+      "words": [
+        "CIRCUS",
+        "SATURN",
+        "TREE",
+        "WEDDING"
+      ]
+    }
+  ]
+}

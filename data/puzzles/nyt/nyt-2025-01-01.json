@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-01",
+  "groups": [
+    {
+      "title": "SLIMY ANIMALS",
+      "color": "yellow",
+      "words": [
+        "EARTHWORM",
+        "EEL",
+        "SALAMANDER",
+        "SLUG"
+      ]
+    },
+    {
+      "title": "THINGS THAT LUMINESCE",
+      "color": "green",
+      "words": [
+        "AURORA",
+        "FIREFLY",
+        "GLOWSTICK",
+        "RADIUM"
+      ]
+    },
+    {
+      "title": "DUTCH SYMBOLS",
+      "color": "blue",
+      "words": [
+        "CANAL",
+        "CLOG",
+        "TULIP",
+        "WINDMILL"
+      ]
+    },
+    {
+      "title": "ENDING WITH SYNONYMS FOR “PLUNGE”",
+      "color": "purple",
+      "words": [
+        "GATECRASH",
+        "RAINDROP",
+        "SKYDIVE",
+        "WATERFALL"
+      ]
+    }
+  ]
+}

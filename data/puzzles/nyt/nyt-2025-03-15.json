@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-15",
+  "groups": [
+    {
+      "title": "SHARP PROTRUSION",
+      "color": "yellow",
+      "words": [
+        "BARB",
+        "BRISTLE",
+        "NEEDLE",
+        "SPINE"
+      ]
+    },
+    {
+      "title": "FEATURES OF STRINGED INSTRUMENTS",
+      "color": "green",
+      "words": [
+        "BRIDGE",
+        "NECK",
+        "PEG",
+        "STRING"
+      ]
+    },
+    {
+      "title": "LITIGATION VERBS",
+      "color": "blue",
+      "words": [
+        "CHARGE",
+        "MOVE",
+        "SERVE",
+        "SUE"
+      ]
+    },
+    {
+      "title": "IN “STAR LIGHT, STAR BRIGHT”",
+      "color": "purple",
+      "words": [
+        "MAY",
+        "MIGHT",
+        "TONIGHT",
+        "WISH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-26",
+  "groups": [
+    {
+      "title": "BASIC TASTES",
+      "color": "yellow",
+      "words": [
+        "BITTER",
+        "SALTY",
+        "SOUR",
+        "SWEET"
+      ]
+    },
+    {
+      "title": "STAND UP TO, AS A CHALLENGE",
+      "color": "green",
+      "words": [
+        "BRAVE",
+        "CONFRONT",
+        "FACE",
+        "MEET"
+      ]
+    },
+    {
+      "title": "ILK",
+      "color": "blue",
+      "words": [
+        "KIND",
+        "SORT",
+        "TYPE",
+        "VARIETY"
+      ]
+    },
+    {
+      "title": "ART MOVEMENTS, WITH -ISM",
+      "color": "purple",
+      "words": [
+        "EXPRESSION",
+        "MANNER",
+        "ROMANTIC",
+        "SURREAL"
+      ]
+    }
+  ]
+}

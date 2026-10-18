@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-11",
+  "groups": [
+    {
+      "title": "LUXURIOUS FABRICS",
+      "color": "yellow",
+      "words": [
+        "CHIFFON",
+        "SATIN",
+        "SILK",
+        "VELVET"
+      ]
+    },
+    {
+      "title": "COME DOWN TO REST",
+      "color": "green",
+      "words": [
+        "PERCH",
+        "ROOST",
+        "SETTLE",
+        "LAND"
+      ]
+    },
+    {
+      "title": "SHOE PARTS",
+      "color": "blue",
+      "words": [
+        "EYELET",
+        "LACE",
+        "SOLE",
+        "TONGUE"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE DELIVERED",
+      "color": "purple",
+      "words": [
+        "BABY",
+        "BLOW",
+        "PACKAGE",
+        "SPEECH"
+      ]
+    }
+  ]
+}

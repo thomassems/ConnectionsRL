@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-02",
+  "groups": [
+    {
+      "title": "INTELLIGENCE OPERATIVE",
+      "color": "yellow",
+      "words": [
+        "AGENT",
+        "ASSET",
+        "MOLE",
+        "SLEEPER"
+      ]
+    },
+    {
+      "title": "UNITS IN POETRY",
+      "color": "green",
+      "words": [
+        "FOOT",
+        "LINE",
+        "METER",
+        "VERSE"
+      ]
+    },
+    {
+      "title": "EXPRESS INDIRECTLY",
+      "color": "blue",
+      "words": [
+        "COUCH",
+        "IMPLY",
+        "INTIMATE",
+        "SUGGEST"
+      ]
+    },
+    {
+      "title": "WHAT “K” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "KELVIN",
+        "OKAY",
+        "POTASSIUM",
+        "THOUSAND"
+      ]
+    }
+  ]
+}

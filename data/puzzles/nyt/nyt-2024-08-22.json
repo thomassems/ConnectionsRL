@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-22",
+  "groups": [
+    {
+      "title": "CLASSIC MOVIE THEATER EQUIPMENT",
+      "color": "yellow",
+      "words": [
+        "PROJECTOR",
+        "REEL",
+        "SCREEN",
+        "SPEAKER"
+      ]
+    },
+    {
+      "title": "TIER",
+      "color": "green",
+      "words": [
+        "DECK",
+        "FLOOR",
+        "LEVEL",
+        "STORY"
+      ]
+    },
+    {
+      "title": "NEWSPAPER NAMES",
+      "color": "blue",
+      "words": [
+        "GLOBE",
+        "MIRROR",
+        "POST",
+        "SUN"
+      ]
+    },
+    {
+      "title": "PRANK VERBS",
+      "color": "purple",
+      "words": [
+        "EGG",
+        "MOON",
+        "STREAK",
+        "TOILET PAPER"
+      ]
+    }
+  ]
+}

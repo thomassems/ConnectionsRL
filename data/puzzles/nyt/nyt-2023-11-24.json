@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-24",
+  "groups": [
+    {
+      "title": "CRITICIZE",
+      "color": "yellow",
+      "words": [
+        "KNOCK",
+        "PAN",
+        "ROAST",
+        "SLAM"
+      ]
+    },
+    {
+      "title": "REALITY SHOWS",
+      "color": "green",
+      "words": [
+        "ALONE",
+        "CATFISH",
+        "CHOPPED",
+        "SURVIVOR"
+      ]
+    },
+    {
+      "title": "CAR BRANDS",
+      "color": "blue",
+      "words": [
+        "FIAT",
+        "JAGUAR",
+        "MINI",
+        "RAM"
+      ]
+    },
+    {
+      "title": "___ PAD",
+      "color": "purple",
+      "words": [
+        "BACHELOR",
+        "LILY",
+        "MAXI",
+        "MOUSE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-09",
+  "groups": [
+    {
+      "title": "TV DISPLAY SETTINGS",
+      "color": "yellow",
+      "words": [
+        "BRIGHTNESS",
+        "COLOR",
+        "CONTRAST",
+        "TINT"
+      ]
+    },
+    {
+      "title": "FUZZY, AS A MEMORY",
+      "color": "green",
+      "words": [
+        "DIM",
+        "FAINT",
+        "REMOTE",
+        "VAGUE"
+      ]
+    },
+    {
+      "title": "RESULTS OF SOME ARITHMETIC",
+      "color": "blue",
+      "words": [
+        "DIFFERENCE",
+        "PRODUCT",
+        "QUOTIENT",
+        "SUM"
+      ]
+    },
+    {
+      "title": "WINDOW TREATMENTS IN THE SINGULAR",
+      "color": "purple",
+      "words": [
+        "BLIND",
+        "DRAPE",
+        "SHADE",
+        "SHUTTER"
+      ]
+    }
+  ]
+}

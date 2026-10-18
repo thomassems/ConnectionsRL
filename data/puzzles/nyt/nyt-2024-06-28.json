@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-28",
+  "groups": [
+    {
+      "title": "TYPES OF BAGS",
+      "color": "yellow",
+      "words": [
+        "CLUTCH",
+        "MESSENGER",
+        "SATCHEL",
+        "TOTE"
+      ]
+    },
+    {
+      "title": "WIGGLE ROOM",
+      "color": "green",
+      "words": [
+        "FREEDOM",
+        "LATITUDE",
+        "LICENSE",
+        "SLACK"
+      ]
+    },
+    {
+      "title": "INDICATION TO PROCEED",
+      "color": "blue",
+      "words": [
+        "CUE",
+        "PROMPT",
+        "SIGNAL",
+        "WORD"
+      ]
+    },
+    {
+      "title": "UNDERWEAR IN THE SINGULAR",
+      "color": "purple",
+      "words": [
+        "BOXER",
+        "BRIEF",
+        "DRAWER",
+        "SHORT"
+      ]
+    }
+  ]
+}

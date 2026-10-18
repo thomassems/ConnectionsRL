@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-29",
+  "groups": [
+    {
+      "title": "PROPEL INTO THE AIR",
+      "color": "yellow",
+      "words": [
+        "HOP",
+        "JUMP",
+        "LEAP",
+        "SPRING"
+      ]
+    },
+    {
+      "title": "PLACE TO STORE VALUABLES",
+      "color": "green",
+      "words": [
+        "CHEST",
+        "COFFER",
+        "SAFE",
+        "VAULT"
+      ]
+    },
+    {
+      "title": "PERIOD",
+      "color": "blue",
+      "words": [
+        "AGE",
+        "DAY",
+        "ERA",
+        "TIME"
+      ]
+    },
+    {
+      "title": "BACKWARDS ANIMALS",
+      "color": "purple",
+      "words": [
+        "DRIB",
+        "FLOW",
+        "REED",
+        "TANG"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-10",
+  "groups": [
+    {
+      "title": "BIT OF MAGIC",
+      "color": "yellow",
+      "words": [
+        "CHARM",
+        "CURSE",
+        "HEX",
+        "SPELL"
+      ]
+    },
+    {
+      "title": "FOUND AROUND A FIREPLACE",
+      "color": "green",
+      "words": [
+        "FLUE",
+        "GRATE",
+        "LOG",
+        "POKER"
+      ]
+    },
+    {
+      "title": "THINGS SEEN AT A CASINO",
+      "color": "blue",
+      "words": [
+        "CARDS",
+        "CHIPS",
+        "DICE",
+        "SLOTS"
+      ]
+    },
+    {
+      "title": "WAYS TO PREPARE CHEESE",
+      "color": "purple",
+      "words": [
+        "CRUMBLE",
+        "MELT",
+        "SHRED",
+        "SLICE"
+      ]
+    }
+  ]
+}

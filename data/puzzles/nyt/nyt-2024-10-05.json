@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-05",
+  "groups": [
+    {
+      "title": "STEAK CUTS",
+      "color": "yellow",
+      "words": [
+        "FILET",
+        "HANGER",
+        "SKIRT",
+        "T-BONE"
+      ]
+    },
+    {
+      "title": "KINDS OF UNDERWEAR",
+      "color": "green",
+      "words": [
+        "BIKINI",
+        "G-STRING",
+        "HIPSTER",
+        "THONG"
+      ]
+    },
+    {
+      "title": "INVOLVED IN A DENTIST VISIT",
+      "color": "blue",
+      "words": [
+        "DRILL",
+        "SINK",
+        "TOOTHBRUSH",
+        "X-RAY"
+      ]
+    },
+    {
+      "title": "BRANDS THAT HAVE BECOME GENERIC TERMS",
+      "color": "purple",
+      "words": [
+        "CHAPSTICK",
+        "JACUZZI",
+        "Q-TIP",
+        "XEROX"
+      ]
+    }
+  ]
+}

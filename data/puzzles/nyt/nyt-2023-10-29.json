@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-29",
+  "groups": [
+    {
+      "title": "MISHMASH",
+      "color": "yellow",
+      "words": [
+        "HASH",
+        "JUMBLE",
+        "MEDLEY",
+        "STEW"
+      ]
+    },
+    {
+      "title": "GO UP AGAINST",
+      "color": "green",
+      "words": [
+        "CHALLENGE",
+        "CONFRONT",
+        "FACE",
+        "OPPOSE"
+      ]
+    },
+    {
+      "title": "GROUP OF OFFSPRING",
+      "color": "blue",
+      "words": [
+        "BROOD",
+        "CLUTCH",
+        "HATCH",
+        "LITTER"
+      ]
+    },
+    {
+      "title": "GUITAR PARTS",
+      "color": "purple",
+      "words": [
+        "BODY",
+        "BRIDGE",
+        "FRET",
+        "NECK"
+      ]
+    }
+  ]
+}

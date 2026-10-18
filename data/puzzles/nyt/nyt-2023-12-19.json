@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-19",
+  "groups": [
+    {
+      "title": "ACCESSORIES",
+      "color": "yellow",
+      "words": [
+        "BELT",
+        "BRACELET",
+        "TIE",
+        "WATCH"
+      ]
+    },
+    {
+      "title": "COMEDIAN’S OUTPUT",
+      "color": "green",
+      "words": [
+        "BIT",
+        "JOKE",
+        "ROUTINE",
+        "SKETCH"
+      ]
+    },
+    {
+      "title": "ATTRACTION",
+      "color": "blue",
+      "words": [
+        "APPEAL",
+        "CHARM",
+        "DRAW",
+        "PULL"
+      ]
+    },
+    {
+      "title": "TWO LETTERS + NUMBER",
+      "color": "purple",
+      "words": [
+        "CANINE",
+        "FREIGHT",
+        "OFTEN",
+        "STONE"
+      ]
+    }
+  ]
+}

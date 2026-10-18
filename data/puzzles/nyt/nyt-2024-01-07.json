@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-07",
+  "groups": [
+    {
+      "title": "TECH COMPANIES",
+      "color": "yellow",
+      "words": [
+        "ALPHABET",
+        "AMAZON",
+        "APPLE",
+        "META"
+      ]
+    },
+    {
+      "title": "KINDS OF EXAMS",
+      "color": "green",
+      "words": [
+        "BAR",
+        "FINAL",
+        "ORAL",
+        "PHYSICAL"
+      ]
+    },
+    {
+      "title": "SOMETHING EXEMPLARY",
+      "color": "blue",
+      "words": [
+        "BEAUTY",
+        "GEM",
+        "MARVEL",
+        "PEACH"
+      ]
+    },
+    {
+      "title": "___ TOOTH",
+      "color": "purple",
+      "words": [
+        "BABY",
+        "EYE",
+        "SWEET",
+        "WISDOM"
+      ]
+    }
+  ]
+}

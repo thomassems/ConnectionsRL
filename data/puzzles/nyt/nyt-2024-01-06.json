@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-06",
+  "groups": [
+    {
+      "title": "STRONG SMELL",
+      "color": "yellow",
+      "words": [
+        "FUNK",
+        "MUSK",
+        "ODOR",
+        "TANG"
+      ]
+    },
+    {
+      "title": "MOVE BACK AND FORTH",
+      "color": "green",
+      "words": [
+        "ROCK",
+        "SWAY",
+        "SWING",
+        "WAVE"
+      ]
+    },
+    {
+      "title": "THINGS TO PICK",
+      "color": "blue",
+      "words": [
+        "AFRO",
+        "BONE",
+        "FIGHT",
+        "LOCK"
+      ]
+    },
+    {
+      "title": "___ BALL",
+      "color": "purple",
+      "words": [
+        "CRYSTAL",
+        "DISCO",
+        "FOUL",
+        "GUTTER"
+      ]
+    }
+  ]
+}

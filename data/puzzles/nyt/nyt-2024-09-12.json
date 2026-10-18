@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-12",
+  "groups": [
+    {
+      "title": "MARK ONLINE FOR LATER",
+      "color": "yellow",
+      "words": [
+        "BOOKMARK",
+        "FAVORITE",
+        "LIKE",
+        "SAVE"
+      ]
+    },
+    {
+      "title": "BEHALF",
+      "color": "green",
+      "words": [
+        "ADVANTAGE",
+        "BENEFIT",
+        "INTEREST",
+        "SAKE"
+      ]
+    },
+    {
+      "title": "NBA LEGENDS, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "BIRD",
+        "CURRY",
+        "KOBE",
+        "MAGIC"
+      ]
+    },
+    {
+      "title": "ENDING WITH GREEK LETTERS",
+      "color": "purple",
+      "words": [
+        "BIOTA",
+        "FETA",
+        "MOCHI",
+        "PEPSI"
+      ]
+    }
+  ]
+}

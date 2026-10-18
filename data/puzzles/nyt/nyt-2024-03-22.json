@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-22",
+  "groups": [
+    {
+      "title": "JUMPING ANIMALS",
+      "color": "yellow",
+      "words": [
+        "CRICKET",
+        "FROG",
+        "HARE",
+        "KANGAROO"
+      ]
+    },
+    {
+      "title": "APPLY PRESSURE TO",
+      "color": "green",
+      "words": [
+        "CRUSH",
+        "MASH",
+        "PRESS",
+        "SQUASH"
+      ]
+    },
+    {
+      "title": "OLYMPIC SPORTS",
+      "color": "blue",
+      "words": [
+        "BREAKING",
+        "HOCKEY",
+        "SKELETON",
+        "TRAMPOLINE"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN SET",
+      "color": "purple",
+      "words": [
+        "MOOD",
+        "RECORD",
+        "TABLE",
+        "VOLLEYBALL"
+      ]
+    }
+  ]
+}

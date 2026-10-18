@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-30",
+  "groups": [
+    {
+      "title": "INTANGIBLE QUALITY",
+      "color": "yellow",
+      "words": [
+        "AIR",
+        "AURA",
+        "HALO",
+        "VIBE"
+      ]
+    },
+    {
+      "title": "GAME DAY FARE",
+      "color": "green",
+      "words": [
+        "BEER",
+        "DIP",
+        "PIZZA",
+        "WINGS"
+      ]
+    },
+    {
+      "title": "KEEP GOING ON ABOUT, WITH “ON”",
+      "color": "blue",
+      "words": [
+        "DWELL",
+        "HARP",
+        "INSIST",
+        "LINGER"
+      ]
+    },
+    {
+      "title": "STARTING WITH EUROPEAN CAPITALS",
+      "color": "purple",
+      "words": [
+        "BERNIE",
+        "PARISH",
+        "RIGATONI",
+        "ROMEO"
+      ]
+    }
+  ]
+}

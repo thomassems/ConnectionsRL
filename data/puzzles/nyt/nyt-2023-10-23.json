@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-23",
+  "groups": [
+    {
+      "title": "CELL PHONE MODES",
+      "color": "yellow",
+      "words": [
+        "FOCUS",
+        "RING",
+        "SILENT",
+        "VIBRATE"
+      ]
+    },
+    {
+      "title": "IMPEL",
+      "color": "green",
+      "words": [
+        "DRIVE",
+        "INSPIRE",
+        "MOTIVATE",
+        "SPUR"
+      ]
+    },
+    {
+      "title": "ROMANTIC BEGINNINGS",
+      "color": "blue",
+      "words": [
+        "CONNECTION",
+        "FEELINGS",
+        "SPARK",
+        "VIBE"
+      ]
+    },
+    {
+      "title": "HARD ___",
+      "color": "purple",
+      "words": [
+        "CANDY",
+        "COPY",
+        "KNOCKS",
+        "SELTZER"
+      ]
+    }
+  ]
+}

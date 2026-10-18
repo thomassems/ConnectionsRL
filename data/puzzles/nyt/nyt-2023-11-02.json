@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-02",
+  "groups": [
+    {
+      "title": "IGNITE",
+      "color": "yellow",
+      "words": [
+        "BURN",
+        "KINDLE",
+        "LIGHT",
+        "TORCH"
+      ]
+    },
+    {
+      "title": "INFORMATION",
+      "color": "green",
+      "words": [
+        "DATA",
+        "INFO",
+        "INTEL",
+        "NEWS"
+      ]
+    },
+    {
+      "title": "LOW AREAS OF LAND",
+      "color": "blue",
+      "words": [
+        "DELL",
+        "GLEN",
+        "HOLLOW",
+        "VALLEY"
+      ]
+    },
+    {
+      "title": "THINGS WITH CORES",
+      "color": "purple",
+      "words": [
+        "APPLE",
+        "COMPUTER",
+        "PLANET",
+        "REACTOR"
+      ]
+    }
+  ]
+}

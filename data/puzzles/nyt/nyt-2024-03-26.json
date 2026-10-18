@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-26",
+  "groups": [
+    {
+      "title": "MUSICAL INSTRUMENTS",
+      "color": "yellow",
+      "words": [
+        "BASS",
+        "BASSOON",
+        "HARP",
+        "RECORDER"
+      ]
+    },
+    {
+      "title": "PLANT GROWTHS",
+      "color": "green",
+      "words": [
+        "BLOOM",
+        "BUD",
+        "SHOOT",
+        "SPROUT"
+      ]
+    },
+    {
+      "title": "BRING UP",
+      "color": "blue",
+      "words": [
+        "FOSTER",
+        "NURSE",
+        "RAISE",
+        "REAR"
+      ]
+    },
+    {
+      "title": "SOLAR EMANATIONS",
+      "color": "purple",
+      "words": [
+        "CORONA",
+        "FLARE",
+        "LIGHT",
+        "RADIATION"
+      ]
+    }
+  ]
+}

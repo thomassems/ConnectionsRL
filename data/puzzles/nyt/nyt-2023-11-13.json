@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-13",
+  "groups": [
+    {
+      "title": "UNIT OF LANGUAGE",
+      "color": "yellow",
+      "words": [
+        "LETTER",
+        "PARAGRAPH",
+        "SENTENCE",
+        "WORD"
+      ]
+    },
+    {
+      "title": "TRADEMARK",
+      "color": "green",
+      "words": [
+        "FEATURE",
+        "HALLMARK",
+        "STAMP",
+        "TRAIT"
+      ]
+    },
+    {
+      "title": "FUNNY PERSON",
+      "color": "blue",
+      "words": [
+        "CARD",
+        "CLOWN",
+        "CUTUP",
+        "JOKER"
+      ]
+    },
+    {
+      "title": "THINGS WITH LEAVES",
+      "color": "purple",
+      "words": [
+        "BOOK",
+        "TABLE",
+        "TEA",
+        "TREE"
+      ]
+    }
+  ]
+}

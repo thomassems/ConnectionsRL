@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-10",
+  "groups": [
+    {
+      "title": "AMAZON ANIMALS",
+      "color": "yellow",
+      "words": [
+        "ANACONDA",
+        "CAPYBARA",
+        "JAGUAR",
+        "TOUCAN"
+      ]
+    },
+    {
+      "title": "LOWEST POINT",
+      "color": "green",
+      "words": [
+        "BASE",
+        "BOTTOM",
+        "FOOT",
+        "FOUNDATION"
+      ]
+    },
+    {
+      "title": "MUSICALS",
+      "color": "blue",
+      "words": [
+        "COMPANY",
+        "GREASE",
+        "HAIR",
+        "RENT"
+      ]
+    },
+    {
+      "title": "SEA ___",
+      "color": "purple",
+      "words": [
+        "CHANGE",
+        "CUCUMBER",
+        "LEGS",
+        "LION"
+      ]
+    }
+  ]
+}

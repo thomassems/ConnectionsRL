@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-09",
+  "groups": [
+    {
+      "title": "CONTAINER CLOSURES",
+      "color": "yellow",
+      "words": [
+        "CAP",
+        "CORK",
+        "LID",
+        "TAB"
+      ]
+    },
+    {
+      "title": "DURATION",
+      "color": "green",
+      "words": [
+        "PERIOD",
+        "SPELL",
+        "STRETCH",
+        "TIME"
+      ]
+    },
+    {
+      "title": "REGULATE",
+      "color": "blue",
+      "words": [
+        "CHECK",
+        "CONTAIN",
+        "CURB",
+        "LIMIT"
+      ]
+    },
+    {
+      "title": "TRADEMARKS OF A PLATYPUS",
+      "color": "purple",
+      "words": [
+        "BILL",
+        "EGG",
+        "FUR",
+        "VENOM"
+      ]
+    }
+  ]
+}

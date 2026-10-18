@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-28",
+  "groups": [
+    {
+      "title": "“NOTHING TO IT!”",
+      "color": "yellow",
+      "words": [
+        "EASY",
+        "NO SWEAT",
+        "PIECE OF CAKE",
+        "SURE THING"
+      ]
+    },
+    {
+      "title": "OBJECTS FROM GREEK MYTH",
+      "color": "green",
+      "words": [
+        "AEGIS",
+        "APPLE OF DISCORD",
+        "GOLDEN FLEECE",
+        "PANDORA’S BOX"
+      ]
+    },
+    {
+      "title": "PROVERBIAL THINGS TO KICK",
+      "color": "blue",
+      "words": [
+        "CAN",
+        "HABIT",
+        "HORNETS’ NEST",
+        "TIRES"
+      ]
+    },
+    {
+      "title": "STARTING WITH POSSESSIVE PRONOUNS",
+      "color": "purple",
+      "words": [
+        "HERSHEY",
+        "HISTAMINE",
+        "ITSY",
+        "MINEFIELD"
+      ]
+    }
+  ]
+}

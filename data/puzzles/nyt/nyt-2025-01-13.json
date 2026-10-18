@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-13",
+  "groups": [
+    {
+      "title": "TEACH",
+      "color": "yellow",
+      "words": [
+        "COACH",
+        "GUIDE",
+        "SCHOOL",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "CACHE",
+      "color": "green",
+      "words": [
+        "BANK",
+        "POOL",
+        "RESERVE",
+        "STORE"
+      ]
+    },
+    {
+      "title": "DRIVING INSTRUCTOR DIRECTIVES",
+      "color": "blue",
+      "words": [
+        "BRAKE",
+        "PARK",
+        "SIGNAL",
+        "TURN"
+      ]
+    },
+    {
+      "title": "___WORM",
+      "color": "purple",
+      "words": [
+        "BOOK",
+        "EARTH",
+        "GLOW",
+        "INCH"
+      ]
+    }
+  ]
+}

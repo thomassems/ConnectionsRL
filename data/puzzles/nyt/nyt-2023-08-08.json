@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-08",
+  "groups": [
+    {
+      "title": "ARACHNIDS",
+      "color": "yellow",
+      "words": [
+        "MITE",
+        "SCORPION",
+        "SPIDER",
+        "TICK"
+      ]
+    },
+    {
+      "title": "FISH",
+      "color": "green",
+      "words": [
+        "CHAR",
+        "EEL",
+        "PERCH",
+        "SHARK"
+      ]
+    },
+    {
+      "title": "SUPERHEROES",
+      "color": "blue",
+      "words": [
+        "BLACK WIDOW",
+        "BLADE",
+        "FLASH",
+        "STORM"
+      ]
+    },
+    {
+      "title": "MTV SHOWS",
+      "color": "purple",
+      "words": [
+        "CATFISH",
+        "CRIBS",
+        "JACKASS",
+        "STATE"
+      ]
+    }
+  ]
+}

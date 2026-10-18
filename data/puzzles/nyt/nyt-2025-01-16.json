@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-16",
+  "groups": [
+    {
+      "title": "BUYING AND SELLING",
+      "color": "yellow",
+      "words": [
+        "BUSINESS",
+        "COMMERCE",
+        "MARKET",
+        "TRADE"
+      ]
+    },
+    {
+      "title": "INSTALLED ON A WALL",
+      "color": "green",
+      "words": [
+        "BASEBOARD",
+        "OUTLET",
+        "SCONCE",
+        "SWITCH"
+      ]
+    },
+    {
+      "title": "SPY",
+      "color": "blue",
+      "words": [
+        "AGENT",
+        "ASSET",
+        "MOLE",
+        "PLANT"
+      ]
+    },
+    {
+      "title": "___ RAT",
+      "color": "purple",
+      "words": [
+        "GYM",
+        "MALL",
+        "PACK",
+        "RUG"
+      ]
+    }
+  ]
+}

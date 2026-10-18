@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-14",
+  "groups": [
+    {
+      "title": "PESTER",
+      "color": "yellow",
+      "words": [
+        "BADGER",
+        "BUG",
+        "HOUND",
+        "NAG"
+      ]
+    },
+    {
+      "title": "SPORTS VENUES",
+      "color": "green",
+      "words": [
+        "ARENA",
+        "BOWL",
+        "DOME",
+        "FIELD"
+      ]
+    },
+    {
+      "title": "SEPARATE",
+      "color": "blue",
+      "words": [
+        "DIVIDE",
+        "FORK",
+        "PART",
+        "SPLIT"
+      ]
+    },
+    {
+      "title": "SILVER ___",
+      "color": "purple",
+      "words": [
+        "FOX",
+        "LINING",
+        "SCREEN",
+        "SPOON"
+      ]
+    }
+  ]
+}

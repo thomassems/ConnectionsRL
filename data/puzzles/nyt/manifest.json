@@ -1,0 +1,3615 @@
+{
+  "source_url_template": "https://www.nytimes.com/svc/connections/v2/{date}.json",
+  "color_order": [
+    "yellow",
+    "green",
+    "blue",
+    "purple"
+  ],
+  "archive_check_sha256": "c17a69b789cfd235bc58a1642f970f2dd8fe5a96e6f4b85edb2ba2e007aebfea",
+  "count": 717,
+  "puzzles": [
+    {
+      "date": "2023-06-12",
+      "nyt_id": 1,
+      "source_sha256": "7eec6391de4a0897e57c87eb956278f3f8516a559d6d881ba63c519a65ee54ef"
+    },
+    {
+      "date": "2023-06-13",
+      "nyt_id": 2,
+      "source_sha256": "c31380964bfa460848286c7cf6f5ed8baad6395bdddf83b504e4b7246cc9db6b"
+    },
+    {
+      "date": "2023-06-14",
+      "nyt_id": 3,
+      "source_sha256": "c6b5331983f1cc87f587d455c3bbebdb5bb4e3110f40258333e02eb9fd9a5b6e"
+    },
+    {
+      "date": "2023-06-15",
+      "nyt_id": 4,
+      "source_sha256": "5ca911491ec0e1423bcb572f0c6922cf6000505f70ab3aba3b650354e90dda25"
+    },
+    {
+      "date": "2023-06-16",
+      "nyt_id": 5,
+      "source_sha256": "ddca2ed1ec4b3576368526c969d0f8903ac6548cb87d5a8e3627f0cf642ff2bf"
+    },
+    {
+      "date": "2023-06-17",
+      "nyt_id": 6,
+      "source_sha256": "744c1e5310370a2d3d713e6637ecd42868ac66bf513aa1ca89b08d04f497f36f"
+    },
+    {
+      "date": "2023-06-18",
+      "nyt_id": 7,
+      "source_sha256": "54b3a75523bea8e245d598d23e70d4010f4f2ad492ac753bc165e77405581174"
+    },
+    {
+      "date": "2023-06-19",
+      "nyt_id": 8,
+      "source_sha256": "a2c9274d839b79e1f4852215831459d08f8baedbad289696fff191b0ec14c483"
+    },
+    {
+      "date": "2023-06-20",
+      "nyt_id": 9,
+      "source_sha256": "5b6b3bf4168c9b82ef1c002e2334a8a17ac3692b3ea47e1150dd00744c5c3113"
+    },
+    {
+      "date": "2023-06-21",
+      "nyt_id": 10,
+      "source_sha256": "23c1a00e9be9feba3e627ffeca611fbd970449ff386e5c10c282c0b9b09c6be6"
+    },
+    {
+      "date": "2023-06-22",
+      "nyt_id": 11,
+      "source_sha256": "361d1076d7da8a12651db79a3ed40c6cb3a9777393a1d15fddaba0aecf1284be"
+    },
+    {
+      "date": "2023-06-23",
+      "nyt_id": 12,
+      "source_sha256": "d1df1b8ee5a648eb963dd6a51c404b75425527a0974b5350519141cad805446c"
+    },
+    {
+      "date": "2023-06-24",
+      "nyt_id": 13,
+      "source_sha256": "7be6e6b58b3b390bcb5380ad8cc0f40196e855b11f535c6a2126806147a29aa8"
+    },
+    {
+      "date": "2023-06-25",
+      "nyt_id": 14,
+      "source_sha256": "c472cd4b6c70d3e0d23b35843a3efb27f171d4aac3d2f1dce0ffc9ee28911989"
+    },
+    {
+      "date": "2023-06-26",
+      "nyt_id": 15,
+      "source_sha256": "e694aa94993d00b8cc95554b43c6f631bd13276e2dd91775d72e40fe2b523904"
+    },
+    {
+      "date": "2023-06-27",
+      "nyt_id": 16,
+      "source_sha256": "3c63faa9202e77b6f4c976810284d48fc21c9ffd2b665b27d1a8c959fe12f083"
+    },
+    {
+      "date": "2023-06-28",
+      "nyt_id": 17,
+      "source_sha256": "6c55a1eb5b8348e3b80db62fc3bbbad5cef5099442a4f4875a8db4527f065574"
+    },
+    {
+      "date": "2023-06-29",
+      "nyt_id": 18,
+      "source_sha256": "16d61f32b4880796311885e46b4d94b76e7f657a40559f3404ecb39d55d45212"
+    },
+    {
+      "date": "2023-06-30",
+      "nyt_id": 19,
+      "source_sha256": "6890687c8a84d392e7aca1b6f681dc25e171157a2d5a31419f95272c0197d18a"
+    },
+    {
+      "date": "2023-07-01",
+      "nyt_id": 20,
+      "source_sha256": "471ebef16e171bb59b2f9e29d4134732deff4761db7334aac7280b950739c449"
+    },
+    {
+      "date": "2023-07-02",
+      "nyt_id": 21,
+      "source_sha256": "94c1fafb69df8d03c6a62016bcd09febd096082477da27ca15c679252b52ebe1"
+    },
+    {
+      "date": "2023-07-03",
+      "nyt_id": 22,
+      "source_sha256": "0df7aea8769d1a31c661c00b6a64ad4afa02d8d9ef54c2145ca1ba2a60977759"
+    },
+    {
+      "date": "2023-07-04",
+      "nyt_id": 23,
+      "source_sha256": "01273aa9d877b8df535d5a7ea9d126ccb51fb108bf10e3639315e165b802d38a"
+    },
+    {
+      "date": "2023-07-05",
+      "nyt_id": 24,
+      "source_sha256": "dcf7251e3fe81ee4cb19de5e00c580910f971ee7d926fe46357b67f8fd598ba3"
+    },
+    {
+      "date": "2023-07-06",
+      "nyt_id": 25,
+      "source_sha256": "a8558c0af5e157d8e7f72048dac7ccb8cb102723e1a6ea24643598cc159fa40d"
+    },
+    {
+      "date": "2023-07-07",
+      "nyt_id": 26,
+      "source_sha256": "7d2973a66c3ec80b5dcb31f8c9887911c7fd2a138343b38acb20ff9068d43d8c"
+    },
+    {
+      "date": "2023-07-08",
+      "nyt_id": 27,
+      "source_sha256": "42b4d110bba2db710fdd9eb1f27513a89930a2eabdeb30359947375f9b88a5c6"
+    },
+    {
+      "date": "2023-07-09",
+      "nyt_id": 28,
+      "source_sha256": "4cc40c5ad0192e8225972ad8c3601f1687b51e3254c21d38e429c047ecfe2742"
+    },
+    {
+      "date": "2023-07-10",
+      "nyt_id": 29,
+      "source_sha256": "34d3202e370564f948f79c0b746f55997c6646b75db1f70251b4f4b3d6f79fc7"
+    },
+    {
+      "date": "2023-07-11",
+      "nyt_id": 30,
+      "source_sha256": "be686b88656ea543692d0a2d75ef78c03ecaf645dff4bfb1ae9c98acf8d2bfcf"
+    },
+    {
+      "date": "2023-07-12",
+      "nyt_id": 31,
+      "source_sha256": "ae6713b7560c1ad6e78d7c1beed7610099a0b84b24c25eeb58a42cfe9ae45fb1"
+    },
+    {
+      "date": "2023-07-13",
+      "nyt_id": 32,
+      "source_sha256": "ebf3203f17e6ca8f32e6d041a52efd0a2155d9495c88b56c37913a184e3eae49"
+    },
+    {
+      "date": "2023-07-14",
+      "nyt_id": 33,
+      "source_sha256": "bdfad165115e90d77c13e961304c480b7da38890c641d6da979d1218be050571"
+    },
+    {
+      "date": "2023-07-15",
+      "nyt_id": 34,
+      "source_sha256": "7a46841fcded02a7854349a33f566af8ca2f83dbcfc7895a5ada3adc5bff8184"
+    },
+    {
+      "date": "2023-07-16",
+      "nyt_id": 35,
+      "source_sha256": "92cc226c812143d8a8b6026112f32b3a611e24841b5d1aed875969d4702ccfdc"
+    },
+    {
+      "date": "2023-07-17",
+      "nyt_id": 36,
+      "source_sha256": "035f11d5015960c635aa49b65106c9478c291ac7b0e60c90cd9eb6af489cf6a2"
+    },
+    {
+      "date": "2023-07-18",
+      "nyt_id": 37,
+      "source_sha256": "a0b5a240352f50e4d4c1e53e812644b3d457a182d2abd9fb96c3e1b6366eee4e"
+    },
+    {
+      "date": "2023-07-19",
+      "nyt_id": 38,
+      "source_sha256": "e0fd04183081e5e20e2ae893b84f6c5b87da0885afeb7774dbbc5fed7689597e"
+    },
+    {
+      "date": "2023-07-20",
+      "nyt_id": 39,
+      "source_sha256": "ddfe199238f0b4c206c239ab2570d13539cfedbe2b9df198438f013dc11d5909"
+    },
+    {
+      "date": "2023-07-21",
+      "nyt_id": 40,
+      "source_sha256": "be5e4a9ce206fc819d1b295f025dbc569abe70f3e42f07312de99d430c427d0b"
+    },
+    {
+      "date": "2023-07-22",
+      "nyt_id": 41,
+      "source_sha256": "f87a59130dd9f1a34b59ec4d25b84715ff85de74b5097a2f29b5c2ae4960c879"
+    },
+    {
+      "date": "2023-07-23",
+      "nyt_id": 42,
+      "source_sha256": "4c7bec9d7df3329da0b4222974b7dee4dd0746484027acfaae9a39c4946cdf5d"
+    },
+    {
+      "date": "2023-07-24",
+      "nyt_id": 43,
+      "source_sha256": "2ec0e0147a892e5bcb2be1ddbdf51eb4fef744696e7863095090cdc40711bdbd"
+    },
+    {
+      "date": "2023-07-25",
+      "nyt_id": 44,
+      "source_sha256": "3f1d4464c38df4b8c66f845dd75a4298729589711735fdf3551e97a5f5453a89"
+    },
+    {
+      "date": "2023-07-26",
+      "nyt_id": 45,
+      "source_sha256": "bc1b2491d0bf62782abddf57e05d1569835eab94b9b34c126750e13d9bf1889e"
+    },
+    {
+      "date": "2023-07-27",
+      "nyt_id": 46,
+      "source_sha256": "b8a82b98350ffe62f36556bf37758fdd1f2798f576e4cd4c0e20398dbaed42bc"
+    },
+    {
+      "date": "2023-07-28",
+      "nyt_id": 47,
+      "source_sha256": "2e679bbf8a7fffd4ba7c78cc9d8284630cb3d3bfb13d1437528d71944bae21df"
+    },
+    {
+      "date": "2023-07-29",
+      "nyt_id": 48,
+      "source_sha256": "6645baa91536d86bd3624dafa828dccb3b1010c707990b05421c049108cd13c0"
+    },
+    {
+      "date": "2023-07-30",
+      "nyt_id": 49,
+      "source_sha256": "ceec0927be433e2ce837be3378d1c357ceda4febaa3ebc3274671072175bd9b5"
+    },
+    {
+      "date": "2023-07-31",
+      "nyt_id": 50,
+      "source_sha256": "5bb7cbd34993fdba24974ac55113d791a90c5e85e250a5685c1c852c1f2cb1ea"
+    },
+    {
+      "date": "2023-08-01",
+      "nyt_id": 51,
+      "source_sha256": "db0d5226c7cc9024e97bde077aadb848bc9ba459685ec04ee371af77a29569d8"
+    },
+    {
+      "date": "2023-08-02",
+      "nyt_id": 52,
+      "source_sha256": "b72f0211b944f3396aafa6a77b13a2521046e8da940f2e615bff7cd4a652c19d"
+    },
+    {
+      "date": "2023-08-03",
+      "nyt_id": 53,
+      "source_sha256": "039ce634528ab4a4be3c913b02498d09d34ba5a031e7606c959e465de08e7982"
+    },
+    {
+      "date": "2023-08-04",
+      "nyt_id": 54,
+      "source_sha256": "583de6bad4ad62f31c1f374c47016a6460b09d5d8b007d3d9b166b7ecfc841f6"
+    },
+    {
+      "date": "2023-08-05",
+      "nyt_id": 55,
+      "source_sha256": "6d27da3508f7d5352e4020e4e733eecec9e240700ffc4168760cdd559da0927b"
+    },
+    {
+      "date": "2023-08-06",
+      "nyt_id": 56,
+      "source_sha256": "5ebe6a7482dd5daf7093833b23aed1e4bcbabc59bde7c0efef944bd2ee2dc67d"
+    },
+    {
+      "date": "2023-08-07",
+      "nyt_id": 57,
+      "source_sha256": "d5253cabec85384045b18005b472866657b538b33fa5dd3b8cc0e9c66d64cbfe"
+    },
+    {
+      "date": "2023-08-08",
+      "nyt_id": 58,
+      "source_sha256": "fe54bb3ef998a9fa3971183e7d4938bca7ab9f356b290ad593f2d01d0339527e"
+    },
+    {
+      "date": "2023-08-09",
+      "nyt_id": 59,
+      "source_sha256": "7974834a0454aa6c15d0f02a6bb24c17a9c9215e6d81ed2e148738381e7493f0"
+    },
+    {
+      "date": "2023-08-10",
+      "nyt_id": 60,
+      "source_sha256": "7becf173c31ea40faccda83e0da7de235bbfae6a2180675ec071a5470796c14e"
+    },
+    {
+      "date": "2023-08-11",
+      "nyt_id": 61,
+      "source_sha256": "f53e7158310ede3f2306a65626aace2442907dfb25f77ca5a89eaf6358434540"
+    },
+    {
+      "date": "2023-08-12",
+      "nyt_id": 62,
+      "source_sha256": "ba6b4abab0c681da08ae55b494948e25b23aae19facf59f7f01f41b866c0064e"
+    },
+    {
+      "date": "2023-08-13",
+      "nyt_id": 63,
+      "source_sha256": "26194767f99f5d42074a8938bcb5716bec82c753eafe7659a88f2ba96d9d217f"
+    },
+    {
+      "date": "2023-08-14",
+      "nyt_id": 64,
+      "source_sha256": "f7983e8cdc646c07687a0d183b90ffc977302f4ac5f53dc1ce30d752c510b0b8"
+    },
+    {
+      "date": "2023-08-15",
+      "nyt_id": 65,
+      "source_sha256": "91427dde5964095a098cbb76dcf13fcf2df509a1c3990fd06bc75348ca8c7cf1"
+    },
+    {
+      "date": "2023-08-16",
+      "nyt_id": 66,
+      "source_sha256": "a2e6b0b5c6f31b9dfe48d5a077c2364952be21f9c3395ab52a523a0fee014ff6"
+    },
+    {
+      "date": "2023-08-17",
+      "nyt_id": 67,
+      "source_sha256": "a188b221486e5acf9a7f3e3d9eb96ef55c8a60edb9149a1d563f5406015b0d5a"
+    },
+    {
+      "date": "2023-08-18",
+      "nyt_id": 68,
+      "source_sha256": "7478466597377150f84bff24c8c66ad8bf25bce8e5c6f33fdd8360d7e02904e1"
+    },
+    {
+      "date": "2023-08-19",
+      "nyt_id": 69,
+      "source_sha256": "f024b3e47ab4d0cc15776a3df11e959dd6dd75e4317276e2191243bf96927571"
+    },
+    {
+      "date": "2023-08-20",
+      "nyt_id": 70,
+      "source_sha256": "48c5d7d0757bf31121db0da3ea610e767f785a1a9a199903f2c00de44da589d5"
+    },
+    {
+      "date": "2023-08-21",
+      "nyt_id": 71,
+      "source_sha256": "334103ddfbc0b9c95dd1af9d32975f85af6fe9fb7a0b88040150a7594ff9bc81"
+    },
+    {
+      "date": "2023-08-22",
+      "nyt_id": 72,
+      "source_sha256": "b13c79bc91371765acbae1c9cb91df429f9bb5fc552b3d7635bbe87ee0df0aa6"
+    },
+    {
+      "date": "2023-08-23",
+      "nyt_id": 73,
+      "source_sha256": "6190e636c38983e2d457245712256a605052dfeb719eea0c5165790b60a79510"
+    },
+    {
+      "date": "2023-08-24",
+      "nyt_id": 74,
+      "source_sha256": "36a396618b8d2b63aefc05556de11513f0bb2e7a4174d5e05ea395a9fe761e31"
+    },
+    {
+      "date": "2023-08-25",
+      "nyt_id": 75,
+      "source_sha256": "bc4b742a2ba44bd72da9e0ceae7e178d51cef2fde54a5c208f7db5d0cf790338"
+    },
+    {
+      "date": "2023-08-26",
+      "nyt_id": 76,
+      "source_sha256": "c0b7ef3b19e87ad782d15b0aa146852104b480611b1b1622c8d0034e69952f64"
+    },
+    {
+      "date": "2023-08-27",
+      "nyt_id": 77,
+      "source_sha256": "4e8c443689e38a74ced27de91b484ea95746f79238516d80697ba0694eb3d887"
+    },
+    {
+      "date": "2023-08-28",
+      "nyt_id": 78,
+      "source_sha256": "d5caf32d94641eda1cac47a771ab797a996539acfae286e40a0d8e0a77f9f835"
+    },
+    {
+      "date": "2023-08-29",
+      "nyt_id": 79,
+      "source_sha256": "e202ee55a4f30614faac0618420a479cd1237891c3e742827a749599c680f8c1"
+    },
+    {
+      "date": "2023-08-30",
+      "nyt_id": 80,
+      "source_sha256": "2485863db121cda79f191c3f888e7a048770bb4b062038d9491650c8228072b1"
+    },
+    {
+      "date": "2023-08-31",
+      "nyt_id": 81,
+      "source_sha256": "493d39f418abe625a38d8913de4695694fd7a204834d5eb88946fa8c43238258"
+    },
+    {
+      "date": "2023-09-01",
+      "nyt_id": 82,
+      "source_sha256": "69b907d1a64e355680f9ca5f5d1da833d9b5e688ffe5750c20f59b3577d2b40e"
+    },
+    {
+      "date": "2023-09-02",
+      "nyt_id": 83,
+      "source_sha256": "fa017c3e0c673740b10d8d180bb0e369d177d74e45970072208ca180312daa72"
+    },
+    {
+      "date": "2023-09-03",
+      "nyt_id": 84,
+      "source_sha256": "707d5531641bf08fe35ea6812b7b454ac2f06fca3586abae4a038db337a6befe"
+    },
+    {
+      "date": "2023-09-04",
+      "nyt_id": 85,
+      "source_sha256": "6d12a3efe9537d157f5b1b2c03f169acf11871af69f2d8312b8bd16a76ddcb4d"
+    },
+    {
+      "date": "2023-09-05",
+      "nyt_id": 86,
+      "source_sha256": "e052885abd6c17a434a689dd48528ca315ffb7cca8d24b2e4c65759d3930ca22"
+    },
+    {
+      "date": "2023-09-06",
+      "nyt_id": 87,
+      "source_sha256": "429d75f6333f5621586ffceef760b66c16cff88dc3424a9ff14b34fb1212e06c"
+    },
+    {
+      "date": "2023-09-07",
+      "nyt_id": 88,
+      "source_sha256": "ceb9e9a7ad4bfbec394d329e8371fd22a6501cea6203038486b85f7f67e6cd49"
+    },
+    {
+      "date": "2023-09-08",
+      "nyt_id": 89,
+      "source_sha256": "42dbe665d191f8451a2272afa9d264b8be9b695c8c11d71785a9a0bd3ed39500"
+    },
+    {
+      "date": "2023-09-09",
+      "nyt_id": 90,
+      "source_sha256": "b971f8d7920aa9bbb1de6cd62980a1a3e2a978fadca582b495595c410bb0d443"
+    },
+    {
+      "date": "2023-09-10",
+      "nyt_id": 91,
+      "source_sha256": "0c9cc8637e56bbdd62e64589c73b5ca7e97ad36c3de6c98a9016d7cb92e4703b"
+    },
+    {
+      "date": "2023-09-11",
+      "nyt_id": 92,
+      "source_sha256": "5395c84127cb54cf2c4a8ea7fda2733524c6a3b77dc8f60cc4f5dccd92024385"
+    },
+    {
+      "date": "2023-09-12",
+      "nyt_id": 93,
+      "source_sha256": "069a4ad764181e7b662550f87947624076fea3217568c570f8ebea5e73472292"
+    },
+    {
+      "date": "2023-09-13",
+      "nyt_id": 94,
+      "source_sha256": "18bdb16e2a01c5e7897a96702c70e343d1a802b0af5016377642b6dbc606fc29"
+    },
+    {
+      "date": "2023-09-14",
+      "nyt_id": 95,
+      "source_sha256": "bce2b165787ce0e262d1587b3534c753851caff19eb97ffd4d1fe86364b130da"
+    },
+    {
+      "date": "2023-09-15",
+      "nyt_id": 96,
+      "source_sha256": "2f08f8b6443739aeb155c4f4d45a191f64c65746430dd62a4858227ca4cee31c"
+    },
+    {
+      "date": "2023-09-16",
+      "nyt_id": 97,
+      "source_sha256": "3087f1eeeafe4993dc9a27be8f08a61b54ab53bac079e27bb16f88a9ead73c34"
+    },
+    {
+      "date": "2023-09-17",
+      "nyt_id": 98,
+      "source_sha256": "3120c47983ecc0efc98c6ab306eb18c0c46a89eeffdd9339c62e53dd1747014a"
+    },
+    {
+      "date": "2023-09-18",
+      "nyt_id": 99,
+      "source_sha256": "352168b3317c3cef6f31965ac051cbb9193a1823988621b5612dd29f5ba8f939"
+    },
+    {
+      "date": "2023-09-19",
+      "nyt_id": 100,
+      "source_sha256": "aaa515fb2c85772153e80d957376902b5dd8f916f21d3292bd67a429e237a6c9"
+    },
+    {
+      "date": "2023-09-20",
+      "nyt_id": 101,
+      "source_sha256": "4e872ea17c809884a14f990046abe67cf5f234406265a6320af0743ec74bf019"
+    },
+    {
+      "date": "2023-09-21",
+      "nyt_id": 102,
+      "source_sha256": "b280e75376974f6a3cb054160f616937004486246bdb19ffb3b31fd0e1746126"
+    },
+    {
+      "date": "2023-09-22",
+      "nyt_id": 103,
+      "source_sha256": "4b7cdb192be739f7fbd6e555d22c8672d44dd7f7140a248cfeac3a2a1ebdd742"
+    },
+    {
+      "date": "2023-09-23",
+      "nyt_id": 104,
+      "source_sha256": "9b11faf3b6d717fa6b5959b344909f3928c1886604562b1c0a928917ab22d862"
+    },
+    {
+      "date": "2023-09-24",
+      "nyt_id": 105,
+      "source_sha256": "df206327abb0e924c2951af249fae4f092187267900848ca4b93e874c4461a24"
+    },
+    {
+      "date": "2023-09-25",
+      "nyt_id": 106,
+      "source_sha256": "01056ae4a8464a8a55d0c8d736cc231fe7932299768861feac3f5e55e380ee14"
+    },
+    {
+      "date": "2023-09-26",
+      "nyt_id": 107,
+      "source_sha256": "391044596dda19b3db3c2ba02f67a24e930ec67aab04d024c51158801d4f6837"
+    },
+    {
+      "date": "2023-09-27",
+      "nyt_id": 108,
+      "source_sha256": "fec59009a73dea77a4732a1dbda21b1a2b52aec6c812713172dabcae042303f2"
+    },
+    {
+      "date": "2023-09-28",
+      "nyt_id": 109,
+      "source_sha256": "2dda4a4c9b02fb0465ed5ee85accc6d6610983c617013ad13329bbfecec0fd8e"
+    },
+    {
+      "date": "2023-09-29",
+      "nyt_id": 110,
+      "source_sha256": "344591e0a3ef473f43af0178bbf908659e75e8ef3741dc5c71b3e4fb41016bb7"
+    },
+    {
+      "date": "2023-09-30",
+      "nyt_id": 111,
+      "source_sha256": "0ee7428c38c2f850866bf8f75c56ccca6c83938c94a2d4e5378d513e3e66db01"
+    },
+    {
+      "date": "2023-10-01",
+      "nyt_id": 112,
+      "source_sha256": "038d3f7c5641ac4f543e86e8a49aac15ba725da6c1da3f62d8390ac8f682e507"
+    },
+    {
+      "date": "2023-10-02",
+      "nyt_id": 113,
+      "source_sha256": "d851cd361d7d125b5ff36734668f0962a7ef2cf33e7a88dc88e87ec99ada324d"
+    },
+    {
+      "date": "2023-10-03",
+      "nyt_id": 114,
+      "source_sha256": "34bd8e75c5fd817f22a4c92b878733b1a96de9e275900ab81f507cf4dcb6da42"
+    },
+    {
+      "date": "2023-10-04",
+      "nyt_id": 115,
+      "source_sha256": "b3ad9544dbbd0ba0f12ca868bbc6c74e891bf1a8e10ef65947de043c5ccd76c4"
+    },
+    {
+      "date": "2023-10-05",
+      "nyt_id": 116,
+      "source_sha256": "eca3f0a73aa135f675a1cfdddf9019a147486c06e8b0ed005db1cfaec7274be9"
+    },
+    {
+      "date": "2023-10-06",
+      "nyt_id": 117,
+      "source_sha256": "2080ff97b0fa7728fdb0cc6b3ec8947c799a73ca1d9bc0d8d4144a2c735ba729"
+    },
+    {
+      "date": "2023-10-07",
+      "nyt_id": 118,
+      "source_sha256": "359c159f243a2a05494f157deb49286566e1533fc7fe39d255a02ba3030d8ebb"
+    },
+    {
+      "date": "2023-10-08",
+      "nyt_id": 119,
+      "source_sha256": "329de6f9ad5a450d0942a87a0454d7c7b91bd27c54ba908194cc5c86804542e3"
+    },
+    {
+      "date": "2023-10-09",
+      "nyt_id": 120,
+      "source_sha256": "62355a0f7de66b0029179876b9cb8cca4393398bd1c27fb57046db693cfbfcb8"
+    },
+    {
+      "date": "2023-10-10",
+      "nyt_id": 121,
+      "source_sha256": "9a2e6f612dd27f3d3f1ef448f2000ca48d9528eb6c0165b00d95f4acf65e1a0c"
+    },
+    {
+      "date": "2023-10-11",
+      "nyt_id": 122,
+      "source_sha256": "783cb23c9aa2e8be2803545452b1e5cc8f0b82c31326840c88787d1b340bd50f"
+    },
+    {
+      "date": "2023-10-12",
+      "nyt_id": 123,
+      "source_sha256": "de1d65ad7487d9614815e3e4f5b653ecacc991cc41b28f1b7a6dccc068c5a46c"
+    },
+    {
+      "date": "2023-10-13",
+      "nyt_id": 124,
+      "source_sha256": "8bb1799db2c2fe9648560901271555c81033d57b3dbc4e24bd314640890fa1bb"
+    },
+    {
+      "date": "2023-10-14",
+      "nyt_id": 125,
+      "source_sha256": "1158ef69c74a7a3ae968052c0d6971bed5da750a2dd9ed1899ac6feb2ac92f62"
+    },
+    {
+      "date": "2023-10-15",
+      "nyt_id": 126,
+      "source_sha256": "cb10e3185460ced0b2449f6039fbbaa7280bbcb1d849fe3a497d7dfb95d6cd8d"
+    },
+    {
+      "date": "2023-10-16",
+      "nyt_id": 127,
+      "source_sha256": "cb2fdbb98c1a5269cc2bd47e84f532b650f1c2b5f622b5886afd74925e7cdaba"
+    },
+    {
+      "date": "2023-10-17",
+      "nyt_id": 128,
+      "source_sha256": "a280b7641738318a8cd4bf1eb9bfc9917273e34c59f224954f7841e7a0aa9df4"
+    },
+    {
+      "date": "2023-10-18",
+      "nyt_id": 129,
+      "source_sha256": "08b486063fca3dfb309ec7aaec3cdc4bf91d7e547bb42153caafb02502afccf5"
+    },
+    {
+      "date": "2023-10-19",
+      "nyt_id": 130,
+      "source_sha256": "dbe7ce6fc55ed1b5d935212e16f6f590ed671bda97108aaa13d7e166ed79eb21"
+    },
+    {
+      "date": "2023-10-20",
+      "nyt_id": 131,
+      "source_sha256": "3f54fd4fb547911488d81ff73395058a3839e085ba2d8c256458dc80a5883fcf"
+    },
+    {
+      "date": "2023-10-21",
+      "nyt_id": 132,
+      "source_sha256": "a583bb46245ab177b46a12b6955bdab09e5386d23d471d70520ee2b836ec8e38"
+    },
+    {
+      "date": "2023-10-22",
+      "nyt_id": 133,
+      "source_sha256": "a92d7ebbe88ea83a780626697fe36e3f0c4657b81a0b6498a5238810ed355c21"
+    },
+    {
+      "date": "2023-10-23",
+      "nyt_id": 134,
+      "source_sha256": "f19d8d69836bacd0e2fb8cda918384c5501fe2c92eadf81c1eae84765cf306ec"
+    },
+    {
+      "date": "2023-10-24",
+      "nyt_id": 135,
+      "source_sha256": "040c997bf3e079808400187b01a1753a06baae5d326d87548c2d390ce742680a"
+    },
+    {
+      "date": "2023-10-25",
+      "nyt_id": 136,
+      "source_sha256": "9dd324142393ad7d4f49639cc133ee920a5dd8d92392852fb2547f39d883f656"
+    },
+    {
+      "date": "2023-10-26",
+      "nyt_id": 137,
+      "source_sha256": "43f1f0a3ec150a3393469e18a705bca6a20d6b79c6ca0a0cb7dd802ae4a1b858"
+    },
+    {
+      "date": "2023-10-27",
+      "nyt_id": 138,
+      "source_sha256": "6ad5a765f20d76d50bd6b6f0aadbed94d531d2eb7031cbe5fad71cb4f75c5679"
+    },
+    {
+      "date": "2023-10-28",
+      "nyt_id": 139,
+      "source_sha256": "73cc2636c52d6d4a652372ac8e0b41c118a8b60f7d1648c862d05c90dee94bc1"
+    },
+    {
+      "date": "2023-10-29",
+      "nyt_id": 140,
+      "source_sha256": "42aebca947e2905d5c53b1f06cf779ae6b64dab8a9ad533e849e6560876e4cc4"
+    },
+    {
+      "date": "2023-10-30",
+      "nyt_id": 141,
+      "source_sha256": "be34513249b2d3196de3aa083572a6fedf0e5c1176b96201d8926b845a08e21b"
+    },
+    {
+      "date": "2023-10-31",
+      "nyt_id": 142,
+      "source_sha256": "b6234fd50c6009d15e464d30ab6dbb961c7b50b03013ac5dd9f5ee9f16349a7d"
+    },
+    {
+      "date": "2023-11-01",
+      "nyt_id": 143,
+      "source_sha256": "fcc38904fef6fda79e3e4c917901a0c61a00d2365a2c840a8c11618fc5d5392f"
+    },
+    {
+      "date": "2023-11-02",
+      "nyt_id": 144,
+      "source_sha256": "7f9fcf1894d58ee21e65c257e91cb2db96bcf79199af4dd3f5a09b45623eec7d"
+    },
+    {
+      "date": "2023-11-03",
+      "nyt_id": 145,
+      "source_sha256": "fb1c32db43768eba92bdbf284192c2de2d1c06bd1ba10aca9966f89994b91df3"
+    },
+    {
+      "date": "2023-11-04",
+      "nyt_id": 146,
+      "source_sha256": "f36b993638aa645694abde1e6c4c3c291d992d1632dd56870cec3a2a21a551aa"
+    },
+    {
+      "date": "2023-11-05",
+      "nyt_id": 147,
+      "source_sha256": "a635a23951760141a756a3548f71ce23875e8f264e4f873d7bc714d9e370c2de"
+    },
+    {
+      "date": "2023-11-06",
+      "nyt_id": 148,
+      "source_sha256": "3cf97a6f3974ff4d0d3bf354977b4cbd187444de3579ed79f6a391ef3b350070"
+    },
+    {
+      "date": "2023-11-07",
+      "nyt_id": 149,
+      "source_sha256": "9a9ca7612194571b0eccc9279983fade5e4b78f10d8f09151469387ddca6ca76"
+    },
+    {
+      "date": "2023-11-08",
+      "nyt_id": 150,
+      "source_sha256": "0bc30a7c6abec066b315fd965ef5eea25f803438deb45b6d4a8f712149d7bca6"
+    },
+    {
+      "date": "2023-11-09",
+      "nyt_id": 151,
+      "source_sha256": "b89ebd3e5ed4c11d0d26fde417bbff600e504cf75347cd118bca0454097b59ec"
+    },
+    {
+      "date": "2023-11-10",
+      "nyt_id": 152,
+      "source_sha256": "8d2361139bbcf18f179b6c019748dfc86831fb4dd2e3eda897f5f6f566a9a156"
+    },
+    {
+      "date": "2023-11-11",
+      "nyt_id": 153,
+      "source_sha256": "44fd03c02cc238db65dada928da07087647fc412ea20d3c17e45a8f2ba20430c"
+    },
+    {
+      "date": "2023-11-12",
+      "nyt_id": 154,
+      "source_sha256": "e7748cc870f94c3b34a79d04f563e12405abf7eb5e673fd8ac5c7ab8b71e2b98"
+    },
+    {
+      "date": "2023-11-13",
+      "nyt_id": 155,
+      "source_sha256": "122ccbd3db3325d6f58687b31eb922957b2031e533289bd17db8a1ee4ab86dfd"
+    },
+    {
+      "date": "2023-11-14",
+      "nyt_id": 156,
+      "source_sha256": "7f047824ed5a652afc5a81ce6a8a68efc8d61f424453b3f42268f14cbb97bf77"
+    },
+    {
+      "date": "2023-11-15",
+      "nyt_id": 157,
+      "source_sha256": "6b2d081d1a662c5663da9f9dae41c05e1e1327a29f9ba41fb1be85b5f91da677"
+    },
+    {
+      "date": "2023-11-16",
+      "nyt_id": 158,
+      "source_sha256": "1fff3c95dc1d7c473f42edad0f8347ba12e7c09252cd67bb61d5b6f62a030ccd"
+    },
+    {
+      "date": "2023-11-17",
+      "nyt_id": 159,
+      "source_sha256": "1621877a7fa0aa41af96c562fa18e0e6acdc41d41aa3a2336a9e11cdeb9ba663"
+    },
+    {
+      "date": "2023-11-18",
+      "nyt_id": 160,
+      "source_sha256": "ee6085f833e93810e1334798bedb5509b618ad0249136e8ebcae8f2f97fa2dab"
+    },
+    {
+      "date": "2023-11-19",
+      "nyt_id": 161,
+      "source_sha256": "1c6d53ee6ffd6821fc6fc730ad523027c7aabed720300bb1167175a95a0f3e1a"
+    },
+    {
+      "date": "2023-11-20",
+      "nyt_id": 162,
+      "source_sha256": "1d6d046921c5107619202fa2accc0409383471b4c73a7cbb2b4763df4e6fec8f"
+    },
+    {
+      "date": "2023-11-21",
+      "nyt_id": 163,
+      "source_sha256": "fa57615af29e00f7eb824bda13619bebc0c0ca302a46005aeef13dd83a819f1c"
+    },
+    {
+      "date": "2023-11-22",
+      "nyt_id": 164,
+      "source_sha256": "76ff715d41bde9e6bb07ca031c77927ddf6f05e4b730342c9cebfca764034d53"
+    },
+    {
+      "date": "2023-11-23",
+      "nyt_id": 165,
+      "source_sha256": "868d3e05c2a896a05369f8cde4ba860ab39523841061b832aa16b7a911a55434"
+    },
+    {
+      "date": "2023-11-24",
+      "nyt_id": 166,
+      "source_sha256": "ccdd4eaac8730e597df16ea1120cbe56dbe51375469de030aaefb416da649f21"
+    },
+    {
+      "date": "2023-11-25",
+      "nyt_id": 167,
+      "source_sha256": "e21effb898a92f07efc5f70be1c3d16d838d501b041fb68d4ffa35d54ae803fe"
+    },
+    {
+      "date": "2023-11-26",
+      "nyt_id": 168,
+      "source_sha256": "3904cf1a481f80a17f92e89e8dfd836861918f38f9576159d68665a4728ca521"
+    },
+    {
+      "date": "2023-11-27",
+      "nyt_id": 169,
+      "source_sha256": "09c8104f0562e4e48a1629249c6f022bc959fe9ed3eda3f7ea9f0849dba9e3c7"
+    },
+    {
+      "date": "2023-11-28",
+      "nyt_id": 170,
+      "source_sha256": "94f35b5866fe721ea817025b956ab5c3f09c7886b569b0944b28fcf7df9d0c3e"
+    },
+    {
+      "date": "2023-11-29",
+      "nyt_id": 171,
+      "source_sha256": "e7af2797e6f10a9420b26e2d43976e421f19399c3cd8c5554dd507037f8da37d"
+    },
+    {
+      "date": "2023-11-30",
+      "nyt_id": 172,
+      "source_sha256": "b2806fcdf82bdacb9164ccf441b78156e8353c52428a3f3309815a04b97d235f"
+    },
+    {
+      "date": "2023-12-01",
+      "nyt_id": 173,
+      "source_sha256": "acda50916527076810dfc15b9c4f8ccce4af13369c95ada66558ff33e7655fca"
+    },
+    {
+      "date": "2023-12-02",
+      "nyt_id": 174,
+      "source_sha256": "e4819e7828cf8e72fb24d9c9c8050d0652f44754a4f9d86b4e138595a730d3e2"
+    },
+    {
+      "date": "2023-12-03",
+      "nyt_id": 175,
+      "source_sha256": "cabeaae87dc4705d910f329312a7e3c766398821ea940bb1e2b09f284573f3e9"
+    },
+    {
+      "date": "2023-12-04",
+      "nyt_id": 176,
+      "source_sha256": "5ad8511776f6d6979ebad855b587debc5051319e576a50a6f659f63b0b36f7cb"
+    },
+    {
+      "date": "2023-12-05",
+      "nyt_id": 177,
+      "source_sha256": "66e13e0c5ac935f0b49d2d8d1d5f6fc27a098ef615b117e8046ad7a86d49420e"
+    },
+    {
+      "date": "2023-12-06",
+      "nyt_id": 178,
+      "source_sha256": "9f95f30f127cf07c3bf0554365298781dff09ff8b5418eb87ec09e67e9ee5182"
+    },
+    {
+      "date": "2023-12-07",
+      "nyt_id": 179,
+      "source_sha256": "639907635c34210680f688b1365841959e66aac72779b49fd5532cf55966f42f"
+    },
+    {
+      "date": "2023-12-08",
+      "nyt_id": 180,
+      "source_sha256": "b515e92b0948f9061ac1d3c5b1a1fec7644b150b9d47babb1aba3b607a80bd40"
+    },
+    {
+      "date": "2023-12-09",
+      "nyt_id": 181,
+      "source_sha256": "b82f13e0956915ce92cbfe472adc64153e3888f740831d77fd0f809e57d5c566"
+    },
+    {
+      "date": "2023-12-10",
+      "nyt_id": 189,
+      "source_sha256": "1a197ea58dcec5dd90545e6ec141a147aa4cdd8349c6ae6ce8166e33897eeb87"
+    },
+    {
+      "date": "2023-12-11",
+      "nyt_id": 187,
+      "source_sha256": "8028f30c8f3eb70117eab15bb19dfcef2fb00cf1c247364695247f53e1d00521"
+    },
+    {
+      "date": "2023-12-12",
+      "nyt_id": 188,
+      "source_sha256": "7eedfc96b5ea8d0e961bda950118158076d867c3a399fb7af327a3fa6d1395c5"
+    },
+    {
+      "date": "2023-12-13",
+      "nyt_id": 185,
+      "source_sha256": "1df22ccdffb213edb97d25645b0022228e052911010b5acfd022b10c0804cc07"
+    },
+    {
+      "date": "2023-12-14",
+      "nyt_id": 184,
+      "source_sha256": "d3b97e97768f8a94fdd62edf124d36ec30961164688fcc65bbae588d1f62eff9"
+    },
+    {
+      "date": "2023-12-15",
+      "nyt_id": 183,
+      "source_sha256": "9d9144c4b1687bb7b93114e204c0c922d5fab55274837ca2763918070ad437ec"
+    },
+    {
+      "date": "2023-12-16",
+      "nyt_id": 186,
+      "source_sha256": "bd165073d5f43d75dea718ac8c3e37c792c0fc7ee1df3ce590b73f90ffa0d2a6"
+    },
+    {
+      "date": "2023-12-17",
+      "nyt_id": 182,
+      "source_sha256": "040322d55aa5e7b017f560241f3d33a359450763ee905aba66e5bf877aebc863"
+    },
+    {
+      "date": "2023-12-18",
+      "nyt_id": 190,
+      "source_sha256": "dce2a2c63bc4b377a4669c68e3fa5ef556adfc04315f9dbf8e5ef36e2717362e"
+    },
+    {
+      "date": "2023-12-19",
+      "nyt_id": 191,
+      "source_sha256": "8e43a9e46aca99dbea34969b300222b5963cd718166e881ce9723c2f19277e23"
+    },
+    {
+      "date": "2023-12-20",
+      "nyt_id": 192,
+      "source_sha256": "085fda34aab81c62e60e997578dd3291c1f655c92ee34bb5439d2a4eef62eb16"
+    },
+    {
+      "date": "2023-12-21",
+      "nyt_id": 193,
+      "source_sha256": "4460541f35e886e40971a2595cc30bcfbaaf76090eb73ac75867b5d9ceeaa0a9"
+    },
+    {
+      "date": "2023-12-22",
+      "nyt_id": 194,
+      "source_sha256": "365f985cb6733d1204a9503e9c577cfa5480ec3cbfa7ee77182fe64cd3ec52a0"
+    },
+    {
+      "date": "2023-12-23",
+      "nyt_id": 195,
+      "source_sha256": "46dcb7a71fbacced39fccfaa497472aa11a4247e41696fa9720718d3dae169b6"
+    },
+    {
+      "date": "2023-12-24",
+      "nyt_id": 196,
+      "source_sha256": "1c785e9b6214acf09bd9fef66af6225372a7ebddb05d86d7e742180e087b8539"
+    },
+    {
+      "date": "2023-12-25",
+      "nyt_id": 197,
+      "source_sha256": "87c511c37da5d4568d86aabedaaa35d0190c4d984dbf8eaa1e6fe4f5cafafe61"
+    },
+    {
+      "date": "2023-12-26",
+      "nyt_id": 198,
+      "source_sha256": "47ca5c2dead20e54792e05d2141ad0608e67d58a991ced6ee87a6ed675f5a3a5"
+    },
+    {
+      "date": "2023-12-27",
+      "nyt_id": 199,
+      "source_sha256": "7abc61a77057fa2c4b3b968e6a57e4e850e661a54f05fa1512c8e761d6cbd2f2"
+    },
+    {
+      "date": "2023-12-28",
+      "nyt_id": 200,
+      "source_sha256": "f6f1f1057c0f9d97cbdb944d8fba0d75355aa3aed266eef795667ba34b9484b2"
+    },
+    {
+      "date": "2023-12-29",
+      "nyt_id": 201,
+      "source_sha256": "82e5aaf6fa3e2faa6c8fb5ab6c2e4d20b56cb31b8b99fd48e36b6d1f65323bad"
+    },
+    {
+      "date": "2023-12-30",
+      "nyt_id": 202,
+      "source_sha256": "a76495a5ea901e2bdede2853df042c4e3f3e3f29353b3ed0a04b94a2277e1503"
+    },
+    {
+      "date": "2023-12-31",
+      "nyt_id": 203,
+      "source_sha256": "61048d03d8326bb05785b94f247455a3f91698d15b204645adb74dd7ec185435"
+    },
+    {
+      "date": "2024-01-01",
+      "nyt_id": 204,
+      "source_sha256": "7e844888365df32d3293f98831d537856cffa660448e9d4f1e2ed8ddb779986e"
+    },
+    {
+      "date": "2024-01-02",
+      "nyt_id": 205,
+      "source_sha256": "17e333a19c0f53fbb73bd5fdcb8e496535987686930af15dd9ee89363e452cdd"
+    },
+    {
+      "date": "2024-01-03",
+      "nyt_id": 206,
+      "source_sha256": "4d79039b7264d5568213d4957557b1f22c728500e9014b9a81369b12af5432a7"
+    },
+    {
+      "date": "2024-01-04",
+      "nyt_id": 208,
+      "source_sha256": "272ea9bc275c85678ec7441995a34e67858664203d3e3967932aafc5e3eff300"
+    },
+    {
+      "date": "2024-01-05",
+      "nyt_id": 209,
+      "source_sha256": "0af2a1f2db25d45ffd884d1fb750cfb365520d1e3b103827bc9b69e48219f428"
+    },
+    {
+      "date": "2024-01-06",
+      "nyt_id": 210,
+      "source_sha256": "98799168a106fddc972531cc73f0c551ec620f7ea676f40b8a1e60496828c9f6"
+    },
+    {
+      "date": "2024-01-07",
+      "nyt_id": 213,
+      "source_sha256": "20f53e3f679af02e57d2e1d3ba192d4041e93f266cfe58bdc56c013a4feb1907"
+    },
+    {
+      "date": "2024-01-08",
+      "nyt_id": 212,
+      "source_sha256": "43ddda51d00aac4bdb051d4c56402297ed5377b8d373a2814ec83ac45ab1b659"
+    },
+    {
+      "date": "2024-01-09",
+      "nyt_id": 214,
+      "source_sha256": "1dff74520214cf510de841cf5c15c5806eead397c04ac8fe6d139e22e8f946f1"
+    },
+    {
+      "date": "2024-01-10",
+      "nyt_id": 215,
+      "source_sha256": "8aab05d441102cf8ad69a3f5b224e0d8ceee1ec10f5a8df558356aac85c2f292"
+    },
+    {
+      "date": "2024-01-11",
+      "nyt_id": 216,
+      "source_sha256": "cb800f4256b866c865e65cf496fb5c12837cbac49b3eef6d96ac34a9fcc6c963"
+    },
+    {
+      "date": "2024-01-12",
+      "nyt_id": 217,
+      "source_sha256": "7d91c59c7b290c4acecb74346827392aeb46dfbabcb3032359d93ad43fb4645f"
+    },
+    {
+      "date": "2024-01-13",
+      "nyt_id": 218,
+      "source_sha256": "4c58b242f17ee504a21ff70197a1627bf5de29c356e2a9f15b1d40ee7cc41dee"
+    },
+    {
+      "date": "2024-01-14",
+      "nyt_id": 222,
+      "source_sha256": "5b311c5e1335a56efe793dd8a46967b65756244b11522d974d871794a1fb2fae"
+    },
+    {
+      "date": "2024-01-15",
+      "nyt_id": 220,
+      "source_sha256": "34d5ceef8162a73aac02baefc7b23fa8b51b8187e869ba5a58967050a93331a9"
+    },
+    {
+      "date": "2024-01-16",
+      "nyt_id": 221,
+      "source_sha256": "f1779046dc016c850d63fab8cd956cd37f0cdc25e9a8aedd8c9e47df76dd45ec"
+    },
+    {
+      "date": "2024-01-17",
+      "nyt_id": 219,
+      "source_sha256": "5c17651aec6b4a47b652d74500dfc0e846348806c8bee21e1b29ab65b029b22c"
+    },
+    {
+      "date": "2024-01-18",
+      "nyt_id": 223,
+      "source_sha256": "4018f01ae65e60443e46c2195a15ef45a6ced19cb09c02feea06753f0b99794f"
+    },
+    {
+      "date": "2024-01-19",
+      "nyt_id": 224,
+      "source_sha256": "7193d5753d6a70edb6b709c72ebcf15e3312e329c4f65afaeadd9bab5c39407a"
+    },
+    {
+      "date": "2024-01-20",
+      "nyt_id": 225,
+      "source_sha256": "58f46fe5e37d25efd18eb61d95cc31363b7336f217ac20db67215bfb3511db0f"
+    },
+    {
+      "date": "2024-01-21",
+      "nyt_id": 226,
+      "source_sha256": "1afaede9d30fce451b06f75599398962f1774d7c67ea026433a781311f1665da"
+    },
+    {
+      "date": "2024-01-22",
+      "nyt_id": 227,
+      "source_sha256": "49a20e61422b44f769fd55d9aa5bb529e81ccb8161987af8cbb8fe761cb4cd57"
+    },
+    {
+      "date": "2024-01-23",
+      "nyt_id": 228,
+      "source_sha256": "ff20e2c3e3dbe917df61acf2c4f1f0ac0dd7db5da9675c85c66e10affed9cfc2"
+    },
+    {
+      "date": "2024-01-24",
+      "nyt_id": 229,
+      "source_sha256": "2f965c46e54ce3a1cdef52863445f54dba8a04cf1aa940ea54cef30072ce3834"
+    },
+    {
+      "date": "2024-01-25",
+      "nyt_id": 230,
+      "source_sha256": "93bf53b2265a0b1aed249bfd3cb66a846a414c66490622f731119d592e10f654"
+    },
+    {
+      "date": "2024-01-26",
+      "nyt_id": 231,
+      "source_sha256": "3ae04c9fbafe5248c02dac73ca07f8474ae51d63d477b884561b5319c5ac4fc1"
+    },
+    {
+      "date": "2024-01-27",
+      "nyt_id": 233,
+      "source_sha256": "b88421ee2133ec50b819b43a03d936f6be3a451543b7a13030c732ec6a12bd97"
+    },
+    {
+      "date": "2024-01-28",
+      "nyt_id": 234,
+      "source_sha256": "562f6c56e7493379a74cf079dbc435a6f0be1a4ddd58c96f79bdae2e6bb099a7"
+    },
+    {
+      "date": "2024-01-29",
+      "nyt_id": 235,
+      "source_sha256": "5198c69d94273e9f2d70dd7b037ed6779b8bff29e2016da2953d6bdf463f5226"
+    },
+    {
+      "date": "2024-01-30",
+      "nyt_id": 236,
+      "source_sha256": "411eb3c8b34bd60cb299985d871e845df0849720c8f029b2fd90587412d8da0c"
+    },
+    {
+      "date": "2024-01-31",
+      "nyt_id": 239,
+      "source_sha256": "ab3261cd19df5c2fff435b0369d168e534debcbd5d83fb733e473a506f847656"
+    },
+    {
+      "date": "2024-02-01",
+      "nyt_id": 238,
+      "source_sha256": "4785657399e7c4a8acf55daa07cee0d778888d8c12cedf4e295b4b4e3a9014e5"
+    },
+    {
+      "date": "2024-02-02",
+      "nyt_id": 240,
+      "source_sha256": "51b5f1d9052460c6b7082ba5fcedacec1d8fbffabf71c61c9b0b65b478639f60"
+    },
+    {
+      "date": "2024-02-03",
+      "nyt_id": 241,
+      "source_sha256": "319218ad3637ecb60ba70b29aee20ce8695a2fde7aff4fe985eb6b4aa8ffc574"
+    },
+    {
+      "date": "2024-02-04",
+      "nyt_id": 242,
+      "source_sha256": "577d3f8921c33975cbbd49c8dc48a7c07b78c3d855e52dd741b390923051ccc8"
+    },
+    {
+      "date": "2024-02-05",
+      "nyt_id": 243,
+      "source_sha256": "7639cbc5336bff8480c0b4871bfca9b8e84fd80749870faf1df8b05861d65ae5"
+    },
+    {
+      "date": "2024-02-06",
+      "nyt_id": 256,
+      "source_sha256": "809c1a0207849260280c0394e21b39f84c0b3439ceecf41acc2121e5ba4bd17a"
+    },
+    {
+      "date": "2024-02-07",
+      "nyt_id": 249,
+      "source_sha256": "beb8dceb8d5e022b92ea1f476f611acbc63db5202a69bf878c37da1ed6372730"
+    },
+    {
+      "date": "2024-02-08",
+      "nyt_id": 248,
+      "source_sha256": "14d08e84e08f5113345d3a95b0de954885de35e5387877fce76a951ca707c129"
+    },
+    {
+      "date": "2024-02-09",
+      "nyt_id": 253,
+      "source_sha256": "9caadd47b6f9c05971c6ab5ecc6383c95248b3fc1625996f85a4fd05705fd489"
+    },
+    {
+      "date": "2024-02-10",
+      "nyt_id": 244,
+      "source_sha256": "6853b6b8965cb309a4955bd23884bc293f4dd77b6069c212838f98be4d2b071f"
+    },
+    {
+      "date": "2024-02-11",
+      "nyt_id": 255,
+      "source_sha256": "a45881eb7963e3da6f531366f138bdef67691f068a8390575a903058eade6487"
+    },
+    {
+      "date": "2024-02-12",
+      "nyt_id": 251,
+      "source_sha256": "c45e2a6fafd7ea17d2ac3cad45ba282d90a5cb1b889832f78201f0362a28b725"
+    },
+    {
+      "date": "2024-02-13",
+      "nyt_id": 252,
+      "source_sha256": "96449351312119745c6f8232df044fe9de2870ef5fe59f455ce0ce5cb542fdb8"
+    },
+    {
+      "date": "2024-02-14",
+      "nyt_id": 250,
+      "source_sha256": "eac80500a47a54a36f718e2c50afe0800aa12beb97bd597c3d4e9f0d6e92b950"
+    },
+    {
+      "date": "2024-02-15",
+      "nyt_id": 254,
+      "source_sha256": "a9a437c636d5c8d5961fbb821a0ca3a79461d5a74ed3c2c2d884aa0d0fdcf18c"
+    },
+    {
+      "date": "2024-02-16",
+      "nyt_id": 258,
+      "source_sha256": "68b5c2dc6d1558d3a99b9953d90e3fb14231fb5099f6ee92f1c592897363d4cf"
+    },
+    {
+      "date": "2024-02-17",
+      "nyt_id": 245,
+      "source_sha256": "dffdbe0bc3ab2b8047d0a4695ecc2ed5582dc513eef8f0fec7303555443a5a5c"
+    },
+    {
+      "date": "2024-02-18",
+      "nyt_id": 257,
+      "source_sha256": "5d4674108d8411d64126e8cf88e0a5601fdf20150eabbc9bdff44f628add2447"
+    },
+    {
+      "date": "2024-02-19",
+      "nyt_id": 265,
+      "source_sha256": "8ff610b34e51ef9cd30dfc5a72f4d524a50676795d0868465df29311060c369f"
+    },
+    {
+      "date": "2024-02-20",
+      "nyt_id": 247,
+      "source_sha256": "7711e61d9580eeaa329a598c411204e2045a78a0eb956422e8391a610ac472cd"
+    },
+    {
+      "date": "2024-02-21",
+      "nyt_id": 259,
+      "source_sha256": "903dda38d9b7a90ff3451c7e95eb3cfb1bdf4cb5ca065c2edc53d4aac467daa0"
+    },
+    {
+      "date": "2024-02-22",
+      "nyt_id": 266,
+      "source_sha256": "bbd22b8f8941653205d60dddba8f14b68523b1583043d076179b4dbaa8807988"
+    },
+    {
+      "date": "2024-02-23",
+      "nyt_id": 264,
+      "source_sha256": "2472c217bcbf2c01b8b53ca3a615718c7565afc4cd876d3395462e8ce5bf6c4c"
+    },
+    {
+      "date": "2024-02-24",
+      "nyt_id": 260,
+      "source_sha256": "e5d5fbc3159c9f0f91762d27066334071cdd079fa704d4c3ee66b3f7f81c4b00"
+    },
+    {
+      "date": "2024-02-25",
+      "nyt_id": 267,
+      "source_sha256": "ad99e02393aea245576c4f42184f805effafc117adb6bde80cd25b75aa860e19"
+    },
+    {
+      "date": "2024-02-26",
+      "nyt_id": 261,
+      "source_sha256": "e04b69be20009e934eb09864ae90c87e9079b5db1ea20faaf1610b1de0c6a005"
+    },
+    {
+      "date": "2024-02-27",
+      "nyt_id": 262,
+      "source_sha256": "ff2d640ac9bd3549da48de7fe1b3c5e133bccb452f6e4281419efa8aad8cf983"
+    },
+    {
+      "date": "2024-02-28",
+      "nyt_id": 271,
+      "source_sha256": "449e48a5399705fc54df15a1ed442bc301a5404416fbd999a27054d2f532482d"
+    },
+    {
+      "date": "2024-02-29",
+      "nyt_id": 268,
+      "source_sha256": "b72fb0b8f6b23374b5a4237f2ef01d409e6cff8ee13ea25bcca0b7e2d3e3a800"
+    },
+    {
+      "date": "2024-03-01",
+      "nyt_id": 263,
+      "source_sha256": "8d3553e3238cc1d55dab2167384a77eb73e91707528d44a9880f3cbe7ef9470d"
+    },
+    {
+      "date": "2024-03-02",
+      "nyt_id": 270,
+      "source_sha256": "f61646b7003e420b92d028e405bdbc76ba33dbb26ee85eee80c4fb8665fdb4c2"
+    },
+    {
+      "date": "2024-03-03",
+      "nyt_id": 269,
+      "source_sha256": "3e900a55c3f5a6facbfca47c07808e53d1ca76891546a3329865cf403c1d6ce6"
+    },
+    {
+      "date": "2024-03-04",
+      "nyt_id": 272,
+      "source_sha256": "c9679ee02137006a4d17fe3a657f4af27436225ba6b2509885e148296b16c4df"
+    },
+    {
+      "date": "2024-03-05",
+      "nyt_id": 273,
+      "source_sha256": "8203e63e5f73b3f40905d47861dd7ec147fa2227efaac48f5a2c03a1275c2f3c"
+    },
+    {
+      "date": "2024-03-06",
+      "nyt_id": 274,
+      "source_sha256": "38b609a7a919faa236a17ec105bafc3c2139e0f0a05bdf68a05ef3923a2bff44"
+    },
+    {
+      "date": "2024-03-07",
+      "nyt_id": 275,
+      "source_sha256": "0c1a84bd95efeb807f6c9233171b8cbe732f3f18697bd97d92108aafb4e75840"
+    },
+    {
+      "date": "2024-03-08",
+      "nyt_id": 276,
+      "source_sha256": "60257b07f41ad5972e84cee7dd8fb90518e4ce890adb394bbf630c7bfd59120c"
+    },
+    {
+      "date": "2024-03-09",
+      "nyt_id": 282,
+      "source_sha256": "f4e3e1c408c75bc18e533ad87c9c97811d28d1468fb3168151b2c8101bb0fa37"
+    },
+    {
+      "date": "2024-03-10",
+      "nyt_id": 279,
+      "source_sha256": "be51411cd2e760830f07e4e477f65b6bd1ee552e2bb50d489fc5f3a86c01a6ee"
+    },
+    {
+      "date": "2024-03-11",
+      "nyt_id": 284,
+      "source_sha256": "a83e8daba7201783de844a005a868fea9c64c47670702fc4d34292f8d1beb034"
+    },
+    {
+      "date": "2024-03-12",
+      "nyt_id": 283,
+      "source_sha256": "c6e8689dd0191db3c02044759c85e7ca5f37716662e07c4e1b85594ee1e95e03"
+    },
+    {
+      "date": "2024-03-13",
+      "nyt_id": 281,
+      "source_sha256": "06791d5a475e2a0ca512ed3fc49a984b9fd218597dbf415581c65a0695a1aad0"
+    },
+    {
+      "date": "2024-03-14",
+      "nyt_id": 277,
+      "source_sha256": "b35f0d1bfbcbb75fb317a0f1cebe400f5e625f47d3ee6058a76c43ecbd4cd2e4"
+    },
+    {
+      "date": "2024-03-15",
+      "nyt_id": 285,
+      "source_sha256": "ac41dcc8e7e3f713fd64cafedf69cfd008b1ef6a1dadcf40c310040081ae14f8"
+    },
+    {
+      "date": "2024-03-16",
+      "nyt_id": 280,
+      "source_sha256": "8df391d5541c3cd331ccd729656b5640934e443fb2c40c05d3e571556c0653f3"
+    },
+    {
+      "date": "2024-03-17",
+      "nyt_id": 278,
+      "source_sha256": "252555fed520f4b417b114d38c0f4f87687127ec8269c9abe80a63b432a9c6ad"
+    },
+    {
+      "date": "2024-03-18",
+      "nyt_id": 286,
+      "source_sha256": "ad0a424f33d28baa8c4da3c30e3884ccdeb58b83d3b87f01902e9ae60f244bb6"
+    },
+    {
+      "date": "2024-03-19",
+      "nyt_id": 287,
+      "source_sha256": "69ecda0e8dd796587840562bd5650bdee5f6c2ebd770b4266d9c25e44b83bc35"
+    },
+    {
+      "date": "2024-03-20",
+      "nyt_id": 288,
+      "source_sha256": "0da3ff5d93ffa97767ad76828c24ff931f07a3c145fbbb8ff9528e6f4f4d3ff8"
+    },
+    {
+      "date": "2024-03-21",
+      "nyt_id": 289,
+      "source_sha256": "8a28064b58f90af66120d57d952aac8ba14e4dac6c9c2dc255ef97ffc8b759b0"
+    },
+    {
+      "date": "2024-03-22",
+      "nyt_id": 290,
+      "source_sha256": "3a4727caa61bb96950df9ca1594bd2a7ab19e24152d8cdc74c8d1f67a01400a1"
+    },
+    {
+      "date": "2024-03-23",
+      "nyt_id": 291,
+      "source_sha256": "d71f993b2e486f132ffe9f0e0637119fdf35d45784d02cd77beb8a7d8c352023"
+    },
+    {
+      "date": "2024-03-24",
+      "nyt_id": 292,
+      "source_sha256": "e10e4dbc3d0fabdef94ac8d67721a840fd0be126675db649b07ddbf05c170d4a"
+    },
+    {
+      "date": "2024-03-25",
+      "nyt_id": 293,
+      "source_sha256": "05ae47cc072f3a9d9afcdc11241980eee511d31704df599ee8a516b7bcdf062d"
+    },
+    {
+      "date": "2024-03-26",
+      "nyt_id": 294,
+      "source_sha256": "6dee9d298a27f5f399a7469639f2ba5ddcafa06c154ed22884519a7a44459ca0"
+    },
+    {
+      "date": "2024-03-27",
+      "nyt_id": 295,
+      "source_sha256": "002d69d778c96800c463bf0ab05e4b47758ab1ddff40e997692a91d97f0bc1d4"
+    },
+    {
+      "date": "2024-03-28",
+      "nyt_id": 296,
+      "source_sha256": "d6f2c065c0b45d14a2fc2bb83f6f2a3f99749cb04f92387c8f7099001f40134b"
+    },
+    {
+      "date": "2024-03-29",
+      "nyt_id": 297,
+      "source_sha256": "ed7816aa9936c5361b9b8e8af91866e636ec6a16e57067899adf190ac6d0a671"
+    },
+    {
+      "date": "2024-03-30",
+      "nyt_id": 304,
+      "source_sha256": "c89206c1f1d4c15e564ef122940c3eaddb4f328625e63d0b2df31b598f638c39"
+    },
+    {
+      "date": "2024-03-31",
+      "nyt_id": 301,
+      "source_sha256": "f71505d7d3d305ba1b62828897c3689ee60aec76922d1c79a50bf51a6c334f08"
+    },
+    {
+      "date": "2024-04-02",
+      "nyt_id": 305,
+      "source_sha256": "cc4d7dafa31abdaafe3426e8893060ca87b2088abf306c354be5fd3291e3f1f3"
+    },
+    {
+      "date": "2024-04-03",
+      "nyt_id": 302,
+      "source_sha256": "1b591974dd4ed51119d4b38e0f5187ba3e322a3484b97389b8d4e7f647507637"
+    },
+    {
+      "date": "2024-04-04",
+      "nyt_id": 303,
+      "source_sha256": "77f4ff3b58104c24c085c89cfcb55b5d7a2405f36fbb220a2dfe1337affebf3e"
+    },
+    {
+      "date": "2024-04-05",
+      "nyt_id": 298,
+      "source_sha256": "44081e94d17b6821c7242fa1ddb193920a6c19999677e7771b947828cef6482a"
+    },
+    {
+      "date": "2024-04-06",
+      "nyt_id": 310,
+      "source_sha256": "1fa54f7c1d15e0af9a0cbc49513766e3364c8312860fa6b66fbfa61eb5355872"
+    },
+    {
+      "date": "2024-04-07",
+      "nyt_id": 309,
+      "source_sha256": "21406137f6dac5587a9b3d5159d751eaf02140abfa455c3d7d9152be6652cbb8"
+    },
+    {
+      "date": "2024-04-08",
+      "nyt_id": 308,
+      "source_sha256": "5dd6d17bd63f1d3f035479fba358155969da0dc259039b6e2a8e069a647aff29"
+    },
+    {
+      "date": "2024-04-09",
+      "nyt_id": 300,
+      "source_sha256": "6d0dd2339d287b7b3b630cb911be3ba28d165d50927504f11c89df91206c33ec"
+    },
+    {
+      "date": "2024-04-10",
+      "nyt_id": 311,
+      "source_sha256": "2638b3ed9707b8148cda8bf36078a3039a0089d6964970255e340eadb775edb6"
+    },
+    {
+      "date": "2024-04-11",
+      "nyt_id": 312,
+      "source_sha256": "7ab898cc26261fa42ad703fc88f6a7f8a30b465fe976ce7297a9d88ab1b49c64"
+    },
+    {
+      "date": "2024-04-12",
+      "nyt_id": 313,
+      "source_sha256": "83829ef9c88b8e53c21c6c0e3a44432a44d1aae4bf024142a9e98ab8e3013310"
+    },
+    {
+      "date": "2024-04-13",
+      "nyt_id": 299,
+      "source_sha256": "475e5c5703a8f7051e2e58ca5766847f3adbc16a383b1a66c93ebfc620f4abf0"
+    },
+    {
+      "date": "2024-04-14",
+      "nyt_id": 314,
+      "source_sha256": "99e607cbc0f760ca8d56008c262586dd8eb055a951dfc1f6c818692ff679c455"
+    },
+    {
+      "date": "2024-04-15",
+      "nyt_id": 321,
+      "source_sha256": "5dafcdc886b896e9405690026c4d289268668ad5262b569bd3ba3755d9aabc7b"
+    },
+    {
+      "date": "2024-04-16",
+      "nyt_id": 323,
+      "source_sha256": "9bcec68c3d06597e4004f22ad6b3348ef4d617ce64978adb5f048de6ce8f9f9f"
+    },
+    {
+      "date": "2024-04-17",
+      "nyt_id": 318,
+      "source_sha256": "99986d68062d91fb7f02d1f3d9648a47477c3ce7cd10c76059b8b6084aae2a2f"
+    },
+    {
+      "date": "2024-04-18",
+      "nyt_id": 319,
+      "source_sha256": "6d1cddb396a18ccc8caf79ddefa4551b908f1e133911244741913da87e97f281"
+    },
+    {
+      "date": "2024-04-19",
+      "nyt_id": 320,
+      "source_sha256": "bbe44366939e3c62daeb42b1d29b5126d3e3e225985cef0c3da24c31b89569c6"
+    },
+    {
+      "date": "2024-04-20",
+      "nyt_id": 316,
+      "source_sha256": "b75110224762efc739c080907f3db464f23baf21e73e3c1fb484d7af3f2a4a0a"
+    },
+    {
+      "date": "2024-04-21",
+      "nyt_id": 317,
+      "source_sha256": "d9121b3c0b098763c3b8b8fc4d2cbb9dbff904380cdf2a381892c76cefe0cfb3"
+    },
+    {
+      "date": "2024-04-22",
+      "nyt_id": 324,
+      "source_sha256": "29eccebc3fcac33bb3320f58907c22aeb80c0b11eff159c46f1a982de7f22b87"
+    },
+    {
+      "date": "2024-04-23",
+      "nyt_id": 326,
+      "source_sha256": "30ac0601427e408130917766a6a7691ab02988a11f956433022d8958f81933a1"
+    },
+    {
+      "date": "2024-04-24",
+      "nyt_id": 325,
+      "source_sha256": "18f8f8924039be5ca37904b01a39ffc589513ce9c8f3f3d990ffd058cac263f0"
+    },
+    {
+      "date": "2024-04-25",
+      "nyt_id": 330,
+      "source_sha256": "6c8e7b35ddb76aac5038448894b06d2f47325c86988e0b728e68a5f9c363737a"
+    },
+    {
+      "date": "2024-04-26",
+      "nyt_id": 328,
+      "source_sha256": "f0a6e84293231be85584df4b7317b662b7f8c1a99f58c64cd067b3bbe711fb66"
+    },
+    {
+      "date": "2024-04-27",
+      "nyt_id": 327,
+      "source_sha256": "a46667f09da9737aec3f50082d238d55ee6da78d2e242333a1c692b0f4d54d51"
+    },
+    {
+      "date": "2024-04-28",
+      "nyt_id": 329,
+      "source_sha256": "b041b14f9bcfbed4b6e1183fe222966105584af8e99f9196c5e057540b754872"
+    },
+    {
+      "date": "2024-04-29",
+      "nyt_id": 341,
+      "source_sha256": "c37da84635db6638244fbdb953474ea3b6aec484b5ea85b99f8ffe49880c1fa2"
+    },
+    {
+      "date": "2024-04-30",
+      "nyt_id": 333,
+      "source_sha256": "f8afc2b541ccee32825de0cb5d24c2027759a7ba13e8348f7cc11584744e1f9d"
+    },
+    {
+      "date": "2024-05-01",
+      "nyt_id": 332,
+      "source_sha256": "cae626268b7109580a787a4c033b346e9a3dab29b05e490aa4ee3cd3cef53ec6"
+    },
+    {
+      "date": "2024-05-02",
+      "nyt_id": 334,
+      "source_sha256": "cf1693e70bde1895daa3a91ace3559564e528b1b45850855cf62c74bcd868a36"
+    },
+    {
+      "date": "2024-05-03",
+      "nyt_id": 340,
+      "source_sha256": "7dccd91f9113080cf6deda59e89153ff78c52da3c418fa4dad39704c6f523e26"
+    },
+    {
+      "date": "2024-05-04",
+      "nyt_id": 335,
+      "source_sha256": "561286d3f38f2866b2a74b2749253ceb0114230a0f3f1a3ed98c9e861fcfcf7b"
+    },
+    {
+      "date": "2024-05-05",
+      "nyt_id": 354,
+      "source_sha256": "e51f4a87aaac7ccac6faada74884c6ef1dd74cc09233c8d650b9cccd0e6ed76e"
+    },
+    {
+      "date": "2024-05-06",
+      "nyt_id": 352,
+      "source_sha256": "642fef0ac8545b91683c9463f735af4bfaeb0c6ded9723028a81d8960bd2ce32"
+    },
+    {
+      "date": "2024-05-07",
+      "nyt_id": 350,
+      "source_sha256": "0ff4694a97b759ac20b7f7f8b2fb185598f3ffcec404be692a8e5486f73b2e87"
+    },
+    {
+      "date": "2024-05-08",
+      "nyt_id": 347,
+      "source_sha256": "5a58c76dc76f6a780d30cc8f8cddb73136549ba8abc793ab6e33e3b63a625753"
+    },
+    {
+      "date": "2024-05-09",
+      "nyt_id": 348,
+      "source_sha256": "586b7e055772a4d3e4702fa9dfe20f34c07fd125343f965450b9ff1d870073db"
+    },
+    {
+      "date": "2024-05-10",
+      "nyt_id": 353,
+      "source_sha256": "032de2b0b5d5b5927733e814c93d408c443d3b95ccbdd6e1a55a63ddf361e70f"
+    },
+    {
+      "date": "2024-05-11",
+      "nyt_id": 349,
+      "source_sha256": "35059b5f599e870f7bde39f107dfbb5c9f3a25ef5488bcc1828a1214f8a4bbc8"
+    },
+    {
+      "date": "2024-05-12",
+      "nyt_id": 355,
+      "source_sha256": "08306da86c3ca81165843a03584cf222bf90a36b6adeb2de8498583740683fcc"
+    },
+    {
+      "date": "2024-05-13",
+      "nyt_id": 362,
+      "source_sha256": "81c965a017be623d3faf7ae29db59ceefe43eae97433249009909520e976b4fe"
+    },
+    {
+      "date": "2024-05-14",
+      "nyt_id": 361,
+      "source_sha256": "5e2d584bd1c3cb0b22237d792b2cca32874001fcbdbe178bc16cc437457b3bf9"
+    },
+    {
+      "date": "2024-05-15",
+      "nyt_id": 360,
+      "source_sha256": "b38514bb2efec203f7439850e18d7b9b41902c2d6f132e6a7b1701b0e1b098e9"
+    },
+    {
+      "date": "2024-05-16",
+      "nyt_id": 359,
+      "source_sha256": "cff32bfbfd39eab595fa921bdbf7a51e567e8d4d936b271b00f9034a5348fd74"
+    },
+    {
+      "date": "2024-05-17",
+      "nyt_id": 358,
+      "source_sha256": "01a8ebcd5f4384c0b57ae0517c47efc61ce22f49cbb6d2f06f6159033d388f0a"
+    },
+    {
+      "date": "2024-05-18",
+      "nyt_id": 357,
+      "source_sha256": "030ba09d6933dd93156cf9faad8e1a73881671ea7b9b9851dbeb5d633b8427dc"
+    },
+    {
+      "date": "2024-05-19",
+      "nyt_id": 356,
+      "source_sha256": "8d5e2dd9fb77932462f2498306ea31ed62fa7a9649a7f47655cb7f30b07841c4"
+    },
+    {
+      "date": "2024-05-20",
+      "nyt_id": 364,
+      "source_sha256": "8841e559ade7c85981aea4dc7c323a62e72fb4492d7edc03d3dc78bbda089032"
+    },
+    {
+      "date": "2024-05-21",
+      "nyt_id": 367,
+      "source_sha256": "108a3462e76fad5b6ba35e5241ce0c6ec4896ac7f0b5b51958248ff8f090923e"
+    },
+    {
+      "date": "2024-05-22",
+      "nyt_id": 366,
+      "source_sha256": "dfe28f9b7eeefbb83a5bae9327d2c53b2d5a928238a0c84edf06ad19bd48f116"
+    },
+    {
+      "date": "2024-05-23",
+      "nyt_id": 369,
+      "source_sha256": "b99368a2fb7559a59b62e4ecdcc414929c0823aa1426ff36e936d51f522e97ef"
+    },
+    {
+      "date": "2024-05-24",
+      "nyt_id": 368,
+      "source_sha256": "08d19ea119809a21dfff6e016fdaaf6eff5d9578a43056f6bb6c2d103aaf72c6"
+    },
+    {
+      "date": "2024-05-25",
+      "nyt_id": 365,
+      "source_sha256": "a60e5306eb4c13f37bee28fc143e17a637c96e0f310da03c2278a5164ce4c5c2"
+    },
+    {
+      "date": "2024-05-26",
+      "nyt_id": 363,
+      "source_sha256": "bd7d1807c9ab0bb56980b73385ad3d8010f841762b3f57c715052731d3580b72"
+    },
+    {
+      "date": "2024-05-27",
+      "nyt_id": 374,
+      "source_sha256": "97625152306dd3a30c2e2f4b9a98780292a7eafae86edd46ed9f5a1036400ec9"
+    },
+    {
+      "date": "2024-05-28",
+      "nyt_id": 375,
+      "source_sha256": "1c701aa3d51bdd1f3c2a881132656a8d99faeb57ab51e19dff37cd190fc7e040"
+    },
+    {
+      "date": "2024-05-29",
+      "nyt_id": 370,
+      "source_sha256": "87b9c74f0d418861c31e7a11c8d395a7105b9a71fc76830688e099cddcc92426"
+    },
+    {
+      "date": "2024-05-30",
+      "nyt_id": 372,
+      "source_sha256": "7a87ecdb4461745ad2964d06412bfccc5afc613c1fa04adec5951a7fb4027840"
+    },
+    {
+      "date": "2024-05-31",
+      "nyt_id": 371,
+      "source_sha256": "e5b3a913f8cf75603ab98f30bb4beb16180eac051bcd5692302b03c04871ca73"
+    },
+    {
+      "date": "2024-06-01",
+      "nyt_id": 373,
+      "source_sha256": "e2f5ce19c4a25cac49dd0e5c9462f23a7428779dc53ec52af61474074b8acb6f"
+    },
+    {
+      "date": "2024-06-02",
+      "nyt_id": 380,
+      "source_sha256": "4285ef4f81dc55bcb2cdcc35ec5e90b16b680545651219b6444685c21f549475"
+    },
+    {
+      "date": "2024-06-03",
+      "nyt_id": 382,
+      "source_sha256": "e28876eb72ec5becdcf66380c6cd15aa58f639f04c06ed432fcbc3eee9be9447"
+    },
+    {
+      "date": "2024-06-04",
+      "nyt_id": 383,
+      "source_sha256": "58dafe72f5180f89b9bc17e7629c21c4ffde09b91bdb02ace4d16d4018142ee9"
+    },
+    {
+      "date": "2024-06-05",
+      "nyt_id": 381,
+      "source_sha256": "be0f612f752729f1d5d3131464ee044e4461f98c5504a3eb82fa8d8639908011"
+    },
+    {
+      "date": "2024-06-06",
+      "nyt_id": 388,
+      "source_sha256": "2663e5b96c3e7a3e0e55b54935c1cb714309780ab2a5d7e9f7ebc63deacb0916"
+    },
+    {
+      "date": "2024-06-07",
+      "nyt_id": 389,
+      "source_sha256": "63407851eef3ef0f0c79164b1aef206877a6ce766ab0f4d057e0e103827e7274"
+    },
+    {
+      "date": "2024-06-08",
+      "nyt_id": 379,
+      "source_sha256": "b5ec58e0064b71d6f9a5194b73dce5d2af3f5a6852f0a9b1384e91ddc07331bb"
+    },
+    {
+      "date": "2024-06-09",
+      "nyt_id": 394,
+      "source_sha256": "cc687b748b4c513b9d0fe1b15f3a01242aa67507f9721266f347d89f555937ae"
+    },
+    {
+      "date": "2024-06-10",
+      "nyt_id": 377,
+      "source_sha256": "b86381c2c0f039bb3f250c2755cd0a1d6edc9f276c169da7961687511e8030c4"
+    },
+    {
+      "date": "2024-06-11",
+      "nyt_id": 386,
+      "source_sha256": "0a3e3628af19cef8f6be147fadbef3ed504df9b91f193eea0552bf3ac95ce70e"
+    },
+    {
+      "date": "2024-06-12",
+      "nyt_id": 376,
+      "source_sha256": "69c349647c9e596cc023210e0dc04d232325e52623cfc6b71618029905a822ae"
+    },
+    {
+      "date": "2024-06-13",
+      "nyt_id": 378,
+      "source_sha256": "ca30747104490cd5a63e77e3826dcea40d716788b5186ec3d662dc1e294eb280"
+    },
+    {
+      "date": "2024-06-14",
+      "nyt_id": 391,
+      "source_sha256": "120d71c68195a98d6a32d6cbbf1eb2ebe331165df6be33fee8a298353dbefa2f"
+    },
+    {
+      "date": "2024-06-15",
+      "nyt_id": 387,
+      "source_sha256": "b44533b8786ed9c18993603680b02d57dde96217a4b269afd32ddf68750b98a5"
+    },
+    {
+      "date": "2024-06-16",
+      "nyt_id": 393,
+      "source_sha256": "13549a221663026e26a6466e9b53f9bd7d0d2208f4a0b6f9dca98c07dd7410d9"
+    },
+    {
+      "date": "2024-06-17",
+      "nyt_id": 396,
+      "source_sha256": "913506d92424d053e900d999d4f4fb98a017c614f63b5b413c9309d50d1c2668"
+    },
+    {
+      "date": "2024-06-18",
+      "nyt_id": 395,
+      "source_sha256": "08893c3c57b1294f2a1ad4deb7c431e9881d295a9e76f5409565448a3e164c1c"
+    },
+    {
+      "date": "2024-06-19",
+      "nyt_id": 392,
+      "source_sha256": "fec04e67d4c436c1ede8b5ea19174fe160012e1dd6f5759cfc2bac2f150c30c8"
+    },
+    {
+      "date": "2024-06-20",
+      "nyt_id": 398,
+      "source_sha256": "f0c175f2af4f5436c2f410d0e63001db22b94cb17ca36a5c82ed5e8bb5cfe3e8"
+    },
+    {
+      "date": "2024-06-21",
+      "nyt_id": 390,
+      "source_sha256": "018b8f270354ef4631f31402040ecff6cf3a26d6d7ee2b93f0da947049a2bd07"
+    },
+    {
+      "date": "2024-06-22",
+      "nyt_id": 397,
+      "source_sha256": "284f6c236d64df8326c57bed3129dc524c12ab399262dccecf505f64b6bb8ea3"
+    },
+    {
+      "date": "2024-06-23",
+      "nyt_id": 404,
+      "source_sha256": "1efb31ca5a1c2957ec99d0c8dcff6e39f927b7246f239fcd7a53ded53458795b"
+    },
+    {
+      "date": "2024-06-24",
+      "nyt_id": 399,
+      "source_sha256": "235e8aa8a9d6ddfe81cfdf7e8c7a5387ede76969c28737ef3225041f9a77a6a8"
+    },
+    {
+      "date": "2024-06-25",
+      "nyt_id": 402,
+      "source_sha256": "b070b2ba366488be8c448726be67f9591f594975d721f69763d8dfc9975b5601"
+    },
+    {
+      "date": "2024-06-26",
+      "nyt_id": 401,
+      "source_sha256": "821c4e3fa89c7b9da8b372c5c86139527acf9806819ab3275af1c64c6d19fd8f"
+    },
+    {
+      "date": "2024-06-27",
+      "nyt_id": 400,
+      "source_sha256": "27baa1b69995c4b196ff886acd566dae435c584727609e1f4a4eb451f4be0d29"
+    },
+    {
+      "date": "2024-06-28",
+      "nyt_id": 403,
+      "source_sha256": "5fb2b0cc8c43b11794fab306ac0bcb60e53f94eb9a3d4e7ef50bad74a32b3fae"
+    },
+    {
+      "date": "2024-06-29",
+      "nyt_id": 405,
+      "source_sha256": "fe20ece64069430b2c340d404aeb784cc9119873d440c4d316ee4e430f0d1706"
+    },
+    {
+      "date": "2024-06-30",
+      "nyt_id": 406,
+      "source_sha256": "253ddd9f6fd29b034264a70e1dca188b99d2b1a28437e1041213298247c0b42d"
+    },
+    {
+      "date": "2024-07-01",
+      "nyt_id": 409,
+      "source_sha256": "51584d15b6d8c13f595f7d7b95cd02bd2f4c63f438b6ecf216bf303bb078320e"
+    },
+    {
+      "date": "2024-07-02",
+      "nyt_id": 410,
+      "source_sha256": "02c5a09092b6b90457212b66acdf5786e1cf30d3af7e20d0d241acda559a075e"
+    },
+    {
+      "date": "2024-07-03",
+      "nyt_id": 408,
+      "source_sha256": "b32c9cac2ab92fd532d3013d1206ab68067a6e11123e29487c13dbce3533315e"
+    },
+    {
+      "date": "2024-07-04",
+      "nyt_id": 417,
+      "source_sha256": "348f4bcc5f88a8c4ac625e1ac3a225217ad827574882e4ac3c35101bbeca2fbd"
+    },
+    {
+      "date": "2024-07-05",
+      "nyt_id": 412,
+      "source_sha256": "3c42b6b99ac380a8dec8594b59aa63a17d939071e8e619b142c932a39d4a981d"
+    },
+    {
+      "date": "2024-07-06",
+      "nyt_id": 407,
+      "source_sha256": "e726c4fb2a6132ad5df868b9aca79156b4ce12ca83cce2a1c11e738056c0f055"
+    },
+    {
+      "date": "2024-07-07",
+      "nyt_id": 411,
+      "source_sha256": "c56ff4552de8b5a08501eb6bce2ee954763781f12470e450713eb2be428271bd"
+    },
+    {
+      "date": "2024-07-08",
+      "nyt_id": 419,
+      "source_sha256": "88a13ddb69e7760a14446958604f22b120c0ef9a612becb9f9d9937553a60c50"
+    },
+    {
+      "date": "2024-07-09",
+      "nyt_id": 416,
+      "source_sha256": "c075d5cbf5c53034113d84bdd377f6c674d9e6310a4f6b4887e3443cc236079d"
+    },
+    {
+      "date": "2024-07-10",
+      "nyt_id": 414,
+      "source_sha256": "7c7114bf280f8b27a08e7adc446f04525ceb33b9dc38faa3f81f31db6d7a5660"
+    },
+    {
+      "date": "2024-07-11",
+      "nyt_id": 413,
+      "source_sha256": "fb70d26076049c1901fa575c2f8774ea17cce347db379992c6512ccf25e4784b"
+    },
+    {
+      "date": "2024-07-12",
+      "nyt_id": 415,
+      "source_sha256": "afbb4112cc8dc571a7f4489a2a2d459f67ec81a0009c7b043ff2785f0bca4610"
+    },
+    {
+      "date": "2024-07-13",
+      "nyt_id": 418,
+      "source_sha256": "c817aa3d4d10078cca18e5fda5185d3e257dc0343940506dfa7d9dcb6a35f76f"
+    },
+    {
+      "date": "2024-07-14",
+      "nyt_id": 425,
+      "source_sha256": "c1d81d60861fb3ecbe2ecb048d8a4abfd68864fd36080aa83dd89611b7001511"
+    },
+    {
+      "date": "2024-07-15",
+      "nyt_id": 421,
+      "source_sha256": "01907a721ab5d380d87a2af2285b366842e9291316266f3555b22836020977f3"
+    },
+    {
+      "date": "2024-07-16",
+      "nyt_id": 422,
+      "source_sha256": "bf7d7f27239d939e2d69591b662cd7edb5febef8967d84996bf65f5815115128"
+    },
+    {
+      "date": "2024-07-17",
+      "nyt_id": 423,
+      "source_sha256": "ec4913e2f2cc1e2646c9cd323f0e81911323c40e2293f60a754d5b735fe97894"
+    },
+    {
+      "date": "2024-07-18",
+      "nyt_id": 420,
+      "source_sha256": "12210844db1f10fc2882f47868942f009a02c53dd7be10f503c766e845eae7ed"
+    },
+    {
+      "date": "2024-07-19",
+      "nyt_id": 428,
+      "source_sha256": "b572d30e591a909ebe19632ad23e0218ceeb8de30465da605d8c9eb4a7ef5848"
+    },
+    {
+      "date": "2024-07-20",
+      "nyt_id": 433,
+      "source_sha256": "697fce318590e218d07cc08ce3168fedc5fefb89271b9c34a6be1fdd8ce220e3"
+    },
+    {
+      "date": "2024-07-21",
+      "nyt_id": 431,
+      "source_sha256": "6ceceb2501537f261d05ae8e7b9b6acd4c3aa4251a7f14cd71efb04a66bf946d"
+    },
+    {
+      "date": "2024-07-22",
+      "nyt_id": 429,
+      "source_sha256": "126e68803673f6647fd709535976709ab5eaa7cc5c23c7b0728fd1dc2aebb2e8"
+    },
+    {
+      "date": "2024-07-23",
+      "nyt_id": 426,
+      "source_sha256": "69ef88141b5894df8de65cf15f74d4a35239ebfe44e97a350630cfefee6e9ae7"
+    },
+    {
+      "date": "2024-07-24",
+      "nyt_id": 427,
+      "source_sha256": "d293ffe82f51a1df27f76f4db46b33d54c2fa59ae54ec612a2efb1c50ca5f599"
+    },
+    {
+      "date": "2024-07-25",
+      "nyt_id": 430,
+      "source_sha256": "cb11b4646533c89ccda63bcc994d7e0795281c5b25db5fd7a66124ac50675af9"
+    },
+    {
+      "date": "2024-07-26",
+      "nyt_id": 432,
+      "source_sha256": "a46d39ccdeeb60e4ba913de80e9ae33786413846434dee48580363aded1093e9"
+    },
+    {
+      "date": "2024-07-27",
+      "nyt_id": 440,
+      "source_sha256": "69f15fc1889f8639ec6e09a34f98da6ac3d8365b6ed34b49c4201fe63064fc20"
+    },
+    {
+      "date": "2024-07-28",
+      "nyt_id": 443,
+      "source_sha256": "a3d30e1093337da05633350bdf4a2a20940cc85edc5a279280ad68977a75ee1a"
+    },
+    {
+      "date": "2024-07-29",
+      "nyt_id": 438,
+      "source_sha256": "64653c36919d3366b841d9853b828ca21227660d1f4f5e26225a85cc9a567dde"
+    },
+    {
+      "date": "2024-07-30",
+      "nyt_id": 437,
+      "source_sha256": "01950dc3434c29f48b7ad93719a6eeaf8358ff0247850e25e7998d3fcff90b3e"
+    },
+    {
+      "date": "2024-07-31",
+      "nyt_id": 436,
+      "source_sha256": "456c0e1d9030eb4e9d77f3b693f742aa60cc46250d27476f561bc788c3fa8397"
+    },
+    {
+      "date": "2024-08-01",
+      "nyt_id": 439,
+      "source_sha256": "c7ae65db3381f453e81b3ce1bcbae34fd186ad4a3b57a53b2f432698c27e95a8"
+    },
+    {
+      "date": "2024-08-02",
+      "nyt_id": 434,
+      "source_sha256": "b5ff9ada5a9c50928577441e89225aeecf188a6cf1bfbb94b043799444d99264"
+    },
+    {
+      "date": "2024-08-03",
+      "nyt_id": 448,
+      "source_sha256": "996dcef637e19b40f881bce1f1548d00c22ca7c737a5683fb8eee3c0130bd3c6"
+    },
+    {
+      "date": "2024-08-04",
+      "nyt_id": 447,
+      "source_sha256": "36a607feb1c33cc3f9de499df623adaf23b990ebb9b333f55dcc8b62fd784f13"
+    },
+    {
+      "date": "2024-08-05",
+      "nyt_id": 446,
+      "source_sha256": "ebd344556d25d75ea41aaa9750df59e309b0fe84a4ad113b9bf571f02e300133"
+    },
+    {
+      "date": "2024-08-06",
+      "nyt_id": 445,
+      "source_sha256": "80ac8587bf2c95ecc8519ebf35c72d4cd143977e39e9f95cfd95da8d6d74520c"
+    },
+    {
+      "date": "2024-08-07",
+      "nyt_id": 444,
+      "source_sha256": "fd010e4da949c313c32dffb54dd7a02dc3a3448ad4c496aef9f47880afdd52c0"
+    },
+    {
+      "date": "2024-08-08",
+      "nyt_id": 435,
+      "source_sha256": "2135d4e4ea83fa5e0ecf14e3c4247fd653849bc160c20e97958aebcac7fd3570"
+    },
+    {
+      "date": "2024-08-09",
+      "nyt_id": 442,
+      "source_sha256": "8cbcc609d6c4edc487120466ad44d0cb6e439f1357b4c957621e07fc8145b4ae"
+    },
+    {
+      "date": "2024-08-10",
+      "nyt_id": 441,
+      "source_sha256": "4e7e4132ea2b41b6a9422b56ba488e4188ca80d8882417146c3b48b20c8d9632"
+    },
+    {
+      "date": "2024-08-11",
+      "nyt_id": 451,
+      "source_sha256": "d6e01f43cf50642deeade139d87ea979c6750a05200efb793c730db155df3d82"
+    },
+    {
+      "date": "2024-08-12",
+      "nyt_id": 449,
+      "source_sha256": "53b229de714ebbbdefb5d502afca95fd115faa48c8303350278f6372be1eb310"
+    },
+    {
+      "date": "2024-08-13",
+      "nyt_id": 457,
+      "source_sha256": "0397dbc43e22f061823432cc8fa57577cfaa9760c7dbceeb6ee0c6175ffa5a1e"
+    },
+    {
+      "date": "2024-08-14",
+      "nyt_id": 450,
+      "source_sha256": "df828cf5caa2fa383d3dea005507f0c89286384c415811a5ec8656f1e1964249"
+    },
+    {
+      "date": "2024-08-15",
+      "nyt_id": 453,
+      "source_sha256": "f0c6b801b3cd935ce2ef0c76d6c3bc351566c99042677c3af7305db3362596d3"
+    },
+    {
+      "date": "2024-08-16",
+      "nyt_id": 456,
+      "source_sha256": "807598aeacbc5f6d21c4c827379cafb4896370de57bd396437f197fc41a05f1e"
+    },
+    {
+      "date": "2024-08-17",
+      "nyt_id": 452,
+      "source_sha256": "99338843d5c7a5cae7b95dff319fd6ca037bc27a6c1bc60b7e39709be1f52e4b"
+    },
+    {
+      "date": "2024-08-18",
+      "nyt_id": 455,
+      "source_sha256": "2a79b276335cbc42eb4154fe5b1d41eab49220b2826f557c339cd4e1984775b4"
+    },
+    {
+      "date": "2024-08-19",
+      "nyt_id": 459,
+      "source_sha256": "202281e8dda4d3da6db843834253383019ddda55f6906671b62dd490fce253db"
+    },
+    {
+      "date": "2024-08-20",
+      "nyt_id": 462,
+      "source_sha256": "b47dd27686277338ad9d584d916dc6824c83f2b5b2747fcba84c77e72380b549"
+    },
+    {
+      "date": "2024-08-21",
+      "nyt_id": 458,
+      "source_sha256": "0a25b69a1bd5b796203b740fc19af39601c528881d0f995f67deec2c69bc19d4"
+    },
+    {
+      "date": "2024-08-22",
+      "nyt_id": 460,
+      "source_sha256": "efe2715d4de07b30b42b247570622e3a743ec0e6811967e906421e618929decc"
+    },
+    {
+      "date": "2024-08-23",
+      "nyt_id": 461,
+      "source_sha256": "b114b2703e3e98a225da100f876c5a17e9a0c728083c13821847ba768fe9b715"
+    },
+    {
+      "date": "2024-08-24",
+      "nyt_id": 468,
+      "source_sha256": "efcb59a8f4a7caea326cf6831adff0db21f8bcd4fa4c9fb24dfde5b02a19698a"
+    },
+    {
+      "date": "2024-08-25",
+      "nyt_id": 470,
+      "source_sha256": "5f7628918d749f6757dbd192d6c7f2418ce07494aaf382eefe60f4902c88e2d3"
+    },
+    {
+      "date": "2024-08-26",
+      "nyt_id": 469,
+      "source_sha256": "8de5f94226fc142aca6922fe5cd2dd7c609b257c55c6fdc7b9e83d3620d9c415"
+    },
+    {
+      "date": "2024-08-27",
+      "nyt_id": 472,
+      "source_sha256": "b3ef2fe323252cb6a594a5707b0e4754b197061e841444dfa7a2bf9cddf06c11"
+    },
+    {
+      "date": "2024-08-28",
+      "nyt_id": 467,
+      "source_sha256": "0a820c284f419e06eedfe4e0868e4bb2040eab731a56ae310659d8da84a27dc0"
+    },
+    {
+      "date": "2024-08-29",
+      "nyt_id": 473,
+      "source_sha256": "05f6e80369153d67044b7b9a4e2a3dab9d98e4f67a96abef33732ec68b8017c6"
+    },
+    {
+      "date": "2024-08-30",
+      "nyt_id": 477,
+      "source_sha256": "287ab550534494ac5d558022d4ef914856eb9fb591237ff5fff0489c6dfaa22d"
+    },
+    {
+      "date": "2024-08-31",
+      "nyt_id": 478,
+      "source_sha256": "69c246d3a632c767caa6acc145b7bb0c66fe6e96174892707b28dc5266406f03"
+    },
+    {
+      "date": "2024-09-01",
+      "nyt_id": 476,
+      "source_sha256": "ebd5a5dd9940aed150b32e20cc2d3fc79d17d179e31fee88a05359c5c499bd5d"
+    },
+    {
+      "date": "2024-09-02",
+      "nyt_id": 475,
+      "source_sha256": "043b48267c38f13151b95bd1508446c979aea0b7e7f5bc412029ec450b0baa7b"
+    },
+    {
+      "date": "2024-09-03",
+      "nyt_id": 480,
+      "source_sha256": "9405be586028d153ce55d49ce6c6fdcd1c769128f6704f81b23cb2db7fb3879e"
+    },
+    {
+      "date": "2024-09-04",
+      "nyt_id": 479,
+      "source_sha256": "1856dd2ced730a6825c5979b014aa7ea725b9a83f8f1776173b749b79b050c7a"
+    },
+    {
+      "date": "2024-09-05",
+      "nyt_id": 493,
+      "source_sha256": "7108bd1d62bc30dc3203c5c6a5d4636b19e0774dd611ec897759de8ba9d35700"
+    },
+    {
+      "date": "2024-09-06",
+      "nyt_id": 483,
+      "source_sha256": "03abca56285f5b9fe2bd6a6585b2ff86ade055112c6c298d8f38e193189f4f92"
+    },
+    {
+      "date": "2024-09-07",
+      "nyt_id": 486,
+      "source_sha256": "fb0ea7f513e83cd3185f86ff0e7bebef6400d8ee396cb9504e2ff0001913cb35"
+    },
+    {
+      "date": "2024-09-08",
+      "nyt_id": 481,
+      "source_sha256": "a9b4f2a2b5c2a550aa0316ab0096c1c4b10add1158799f47236c171414534cca"
+    },
+    {
+      "date": "2024-09-09",
+      "nyt_id": 487,
+      "source_sha256": "11b1f7b5dd203d8902df901d77a3ca2df713d8c169cfffe96de8a9fee94f29fb"
+    },
+    {
+      "date": "2024-09-10",
+      "nyt_id": 485,
+      "source_sha256": "674825454a8cac12af6bb42cbeeb844ec2b9b56a19d04db2c3f5a26b23c1d57e"
+    },
+    {
+      "date": "2024-09-11",
+      "nyt_id": 484,
+      "source_sha256": "1d670688d9550fd50ca117fb3540b19a78e2dea28cd00de851506ed8be644297"
+    },
+    {
+      "date": "2024-09-12",
+      "nyt_id": 471,
+      "source_sha256": "bc5848f7a444e03a6aa9b1ce16bc5f73d414b8b98a4d78c72b59af8e61131ab3"
+    },
+    {
+      "date": "2024-09-13",
+      "nyt_id": 489,
+      "source_sha256": "79488950d4a745bac50e5d3763639f269df567ef847171ebc26d9526e5301e19"
+    },
+    {
+      "date": "2024-09-14",
+      "nyt_id": 494,
+      "source_sha256": "6b72d0a381a91a53fd76018a0b6abbfa04957dc74ebc0961a93300ff99af4ba5"
+    },
+    {
+      "date": "2024-09-15",
+      "nyt_id": 474,
+      "source_sha256": "b171317e51af84b324c520ad63583ca29785ce7c2730a57300f00feb3dee2c6c"
+    },
+    {
+      "date": "2024-09-16",
+      "nyt_id": 491,
+      "source_sha256": "f4d955bd9ba94653a61909deb8d9797220b31f33d807b35502414ca754e23148"
+    },
+    {
+      "date": "2024-09-17",
+      "nyt_id": 492,
+      "source_sha256": "3f20f17c4d9e50ab587fbbedfc01025b472fce267d8426e8ee0825bca2a03b80"
+    },
+    {
+      "date": "2024-09-18",
+      "nyt_id": 488,
+      "source_sha256": "25a318db71c3b2b4e1bade6dab2c9c4fbbe8b03c789d9b8a35c77724b55db3d8"
+    },
+    {
+      "date": "2024-09-19",
+      "nyt_id": 499,
+      "source_sha256": "3c419de24bba54a01482ac5c93ca169ea042c1f8eac420a53949a795e6289126"
+    },
+    {
+      "date": "2024-09-20",
+      "nyt_id": 495,
+      "source_sha256": "35ec70c8368c9c83167fe342a6f9f9f51ef579d672598606c36c0378ef0ece9d"
+    },
+    {
+      "date": "2024-09-21",
+      "nyt_id": 500,
+      "source_sha256": "d5acf2dc315e152971a10a0ff1abf0ed58039b76d5c2f7efd47079ee1ef8009a"
+    },
+    {
+      "date": "2024-09-22",
+      "nyt_id": 498,
+      "source_sha256": "ec404ca21830c329199ea961b846fb42f117829961b3efed629d648709d50bf9"
+    },
+    {
+      "date": "2024-09-23",
+      "nyt_id": 497,
+      "source_sha256": "c05e0055661a0fdfa3c8e42d1d75897b0161f5cb2d8d2ec81a47918ef241c5b8"
+    },
+    {
+      "date": "2024-09-24",
+      "nyt_id": 501,
+      "source_sha256": "ed65a01767cbe48a685d02b30fa144693834a78dc4e02b9c4d3a965e9ecb3add"
+    },
+    {
+      "date": "2024-09-25",
+      "nyt_id": 502,
+      "source_sha256": "201be0d4389111c048c5cb97d979be6d705b40eb6f99d767c7ee420c5ec16eeb"
+    },
+    {
+      "date": "2024-09-26",
+      "nyt_id": 503,
+      "source_sha256": "6efd26aef50e1d5d3bb39a0293aa6c76807542f20d50df215b2b016504e9fc68"
+    },
+    {
+      "date": "2024-09-27",
+      "nyt_id": 496,
+      "source_sha256": "dd34b22cbb28e94c14b84647abc53b51f44dccc4116bafee0c919fab48f38025"
+    },
+    {
+      "date": "2024-09-28",
+      "nyt_id": 504,
+      "source_sha256": "d8e49f30428a1c5dc04aad0273e9049c47271c85a3d4517baf96c9692faf3489"
+    },
+    {
+      "date": "2024-09-29",
+      "nyt_id": 508,
+      "source_sha256": "57ded0147a28414b108e43435366f87cd9165531df1d55cdbc7de2fc5f3a6f4e"
+    },
+    {
+      "date": "2024-09-30",
+      "nyt_id": 507,
+      "source_sha256": "5b792eebb6f2c6df127a16ab6212de4dbf94877e3e0f388e368c288c3862c5fe"
+    },
+    {
+      "date": "2024-10-01",
+      "nyt_id": 506,
+      "source_sha256": "3e3c712f1c7d155c5ccfe58d09f1f955cc198b3032de1a342d32f6903f0b9176"
+    },
+    {
+      "date": "2024-10-02",
+      "nyt_id": 510,
+      "source_sha256": "848136efd8a15a0db8419ba750ee9aad70bf6788fe65f06b62e247a8bf0af984"
+    },
+    {
+      "date": "2024-10-03",
+      "nyt_id": 482,
+      "source_sha256": "399052aaa7f8cb2c82d6d2f2e62cfaf6c8417b239953a47aa8a7b73c26ad5c21"
+    },
+    {
+      "date": "2024-10-04",
+      "nyt_id": 509,
+      "source_sha256": "fa9977bec4f663e723e42fd433d0bbe3bc7f6090b517a3a35cee558c1cbe5e6f"
+    },
+    {
+      "date": "2024-10-05",
+      "nyt_id": 516,
+      "source_sha256": "e868f3a8ae0c09381c7bba0fd1698b53abf26f0fbf3e60b00b850cf86ae8f16c"
+    },
+    {
+      "date": "2024-10-06",
+      "nyt_id": 513,
+      "source_sha256": "503765170f1ba6efcf8412ebf6f8588de812ac6fa31e20b2eea6108a108b7b28"
+    },
+    {
+      "date": "2024-10-07",
+      "nyt_id": 512,
+      "source_sha256": "21810cff689328d7f2a61c17af72089e2c5fbb7beb51bd6ff81a8419cdec4efd"
+    },
+    {
+      "date": "2024-10-08",
+      "nyt_id": 514,
+      "source_sha256": "9888e7b3d1b28e3600eff5f16a3e6fd653f0f940848f3790d7dbc7981e7249f1"
+    },
+    {
+      "date": "2024-10-09",
+      "nyt_id": 515,
+      "source_sha256": "5c638774313a3a4290accb3dee4b14795d72c23b2c45a35f159ba19097eaa7d3"
+    },
+    {
+      "date": "2024-10-10",
+      "nyt_id": 511,
+      "source_sha256": "80d9206541b5418780b59d6f2349ba1d568fcd3ba780d01b6158a747f4ff83fb"
+    },
+    {
+      "date": "2024-10-11",
+      "nyt_id": 520,
+      "source_sha256": "b25daac0038be68b2f26979f21e5a2bf4be7fb40f9d3fecf434c58d28d917faa"
+    },
+    {
+      "date": "2024-10-12",
+      "nyt_id": 521,
+      "source_sha256": "3ecacd0601e8a916d32233b9bc23993380bd67fc48115747ec50181499749814"
+    },
+    {
+      "date": "2024-10-13",
+      "nyt_id": 522,
+      "source_sha256": "81ba6d7855680eef2499cb7667f65f74cc3c502e5bd0569f4b1db8c0322feea0"
+    },
+    {
+      "date": "2024-10-14",
+      "nyt_id": 517,
+      "source_sha256": "4435eece4c8b311d72423b10f833610f376c680dd8406d21f6dcd1856236d825"
+    },
+    {
+      "date": "2024-10-15",
+      "nyt_id": 519,
+      "source_sha256": "d8c010377bfbc103cfed47799bb1e7097c29e836016d8579676795ad44e3316d"
+    },
+    {
+      "date": "2024-10-16",
+      "nyt_id": 518,
+      "source_sha256": "e1b3d4a8c3dbbe101a3b11a936df3a94c6d1a0b8689b406574eb8dfcf8e135c3"
+    },
+    {
+      "date": "2024-10-17",
+      "nyt_id": 525,
+      "source_sha256": "11bc7c7086a7cd6ba3f6aaf5dea2d7f3d58643ec563e9bbc50f1e5a041011ec6"
+    },
+    {
+      "date": "2024-10-18",
+      "nyt_id": 524,
+      "source_sha256": "fdc11de4ba4c001f1b3a073f52bac213248d58e1629cf95d36b5180e1a2bcd15"
+    },
+    {
+      "date": "2024-10-19",
+      "nyt_id": 527,
+      "source_sha256": "0ceee135a1a4fca9178375d1aaa861027355c2faba3175411bfe13cfef0ff23d"
+    },
+    {
+      "date": "2024-10-20",
+      "nyt_id": 528,
+      "source_sha256": "d6de5c17ff7fea36ff3f9fb708499815301540439dafc1815bf42dd43b59f354"
+    },
+    {
+      "date": "2024-10-21",
+      "nyt_id": 530,
+      "source_sha256": "1cce4a8622f0c72fb2b466c997f80dc2e5995706dd6cc06409b0b06a64904998"
+    },
+    {
+      "date": "2024-10-22",
+      "nyt_id": 529,
+      "source_sha256": "9f7d97536a9f4c9c570c83065617a49db03b7345292bd289489d0ca335711eff"
+    },
+    {
+      "date": "2024-10-23",
+      "nyt_id": 505,
+      "source_sha256": "4057f7958445b60f5474da5d391ebfd75927818934de3439a3006c7c581500a8"
+    },
+    {
+      "date": "2024-10-24",
+      "nyt_id": 526,
+      "source_sha256": "6f645a0088a652344e6c1b8f4b49a828c31ec8f577fa829971dc97ab2fd9d1e3"
+    },
+    {
+      "date": "2024-10-25",
+      "nyt_id": 531,
+      "source_sha256": "cf2179682db206ab54df247cc74e5c4cabace55a241b0fd6ebe50c42a55d787d"
+    },
+    {
+      "date": "2024-10-26",
+      "nyt_id": 535,
+      "source_sha256": "ded1d7218809c717bc4ff84b706d9d688dfe3f755acef16acdaac6577d664f5f"
+    },
+    {
+      "date": "2024-10-27",
+      "nyt_id": 534,
+      "source_sha256": "39868a27e713b4fb256dc8336c0ddb55226754b41c271f676ab51cddd8767ca6"
+    },
+    {
+      "date": "2024-10-28",
+      "nyt_id": 537,
+      "source_sha256": "b1a847acfe945e4c8438b6a6533ea4fcc4c929c2e35f1c00ed3937c1221d4467"
+    },
+    {
+      "date": "2024-10-29",
+      "nyt_id": 532,
+      "source_sha256": "e35f3c1a0c883ae935ce3d2f39e19698da33482496ab223629b2c45943982354"
+    },
+    {
+      "date": "2024-10-30",
+      "nyt_id": 536,
+      "source_sha256": "77f293bd8e127e6a1f1857a98cb31f3598e124c0d0350053a97da216479c552b"
+    },
+    {
+      "date": "2024-10-31",
+      "nyt_id": 523,
+      "source_sha256": "3ff47a044d51aaa91be39379a802664339955f6ae6de29041b02ed06e6cfa51c"
+    },
+    {
+      "date": "2024-11-01",
+      "nyt_id": 533,
+      "source_sha256": "44db81202b8a8f022f2785358c91e1f01fe6e5101edd73a36f37216277852faa"
+    },
+    {
+      "date": "2024-11-02",
+      "nyt_id": 542,
+      "source_sha256": "2592cfc44e3d061a35278d900ce61c8a061a4e12258cc288275c2d5860e779ee"
+    },
+    {
+      "date": "2024-11-03",
+      "nyt_id": 538,
+      "source_sha256": "d5e4c88e93576a5e93e16917004ec4593d23d73d6334484b48e92ad3ec544b0c"
+    },
+    {
+      "date": "2024-11-04",
+      "nyt_id": 539,
+      "source_sha256": "d36d7fe34c2b8700531d56f20dca4ceba434ba5aeed4acb27eab32523724bbfd"
+    },
+    {
+      "date": "2024-11-05",
+      "nyt_id": 544,
+      "source_sha256": "8cbd6eceb4074dbba5e30c1fbbda7aee412e245e9f34ed9c83b7bd437f6b9606"
+    },
+    {
+      "date": "2024-11-06",
+      "nyt_id": 540,
+      "source_sha256": "80eaca04c953431e8f9b9e6a09c66853ec7ad476f818d0269568fb7b66a8456f"
+    },
+    {
+      "date": "2024-11-07",
+      "nyt_id": 541,
+      "source_sha256": "6c78ba927bb98d0663fcec72c3bf3c3333fe0bbea98ef30f106b9878a78f7b4d"
+    },
+    {
+      "date": "2024-11-08",
+      "nyt_id": 543,
+      "source_sha256": "db3c6c8adaa5940efa3fc49e9437bc3f212e4827a235f2693c524a475591bef5"
+    },
+    {
+      "date": "2024-11-09",
+      "nyt_id": 546,
+      "source_sha256": "2f62281813ddcbba74b194efae155100b3a625b9740a673261d4219b84966174"
+    },
+    {
+      "date": "2024-11-10",
+      "nyt_id": 548,
+      "source_sha256": "c1bb0920853becce83c6eb9f342df78cc4633e9f1690f918cddc1551f17b00cb"
+    },
+    {
+      "date": "2024-11-11",
+      "nyt_id": 547,
+      "source_sha256": "61471902e852db895272349b8c84896bb199b2034cf58624eaeaeee210ad891e"
+    },
+    {
+      "date": "2024-11-12",
+      "nyt_id": 550,
+      "source_sha256": "31c23b7cb4b2790f161a47ba77427889737b68f24e7cd2ad8418112c20f04ea9"
+    },
+    {
+      "date": "2024-11-13",
+      "nyt_id": 551,
+      "source_sha256": "423439d31654142e7e84fd99b5da613fdef226e1d5933f48692a0e54f15bef65"
+    },
+    {
+      "date": "2024-11-14",
+      "nyt_id": 545,
+      "source_sha256": "9ee12b99ecfae7b4d483dcf948b7a98b51105440564b6b5a66139facf9310500"
+    },
+    {
+      "date": "2024-11-15",
+      "nyt_id": 561,
+      "source_sha256": "051e2a132905dcd02dff00b798a09fd80bfe3f83e7a3b39d4263a17caf7c54f3"
+    },
+    {
+      "date": "2024-11-16",
+      "nyt_id": 557,
+      "source_sha256": "27aac8434d1bf2a07bba3df6f066624992917a7f6ec6f3c53c11623c13d78088"
+    },
+    {
+      "date": "2024-11-17",
+      "nyt_id": 554,
+      "source_sha256": "2e3dbcae11e707fcdb66db98f9d98bd9afe8846cf5a2faf9adcfd9d59146240c"
+    },
+    {
+      "date": "2024-11-18",
+      "nyt_id": 555,
+      "source_sha256": "7d250cbcf6312afebc25e3465358f67186746fcd78c5f153610f627aee6b19d0"
+    },
+    {
+      "date": "2024-11-19",
+      "nyt_id": 552,
+      "source_sha256": "c2328943bfbc2377f5bba04b9d7c7dcfa24e8fd2eb92e4e016b2d9395e9ce6ef"
+    },
+    {
+      "date": "2024-11-20",
+      "nyt_id": 553,
+      "source_sha256": "9f5b696d7952b5908b5683f2219f276e9bdcf41f0a1d9caa62576d6e9b6ce6e1"
+    },
+    {
+      "date": "2024-11-21",
+      "nyt_id": 556,
+      "source_sha256": "31365dcdce3fc6208d11ba2d65ed6b15b23c041dd9ab5621c1cb22e57af69c6d"
+    },
+    {
+      "date": "2024-11-22",
+      "nyt_id": 558,
+      "source_sha256": "6d7c6b99ebff687c2f3e3376d888cf082cfd7b38db078060dc60512de1433e67"
+    },
+    {
+      "date": "2024-11-23",
+      "nyt_id": 562,
+      "source_sha256": "3ab28950ad493362ff9d4fb5647349a6b9833bacab0636520c417b6b029ba4e6"
+    },
+    {
+      "date": "2024-11-24",
+      "nyt_id": 564,
+      "source_sha256": "445643b96688a6fb6e0db51f6e6f23d6e794b8430eec4126a3d6865eeab6f911"
+    },
+    {
+      "date": "2024-11-25",
+      "nyt_id": 549,
+      "source_sha256": "a8be1d99a99a1c6f35d5b92cde1146abf8d7dbcb013840d98a2d4af236f46083"
+    },
+    {
+      "date": "2024-11-26",
+      "nyt_id": 563,
+      "source_sha256": "9944b160054bdde328a1a3cbe4bb501b432e690dcc2346d65aca7655e886d24c"
+    },
+    {
+      "date": "2024-11-27",
+      "nyt_id": 559,
+      "source_sha256": "b6ae339661ec60bfb16d9861dd7f59b42069b1e2fa8bf8acacbc5da131b7de87"
+    },
+    {
+      "date": "2024-11-28",
+      "nyt_id": 568,
+      "source_sha256": "c75219189d8ae9c7f1afdc3c72cea15a196a238f2bbfe14c38e71fb6d5389d41"
+    },
+    {
+      "date": "2024-11-29",
+      "nyt_id": 570,
+      "source_sha256": "7aa197e7d75e9e37f95a8736b3fe98bdc9f01658458dffe69cc61c9ae5fed6bf"
+    },
+    {
+      "date": "2024-11-30",
+      "nyt_id": 565,
+      "source_sha256": "8fce0840624f1eebcab334f1a78c2d133b407450c78f3904e8f7893091fa10fb"
+    },
+    {
+      "date": "2024-12-01",
+      "nyt_id": 567,
+      "source_sha256": "614febd1d63f6d47a03dbd2ea54714934b3139c983f128c84aa3131fb251e031"
+    },
+    {
+      "date": "2024-12-02",
+      "nyt_id": 566,
+      "source_sha256": "453070a8f4b4da7c183e546f3b24c4ae3407818cb9669f22c605b793768d68e3"
+    },
+    {
+      "date": "2024-12-03",
+      "nyt_id": 569,
+      "source_sha256": "acca510e2d83bdd63c7d79af71ba4557767df114c111bdf50b5672a044e0faed"
+    },
+    {
+      "date": "2024-12-04",
+      "nyt_id": 575,
+      "source_sha256": "aec2b719040cb841cdadc6947a0a507a1e6ef4de107514c7e2e43cf1818d0fee"
+    },
+    {
+      "date": "2024-12-05",
+      "nyt_id": 571,
+      "source_sha256": "9316ba2ac194b3c28b6f44c2e01c96820b400f7a615fc21f33f489aa89c46273"
+    },
+    {
+      "date": "2024-12-06",
+      "nyt_id": 576,
+      "source_sha256": "3405216ed6a4e29eb5663a91b6cc9920a7d1a4bf29f6a10ac4f8d32ac4f2ab5f"
+    },
+    {
+      "date": "2024-12-07",
+      "nyt_id": 574,
+      "source_sha256": "2b5a1e0ca9aab5094f83c3a19b150f9618f850f61601bb496eddec136fec3d1a"
+    },
+    {
+      "date": "2024-12-08",
+      "nyt_id": 577,
+      "source_sha256": "56f2c85eda5c4b8efd42ce5ed63e880839d9a5682d87b1762d8b5a6fc86bb31e"
+    },
+    {
+      "date": "2024-12-09",
+      "nyt_id": 578,
+      "source_sha256": "884612a5bd846e9a857971b19dfd4b466f40d7615a903c074c4b6897bdc4e9fc"
+    },
+    {
+      "date": "2024-12-10",
+      "nyt_id": 580,
+      "source_sha256": "2d5853326eb1fc38a5c4d36791707676860d1643c9b86630ce9dd5aa0730db96"
+    },
+    {
+      "date": "2024-12-11",
+      "nyt_id": 572,
+      "source_sha256": "28bfb1555537e1baaf6eb44c14765eebe0a80f07ae6206ab0d15b20e8138f1e5"
+    },
+    {
+      "date": "2024-12-13",
+      "nyt_id": 560,
+      "source_sha256": "61319b74aef76202030aa1dac5365ae19f6cdd59b428185063b53b414addf91c"
+    },
+    {
+      "date": "2024-12-14",
+      "nyt_id": 581,
+      "source_sha256": "f599eca2b8e9cf957a5c315c243f8221373d38d854fb53f34eafbc716d7d4641"
+    },
+    {
+      "date": "2024-12-15",
+      "nyt_id": 589,
+      "source_sha256": "7019de5c7fb35d4e0405cc0aef3d90d451cc0315cb8412a2a77dc5ab7281991a"
+    },
+    {
+      "date": "2024-12-16",
+      "nyt_id": 579,
+      "source_sha256": "367b0487eba30d19e319c68bc1c8385f22c9dc39482e14a96ff5fa5e4bab6e5e"
+    },
+    {
+      "date": "2024-12-17",
+      "nyt_id": 587,
+      "source_sha256": "72cc2d5a8566d4a03800fec8f682a88110885ae14db416be0f7f5cd43021f927"
+    },
+    {
+      "date": "2024-12-18",
+      "nyt_id": 588,
+      "source_sha256": "7f49dab7d11f291bb03f2dccf590b020f44d0157d5da0a477428ce818229bbb3"
+    },
+    {
+      "date": "2024-12-19",
+      "nyt_id": 584,
+      "source_sha256": "1221b09b6b76241f925e73414a6f440415fa48c4bbd93acefb7bf3f7d000ef9b"
+    },
+    {
+      "date": "2024-12-20",
+      "nyt_id": 582,
+      "source_sha256": "2fbb2300304c3bb771d302438ca8da84ad337704109c4e72d31db120061bf00f"
+    },
+    {
+      "date": "2024-12-21",
+      "nyt_id": 586,
+      "source_sha256": "8cc7881b59bed73bad0e48ece2f4a50ec56d08ab98c33d4e4204c44ece2bb69e"
+    },
+    {
+      "date": "2024-12-22",
+      "nyt_id": 585,
+      "source_sha256": "f721be49b8ff967724552f487a49bb4a1afbff586e3cfcddfc469c4dec0b189b"
+    },
+    {
+      "date": "2024-12-23",
+      "nyt_id": 590,
+      "source_sha256": "23a49a975c6cce45f84660c287ac91328cc98db249a47231a3f3f9b529328ec8"
+    },
+    {
+      "date": "2024-12-24",
+      "nyt_id": 573,
+      "source_sha256": "4b440becd31b6ced919f016512cd1763deb65f1e02870abd07984bacb674854b"
+    },
+    {
+      "date": "2024-12-25",
+      "nyt_id": 595,
+      "source_sha256": "bbc0356ddfb1daa8bcdac18daad7551d6326759138c07c2b4fca97d100f608f3"
+    },
+    {
+      "date": "2024-12-26",
+      "nyt_id": 593,
+      "source_sha256": "19adfff90759e2e1132d05c8f98e51bc05d46e224218f2da31a53ca4b844140b"
+    },
+    {
+      "date": "2024-12-27",
+      "nyt_id": 592,
+      "source_sha256": "114939af934cac100f16bcd1ca43440a1660e74ef3a9aae3b1ff6fd41eb746c5"
+    },
+    {
+      "date": "2024-12-28",
+      "nyt_id": 596,
+      "source_sha256": "1e7be05b7232e6d0ed94cc4fc880c18bf9a4a09cade595e227c430fbac29a70b"
+    },
+    {
+      "date": "2024-12-29",
+      "nyt_id": 591,
+      "source_sha256": "036e8fb4f641d34d3d79d428127617a3feb803825d62314600540be7067c2b7a"
+    },
+    {
+      "date": "2024-12-30",
+      "nyt_id": 594,
+      "source_sha256": "73dce4afeb90bed4c5e9288e11575a641d35b5ad1e55f88ec3351d3aced4ff9b"
+    },
+    {
+      "date": "2024-12-31",
+      "nyt_id": 599,
+      "source_sha256": "1173abb7b53151acfa5de96d7911e688f4d0aecf32adcc58b86cc7446d568af8"
+    },
+    {
+      "date": "2025-01-01",
+      "nyt_id": 603,
+      "source_sha256": "3082641dfc7d9e7d6028ec8731e807f4d8a765c964b9ae8594d1c53756361898"
+    },
+    {
+      "date": "2025-01-02",
+      "nyt_id": 598,
+      "source_sha256": "83164abac2eced83ba97ee9e5a720ce6fc0e721bc932d1b7e5de74e51072a617"
+    },
+    {
+      "date": "2025-01-03",
+      "nyt_id": 602,
+      "source_sha256": "8832cb89c9d97cd7cfc41584051e90168258d4646e16df53bd7c1b377ca44e35"
+    },
+    {
+      "date": "2025-01-04",
+      "nyt_id": 600,
+      "source_sha256": "bcda9b2ed4a03f7d1860c778c379e3a5ddb73529dd225a7f897056be55f12d4a"
+    },
+    {
+      "date": "2025-01-05",
+      "nyt_id": 601,
+      "source_sha256": "c37ebe46dd39b559ac371c101cd2a987b7a653c1430df64d4f7f52028096df66"
+    },
+    {
+      "date": "2025-01-06",
+      "nyt_id": 604,
+      "source_sha256": "8829e0ee51a0fb54ec7a15ef24891f60d1e516163e3afb37cc9d196ad121a749"
+    },
+    {
+      "date": "2025-01-07",
+      "nyt_id": 609,
+      "source_sha256": "b2b795cf39ac8b9574adbdeb1242e111cdc67db12033562b41b81cfdb974fedc"
+    },
+    {
+      "date": "2025-01-08",
+      "nyt_id": 607,
+      "source_sha256": "6bfd7cba296e3341e10860bdd63bd64d5540cf7ee723b2a66d814b4960676278"
+    },
+    {
+      "date": "2025-01-09",
+      "nyt_id": 606,
+      "source_sha256": "ce32328b325d1dc35340a65607272809e623ca171d81f105bd0f465dfb4dd30b"
+    },
+    {
+      "date": "2025-01-10",
+      "nyt_id": 611,
+      "source_sha256": "4a95375e8b7bcc59163ac7214fd7d1847c5ef960589685e55d13d06d7119f11c"
+    },
+    {
+      "date": "2025-01-11",
+      "nyt_id": 610,
+      "source_sha256": "6511f33c792eede369084aa8ffd1d37cecc0c4daae9ffc21c129307f1a955aee"
+    },
+    {
+      "date": "2025-01-12",
+      "nyt_id": 605,
+      "source_sha256": "5a8100badd49b935219a40e5bfec7590944906af1f3d46c20488f7b98d1a5b97"
+    },
+    {
+      "date": "2025-01-13",
+      "nyt_id": 608,
+      "source_sha256": "58e72cfb833b96ec62d9d208d9a41450350827b7019210118df10129ab3675cc"
+    },
+    {
+      "date": "2025-01-14",
+      "nyt_id": 618,
+      "source_sha256": "3675bce8732257f1cf8eaa4db636030587ab5dcfd02919503e0a0957daf6baf0"
+    },
+    {
+      "date": "2025-01-15",
+      "nyt_id": 616,
+      "source_sha256": "1a9d121a6a7322c1d50623f02305764a37bada0deb205ee2f804406894c6968d"
+    },
+    {
+      "date": "2025-01-16",
+      "nyt_id": 613,
+      "source_sha256": "4db1768d9197a5b6e8fef78cd558e65afe192d32508bf82721c23bd391f5bd07"
+    },
+    {
+      "date": "2025-01-17",
+      "nyt_id": 614,
+      "source_sha256": "81985874d20b3543dbefa19b48934467aae1a1a9fc6b568eb53ee1d9b142b859"
+    },
+    {
+      "date": "2025-01-18",
+      "nyt_id": 615,
+      "source_sha256": "ec00be38f7bd14176ca83861e1dadff05571a727edbe78cef4a49ac336ec472a"
+    },
+    {
+      "date": "2025-01-19",
+      "nyt_id": 617,
+      "source_sha256": "888f55c72fe6a128f3f6cc62f66232b49e3a6ef3b0eb4562e5277734af4d3361"
+    },
+    {
+      "date": "2025-01-20",
+      "nyt_id": 612,
+      "source_sha256": "d340fe1acdccf494a407f3a008a39e4ee2c81fc2591a9cb8ccc32ed32e5338d0"
+    },
+    {
+      "date": "2025-01-21",
+      "nyt_id": 619,
+      "source_sha256": "0b18af3f0e9603b8b321e92515fb854bd233d25c88cbbfe5422088d93b25da11"
+    },
+    {
+      "date": "2025-01-22",
+      "nyt_id": 620,
+      "source_sha256": "d4d45f46ab2797c85fce603d8b2c5cac907b3dab8c5355bc6f389fe765cd5181"
+    },
+    {
+      "date": "2025-01-23",
+      "nyt_id": 621,
+      "source_sha256": "aa7b832a933570d16f1aef9a73ab9c25de76fcdcf1532d562d7cc1bd834a9dbb"
+    },
+    {
+      "date": "2025-01-24",
+      "nyt_id": 623,
+      "source_sha256": "31905571dc85ff6c1203a8c64b9d24c0725ccb40862b17912192f44956543ef5"
+    },
+    {
+      "date": "2025-01-25",
+      "nyt_id": 627,
+      "source_sha256": "cf0061501efe58e122196fa5440f78c06ee7fdae3614cb1613a921e7332039ab"
+    },
+    {
+      "date": "2025-01-26",
+      "nyt_id": 626,
+      "source_sha256": "11e6f68282d9d4c70eb34e28dd7783b28451db8d48bf98a75eaa8045da33c6cd"
+    },
+    {
+      "date": "2025-01-27",
+      "nyt_id": 628,
+      "source_sha256": "ed94e723160572d3aaf14a672977032d3309a76e3c45cf1688e40ddff954cbce"
+    },
+    {
+      "date": "2025-01-28",
+      "nyt_id": 625,
+      "source_sha256": "fb7b7cda93ad64433a0ce41b12931556997787a1ce68bd6a4229f285bd74ced6"
+    },
+    {
+      "date": "2025-01-29",
+      "nyt_id": 624,
+      "source_sha256": "f588c5734a31270d60370f522d7c988092ffb0d961687e8e6a5882a64fb65ee7"
+    },
+    {
+      "date": "2025-01-30",
+      "nyt_id": 634,
+      "source_sha256": "c41fba9a7460c628cd86ccfef47f20ee71b42c82b638ff5ec0df59969663c0a7"
+    },
+    {
+      "date": "2025-01-31",
+      "nyt_id": 633,
+      "source_sha256": "0d061bb9eb9acaf3faa28ba68b99f90f41250c8c4cf1475cd6a4488e07c1be35"
+    },
+    {
+      "date": "2025-02-01",
+      "nyt_id": 629,
+      "source_sha256": "2f4535a1cc6097b69ef0e3000c0acb3568c4a04935da293fd550e8941ffaad23"
+    },
+    {
+      "date": "2025-02-02",
+      "nyt_id": 630,
+      "source_sha256": "87538157d22c187c903b63130a942bb6d803c0dbfbe2c589c96c2b908abf7691"
+    },
+    {
+      "date": "2025-02-03",
+      "nyt_id": 638,
+      "source_sha256": "422ed2f7719557b59337b0c13573bb16581756c51ac7171c0becf52b6183b752"
+    },
+    {
+      "date": "2025-02-04",
+      "nyt_id": 631,
+      "source_sha256": "11c7b6ab862ebe4b6d3b90474d2c4ccf26b642524c627900420e846667e6ba5a"
+    },
+    {
+      "date": "2025-02-05",
+      "nyt_id": 632,
+      "source_sha256": "445bc5ea9bc1c813a7a6512d8595d1b1e2b72b27fea26894d23be098609fe1d4"
+    },
+    {
+      "date": "2025-02-06",
+      "nyt_id": 635,
+      "source_sha256": "393becb23cae9947378bfdb0e3ab858bf2e168bdde086ba835246b751ce8f031"
+    },
+    {
+      "date": "2025-02-07",
+      "nyt_id": 641,
+      "source_sha256": "43f02b1b64fa23a62b0e8503e885ea4284c93749bd137e368aa0747f54c8d79a"
+    },
+    {
+      "date": "2025-02-08",
+      "nyt_id": 640,
+      "source_sha256": "ead7759dc48cf58aacd9089256a8c6f3a338b2676657273dd744073a0f0ea1f0"
+    },
+    {
+      "date": "2025-02-09",
+      "nyt_id": 643,
+      "source_sha256": "f9d985db8c8b2115242dd53ff88738a1364423d0b72dd0dfe9a928fc65f3a02f"
+    },
+    {
+      "date": "2025-02-10",
+      "nyt_id": 639,
+      "source_sha256": "0c7d136a6e55525e4e2df9178374543f0265e9000ba946706686011be2877175"
+    },
+    {
+      "date": "2025-02-11",
+      "nyt_id": 642,
+      "source_sha256": "57db0799c360691d342c50e3dbd1703e15eee419fb91ba17bf86d0f6ea81b989"
+    },
+    {
+      "date": "2025-02-12",
+      "nyt_id": 636,
+      "source_sha256": "b789dac6b2de8959eba6117cf0f1e1cd8d9f71b97c287b7ba7c768da93aeb4aa"
+    },
+    {
+      "date": "2025-02-13",
+      "nyt_id": 647,
+      "source_sha256": "901ebbc8bf6a85f41e51ffd6b9f37eaa5b453621404b464b5e942edc23f0837d"
+    },
+    {
+      "date": "2025-02-14",
+      "nyt_id": 645,
+      "source_sha256": "ea5ee1b384f3b8f7a0e2dd334c06b6ea5850f56597e46b2c41a06befc0449aad"
+    },
+    {
+      "date": "2025-02-15",
+      "nyt_id": 646,
+      "source_sha256": "03dd13c97b191f13e1399959740022715e1cac537be862272ba74e39964a149b"
+    },
+    {
+      "date": "2025-02-16",
+      "nyt_id": 644,
+      "source_sha256": "db433386866b5e92af0e8b1b25d278de97589706c7104772ab8004fc69489971"
+    },
+    {
+      "date": "2025-02-17",
+      "nyt_id": 655,
+      "source_sha256": "8907da0aaf70d3309500be6c44268d8aee7401abd945e73cfe4a1b66e8a6f5c7"
+    },
+    {
+      "date": "2025-02-18",
+      "nyt_id": 648,
+      "source_sha256": "4cbb7c98fe16a6149254ef5a2e3f61cd83bb72a77ef6fa5ebc1f361c83bea943"
+    },
+    {
+      "date": "2025-02-19",
+      "nyt_id": 654,
+      "source_sha256": "5bffbb1d27546857dc00ef6e764eecaa82cb08e28021dc41d559f56be34df4d4"
+    },
+    {
+      "date": "2025-02-20",
+      "nyt_id": 656,
+      "source_sha256": "5061afd46eb50e18638b7b52e5c91a2a6bae2a25ebc778db19da17d29091fe4b"
+    },
+    {
+      "date": "2025-02-21",
+      "nyt_id": 652,
+      "source_sha256": "fcd6593b00db471242f4fa4c93a67c4fb4faa4ec24f9733b5933b6560e6b1b52"
+    },
+    {
+      "date": "2025-02-22",
+      "nyt_id": 653,
+      "source_sha256": "0f181aa961896c5cb669032b37e72bafb6d4134b052de8a4b7d0969547dcff86"
+    },
+    {
+      "date": "2025-02-23",
+      "nyt_id": 649,
+      "source_sha256": "7d2e892f0a4d2b6945133817f469d1e083c01e25214c35ffc35496c32431312a"
+    },
+    {
+      "date": "2025-02-24",
+      "nyt_id": 650,
+      "source_sha256": "8fa25270cdee8a55e72408adb8d832c2ad51866e5430a0cd1e148ab243621c22"
+    },
+    {
+      "date": "2025-02-25",
+      "nyt_id": 651,
+      "source_sha256": "462281ca1b96323569da923642be90fa8228701bcbaa307227e479deabc742be"
+    },
+    {
+      "date": "2025-02-26",
+      "nyt_id": 664,
+      "source_sha256": "2f35ae88242f12ac8f0593f092b75c4662bbd6c2d006bf5321e29dd5fb07fc27"
+    },
+    {
+      "date": "2025-02-27",
+      "nyt_id": 663,
+      "source_sha256": "65af48dccce629eef5310cfb78bd73e569a6760f5eee6d4ce40b598874f1bf96"
+    },
+    {
+      "date": "2025-02-28",
+      "nyt_id": 662,
+      "source_sha256": "b6c80bc9d88b0e88bf3b02eaf8c52765845a0b43fe8b610368b5cc96c6f3dc64"
+    },
+    {
+      "date": "2025-03-01",
+      "nyt_id": 661,
+      "source_sha256": "7618a6eb44c2fe183c55d552e6aa4321d55f9e4ea5e6fb1f4f575f0f43c2fb60"
+    },
+    {
+      "date": "2025-03-02",
+      "nyt_id": 660,
+      "source_sha256": "e118004c4d37b213dc600868c855165cb520a0381898f6b6e3c4ff1cd096cccc"
+    },
+    {
+      "date": "2025-03-03",
+      "nyt_id": 659,
+      "source_sha256": "98916ec99a49272b15c734df8cb9e260acbd2c89ade584c057037d4fa4bf5e71"
+    },
+    {
+      "date": "2025-03-04",
+      "nyt_id": 658,
+      "source_sha256": "80b91cf582a29eeb28d52763c577dd8fe9bbc0124939d95defd45d00357eafd2"
+    },
+    {
+      "date": "2025-03-05",
+      "nyt_id": 670,
+      "source_sha256": "4a4a9b7fe6aac98983f349ff9d7965220e155d73f086edf6bab47071dce3d14b"
+    },
+    {
+      "date": "2025-03-06",
+      "nyt_id": 667,
+      "source_sha256": "93535626325dd60d0d645b0f18c24ca7119446bc8dd9fcb747578517056e7bfa"
+    },
+    {
+      "date": "2025-03-07",
+      "nyt_id": 669,
+      "source_sha256": "ab72344eaf7093b7256eb1b1670c7f300309e9ae2744f4eba30b55c2f29e2df7"
+    },
+    {
+      "date": "2025-03-08",
+      "nyt_id": 666,
+      "source_sha256": "96681d501a05e5958f9646a39571e89444fe7ffbfdd20a5607ab402c1ef9a893"
+    },
+    {
+      "date": "2025-03-09",
+      "nyt_id": 668,
+      "source_sha256": "a7397659eecdb8d628b12d91e9f273f86e300aabfdf1a9162f63caf55d50b8c1"
+    },
+    {
+      "date": "2025-03-10",
+      "nyt_id": 665,
+      "source_sha256": "6569939d5948be9eaec1c57965dbc749bf5848652b26b295b09b753ed36a9c9e"
+    },
+    {
+      "date": "2025-03-11",
+      "nyt_id": 671,
+      "source_sha256": "03919b530a5eff6873041da769ce154641e2afd630d205492d28cd5ff3c2f222"
+    },
+    {
+      "date": "2025-03-12",
+      "nyt_id": 678,
+      "source_sha256": "50240380f9b805e0a827f90cae6f7d3cffb1ba32752fd0d386f89c3862edba65"
+    },
+    {
+      "date": "2025-03-13",
+      "nyt_id": 676,
+      "source_sha256": "ee1acecc90fd06d64030f2cc374744e41904ef37b4b1e7664513d21816291d05"
+    },
+    {
+      "date": "2025-03-14",
+      "nyt_id": 674,
+      "source_sha256": "b34540e8fa12da71c49f64459b80527ecf67330aae5c1cfdfcc62a11c5d9bcbe"
+    },
+    {
+      "date": "2025-03-15",
+      "nyt_id": 677,
+      "source_sha256": "e9d703859976e6ed68b9cced096e2c269946a2fadc7003dc7d73f647baaa882d"
+    },
+    {
+      "date": "2025-03-16",
+      "nyt_id": 675,
+      "source_sha256": "e9fa5313e7ba8cc9c7f50de4d133b23648cbd740dc8cb5cc066f0135eefe8684"
+    },
+    {
+      "date": "2025-03-17",
+      "nyt_id": 684,
+      "source_sha256": "d655d9d40a0a47d773bbd4f9149a14db377a0137a2af74db4f94f9e4835d0e0e"
+    },
+    {
+      "date": "2025-03-18",
+      "nyt_id": 683,
+      "source_sha256": "5f2d3b73ef329b8ed2e2309c9f88939b898a6ac25dfef653bf64f84d80e8d322"
+    },
+    {
+      "date": "2025-03-19",
+      "nyt_id": 685,
+      "source_sha256": "e454460bb192c4081206fb96460aca753bb51af99b29d2d1e3ee62864e2520d7"
+    },
+    {
+      "date": "2025-03-20",
+      "nyt_id": 681,
+      "source_sha256": "e85c74dc0dfb302ab7f93056aa0312f287d0d07d39183efe8c477365124cdefe"
+    },
+    {
+      "date": "2025-03-21",
+      "nyt_id": 680,
+      "source_sha256": "86b3d92a2fe9325bf9b1f80670cc7be277854c80c532028cd7af7ec19f14fd58"
+    },
+    {
+      "date": "2025-03-22",
+      "nyt_id": 679,
+      "source_sha256": "ab681080b36f72e9bd861186bc0a7ed225ab5e9fd59e71dda261bd435988ce39"
+    },
+    {
+      "date": "2025-03-23",
+      "nyt_id": 690,
+      "source_sha256": "75fe0803c46b30b0ef8f2a6709e52d3e7ee8e56d32db6b3b7258cff846e2fe86"
+    },
+    {
+      "date": "2025-03-24",
+      "nyt_id": 686,
+      "source_sha256": "5b9c77efed15c52b6efca4bb7052b62911ae8e9e8143066234ba509a50605a1a"
+    },
+    {
+      "date": "2025-03-25",
+      "nyt_id": 687,
+      "source_sha256": "f1b07fe208e275efc3365dfb154a3124abf94e54e7ce0431477ac55ca23c9b15"
+    },
+    {
+      "date": "2025-03-26",
+      "nyt_id": 688,
+      "source_sha256": "1cfab2f6b4de01f4a3dd5927feb023c9d5951b4d4673871105a2f03628f28905"
+    },
+    {
+      "date": "2025-03-27",
+      "nyt_id": 696,
+      "source_sha256": "ee3f664d8db7470214edabb04695617369c8fa771b6f7044884e1ca9f355221d"
+    },
+    {
+      "date": "2025-03-28",
+      "nyt_id": 699,
+      "source_sha256": "c74c85b467ddc106c6757a59d344751b3eabef55a7c2ec1e2a3a3fb8c6b1c52b"
+    },
+    {
+      "date": "2025-03-29",
+      "nyt_id": 689,
+      "source_sha256": "08499e29b59c93b594b02536b671e33ca6e280d7a1cc5d3973bb0f2857b98048"
+    },
+    {
+      "date": "2025-03-30",
+      "nyt_id": 692,
+      "source_sha256": "f702c40d9834a1a45ce45042d2f34038037171304d88b6bced9554b693fdce51"
+    },
+    {
+      "date": "2025-03-31",
+      "nyt_id": 691,
+      "source_sha256": "d7ceeacae2ee17851392aea109250cd18ece9361dff7351b4e1b984ad6e0d65b"
+    },
+    {
+      "date": "2025-04-02",
+      "nyt_id": 695,
+      "source_sha256": "a83f032789ecd2ee4c38eeb18ab9b8caba1b62e3f91694a69fe903f50c0481d6"
+    },
+    {
+      "date": "2025-04-03",
+      "nyt_id": 697,
+      "source_sha256": "57221e017d09474f0699108a4a11a7da3bbfb12d3c6ff78aaf1b7c04eb065792"
+    },
+    {
+      "date": "2025-04-04",
+      "nyt_id": 694,
+      "source_sha256": "a7d68d0b106b2a150a58de8739ffa8fea1627b0bc0c8be773a73235537636a34"
+    },
+    {
+      "date": "2025-04-05",
+      "nyt_id": 693,
+      "source_sha256": "faf0b3062e336651122b6288b24a308b6073a1a355d6b084031fb2f6750925eb"
+    },
+    {
+      "date": "2025-04-06",
+      "nyt_id": 698,
+      "source_sha256": "13a2f762d58b6591545c6a5f50e8578135349b9e74fb18f3061bb492bbe5651f"
+    },
+    {
+      "date": "2025-04-07",
+      "nyt_id": 673,
+      "source_sha256": "3305d6c253312efdc5c6ff7f1bdb20e7c3cacf8948872dc9dcefe16ecd333919"
+    },
+    {
+      "date": "2025-04-08",
+      "nyt_id": 704,
+      "source_sha256": "cffb956d4331a121755f97e0c73c33a13a8e0bea53bf9aa19f1be8eaf969c53f"
+    },
+    {
+      "date": "2025-04-09",
+      "nyt_id": 703,
+      "source_sha256": "5e388cd961ff986cb9df4f4b2649117bf492484774e6f3dc83a8d03597a29be6"
+    },
+    {
+      "date": "2025-04-10",
+      "nyt_id": 705,
+      "source_sha256": "0333ef4ab38a50debaf360ac99211a09a881b3100ccc0e303c5708add5ae664f"
+    },
+    {
+      "date": "2025-04-11",
+      "nyt_id": 701,
+      "source_sha256": "89faf57bf8c158eca93d89bc8d95584988195b876a232041df14443b48c2b7a8"
+    },
+    {
+      "date": "2025-04-12",
+      "nyt_id": 702,
+      "source_sha256": "5c151f1f1143b6468a34638aa827f2dba3ece272d8ac38e242f16a193fcd693e"
+    },
+    {
+      "date": "2025-04-13",
+      "nyt_id": 706,
+      "source_sha256": "a77a7477d72438bed57aab566cfb819ffd93c04687163c5e42ca2d665c14182c"
+    },
+    {
+      "date": "2025-04-14",
+      "nyt_id": 700,
+      "source_sha256": "21ea8e159c00f3af105ea60e97c51e33f70f40944e87e0d36e71bd96c28a5560"
+    },
+    {
+      "date": "2025-04-15",
+      "nyt_id": 710,
+      "source_sha256": "32e5e2ad6209f3e15c8e4339061c0f135a5dc826592e8ef67dcee5bf23d7091c"
+    },
+    {
+      "date": "2025-04-16",
+      "nyt_id": 708,
+      "source_sha256": "cca5a336c07d3f4e4af2cf0151e9e26c58aeb80b7deb65aee176e704e592f54a"
+    },
+    {
+      "date": "2025-04-17",
+      "nyt_id": 713,
+      "source_sha256": "1d8c7616ef0507e3dfa787e727ea898051d736824296f785909e7a78d3ca0f04"
+    },
+    {
+      "date": "2025-04-18",
+      "nyt_id": 682,
+      "source_sha256": "7f041bacc07181d6f4deb4f97083ede6c470e32ff48510aab12ddfad528420b6"
+    },
+    {
+      "date": "2025-04-19",
+      "nyt_id": 709,
+      "source_sha256": "04a9aaf7d131e5cd58e58320882c8cdb21d1faf37fc307749b9a1230ec5c8831"
+    },
+    {
+      "date": "2025-04-20",
+      "nyt_id": 707,
+      "source_sha256": "abbfda5375618ca7465223d958a7f094f2fcb48e95bf4fc783e2c3bbe43c0601"
+    },
+    {
+      "date": "2025-04-21",
+      "nyt_id": 718,
+      "source_sha256": "d069dc30b35fc1dd66ba2f60a2867d5f30f41672483416990b45a0886b85beb2"
+    },
+    {
+      "date": "2025-04-22",
+      "nyt_id": 720,
+      "source_sha256": "54d54e8809ea7c581202b71facda3b69b87f3e78e8aba2a5cf84eb7e2e49f8ab"
+    },
+    {
+      "date": "2025-04-23",
+      "nyt_id": 719,
+      "source_sha256": "bca147ae0907563ee0b07c9522796d54727c889c1a4e2a295c3f6b39adc996ce"
+    },
+    {
+      "date": "2025-04-24",
+      "nyt_id": 716,
+      "source_sha256": "f0fdf9f0e9b8e8ee0461ea0d5e58ec6b617f3bbbe7903a54601c0d90fefd99f1"
+    },
+    {
+      "date": "2025-04-25",
+      "nyt_id": 717,
+      "source_sha256": "44eb000c5fbd060ef138da89e096d302a1c2e2c63ca05aeae530c541f425e6d9"
+    },
+    {
+      "date": "2025-04-26",
+      "nyt_id": 711,
+      "source_sha256": "cedf51479b9308998aed58d067e1d7ab4b20e1907304fcfcf10dbacd30ddd6a6"
+    },
+    {
+      "date": "2025-04-27",
+      "nyt_id": 712,
+      "source_sha256": "4fe6897fe6479025e626b5178059d79bc0d366a07820cd6aa2d2df33a86cc693"
+    },
+    {
+      "date": "2025-04-28",
+      "nyt_id": 715,
+      "source_sha256": "d2c0a5776f1f19a046f509594d8f9fa856fde6dc7b788fba12193f7a119c45b3"
+    },
+    {
+      "date": "2025-04-29",
+      "nyt_id": 714,
+      "source_sha256": "7ad3921f52f47656e733300856f8b4b1ab3ad677825b2694065d9f5d9f9b9576"
+    },
+    {
+      "date": "2025-04-30",
+      "nyt_id": 728,
+      "source_sha256": "15faf3a1385cb2b1da1cdadd54ed803c04100bd56446cb79a88bd104d747c617"
+    },
+    {
+      "date": "2025-05-01",
+      "nyt_id": 727,
+      "source_sha256": "598ddee18eb311a4d35131218784a3355f1688ad9c14fa776dc3a402200c017a"
+    },
+    {
+      "date": "2025-05-02",
+      "nyt_id": 725,
+      "source_sha256": "35256ca2512c03bbfb79f6922b01d59c33d53a03ec4a0e4c9fdfd226f6e5c76e"
+    },
+    {
+      "date": "2025-05-03",
+      "nyt_id": 731,
+      "source_sha256": "bb4dcd034a452003eadb32d70cb187d81bdbbd78462ee6820b12586f4698e2ee"
+    },
+    {
+      "date": "2025-05-04",
+      "nyt_id": 739,
+      "source_sha256": "aa55085c1b48591b962942ed6420192b51329b09206adaccd99dc0a7ad144be0"
+    },
+    {
+      "date": "2025-05-05",
+      "nyt_id": 730,
+      "source_sha256": "d9d267f8baeb3514f1d400e454018d29cf5ba04fcd5b24bd7da82a25d05fef5c"
+    },
+    {
+      "date": "2025-05-06",
+      "nyt_id": 726,
+      "source_sha256": "521835f4875e43ca61e8aa8f809047beb0b62571f11445f10f8cdf7e4c9fc4dc"
+    },
+    {
+      "date": "2025-05-07",
+      "nyt_id": 733,
+      "source_sha256": "cd2bf8db07f099c3922d8a262c7279e3adb4d9dc33d7a77117c1f5bb7e286e08"
+    },
+    {
+      "date": "2025-05-08",
+      "nyt_id": 737,
+      "source_sha256": "e8057a51977fd50580f07dc886b6a474fa89941076881fb03657feb782bf44d3"
+    },
+    {
+      "date": "2025-05-09",
+      "nyt_id": 734,
+      "source_sha256": "460500ffb836d02c5d3d02306463cddcd3a89e24356deff1dc58585632a422aa"
+    },
+    {
+      "date": "2025-05-10",
+      "nyt_id": 756,
+      "source_sha256": "bf0426abddf8e3b097af5d3f52364b979c5d400842d9fe325779b322ea805070"
+    },
+    {
+      "date": "2025-05-11",
+      "nyt_id": 755,
+      "source_sha256": "9f77090915fa38dd54bc2330f208f6c0f7b1e3cb94caee918af84fc52c6ea63a"
+    },
+    {
+      "date": "2025-05-12",
+      "nyt_id": 735,
+      "source_sha256": "2ed7e444620e626e4597f173cd8b5e9bd3c5789ce6c5c30f9637678adeaad7f9"
+    },
+    {
+      "date": "2025-05-13",
+      "nyt_id": 740,
+      "source_sha256": "343860121a89072f43689269eadadd26d95844bc2a1f3ee8e829a1520aa985d0"
+    },
+    {
+      "date": "2025-05-14",
+      "nyt_id": 743,
+      "source_sha256": "ca1583894bf41302ebb7384ae1ab0fe52ca2e7922ea6a2c74254d3ea4a4ae4b5"
+    },
+    {
+      "date": "2025-05-15",
+      "nyt_id": 745,
+      "source_sha256": "b6aef6b83a40490906a77bf1fa347999083643837a0123872a32b0cd16109cec"
+    },
+    {
+      "date": "2025-05-16",
+      "nyt_id": 744,
+      "source_sha256": "60a003e8b56a684b21903c73d8410bb4770b692300050a9364d12b2c2210be76"
+    },
+    {
+      "date": "2025-05-17",
+      "nyt_id": 742,
+      "source_sha256": "671d332ad349a0af2afb46c2ed3347815d615d19b63344bd413b81bc8a06e110"
+    },
+    {
+      "date": "2025-05-18",
+      "nyt_id": 746,
+      "source_sha256": "0613700c9d94fb778723babdddeee1640502f78bdb60df9c140c564876d1f32b"
+    },
+    {
+      "date": "2025-05-19",
+      "nyt_id": 741,
+      "source_sha256": "8b5e7d79bee49e076150f2a4b6153c9fc7cd31f69f36cd6e54994d1cb257b374"
+    },
+    {
+      "date": "2025-05-20",
+      "nyt_id": 747,
+      "source_sha256": "0517e9718501b4e89801b27872a3ee1a36f6c838122f689e7f417b9fcbbe8170"
+    },
+    {
+      "date": "2025-05-21",
+      "nyt_id": 754,
+      "source_sha256": "63aaed3789782e3a1141dddb2877874a131e5d44f25d38ce4d4342ebf85df867"
+    },
+    {
+      "date": "2025-05-22",
+      "nyt_id": 753,
+      "source_sha256": "2f642fb5e4e80f7a95f56560e920640eb21fe649e93b36fcb5bec9a76be7a7b3"
+    },
+    {
+      "date": "2025-05-23",
+      "nyt_id": 752,
+      "source_sha256": "1364b9d3ff26d0e651caab74938b20dbceb1917faaeb45f911a2af500c294215"
+    },
+    {
+      "date": "2025-05-24",
+      "nyt_id": 751,
+      "source_sha256": "5252129681c4b94daf158913722646519995ba44bfee0b2e1b26a67f4d309b63"
+    },
+    {
+      "date": "2025-05-25",
+      "nyt_id": 750,
+      "source_sha256": "b4302985e5f0f9761f119a30cd25a74d2833213db8c641542f9f52f304f5046f"
+    },
+    {
+      "date": "2025-05-26",
+      "nyt_id": 749,
+      "source_sha256": "c173efb125d22b508a5daf0fda1790bc141f7b6cc43533210fcb9554dd93f427"
+    },
+    {
+      "date": "2025-05-27",
+      "nyt_id": 748,
+      "source_sha256": "111daa2c075d01cec9b9caf6aff8137ddd2028af483b2f22cafee1c9b791bf89"
+    },
+    {
+      "date": "2025-05-28",
+      "nyt_id": 762,
+      "source_sha256": "cabe6224019a959c0908cf7ce059802b1b636f11864fdab3dcd2f098ae530c23"
+    },
+    {
+      "date": "2025-05-29",
+      "nyt_id": 736,
+      "source_sha256": "e69923b360d230b33f258c5d5f0f7dcabb0e76f90fa44875e362cbeef992ff23"
+    },
+    {
+      "date": "2025-05-30",
+      "nyt_id": 760,
+      "source_sha256": "1aff5dff85b4699ef414372b691760088e440e15670f91770859e88284facc67"
+    },
+    {
+      "date": "2025-05-31",
+      "nyt_id": 758,
+      "source_sha256": "f0d03462174b0d44394a17c9c6e786d9627d5ce5dda36360635709b6ffd0fbba"
+    }
+  ],
+  "skipped": [
+    {
+      "date": "2024-04-01",
+      "reason": "symbol-only cards on 2024-04-01",
+      "source_sha256": "daf83bc2e58719e1d98e2c3abc05d8cffc4cdc31f7571bc91ddd40915e55db02"
+    },
+    {
+      "date": "2024-12-12",
+      "reason": "non-text cards on 2024-12-12",
+      "source_sha256": "95605086a928eea787c6b9a1424b89eac3b5412a4979be1064891779c19b4fc5"
+    },
+    {
+      "date": "2025-04-01",
+      "reason": "non-text cards on 2025-04-01",
+      "source_sha256": "5939f8a4f088a97d7b5d9bcfb7cd941cd5c70d5525585a0059012d509265cf53"
+    }
+  ]
+}

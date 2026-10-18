@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-24",
+  "groups": [
+    {
+      "title": "“LIONS AND TIGERS AND BEARS, OH MY!”",
+      "color": "yellow",
+      "words": [
+        "BEARS",
+        "LIONS",
+        "OH MY",
+        "TIGERS"
+      ]
+    },
+    {
+      "title": "BELOVED, AS A FRIEND",
+      "color": "green",
+      "words": [
+        "CLOSE",
+        "DEAR",
+        "INTIMATE",
+        "TIGHT"
+      ]
+    },
+    {
+      "title": "WORDS THAT SOUND LIKE PLURAL LETTERS",
+      "color": "blue",
+      "words": [
+        "BEES",
+        "EASE",
+        "JAYS",
+        "USE"
+      ]
+    },
+    {
+      "title": "WHEN TRIPLED, HIT SONG TITLES",
+      "color": "purple",
+      "words": [
+        "BILLS",
+        "BYE",
+        "GIMME",
+        "PLEASE"
+      ]
+    }
+  ]
+}

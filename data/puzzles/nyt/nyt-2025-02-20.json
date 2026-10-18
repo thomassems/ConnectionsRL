@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-20",
+  "groups": [
+    {
+      "title": "ALERT",
+      "color": "yellow",
+      "words": [
+        "ALARM",
+        "FLARE",
+        "SIGNAL",
+        "SOS"
+      ]
+    },
+    {
+      "title": "SPEND THE NIGHT (AT)",
+      "color": "green",
+      "words": [
+        "BUNK",
+        "CRASH",
+        "SLEEP",
+        "STAY"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH EARLY MORNING",
+      "color": "blue",
+      "words": [
+        "DEW",
+        "ROOSTER",
+        "SUNRISE",
+        "WORM"
+      ]
+    },
+    {
+      "title": "COOKIE CUTTER SHAPES IN “SQUID GAME”",
+      "color": "purple",
+      "words": [
+        "CIRCLE",
+        "STAR",
+        "TRIANGLE",
+        "UMBRELLA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-28",
+  "groups": [
+    {
+      "title": "CONNECT",
+      "color": "yellow",
+      "words": [
+        "BRIDGE",
+        "JOIN",
+        "LINK",
+        "UNITE"
+      ]
+    },
+    {
+      "title": "PARTS OF A BIKE",
+      "color": "green",
+      "words": [
+        "CHAIN",
+        "PEDAL",
+        "SADDLE",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "BEST PICTURE WINNERS SINCE 2000",
+      "color": "blue",
+      "words": [
+        "CHICAGO",
+        "CRASH",
+        "GLADIATOR",
+        "MOONLIGHT"
+      ]
+    },
+    {
+      "title": "MUSIC GENRES PLUS A LETTER",
+      "color": "purple",
+      "words": [
+        "BLUEST",
+        "POPE",
+        "ROCKY",
+        "SKAT"
+      ]
+    }
+  ]
+}

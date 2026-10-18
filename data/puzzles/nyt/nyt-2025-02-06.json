@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-06",
+  "groups": [
+    {
+      "title": "DELICATE",
+      "color": "yellow",
+      "words": [
+        "FAINT",
+        "LIGHT",
+        "MILD",
+        "SOFT"
+      ]
+    },
+    {
+      "title": "MAGNANIMOUS",
+      "color": "green",
+      "words": [
+        "GRAND",
+        "GREAT",
+        "LOFTY",
+        "NOBLE"
+      ]
+    },
+    {
+      "title": "THINGS WITH NECKS",
+      "color": "blue",
+      "words": [
+        "BOTTLE",
+        "GIRAFFE",
+        "GUITAR",
+        "LAMP"
+      ]
+    },
+    {
+      "title": "FIRST NAMES IN JAZZ",
+      "color": "purple",
+      "words": [
+        "CAB",
+        "COUNT",
+        "DIZZY",
+        "DUKE"
+      ]
+    }
+  ]
+}

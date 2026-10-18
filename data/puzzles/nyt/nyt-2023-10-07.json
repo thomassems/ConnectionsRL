@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-07",
+  "groups": [
+    {
+      "title": "RHYMES",
+      "color": "yellow",
+      "words": [
+        "DARREN",
+        "KAREN",
+        "SHARON",
+        "AARON"
+      ]
+    },
+    {
+      "title": "NATURAL FEATURES",
+      "color": "green",
+      "words": [
+        "DALE",
+        "BROOK",
+        "SAVANNA",
+        "CLIFF"
+      ]
+    },
+    {
+      "title": "IRREGULAR VERBS",
+      "color": "blue",
+      "words": [
+        "DREW",
+        "ROSE",
+        "WILL",
+        "MAY"
+      ]
+    },
+    {
+      "title": "PALINDROMES",
+      "color": "purple",
+      "words": [
+        "EVE",
+        "HANNAH",
+        "OTTO",
+        "NATAN"
+      ]
+    }
+  ]
+}

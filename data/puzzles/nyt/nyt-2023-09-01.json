@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-01",
+  "groups": [
+    {
+      "title": "DRINK VESSELS",
+      "color": "yellow",
+      "words": [
+        "GOBLET",
+        "SNIFTER",
+        "TUMBLER",
+        "STEIN"
+      ]
+    },
+    {
+      "title": "WOODWINDS",
+      "color": "green",
+      "words": [
+        "CLARINET",
+        "FLUTE",
+        "OBOE",
+        "SAXOPHONE"
+      ]
+    },
+    {
+      "title": "AMERICAN POETS",
+      "color": "blue",
+      "words": [
+        "BISHOP",
+        "FROST",
+        "OLDS",
+        "POUND"
+      ]
+    },
+    {
+      "title": "CONSECUTIVE DOUBLE LETTERS",
+      "color": "purple",
+      "words": [
+        "BALLOON",
+        "BASSOON",
+        "COFFEE",
+        "FRICASSEE"
+      ]
+    }
+  ]
+}

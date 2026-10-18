@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-18",
+  "groups": [
+    {
+      "title": "DESIRE",
+      "color": "yellow",
+      "words": [
+        "DRIVE",
+        "IMPULSE",
+        "ITCH",
+        "URGE"
+      ]
+    },
+    {
+      "title": "BARB",
+      "color": "green",
+      "words": [
+        "SPINE",
+        "SPUR",
+        "STICKER",
+        "THORN"
+      ]
+    },
+    {
+      "title": "INFO ON A RECORD",
+      "color": "blue",
+      "words": [
+        "ALBUM",
+        "ARTIST",
+        "LABEL",
+        "TRACK"
+      ]
+    },
+    {
+      "title": "TURN THE ___",
+      "color": "purple",
+      "words": [
+        "CORNER",
+        "PAGE",
+        "TABLES",
+        "TIDE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-14",
+  "groups": [
+    {
+      "title": "EYE PARTS",
+      "color": "yellow",
+      "words": [
+        "IRIS",
+        "LENS",
+        "PUPIL",
+        "RETINA"
+      ]
+    },
+    {
+      "title": "COUNTERFEIT",
+      "color": "green",
+      "words": [
+        "BOGUS",
+        "FAKE",
+        "PHONY",
+        "SHAM"
+      ]
+    },
+    {
+      "title": "RADIO LINGO",
+      "color": "blue",
+      "words": [
+        "COPY",
+        "OUT",
+        "OVER",
+        "ROGER"
+      ]
+    },
+    {
+      "title": "SONGS THAT ARE NAMES",
+      "color": "purple",
+      "words": [
+        "ALEJANDRO",
+        "LOLA",
+        "MICHELLE",
+        "STAN"
+      ]
+    }
+  ]
+}

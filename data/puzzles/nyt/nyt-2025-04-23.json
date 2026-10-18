@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-23",
+  "groups": [
+    {
+      "title": "PARTS OF A TREE",
+      "color": "yellow",
+      "words": [
+        "BRANCH",
+        "LEAF",
+        "ROOT",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "CANINE/FELINE FEATURES",
+      "color": "green",
+      "words": [
+        "FUR",
+        "MUZZLE",
+        "PAW",
+        "TAIL"
+      ]
+    },
+    {
+      "title": "COMEDIC ROUTINE",
+      "color": "blue",
+      "words": [
+        "ACT",
+        "BIT",
+        "GAG",
+        "SKETCH"
+      ]
+    },
+    {
+      "title": "___POLE",
+      "color": "purple",
+      "words": [
+        "BEAN",
+        "FLAG",
+        "MAY",
+        "TAD"
+      ]
+    }
+  ]
+}

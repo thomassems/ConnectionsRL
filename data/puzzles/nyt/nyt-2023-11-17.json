@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-17",
+  "groups": [
+    {
+      "title": "BODYWEIGHT EXERCISES",
+      "color": "yellow",
+      "words": [
+        "DIPS",
+        "LUNGES",
+        "PLANKS",
+        "SQUATS"
+      ]
+    },
+    {
+      "title": "EMAIL SIGN-OFFS",
+      "color": "green",
+      "words": [
+        "BEST",
+        "CHEERS",
+        "REGARDS",
+        "THANKS"
+      ]
+    },
+    {
+      "title": "M.L.B. TEAMS, FOR SHORT",
+      "color": "blue",
+      "words": [
+        "CARDS",
+        "JAYS",
+        "NATS",
+        "YANKS"
+      ]
+    },
+    {
+      "title": "ELIZABETHS (AND ONE ELISABETH)",
+      "color": "purple",
+      "words": [
+        "BANKS",
+        "MOSS",
+        "TAYLOR",
+        "WARREN"
+      ]
+    }
+  ]
+}

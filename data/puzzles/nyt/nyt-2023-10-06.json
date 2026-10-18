@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-06",
+  "groups": [
+    {
+      "title": "LAUGHTER, IN A TEXT",
+      "color": "yellow",
+      "words": [
+        "DEAD",
+        "HAHA",
+        "LOL",
+        "ROFL"
+      ]
+    },
+    {
+      "title": "ART MOVEMENTS",
+      "color": "green",
+      "words": [
+        "DADA",
+        "DECO",
+        "GOTHIC",
+        "POP"
+      ]
+    },
+    {
+      "title": "“PETER PAN” CHARACTERS",
+      "color": "blue",
+      "words": [
+        "HOOK",
+        "NANA",
+        "PETER",
+        "WENDY"
+      ]
+    },
+    {
+      "title": "LADY ___",
+      "color": "purple",
+      "words": [
+        "BIRD",
+        "GAGA",
+        "LUCK",
+        "MACBETH"
+      ]
+    }
+  ]
+}

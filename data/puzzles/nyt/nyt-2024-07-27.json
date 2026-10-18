@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-27",
+  "groups": [
+    {
+      "title": "OFF-TOPIC REMARKS",
+      "color": "yellow",
+      "words": [
+        "ASIDE",
+        "DETOUR",
+        "DIGRESSION",
+        "TANGENT"
+      ]
+    },
+    {
+      "title": "CREATE, AS RESULTS",
+      "color": "green",
+      "words": [
+        "BEAR",
+        "GENERATE",
+        "PRODUCE",
+        "YIELD"
+      ]
+    },
+    {
+      "title": "HOTTIE",
+      "color": "blue",
+      "words": [
+        "BABE",
+        "FOX",
+        "SNACK",
+        "TEN"
+      ]
+    },
+    {
+      "title": "WORDS REPRESENTED BY THE LETTER \"R\"",
+      "color": "purple",
+      "words": [
+        "ARE",
+        "RADIUS",
+        "REVERSE",
+        "RIGHT"
+      ]
+    }
+  ]
+}

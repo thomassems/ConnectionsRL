@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-19",
+  "groups": [
+    {
+      "title": "ATTACH WITH ADHESIVE",
+      "color": "yellow",
+      "words": [
+        "ADHERE",
+        "GLUE",
+        "PASTE",
+        "STICK"
+      ]
+    },
+    {
+      "title": "PUBLISHED LINES",
+      "color": "green",
+      "words": [
+        "COPY",
+        "TEXT",
+        "WORDS",
+        "WRITING"
+      ]
+    },
+    {
+      "title": "DIAMOND QUALITIES",
+      "color": "blue",
+      "words": [
+        "CARAT",
+        "CLARITY",
+        "COLOR",
+        "CUT"
+      ]
+    },
+    {
+      "title": "A-___",
+      "color": "purple",
+      "words": [
+        "LIST",
+        "OK",
+        "PLUS",
+        "ROD"
+      ]
+    }
+  ]
+}

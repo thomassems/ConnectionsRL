@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-27",
+  "groups": [
+    {
+      "title": "EXPLOSIVE SOUND",
+      "color": "yellow",
+      "words": [
+        "BOOM",
+        "CRASH",
+        "ROAR",
+        "THUNDER"
+      ]
+    },
+    {
+      "title": "CHILI PEPPER QUALITY",
+      "color": "green",
+      "words": [
+        "FIRE",
+        "HEAT",
+        "KICK",
+        "SPICE"
+      ]
+    },
+    {
+      "title": "CLASSIC BARBERSHOP SUPPLIES",
+      "color": "blue",
+      "words": [
+        "BRUSH",
+        "CAPE",
+        "CLIPPERS",
+        "GEL"
+      ]
+    },
+    {
+      "title": "KINDS OF CARDS",
+      "color": "purple",
+      "words": [
+        "BASEBALL",
+        "MAGIC",
+        "SET",
+        "TAROT"
+      ]
+    }
+  ]
+}

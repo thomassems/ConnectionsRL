@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-31",
+  "groups": [
+    {
+      "title": "ALCOVE",
+      "color": "yellow",
+      "words": [
+        "CAVITY",
+        "HOLLOW",
+        "NOOK",
+        "RECESS"
+      ]
+    },
+    {
+      "title": "WAYS TO RECOGNIZE ACHIEVEMENT",
+      "color": "green",
+      "words": [
+        "CERTIFICATE",
+        "MEDAL",
+        "PLAQUE",
+        "TROPHY"
+      ]
+    },
+    {
+      "title": "VERBS IN BREADMAKING",
+      "color": "blue",
+      "words": [
+        "FERMENT",
+        "PROOF",
+        "REST",
+        "RISE"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN BLOW",
+      "color": "purple",
+      "words": [
+        "BUBBLE",
+        "FUSE",
+        "KISS",
+        "RASPBERRY"
+      ]
+    }
+  ]
+}

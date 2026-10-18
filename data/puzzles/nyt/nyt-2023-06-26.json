@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-26",
+  "groups": [
+    {
+      "title": "BIRD SOUNDS",
+      "color": "yellow",
+      "words": [
+        "CAW",
+        "CHIRP",
+        "CLUCK",
+        "TWEET"
+      ]
+    },
+    {
+      "title": "COLORS",
+      "color": "green",
+      "words": [
+        "BROWN",
+        "PINK",
+        "TURQUOISE",
+        "VIOLET"
+      ]
+    },
+    {
+      "title": "FISHING GEAR",
+      "color": "blue",
+      "words": [
+        "LURE",
+        "REEL",
+        "ROD",
+        "TACKLE"
+      ]
+    },
+    {
+      "title": "FICTIONAL PIRATES",
+      "color": "purple",
+      "words": [
+        "HOOK",
+        "JONES",
+        "SILVER",
+        "SPARROW"
+      ]
+    }
+  ]
+}

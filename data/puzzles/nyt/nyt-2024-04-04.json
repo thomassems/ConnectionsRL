@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-04",
+  "groups": [
+    {
+      "title": "WAYS TO PREPARE EGGS",
+      "color": "yellow",
+      "words": [
+        "BOIL",
+        "FRY",
+        "POACH",
+        "SCRAMBLE"
+      ]
+    },
+    {
+      "title": "EXHILARATION",
+      "color": "green",
+      "words": [
+        "BUZZ",
+        "KICK",
+        "RUSH",
+        "THRILL"
+      ]
+    },
+    {
+      "title": "THROWN IN TARGET GAMES",
+      "color": "blue",
+      "words": [
+        "AXE",
+        "DART",
+        "HORSESHOE",
+        "RING"
+      ]
+    },
+    {
+      "title": "___ WRAP",
+      "color": "purple",
+      "words": [
+        "BODY",
+        "BUBBLE",
+        "GIFT",
+        "SHRINK"
+      ]
+    }
+  ]
+}

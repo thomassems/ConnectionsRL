@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-28",
+  "groups": [
+    {
+      "title": "REFLECT LIGHT",
+      "color": "yellow",
+      "words": [
+        "FLASH",
+        "GLEAM",
+        "GLITTER",
+        "SPARKLE"
+      ]
+    },
+    {
+      "title": "WAYS TO GATHER FOOD",
+      "color": "green",
+      "words": [
+        "FISH",
+        "FORAGE",
+        "HUNT",
+        "TRAP"
+      ]
+    },
+    {
+      "title": "RAP SUBGENRES",
+      "color": "blue",
+      "words": [
+        "BOUNCE",
+        "CRUNK",
+        "DRILL",
+        "GRIME"
+      ]
+    },
+    {
+      "title": "LIGHT ___",
+      "color": "purple",
+      "words": [
+        "BEER",
+        "BULB",
+        "RAIL",
+        "YEAR"
+      ]
+    }
+  ]
+}

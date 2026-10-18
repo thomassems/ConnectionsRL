@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-15",
+  "groups": [
+    {
+      "title": "BIT OF LEGISLATION",
+      "color": "yellow",
+      "words": [
+        "ACT",
+        "BILL",
+        "MEASURE",
+        "RESOLUTION"
+      ]
+    },
+    {
+      "title": "GRASSLAND",
+      "color": "green",
+      "words": [
+        "MEADOW",
+        "PLAIN",
+        "PRAIRIE",
+        "SAVANNA"
+      ]
+    },
+    {
+      "title": "FORTHRIGHT",
+      "color": "blue",
+      "words": [
+        "DIRECT",
+        "FRANK",
+        "OPEN",
+        "STRAIGHT"
+      ]
+    },
+    {
+      "title": "CAR COMPANIES MINUS LETTER",
+      "color": "purple",
+      "words": [
+        "AURA",
+        "BUCK",
+        "DOGE",
+        "HODA"
+      ]
+    }
+  ]
+}

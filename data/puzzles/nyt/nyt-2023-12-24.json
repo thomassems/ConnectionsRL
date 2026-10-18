@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-24",
+  "groups": [
+    {
+      "title": "GENTLE",
+      "color": "yellow",
+      "words": [
+        "LIGHT",
+        "MELLOW",
+        "MILD",
+        "SOFT"
+      ]
+    },
+    {
+      "title": "CUTS OF PORK",
+      "color": "green",
+      "words": [
+        "BELLY",
+        "CHOP",
+        "HOCK",
+        "SHOULDER"
+      ]
+    },
+    {
+      "title": "STATUE OF LIBERTY FEATURES",
+      "color": "blue",
+      "words": [
+        "CROWN",
+        "ROBE",
+        "TABLET",
+        "TORCH"
+      ]
+    },
+    {
+      "title": "THINGS TO BLOW ON FOR WISHES/LUCK",
+      "color": "purple",
+      "words": [
+        "CANDLE",
+        "DANDELION",
+        "DICE",
+        "EYELASH"
+      ]
+    }
+  ]
+}

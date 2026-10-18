@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-10",
+  "groups": [
+    {
+      "title": "CAT BREEDS",
+      "color": "yellow",
+      "words": [
+        "RAGAMUFFIN",
+        "RUSSIAN BLUE",
+        "SPHYNX",
+        "TURKISH ANGORA"
+      ]
+    },
+    {
+      "title": "FAMOUS SMILES",
+      "color": "green",
+      "words": [
+        "CHESHIRE CAT",
+        "COMEDY MASK",
+        "JOKER",
+        "MONA LISA"
+      ]
+    },
+    {
+      "title": "ATTRACTIONS ICONICALLY DIFFERENT FROM THEIR ORIGINAL FORMS",
+      "color": "blue",
+      "words": [
+        "LIBERTY BELL",
+        "VENUS DE MILO",
+        "STATUE OF LIBERTY",
+        "TOWER OF PISA"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH “THE DUDE” LEBOWSKI",
+      "color": "purple",
+      "words": [
+        "BATHROBE",
+        "BOWLING",
+        "RUG",
+        "WHITE RUSSIAN"
+      ]
+    }
+  ]
+}

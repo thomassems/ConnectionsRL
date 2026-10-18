@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-17",
+  "groups": [
+    {
+      "title": "CORRUPT",
+      "color": "yellow",
+      "words": [
+        "BASE",
+        "DIRTY",
+        "LOW",
+        "VILE"
+      ]
+    },
+    {
+      "title": "REACH OUT TO",
+      "color": "green",
+      "words": [
+        "CONTACT",
+        "MESSAGE",
+        "PING",
+        "TEXT"
+      ]
+    },
+    {
+      "title": "CLASSIC STILL LIFE COMPONENTS",
+      "color": "blue",
+      "words": [
+        "FRUIT",
+        "PITCHER",
+        "SKULL",
+        "TABLECLOTH"
+      ]
+    },
+    {
+      "title": "BEER ___",
+      "color": "purple",
+      "words": [
+        "BATTER",
+        "CAN",
+        "GARDEN",
+        "PONG"
+      ]
+    }
+  ]
+}

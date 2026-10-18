@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-14",
+  "groups": [
+    {
+      "title": "MOLLYCODDLE",
+      "color": "yellow",
+      "words": [
+        "BABY",
+        "HUMOR",
+        "INDULGE",
+        "PAMPER"
+      ]
+    },
+    {
+      "title": "THINGS A RATTLESNAKE DOES",
+      "color": "green",
+      "words": [
+        "HISS",
+        "RATTLE",
+        "SHED",
+        "SLITHER"
+      ]
+    },
+    {
+      "title": "WORDS SAID TO AN UNSUSPECTING PERSON",
+      "color": "blue",
+      "words": [
+        "BOO",
+        "GOTCHA",
+        "GUESS WHO",
+        "SURPRISE"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF BODIES OF WATER",
+      "color": "purple",
+      "words": [
+        "BAE",
+        "CREAK",
+        "SEE",
+        "STRAIGHT"
+      ]
+    }
+  ]
+}

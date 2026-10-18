@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-10",
+  "groups": [
+    {
+      "title": "STOOL PIGEON",
+      "color": "yellow",
+      "words": [
+        "CANARY",
+        "FINK",
+        "RAT",
+        "SNITCH"
+      ]
+    },
+    {
+      "title": "CRAM INTO A TIGHT SPACE",
+      "color": "green",
+      "words": [
+        "JAM",
+        "PACK",
+        "SQUEEZE",
+        "STUFF"
+      ]
+    },
+    {
+      "title": "YOGA POSES",
+      "color": "blue",
+      "words": [
+        "CAT",
+        "COW",
+        "MOUNTAIN",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "title": "___FLY",
+      "color": "purple",
+      "words": [
+        "BUTTER",
+        "DRAGON",
+        "FIRE",
+        "HORSE"
+      ]
+    }
+  ]
+}

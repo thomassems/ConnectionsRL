@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-14",
+  "groups": [
+    {
+      "title": "CLASSIC DOG NAMES",
+      "color": "yellow",
+      "words": [
+        "FIDO",
+        "LUCKY",
+        "ROVER",
+        "SPOT"
+      ]
+    },
+    {
+      "title": "PERCEIVE",
+      "color": "green",
+      "words": [
+        "CATCH",
+        "NOTICE",
+        "OBSERVE",
+        "SEE"
+      ]
+    },
+    {
+      "title": "FISHING TERMS",
+      "color": "blue",
+      "words": [
+        "BAIT",
+        "CHUM",
+        "FLY",
+        "SINKER"
+      ]
+    },
+    {
+      "title": "T-___",
+      "color": "purple",
+      "words": [
+        "BONE",
+        "REX",
+        "SHIRT",
+        "STORM"
+      ]
+    }
+  ]
+}

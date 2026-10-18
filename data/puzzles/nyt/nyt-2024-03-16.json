@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-16",
+  "groups": [
+    {
+      "title": "GET SMALLER",
+      "color": "yellow",
+      "words": [
+        "CONTRACT",
+        "LESSEN",
+        "REDUCE",
+        "SHRINK"
+      ]
+    },
+    {
+      "title": "AIRLINE CLASSES",
+      "color": "green",
+      "words": [
+        "BUSINESS",
+        "COACH",
+        "FIRST",
+        "PREMIUM"
+      ]
+    },
+    {
+      "title": "EXAMINE, AS AN APPLICANT",
+      "color": "blue",
+      "words": [
+        "CHECK",
+        "REVIEW",
+        "SCREEN",
+        "VET"
+      ]
+    },
+    {
+      "title": "NOTABLE TV EPISODES",
+      "color": "purple",
+      "words": [
+        "FINALE",
+        "PILOT",
+        "PREMIERE",
+        "SPECIAL"
+      ]
+    }
+  ]
+}

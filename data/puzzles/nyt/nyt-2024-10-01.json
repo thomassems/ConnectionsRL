@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-01",
+  "groups": [
+    {
+      "title": "FLUSTERED STATE",
+      "color": "yellow",
+      "words": [
+        "LATHER",
+        "STEW",
+        "SWEAT",
+        "TIZZY"
+      ]
+    },
+    {
+      "title": "FITNESS",
+      "color": "green",
+      "words": [
+        "CONDITION",
+        "FORM",
+        "HEALTH",
+        "SHAPE"
+      ]
+    },
+    {
+      "title": "FAST-MOVING WATER",
+      "color": "blue",
+      "words": [
+        "CASCADE",
+        "CURRENT",
+        "RAPID",
+        "WAVE"
+      ]
+    },
+    {
+      "title": "DISHWASHER CYCLES",
+      "color": "purple",
+      "words": [
+        "NORMAL",
+        "QUICK",
+        "RINSE",
+        "SANITIZE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-07",
+  "groups": [
+    {
+      "title": "EUROPEAN COUNTRIES",
+      "color": "yellow",
+      "words": [
+        "DENMARK",
+        "GREECE",
+        "POLAND",
+        "PORTUGAL"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR IMITATE",
+      "color": "green",
+      "words": [
+        "COPY",
+        "ECHO",
+        "MIMIC",
+        "PARROT"
+      ]
+    },
+    {
+      "title": "TOMS",
+      "color": "blue",
+      "words": [
+        "CRUISE",
+        "HOLLAND",
+        "PETTY",
+        "WAITS"
+      ]
+    },
+    {
+      "title": "WORDS SPELLED WITH ROMAN NUMERALS",
+      "color": "purple",
+      "words": [
+        "DILL",
+        "LIVID",
+        "MILD",
+        "MIX"
+      ]
+    }
+  ]
+}

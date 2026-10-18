@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-18",
+  "groups": [
+    {
+      "title": "SHOW OFF",
+      "color": "yellow",
+      "words": [
+        "GRANDSTAND",
+        "PEACOCK",
+        "POSTURE",
+        "STRUT"
+      ]
+    },
+    {
+      "title": "FOREMOST",
+      "color": "green",
+      "words": [
+        "MAIN",
+        "PARAMOUNT",
+        "PRIME",
+        "SUPREME"
+      ]
+    },
+    {
+      "title": "COLORS IN BRAZIL’S FLAG",
+      "color": "blue",
+      "words": [
+        "BLUE",
+        "GREEN",
+        "WHITE",
+        "YELLOW"
+      ]
+    },
+    {
+      "title": "___ LETTER",
+      "color": "purple",
+      "words": [
+        "CHAIN",
+        "COVER",
+        "LOVE",
+        "SCARLET"
+      ]
+    }
+  ]
+}

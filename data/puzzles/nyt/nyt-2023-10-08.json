@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-08",
+  "groups": [
+    {
+      "title": "CELEBRATORY OCCASIONS",
+      "color": "yellow",
+      "words": [
+        "ANNIVERSARY",
+        "BIRTHDAY",
+        "SHOWER",
+        "WEDDING"
+      ]
+    },
+    {
+      "title": "PHONE CONNECTIVITY",
+      "color": "green",
+      "words": [
+        "BARS",
+        "RECEPTION",
+        "SERVICE",
+        "SIGNAL"
+      ]
+    },
+    {
+      "title": "CITIES AND TOWNS IN ENGLAND",
+      "color": "blue",
+      "words": [
+        "BATH",
+        "DERBY",
+        "READING",
+        "SANDWICH"
+      ]
+    },
+    {
+      "title": "___ OPERA",
+      "color": "purple",
+      "words": [
+        "COMIC",
+        "MET",
+        "ROCK",
+        "SOAP"
+      ]
+    }
+  ]
+}

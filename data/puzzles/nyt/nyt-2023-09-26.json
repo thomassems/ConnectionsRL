@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-26",
+  "groups": [
+    {
+      "title": "SNAKES",
+      "color": "yellow",
+      "words": [
+        "BOA",
+        "MAMBA",
+        "PYTHON",
+        "VIPER"
+      ]
+    },
+    {
+      "title": "LINGERIE",
+      "color": "green",
+      "words": [
+        "GARTER",
+        "SLIP",
+        "TEDDY",
+        "THONG"
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "color": "blue",
+      "words": [
+        "ABSTRACT",
+        "BRIEF",
+        "DIGEST",
+        "RUNDOWN"
+      ]
+    },
+    {
+      "title": "FULL ___",
+      "color": "purple",
+      "words": [
+        "CIRCLE",
+        "HOUSE",
+        "MONTY",
+        "MOON"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-03",
+  "groups": [
+    {
+      "title": "NIGHTSPOTS",
+      "color": "yellow",
+      "words": [
+        "BAR",
+        "CLUB",
+        "DISCO",
+        "LOUNGE"
+      ]
+    },
+    {
+      "title": "CAST OFF",
+      "color": "green",
+      "words": [
+        "DITCH",
+        "DROP",
+        "LOSE",
+        "SHED"
+      ]
+    },
+    {
+      "title": "UNITS OF LENGTH",
+      "color": "blue",
+      "words": [
+        "FATHOM",
+        "FOOT",
+        "LEAGUE",
+        "YARD"
+      ]
+    },
+    {
+      "title": "___ SALE",
+      "color": "purple",
+      "words": [
+        "BAKE",
+        "CLEARANCE",
+        "GARAGE",
+        "SAMPLE"
+      ]
+    }
+  ]
+}

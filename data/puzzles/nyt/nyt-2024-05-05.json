@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-05",
+  "groups": [
+    {
+      "title": "SOMETHING GAINED FROM HARD WORK",
+      "color": "yellow",
+      "words": [
+        "BENEFIT",
+        "FRUIT",
+        "RETURN",
+        "REWARD"
+      ]
+    },
+    {
+      "title": "KINDS OF BAGELS",
+      "color": "green",
+      "words": [
+        "EGG",
+        "EVERYTHING",
+        "PLAIN",
+        "POPPY"
+      ]
+    },
+    {
+      "title": "CONTRIBUTE TO A MOVIE",
+      "color": "blue",
+      "words": [
+        "ACT",
+        "DIRECT",
+        "PRODUCE",
+        "WRITE"
+      ]
+    },
+    {
+      "title": "STARTS OF MONSTERS",
+      "color": "purple",
+      "words": [
+        "FRANK",
+        "MUM",
+        "VAMP",
+        "WERE"
+      ]
+    }
+  ]
+}

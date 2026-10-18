@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-23",
+  "groups": [
+    {
+      "title": "PROCESSION",
+      "color": "yellow",
+      "words": [
+        "CARAVAN",
+        "FLEET",
+        "PARADE",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "SHADES OF GREEN",
+      "color": "green",
+      "words": [
+        "OLIVE",
+        "FOREST",
+        "LIME",
+        "MINT"
+      ]
+    },
+    {
+      "title": "WHAT “BLUE” MIGHT MEAN",
+      "color": "blue",
+      "words": [
+        "DEMOCRATIC",
+        "EROTIC",
+        "NOBLE",
+        "SAD"
+      ]
+    },
+    {
+      "title": "THINGS WITH SPINES",
+      "color": "purple",
+      "words": [
+        "BOOK",
+        "CACTUS",
+        "HEDGEHOG",
+        "SKELETON"
+      ]
+    }
+  ]
+}

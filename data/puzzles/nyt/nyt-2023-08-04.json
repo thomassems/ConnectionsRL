@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-04",
+  "groups": [
+    {
+      "title": "PLACES FOR WORSHIP",
+      "color": "yellow",
+      "words": [
+        "ALTAR",
+        "RELIQUARY",
+        "SHRINE",
+        "TEMPLE"
+      ]
+    },
+    {
+      "title": "CARTOON CATS",
+      "color": "green",
+      "words": [
+        "FELIX",
+        "GARFIELD",
+        "SYLVESTER",
+        "TOM"
+      ]
+    },
+    {
+      "title": "PRESIDENTIAL FIRST NAMES",
+      "color": "blue",
+      "words": [
+        "CALVIN",
+        "CHESTER",
+        "GROVER",
+        "HARRY"
+      ]
+    },
+    {
+      "title": "___ ROAD",
+      "color": "purple",
+      "words": [
+        "ABBEY",
+        "HIGH",
+        "ROCKY",
+        "SILK"
+      ]
+    }
+  ]
+}

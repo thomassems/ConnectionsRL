@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-09",
+  "groups": [
+    {
+      "title": "SEVEN DWARFS",
+      "color": "yellow",
+      "words": [
+        "BASHFUL",
+        "DOC",
+        "GRUMPY",
+        "HAPPY"
+      ]
+    },
+    {
+      "title": "FILE EXTENSIONS",
+      "color": "green",
+      "words": [
+        "GIF",
+        "PDF",
+        "TIFF",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "FLIGHTLESS BIRDS",
+      "color": "blue",
+      "words": [
+        "EMU",
+        "KIWI",
+        "OSTRICH",
+        "PENGUIN"
+      ]
+    },
+    {
+      "title": "TROPICAL FRUITS",
+      "color": "purple",
+      "words": [
+        "BANANA",
+        "COCONUT",
+        "MANGO",
+        "PINEAPPLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-19",
+  "groups": [
+    {
+      "title": "TREES",
+      "color": "yellow",
+      "words": [
+        "ASH",
+        "CEDAR",
+        "OAK",
+        "POPLAR"
+      ]
+    },
+    {
+      "title": "LAND FORMATIONS",
+      "color": "green",
+      "words": [
+        "CANYON",
+        "MOUNTAIN",
+        "PLATEAU",
+        "VALLEY"
+      ]
+    },
+    {
+      "title": "BAGEL FLAVORS",
+      "color": "blue",
+      "words": [
+        "EVERYTHING",
+        "ONION",
+        "PLAIN",
+        "POPPY"
+      ]
+    },
+    {
+      "title": "STREETS ON SCREEN",
+      "color": "purple",
+      "words": [
+        "ELM",
+        "FEAR",
+        "JUMP",
+        "SESAME"
+      ]
+    }
+  ]
+}

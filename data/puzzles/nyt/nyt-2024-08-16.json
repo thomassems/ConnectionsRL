@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-16",
+  "groups": [
+    {
+      "title": "MEH",
+      "color": "yellow",
+      "words": [
+        "AVERAGE",
+        "FAIR",
+        "OK",
+        "SO-SO"
+      ]
+    },
+    {
+      "title": "U.S. STATE ABBREVIATIONS",
+      "color": "green",
+      "words": [
+        "HI",
+        "MA",
+        "OR",
+        "PA"
+      ]
+    },
+    {
+      "title": "KINDS OF BOOTS",
+      "color": "blue",
+      "words": [
+        "ANKLE",
+        "COWBOY",
+        "GO-GO",
+        "THIGH-HIGH"
+      ]
+    },
+    {
+      "title": "THINGS THAT GO UP AND DOWN",
+      "color": "purple",
+      "words": [
+        "ELEVATOR",
+        "SUN",
+        "TIDE",
+        "YO-YO"
+      ]
+    }
+  ]
+}

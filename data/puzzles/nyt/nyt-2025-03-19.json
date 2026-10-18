@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-19",
+  "groups": [
+    {
+      "title": "SIGNIFY",
+      "color": "yellow",
+      "words": [
+        "CONVEY",
+        "EXPRESS",
+        "MEAN",
+        "SPELL"
+      ]
+    },
+    {
+      "title": "WEB BROWSER BUTTONS",
+      "color": "green",
+      "words": [
+        "BACK",
+        "EXTENSIONS",
+        "FORWARD",
+        "REFRESH"
+      ]
+    },
+    {
+      "title": "PARTS OF A ROAD",
+      "color": "blue",
+      "words": [
+        "DIVIDER",
+        "LANE",
+        "MEDIAN",
+        "SHOULDER"
+      ]
+    },
+    {
+      "title": "À/A LA ___",
+      "color": "purple",
+      "words": [
+        "CARTE",
+        "KING",
+        "MODE",
+        "PLANCHA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-15",
+  "groups": [
+    {
+      "title": "INVENT AS YOU GO",
+      "color": "yellow",
+      "words": [
+        "AD-LIB",
+        "FREESTYLE",
+        "IMPROV",
+        "MAKE UP"
+      ]
+    },
+    {
+      "title": "THINGS BABIES DO",
+      "color": "green",
+      "words": [
+        "BABBLE",
+        "COO",
+        "CRAWL",
+        "NURSE"
+      ]
+    },
+    {
+      "title": "SUPERFICIAL",
+      "color": "blue",
+      "words": [
+        "COSMETIC",
+        "EXTERNAL",
+        "SHALLOW",
+        "SURFACE"
+      ]
+    },
+    {
+      "title": "___ EFFECT",
+      "color": "purple",
+      "words": [
+        "BUTTERFLY",
+        "DOMINO",
+        "PLACEBO",
+        "SIDE"
+      ]
+    }
+  ]
+}

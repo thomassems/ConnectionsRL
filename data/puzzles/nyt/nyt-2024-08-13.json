@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-13",
+  "groups": [
+    {
+      "title": "STATED",
+      "color": "yellow",
+      "words": [
+        "SAID",
+        "SPOKE",
+        "TOLD",
+        "VOICED"
+      ]
+    },
+    {
+      "title": "NICKNAME",
+      "color": "green",
+      "words": [
+        "DESIGNATION",
+        "HANDLE",
+        "MONIKER",
+        "SOBRIQUET"
+      ]
+    },
+    {
+      "title": "OBVIOUS",
+      "color": "blue",
+      "words": [
+        "CLEAR",
+        "MARKED",
+        "PRONOUNCED",
+        "STRIKING"
+      ]
+    },
+    {
+      "title": "___HOUSE (THAT AREN’T HOUSES)",
+      "color": "purple",
+      "words": [
+        "PORTER",
+        "POWER",
+        "ROUGH",
+        "WHEEL"
+      ]
+    }
+  ]
+}

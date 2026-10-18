@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-09",
+  "groups": [
+    {
+      "title": "CLEANING SUPPLIES",
+      "color": "yellow",
+      "words": [
+        "BROOM",
+        "MOP",
+        "RAG",
+        "SPONGE"
+      ]
+    },
+    {
+      "title": "ELEMENTS OF COOKING,  PER SAMIN NOSRAT",
+      "color": "green",
+      "words": [
+        "SALT",
+        "FAT",
+        "ACID",
+        "HEAT"
+      ]
+    },
+    {
+      "title": "THINGS THAT MAKE YOU SNEEZE",
+      "color": "blue",
+      "words": [
+        "DUST",
+        "PEPPER",
+        "POLLEN",
+        "SMOKE"
+      ]
+    },
+    {
+      "title": "TITULAR FICTIONAL DETECTIVES",
+      "color": "purple",
+      "words": [
+        "MAGNUM",
+        "MONK",
+        "SHAFT",
+        "TRACY"
+      ]
+    }
+  ]
+}

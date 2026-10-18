@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-14",
+  "groups": [
+    {
+      "title": "FISH",
+      "color": "yellow",
+      "words": [
+        "FLUKE",
+        "MULLET",
+        "SOLE",
+        "TANG"
+      ]
+    },
+    {
+      "title": "WORDS IN AN AUCTION-ENDING PHRASE",
+      "color": "green",
+      "words": [
+        "GOING",
+        "ONCE",
+        "SOLD",
+        "TWICE"
+      ]
+    },
+    {
+      "title": "GLOBAL CURRENCIES",
+      "color": "blue",
+      "words": [
+        "POUND",
+        "REAL",
+        "SOL",
+        "YUAN"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “CUP”",
+      "color": "purple",
+      "words": [
+        "BUTTER",
+        "DIVA",
+        "SOLO",
+        "WORLD"
+      ]
+    }
+  ]
+}

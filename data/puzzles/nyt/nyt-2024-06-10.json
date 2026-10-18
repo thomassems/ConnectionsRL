@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-10",
+  "groups": [
+    {
+      "title": "CORE",
+      "color": "yellow",
+      "words": [
+        "CRUX",
+        "ESSENCE",
+        "HEART",
+        "SUBSTANCE"
+      ]
+    },
+    {
+      "title": "COMPLICATED",
+      "color": "green",
+      "words": [
+        "BAROQUE",
+        "COMPLEX",
+        "ELABORATE",
+        "INVOLVED"
+      ]
+    },
+    {
+      "title": "SYMBOLS USED IN MAKING LISTS",
+      "color": "blue",
+      "words": [
+        "ARROW",
+        "BULLET",
+        "CHECKBOX",
+        "HYPHEN"
+      ]
+    },
+    {
+      "title": "WHAT “CROSS” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ANGRY",
+        "BETRAY",
+        "CRUCIFIX",
+        "HYBRID"
+      ]
+    }
+  ]
+}

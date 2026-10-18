@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-24",
+  "groups": [
+    {
+      "title": "KITCHEN UTENSILS",
+      "color": "yellow",
+      "words": [
+        "GRATER",
+        "LADLE",
+        "PEELER",
+        "WHISK"
+      ]
+    },
+    {
+      "title": "VERTEBRATES",
+      "color": "green",
+      "words": [
+        "BIRD",
+        "FISH",
+        "MAMMAL",
+        "REPTILE"
+      ]
+    },
+    {
+      "title": "SUPER MARIO-RELATED",
+      "color": "blue",
+      "words": [
+        "DINOSAUR",
+        "MUSHROOM",
+        "PLUMBER",
+        "PRINCESS"
+      ]
+    },
+    {
+      "title": "SITCOM FAMILIES",
+      "color": "purple",
+      "words": [
+        "BUNKER",
+        "CLEAVER",
+        "PARTRIDGE",
+        "TANNER"
+      ]
+    }
+  ]
+}

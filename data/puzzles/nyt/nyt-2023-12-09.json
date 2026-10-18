@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-09",
+  "groups": [
+    {
+      "title": "ICE CREAM TREATS",
+      "color": "yellow",
+      "words": [
+        "FLOAT",
+        "SHAKE",
+        "SPLIT",
+        "SUNDAE"
+      ]
+    },
+    {
+      "title": "HARDWARE FASTENERS",
+      "color": "green",
+      "words": [
+        "BOLT",
+        "NAIL",
+        "RIVET",
+        "SCREW"
+      ]
+    },
+    {
+      "title": "KINDS OF COOKING OIL",
+      "color": "blue",
+      "words": [
+        "CORN",
+        "OLIVE",
+        "PALM",
+        "PEANUT"
+      ]
+    },
+    {
+      "title": "STICKY ___",
+      "color": "purple",
+      "words": [
+        "FINGERS",
+        "NOTE",
+        "RICE",
+        "WICKET"
+      ]
+    }
+  ]
+}

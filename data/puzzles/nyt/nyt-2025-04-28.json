@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-28",
+  "groups": [
+    {
+      "title": "HAIR PRODUCTS",
+      "color": "yellow",
+      "words": [
+        "GEL",
+        "MOUSSE",
+        "SPRAY",
+        "WAX"
+      ]
+    },
+    {
+      "title": "AUSTERE",
+      "color": "green",
+      "words": [
+        "BARE",
+        "PLAIN",
+        "SIMPLE",
+        "SPARE"
+      ]
+    },
+    {
+      "title": "CLUES AT A CRIME SCENE",
+      "color": "blue",
+      "words": [
+        "FIBER",
+        "FINGERPRINT",
+        "HAIR",
+        "TIRE MARK"
+      ]
+    },
+    {
+      "title": "WEARY",
+      "color": "purple",
+      "words": [
+        "BORE",
+        "DRAIN",
+        "EXHAUST",
+        "TIRE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-23",
+  "groups": [
+    {
+      "title": "TELLING OF EVENTS",
+      "color": "yellow",
+      "words": [
+        "ACCOUNT",
+        "CHRONICLE",
+        "DESCRIPTION",
+        "STORY"
+      ]
+    },
+    {
+      "title": "SECRETED BY TREES",
+      "color": "green",
+      "words": [
+        "GUM",
+        "LATEX",
+        "RESIN",
+        "SAP"
+      ]
+    },
+    {
+      "title": "THINGS ON STICKS",
+      "color": "blue",
+      "words": [
+        "BALL-IN-CUP",
+        "CORN DOG",
+        "COTTON SWAB",
+        "LOLLIPOP"
+      ]
+    },
+    {
+      "title": "BLACK OR RED",
+      "color": "purple",
+      "words": [
+        "BALANCE SHEET",
+        "CHECKERS",
+        "LICORICE",
+        "ROULETTE"
+      ]
+    }
+  ]
+}

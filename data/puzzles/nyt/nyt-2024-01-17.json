@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-17",
+  "groups": [
+    {
+      "title": "DATA SET DATA",
+      "color": "yellow",
+      "words": [
+        "MEAN",
+        "MEDIAN",
+        "MODE",
+        "RANGE"
+      ]
+    },
+    {
+      "title": "CHEMISTRY TERMS",
+      "color": "green",
+      "words": [
+        "BASE",
+        "BOND",
+        "ELEMENT",
+        "SOLUTION"
+      ]
+    },
+    {
+      "title": "ADJECTIVE INTENSIFIERS",
+      "color": "blue",
+      "words": [
+        "AWFUL",
+        "PRETTY",
+        "RATHER",
+        "REAL"
+      ]
+    },
+    {
+      "title": "RADIO HALL OF FAME MEMBERS",
+      "color": "purple",
+      "words": [
+        "GLASS",
+        "GROSS",
+        "KING",
+        "STERN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-24",
+  "groups": [
+    {
+      "title": "CAREEN",
+      "color": "yellow",
+      "words": [
+        "HEAVE",
+        "LURCH",
+        "PITCH",
+        "REEL"
+      ]
+    },
+    {
+      "title": "WHAT A NOUN MIGHT BE",
+      "color": "green",
+      "words": [
+        "IDEA",
+        "PERSON",
+        "PLACE",
+        "THING"
+      ]
+    },
+    {
+      "title": "ELECTRONIC DANCE MUSIC GENRES",
+      "color": "blue",
+      "words": [
+        "AMBIENT",
+        "HOUSE",
+        "JUNGLE",
+        "TRANCE"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “ASH”",
+      "color": "purple",
+      "words": [
+        "BLOND",
+        "TRAY",
+        "TREE",
+        "WEDNESDAY"
+      ]
+    }
+  ]
+}

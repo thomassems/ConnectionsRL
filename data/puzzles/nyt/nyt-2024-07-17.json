@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-17",
+  "groups": [
+    {
+      "title": "BUILDINGS AROUND TOWN",
+      "color": "yellow",
+      "words": [
+        "BANK",
+        "LAUNDROMAT",
+        "POST OFFICE",
+        "SUPERMARKET"
+      ]
+    },
+    {
+      "title": "HINDER",
+      "color": "green",
+      "words": [
+        "CHECK",
+        "CURB",
+        "HAMPER",
+        "INHIBIT"
+      ]
+    },
+    {
+      "title": "ANIMAL GROUP NAMES",
+      "color": "blue",
+      "words": [
+        "PACK",
+        "PRIDE",
+        "SCHOOL",
+        "SWARM"
+      ]
+    },
+    {
+      "title": "STARTS OF U.S. PRESIDENTS",
+      "color": "purple",
+      "words": [
+        "BIDE",
+        "CART",
+        "NIX",
+        "WASHING"
+      ]
+    }
+  ]
+}

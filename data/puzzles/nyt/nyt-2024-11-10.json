@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-10",
+  "groups": [
+    {
+      "title": "BARREL-SHAPED CONTAINER",
+      "color": "yellow",
+      "words": [
+        "CASK",
+        "CYLINDER",
+        "DRUM",
+        "TANK"
+      ]
+    },
+    {
+      "title": "GUIDE",
+      "color": "green",
+      "words": [
+        "PILOT",
+        "USHER",
+        "SHEPHERD",
+        "STEER"
+      ]
+    },
+    {
+      "title": "N.F.L. TEAM MEMBER",
+      "color": "blue",
+      "words": [
+        "COWBOY",
+        "JET",
+        "RAM",
+        "RAVEN"
+      ]
+    },
+    {
+      "title": "THINGS THAT SWING",
+      "color": "purple",
+      "words": [
+        "GOLFER",
+        "PENDULUM",
+        "SALOON DOORS",
+        "SWING"
+      ]
+    }
+  ]
+}

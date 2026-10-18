@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-30",
+  "groups": [
+    {
+      "title": "LUNCH ORDERS",
+      "color": "yellow",
+      "words": [
+        "CLUB",
+        "HERO",
+        "MELT",
+        "WRAP"
+      ]
+    },
+    {
+      "title": "USED TO MAKE COFFEE",
+      "color": "green",
+      "words": [
+        "BEANS",
+        "FILTER",
+        "GRINDER",
+        "WATER"
+      ]
+    },
+    {
+      "title": "PAY, WITH “UP”",
+      "color": "blue",
+      "words": [
+        "ANTE",
+        "COUGH",
+        "PONY",
+        "SETTLE"
+      ]
+    },
+    {
+      "title": "NAMES FEATURING \"!\"",
+      "color": "purple",
+      "words": [
+        "AIRPLANE",
+        "JEOPARDY",
+        "PINK",
+        "YAHOO"
+      ]
+    }
+  ]
+}

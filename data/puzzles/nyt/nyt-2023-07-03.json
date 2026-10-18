@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-03",
+  "groups": [
+    {
+      "title": "DOG BREEDS",
+      "color": "yellow",
+      "words": [
+        "BOXER",
+        "DALMATIAN",
+        "HUSKY",
+        "POODLE"
+      ]
+    },
+    {
+      "title": "ANIMAL NOSES",
+      "color": "green",
+      "words": [
+        "BEAK",
+        "MUZZLE",
+        "SNOUT",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "TRAFFIC SIGNS",
+      "color": "blue",
+      "words": [
+        "DETOUR",
+        "SLOW",
+        "STOP",
+        "YIELD"
+      ]
+    },
+    {
+      "title": "SOUND ___",
+      "color": "purple",
+      "words": [
+        "ASLEEP",
+        "BARRIER",
+        "BITE",
+        "WAVE"
+      ]
+    }
+  ]
+}

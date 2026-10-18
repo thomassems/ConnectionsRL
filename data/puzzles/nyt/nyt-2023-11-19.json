@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-19",
+  "groups": [
+    {
+      "title": "ONSET",
+      "color": "yellow",
+      "words": [
+        "BIRTH",
+        "CREATION",
+        "DAWN",
+        "START"
+      ]
+    },
+    {
+      "title": "VENERABLE",
+      "color": "green",
+      "words": [
+        "AUGUST",
+        "GRAND",
+        "NOBLE",
+        "REGAL"
+      ]
+    },
+    {
+      "title": "WALK",
+      "color": "blue",
+      "words": [
+        "MARCH",
+        "STEP",
+        "STRIDE",
+        "TREAD"
+      ]
+    },
+    {
+      "title": "___ DAY HOLIDAYS",
+      "color": "purple",
+      "words": [
+        "EARTH",
+        "GROUNDHOG",
+        "LABOR",
+        "MAY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-11",
+  "groups": [
+    {
+      "title": "ONE WITH TOP BILLING",
+      "color": "yellow",
+      "words": [
+        "HEADLINER",
+        "LEAD",
+        "PRINCIPAL",
+        "STAR"
+      ]
+    },
+    {
+      "title": "VAMPIRE VULNERABILITIES",
+      "color": "green",
+      "words": [
+        "CROSS",
+        "GARLIC",
+        "SILVER",
+        "SUN"
+      ]
+    },
+    {
+      "title": "SATIRICAL PUBLICATIONS, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "CRACKED",
+        "LAMPOON",
+        "MAD",
+        "ONION"
+      ]
+    },
+    {
+      "title": "CLUB ___",
+      "color": "purple",
+      "words": [
+        "MED",
+        "MUSIC",
+        "SANDWICH",
+        "SODA"
+      ]
+    }
+  ]
+}

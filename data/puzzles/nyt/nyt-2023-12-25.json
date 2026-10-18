@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-25",
+  "groups": [
+    {
+      "title": "DARLING",
+      "color": "yellow",
+      "words": [
+        "BABY",
+        "BOO",
+        "DEAR",
+        "LOVE"
+      ]
+    },
+    {
+      "title": "BASIC GEOMETRIC OBJECTS",
+      "color": "green",
+      "words": [
+        "LINE",
+        "POINT",
+        "RAY",
+        "SEGMENT"
+      ]
+    },
+    {
+      "title": "OOMPH",
+      "color": "blue",
+      "words": [
+        "ENERGY",
+        "FIRE",
+        "JUICE",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "SECRET ___",
+      "color": "purple",
+      "words": [
+        "AGENT",
+        "CODE",
+        "SANTA",
+        "SAUCE"
+      ]
+    }
+  ]
+}

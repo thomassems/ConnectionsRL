@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-26",
+  "groups": [
+    {
+      "title": "BASIC DIRECTIONS",
+      "color": "yellow",
+      "words": [
+        "DOWN",
+        "LEFT",
+        "RIGHT",
+        "UP"
+      ]
+    },
+    {
+      "title": "ADVOCATE FOR",
+      "color": "green",
+      "words": [
+        "BACK",
+        "CHAMPION",
+        "ENDORSE",
+        "SUPPORT"
+      ]
+    },
+    {
+      "title": "DRAWBACK",
+      "color": "blue",
+      "words": [
+        "CON",
+        "DING",
+        "MINUS",
+        "STRIKE"
+      ]
+    },
+    {
+      "title": "INSTRUMENT HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "BASE",
+        "LIAR",
+        "LOOT",
+        "SYMBOL"
+      ]
+    }
+  ]
+}

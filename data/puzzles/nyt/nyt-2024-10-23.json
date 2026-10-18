@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-23",
+  "groups": [
+    {
+      "title": "YELLOW ___",
+      "color": "yellow",
+      "words": [
+        "CAB",
+        "JACKET",
+        "JOURNALISM",
+        "PAGES"
+      ]
+    },
+    {
+      "title": "GREEN ___",
+      "color": "green",
+      "words": [
+        "BERET",
+        "GOBLIN",
+        "SALAD",
+        "THUMB"
+      ]
+    },
+    {
+      "title": "BLUE ___",
+      "color": "blue",
+      "words": [
+        "JAY",
+        "JEANS",
+        "MOON",
+        "WHALE"
+      ]
+    },
+    {
+      "title": "PURPLE ___",
+      "color": "purple",
+      "words": [
+        "HAZE",
+        "HEART",
+        "PROSE",
+        "RAIN"
+      ]
+    }
+  ]
+}

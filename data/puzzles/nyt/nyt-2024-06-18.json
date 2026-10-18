@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-18",
+  "groups": [
+    {
+      "title": "REMOTE CONTROL BUTTONS",
+      "color": "yellow",
+      "words": [
+        "CHANNEL",
+        "MENU",
+        "POWER",
+        "VOLUME"
+      ]
+    },
+    {
+      "title": "HIDE FROM VIEW",
+      "color": "green",
+      "words": [
+        "BLOCK",
+        "COVER",
+        "SCREEN",
+        "SHIELD"
+      ]
+    },
+    {
+      "title": "DRINK GARNISHES",
+      "color": "blue",
+      "words": [
+        "CHERRY",
+        "OLIVE",
+        "SWORD",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "title": "FIRST WORD IN BOND MOVIE TITLES",
+      "color": "purple",
+      "words": [
+        "CASINO",
+        "DIAMONDS",
+        "QUANTUM",
+        "TOMORROW"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-05",
+  "groups": [
+    {
+      "title": "THINGS THAT ARE FUZZY",
+      "color": "yellow",
+      "words": [
+        "CATERPILLAR",
+        "FLEECE",
+        "PEACH",
+        "PIPE CLEANER"
+      ]
+    },
+    {
+      "title": "THINGS WITH SHELLS",
+      "color": "green",
+      "words": [
+        "CLAM",
+        "EGG",
+        "NUT",
+        "TURTLE"
+      ]
+    },
+    {
+      "title": "FIGURES IN “SHREK”",
+      "color": "blue",
+      "words": [
+        "DONKEY",
+        "DRAGON",
+        "OGRE",
+        "PRINCESS"
+      ]
+    },
+    {
+      "title": "MAGIC ___",
+      "color": "purple",
+      "words": [
+        "CARPET",
+        "KINGDOM",
+        "MARKER",
+        "MUSHROOM"
+      ]
+    }
+  ]
+}

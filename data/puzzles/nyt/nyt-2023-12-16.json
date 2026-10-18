@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-16",
+  "groups": [
+    {
+      "title": "FARM TOOLS",
+      "color": "yellow",
+      "words": [
+        "HOE",
+        "PLOW",
+        "RAKE",
+        "SICKLE"
+      ]
+    },
+    {
+      "title": "SCHEME",
+      "color": "green",
+      "words": [
+        "PLOT",
+        "PLOY",
+        "RUSE",
+        "TRICK"
+      ]
+    },
+    {
+      "title": "MAKE HAPPY",
+      "color": "blue",
+      "words": [
+        "AMUSE",
+        "DELIGHT",
+        "PLEASE",
+        "TICKLE"
+      ]
+    },
+    {
+      "title": "ONOMATOPOEIA",
+      "color": "purple",
+      "words": [
+        "BANG",
+        "PLOP",
+        "SPLASH",
+        "THUD"
+      ]
+    }
+  ]
+}

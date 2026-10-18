@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-19",
+  "groups": [
+    {
+      "title": "FALSIFY",
+      "color": "yellow",
+      "words": [
+        "FABRICATE",
+        "FAKE",
+        "FIX",
+        "FORGE"
+      ]
+    },
+    {
+      "title": "MILD OATHS",
+      "color": "green",
+      "words": [
+        "FIDDLESTICKS",
+        "FIE",
+        "FRICK",
+        "FUDGE"
+      ]
+    },
+    {
+      "title": "TV SHOWS",
+      "color": "blue",
+      "words": [
+        "FARGO",
+        "FIREFLY",
+        "FLEABAG",
+        "FLIPPER"
+      ]
+    },
+    {
+      "title": "FAST ___",
+      "color": "purple",
+      "words": [
+        "FASHION",
+        "FOOD",
+        "FORWARD",
+        "FRIENDS"
+      ]
+    }
+  ]
+}

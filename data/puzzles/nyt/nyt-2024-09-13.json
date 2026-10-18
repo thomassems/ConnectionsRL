@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-13",
+  "groups": [
+    {
+      "title": "VITALITY",
+      "color": "yellow",
+      "words": [
+        "ENERGY",
+        "JUICE",
+        "LIFE",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "PALINDROMES FEATURING “E”",
+      "color": "green",
+      "words": [
+        "LEVEL",
+        "PEP",
+        "REFER",
+        "TENET"
+      ]
+    },
+    {
+      "title": "FEATURED IN “JACK AND THE BEANSTALK”",
+      "color": "blue",
+      "words": [
+        "BEANS",
+        "COW",
+        "GIANT",
+        "JACK"
+      ]
+    },
+    {
+      "title": "CAR MODELS",
+      "color": "purple",
+      "words": [
+        "BEETLE",
+        "CIVIC",
+        "FOCUS",
+        "VOLT"
+      ]
+    }
+  ]
+}

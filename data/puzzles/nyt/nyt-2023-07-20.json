@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-20",
+  "groups": [
+    {
+      "title": "TIMEKEEPING DEVICES",
+      "color": "yellow",
+      "words": [
+        "CLOCK",
+        "HOURGLASS",
+        "SUNDIAL",
+        "WATCH"
+      ]
+    },
+    {
+      "title": "HAIRSTYLES",
+      "color": "green",
+      "words": [
+        "BOB",
+        "CROP",
+        "PIXIE",
+        "SHAG"
+      ]
+    },
+    {
+      "title": "UNITS OF MEASURE",
+      "color": "blue",
+      "words": [
+        "HERTZ",
+        "MOLE",
+        "NEWTON",
+        "SECOND"
+      ]
+    },
+    {
+      "title": "DR. ___",
+      "color": "purple",
+      "words": [
+        "EVIL",
+        "J",
+        "NO",
+        "PEPPER"
+      ]
+    }
+  ]
+}

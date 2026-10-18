@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-31",
+  "groups": [
+    {
+      "title": "FLOWERS",
+      "color": "yellow",
+      "words": [
+        "DAISY",
+        "ROSE",
+        "TULIP",
+        "VIOLET"
+      ]
+    },
+    {
+      "title": "SEEN ON A FARM",
+      "color": "green",
+      "words": [
+        "BARN",
+        "CHICKEN",
+        "FARMER",
+        "TRACTOR"
+      ]
+    },
+    {
+      "title": "HORROR DIRECTORS",
+      "color": "blue",
+      "words": [
+        "ASTER",
+        "CARPENTER",
+        "CRAVEN",
+        "WAN"
+      ]
+    },
+    {
+      "title": "___ JACKET",
+      "color": "purple",
+      "words": [
+        "DUST",
+        "LIFE",
+        "SPORTS",
+        "YELLOW"
+      ]
+    }
+  ]
+}

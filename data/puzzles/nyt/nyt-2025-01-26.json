@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-26",
+  "groups": [
+    {
+      "title": "WAYS TO GET FOOD",
+      "color": "yellow",
+      "words": [
+        "FARM",
+        "FISH",
+        "GATHER",
+        "HUNT"
+      ]
+    },
+    {
+      "title": "KEEP APART",
+      "color": "green",
+      "words": [
+        "CLOISTER",
+        "SECLUDE",
+        "SEPARATE",
+        "SILO"
+      ]
+    },
+    {
+      "title": "PARTS OF A BIG RIG",
+      "color": "blue",
+      "words": [
+        "AXLES",
+        "HITCH",
+        "TRACTOR",
+        "TRAILER"
+      ]
+    },
+    {
+      "title": "DANCE EVENTS PLUS A LETTER",
+      "color": "purple",
+      "words": [
+        "BALLY",
+        "DISCOG",
+        "PROMO",
+        "RAVEN"
+      ]
+    }
+  ]
+}

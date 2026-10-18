@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-27",
+  "groups": [
+    {
+      "title": "SMALL AMOUNT OF FOOD TO TRY",
+      "color": "yellow",
+      "words": [
+        "BITE",
+        "MOUTHFUL",
+        "SAMPLE",
+        "TASTE"
+      ]
+    },
+    {
+      "title": "PROTECTIVE COVERINGS IN NATURE",
+      "color": "green",
+      "words": [
+        "BARK",
+        "SCALES",
+        "SHELL",
+        "SKIN"
+      ]
+    },
+    {
+      "title": "EXTRA VIRGIN OLIVE OIL",
+      "color": "blue",
+      "words": [
+        "EXTRA",
+        "OIL",
+        "OLIVE",
+        "VIRGIN"
+      ]
+    },
+    {
+      "title": "SEEN IN \"THE SHINING\"",
+      "color": "purple",
+      "words": [
+        "AXE",
+        "HEDGE MAZE",
+        "TWINS",
+        "TYPEWRITER"
+      ]
+    }
+  ]
+}

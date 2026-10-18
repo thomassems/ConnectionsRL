@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-26",
+  "groups": [
+    {
+      "title": "MODES OF TRANSPORTATION",
+      "color": "yellow",
+      "words": [
+        "BOAT",
+        "CAR",
+        "PLANE",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "NBA PLAYERS",
+      "color": "green",
+      "words": [
+        "KING",
+        "MAGIC",
+        "SUN",
+        "THUNDER"
+      ]
+    },
+    {
+      "title": "FAST FOOD CHAINS",
+      "color": "blue",
+      "words": [
+        "CHECKERS",
+        "OUTBACK",
+        "SONIC",
+        "SUBWAY"
+      ]
+    },
+    {
+      "title": "BAND NAMES MINUS COLORS",
+      "color": "purple",
+      "words": [
+        "DAY",
+        "FLOYD",
+        "SABBATH",
+        "STRIPES"
+      ]
+    }
+  ]
+}

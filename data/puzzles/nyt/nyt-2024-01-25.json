@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-25",
+  "groups": [
+    {
+      "title": "OF-THE-MOMENT",
+      "color": "yellow",
+      "words": [
+        "BIG",
+        "HOT",
+        "IN",
+        "POPULAR"
+      ]
+    },
+    {
+      "title": "PICTOGRAPH",
+      "color": "green",
+      "words": [
+        "CHARACTER",
+        "GLYPH",
+        "ICON",
+        "SYMBOL"
+      ]
+    },
+    {
+      "title": "IMPOSE, AS A PENALTY",
+      "color": "blue",
+      "words": [
+        "ASSESS",
+        "CHARGE",
+        "FINE",
+        "LEVY"
+      ]
+    },
+    {
+      "title": "WORDS BEGINNING WITH BODY PARTS",
+      "color": "purple",
+      "words": [
+        "HANDSOME",
+        "HIPPO",
+        "LEGEND",
+        "LIPID"
+      ]
+    }
+  ]
+}

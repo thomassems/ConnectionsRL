@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-18",
+  "groups": [
+    {
+      "title": "CLUNKER",
+      "color": "yellow",
+      "words": [
+        "BUST",
+        "DUD",
+        "FLOP",
+        "MISS"
+      ]
+    },
+    {
+      "title": "OPPORTUNITY",
+      "color": "green",
+      "words": [
+        "CHANCE",
+        "SHOT",
+        "TIME",
+        "TURN"
+      ]
+    },
+    {
+      "title": "NON-CASH WAY TO PAY",
+      "color": "blue",
+      "words": [
+        "CARD",
+        "CHARGE",
+        "CREDIT",
+        "PLASTIC"
+      ]
+    },
+    {
+      "title": "AMAZON ___",
+      "color": "purple",
+      "words": [
+        "KINDLE",
+        "PRIME",
+        "RAINFOREST",
+        "RIVER"
+      ]
+    }
+  ]
+}

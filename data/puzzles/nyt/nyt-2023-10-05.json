@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-05",
+  "groups": [
+    {
+      "title": "DIVISION",
+      "color": "yellow",
+      "words": [
+        "ARM",
+        "BRANCH",
+        "CHAPTER",
+        "WING"
+      ]
+    },
+    {
+      "title": "IMPERIAL UNITS",
+      "color": "green",
+      "words": [
+        "BUSHEL",
+        "PECK",
+        "STONE",
+        "TON"
+      ]
+    },
+    {
+      "title": "M.L.B. TEAM MEMBER",
+      "color": "blue",
+      "words": [
+        "ANGEL",
+        "CUB",
+        "MET",
+        "RED"
+      ]
+    },
+    {
+      "title": "INSECT HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "AUNT",
+        "BEATLE",
+        "FLEE",
+        "NAT"
+      ]
+    }
+  ]
+}

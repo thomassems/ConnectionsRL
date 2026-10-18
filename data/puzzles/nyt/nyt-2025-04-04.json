@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-04",
+  "groups": [
+    {
+      "title": "WHAT’S LEFTOVER",
+      "color": "yellow",
+      "words": [
+        "BALANCE",
+        "DIFFERENCE",
+        "REMAINDER",
+        "REST"
+      ]
+    },
+    {
+      "title": "CAR TRIP",
+      "color": "green",
+      "words": [
+        "CRUISE",
+        "DRIVE",
+        "RIDE",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "BASEBALL VENUES",
+      "color": "blue",
+      "words": [
+        "DIAMOND",
+        "FIELD",
+        "PARK",
+        "STADIUM"
+      ]
+    },
+    {
+      "title": "COMPANIES WITH “E” REMOVED",
+      "color": "purple",
+      "words": [
+        "BAY",
+        "HARMONY",
+        "INK",
+        "TRADE"
+      ]
+    }
+  ]
+}

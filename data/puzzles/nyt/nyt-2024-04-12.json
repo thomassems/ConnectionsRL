@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-12",
+  "groups": [
+    {
+      "title": "ORDERLY",
+      "color": "yellow",
+      "words": [
+        "CLEAN",
+        "NEAT",
+        "TIDY",
+        "TRIM"
+      ]
+    },
+    {
+      "title": "AUGMENTATIVE PREFIXES",
+      "color": "green",
+      "words": [
+        "HYPER",
+        "SUPER",
+        "UBER",
+        "ULTRA"
+      ]
+    },
+    {
+      "title": "BECOME LARGER",
+      "color": "blue",
+      "words": [
+        "BALLOON",
+        "MUSHROOM",
+        "SNOWBALL",
+        "SWELL"
+      ]
+    },
+    {
+      "title": "ITEMS IN CLASSIC KIDS’ GAMES",
+      "color": "purple",
+      "words": [
+        "DOMINO",
+        "JACK",
+        "MARBLE",
+        "STICK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-14",
+  "groups": [
+    {
+      "title": "WRITING ASSIGNMENTS",
+      "color": "yellow",
+      "words": [
+        "ARTICLE",
+        "ESSAY",
+        "PAPER",
+        "REPORT"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE PINK",
+      "color": "green",
+      "words": [
+        "BUBBLE GUM",
+        "CARNATION",
+        "ERASER",
+        "FLAMINGO"
+      ]
+    },
+    {
+      "title": "NATO PHONETIC ALPHABET",
+      "color": "blue",
+      "words": [
+        "FOXTROT",
+        "HOTEL",
+        "VICTOR",
+        "YANKEE"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH #2",
+      "color": "purple",
+      "words": [
+        "DEPUTY",
+        "DEREK JETER",
+        "PENCIL",
+        "SILVER MEDAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-20",
+  "groups": [
+    {
+      "title": "OUTSPOKEN",
+      "color": "yellow",
+      "words": [
+        "DIRECT",
+        "FRANK",
+        "LOUD",
+        "VOCAL"
+      ]
+    },
+    {
+      "title": "BODIES OF WATER",
+      "color": "green",
+      "words": [
+        "BAY",
+        "CHANNEL",
+        "SOUND",
+        "STRAIT"
+      ]
+    },
+    {
+      "title": "KINDS OF CORDS",
+      "color": "blue",
+      "words": [
+        "BUNGEE",
+        "EXTENSION",
+        "SPINAL",
+        "UMBILICAL"
+      ]
+    },
+    {
+      "title": "THINGS IN BOTTLES",
+      "color": "purple",
+      "words": [
+        "GENIE",
+        "LIGHTNING",
+        "MESSAGE",
+        "SHIP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-25",
+  "groups": [
+    {
+      "title": "BEDS",
+      "color": "yellow",
+      "words": [
+        "BUNK",
+        "CANOPY",
+        "MURPHY",
+        "TRUNDLE"
+      ]
+    },
+    {
+      "title": "FAMOUS BROTHERS",
+      "color": "green",
+      "words": [
+        "JONAS",
+        "MARX",
+        "WARNER",
+        "WRIGHT"
+      ]
+    },
+    {
+      "title": "HONDAS",
+      "color": "blue",
+      "words": [
+        "ACCORD",
+        "CIVIC",
+        "PASSPORT",
+        "PILOT"
+      ]
+    },
+    {
+      "title": "VIDEO GAME CHARACTERS",
+      "color": "purple",
+      "words": [
+        "CRASH",
+        "LINK",
+        "MARIO",
+        "SONIC"
+      ]
+    }
+  ]
+}

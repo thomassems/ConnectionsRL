@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-20",
+  "groups": [
+    {
+      "title": "GLIMPSE",
+      "color": "yellow",
+      "words": [
+        "GANDER",
+        "GLANCE",
+        "LOOK",
+        "PEEP"
+      ]
+    },
+    {
+      "title": "NEEDS FOR TIE-DYEING A SHIRT",
+      "color": "green",
+      "words": [
+        "BASIN",
+        "DYE",
+        "RUBBER BANDS",
+        "SHIRT"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN CRACK",
+      "color": "blue",
+      "words": [
+        "CODE",
+        "EGG",
+        "JOKE",
+        "WHIP"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “HOP”",
+      "color": "purple",
+      "words": [
+        "BAR",
+        "BUNNY",
+        "HIP",
+        "SOCK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-25",
+  "groups": [
+    {
+      "title": "ATTAIN",
+      "color": "yellow",
+      "words": [
+        "EARN",
+        "LAND",
+        "SCORE",
+        "WIN"
+      ]
+    },
+    {
+      "title": "LARGE GROUP",
+      "color": "green",
+      "words": [
+        "CROWD",
+        "FLOCK",
+        "HOST",
+        "SEA"
+      ]
+    },
+    {
+      "title": "PARTS OF A SHIP",
+      "color": "blue",
+      "words": [
+        "ANCHOR",
+        "BOW",
+        "BRIDGE",
+        "DECK"
+      ]
+    },
+    {
+      "title": "ASSOCIATED PRINCIPLES IN CHINESE PHILOSOPHY",
+      "color": "purple",
+      "words": [
+        "EXPANSIVE",
+        "LIGHT",
+        "MASCULINE",
+        "YANG"
+      ]
+    }
+  ]
+}

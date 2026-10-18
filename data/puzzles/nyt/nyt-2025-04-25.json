@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-25",
+  "groups": [
+    {
+      "title": "GUM FLAVORS",
+      "color": "yellow",
+      "words": [
+        "BUBBLEGUM",
+        "CINNAMON",
+        "MENTHOL",
+        "WINTERGREEN"
+      ]
+    },
+    {
+      "title": "STARTING POINT",
+      "color": "green",
+      "words": [
+        "CATALYST",
+        "LAUNCHPAD",
+        "SPARK",
+        "SPRINGBOARD"
+      ]
+    },
+    {
+      "title": "GREAT AMERICAN SONGBOOK SONGS",
+      "color": "blue",
+      "words": [
+        "AUTUMN LEAVES",
+        "SUMMERTIME",
+        "UNFORGETTABLE",
+        "WITCHCRAFT"
+      ]
+    },
+    {
+      "title": "___ TUBE",
+      "color": "purple",
+      "words": [
+        "FALLOPIAN",
+        "INNER",
+        "TEST",
+        "VACUUM"
+      ]
+    }
+  ]
+}

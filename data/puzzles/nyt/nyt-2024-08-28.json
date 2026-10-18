@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-28",
+  "groups": [
+    {
+      "title": "PLAYGROUND EQUIPMENT",
+      "color": "yellow",
+      "words": [
+        "MONKEY BARS",
+        "SLIDE",
+        "SWINGS",
+        "TEETER-TOTTER"
+      ]
+    },
+    {
+      "title": "FOUND AT THE END OF A STRING/CORD",
+      "color": "green",
+      "words": [
+        "PENDULUM",
+        "TEA BAG",
+        "TETHERBALL",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "DESCRIBED AS DRY",
+      "color": "blue",
+      "words": [
+        "DESERT",
+        "HUMOR",
+        "MARTINI",
+        "TEETOTALER"
+      ]
+    },
+    {
+      "title": "BABY ___",
+      "color": "purple",
+      "words": [
+        "BLUES",
+        "BOOMER",
+        "STEPS",
+        "TEETH"
+      ]
+    }
+  ]
+}

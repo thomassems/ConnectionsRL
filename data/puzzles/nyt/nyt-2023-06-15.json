@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-15",
+  "groups": [
+    {
+      "title": "SNEAKER BRANDS",
+      "color": "yellow",
+      "words": [
+        "ADIDAS",
+        "NIKE",
+        "PUMA",
+        "REEBOK"
+      ]
+    },
+    {
+      "title": "MUSICALS BEGINNING WITH “C”",
+      "color": "green",
+      "words": [
+        "CABARET",
+        "CAROUSEL",
+        "CATS",
+        "CHICAGO"
+      ]
+    },
+    {
+      "title": "CLEANING VERBS",
+      "color": "blue",
+      "words": [
+        "DUST",
+        "MOP",
+        "SWEEP",
+        "VACUUM"
+      ]
+    },
+    {
+      "title": "___ MAN SUPERHEROES",
+      "color": "purple",
+      "words": [
+        "BAT",
+        "IRON",
+        "SPIDER",
+        "SUPER"
+      ]
+    }
+  ]
+}

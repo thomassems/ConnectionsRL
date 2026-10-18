@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-28",
+  "groups": [
+    {
+      "title": "STATES OF ELATION",
+      "color": "yellow",
+      "words": [
+        "BLISS",
+        "CLOUD NINE",
+        "HEAVEN",
+        "PARADISE"
+      ]
+    },
+    {
+      "title": "SCAM",
+      "color": "green",
+      "words": [
+        "CON",
+        "FAST ONE",
+        "HUSTLE",
+        "RACKET"
+      ]
+    },
+    {
+      "title": "GREETING GESTURES",
+      "color": "blue",
+      "words": [
+        "HIGH FIVE",
+        "HUG",
+        "SHAKE",
+        "WAVE"
+      ]
+    },
+    {
+      "title": "___ LIST",
+      "color": "purple",
+      "words": [
+        "BUCKET",
+        "GUEST",
+        "TOP TEN",
+        "WISH"
+      ]
+    }
+  ]
+}

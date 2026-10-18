@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-04",
+  "groups": [
+    {
+      "title": "STEER",
+      "color": "yellow",
+      "words": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "SHEPHERD"
+      ]
+    },
+    {
+      "title": "THINGS WITH NEEDLE/S",
+      "color": "green",
+      "words": [
+        "COMPASS",
+        "PINE TREE",
+        "SEWING KIT",
+        "TURNTABLE"
+      ]
+    },
+    {
+      "title": "FIGURES IN GREEK MYTH",
+      "color": "blue",
+      "words": [
+        "ATLAS",
+        "ECHO",
+        "HELEN",
+        "PAN"
+      ]
+    },
+    {
+      "title": "STARTING WITH SYNONYMS FOR LAVATORY",
+      "color": "purple",
+      "words": [
+        "CANDLE",
+        "LOOFAH",
+        "JOHNSON",
+        "TOILETRIES"
+      ]
+    }
+  ]
+}

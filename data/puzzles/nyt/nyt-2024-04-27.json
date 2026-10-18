@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-27",
+  "groups": [
+    {
+      "title": "TRUST AS REAL",
+      "color": "yellow",
+      "words": [
+        "ACCEPT",
+        "BELIEVE",
+        "BUY",
+        "SWALLOW"
+      ]
+    },
+    {
+      "title": "POWER ISSUES",
+      "color": "green",
+      "words": [
+        "OUTAGE",
+        "SHORT",
+        "SPIKE",
+        "SURGE"
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "color": "blue",
+      "words": [
+        "ABSTRACT",
+        "BRIEF",
+        "DIGEST",
+        "OUTLINE"
+      ]
+    },
+    {
+      "title": "NAME HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "CURT",
+        "HAIRY",
+        "KNEEL",
+        "WANE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-17",
+  "groups": [
+    {
+      "title": "DELIVER, AS A PACKAGE",
+      "color": "yellow",
+      "words": [
+        "MAIL",
+        "POST",
+        "SEND",
+        "SHIP"
+      ]
+    },
+    {
+      "title": "KINDS OF LIP MAKEUP",
+      "color": "green",
+      "words": [
+        "BALM",
+        "GLOSS",
+        "LINER",
+        "STAIN"
+      ]
+    },
+    {
+      "title": "PREDICAMENT",
+      "color": "blue",
+      "words": [
+        "CORNER",
+        "FIX",
+        "HOLE",
+        "SPOT"
+      ]
+    },
+    {
+      "title": "MEASURED IN DEGREES",
+      "color": "purple",
+      "words": [
+        "ANGLE",
+        "CRIME",
+        "EDUCATION",
+        "TEMPERATURE"
+      ]
+    }
+  ]
+}

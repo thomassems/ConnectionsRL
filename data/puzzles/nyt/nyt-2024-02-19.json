@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-19",
+  "groups": [
+    {
+      "title": "USED IN BUILDING A FIRE",
+      "color": "yellow",
+      "words": [
+        "KINDLING",
+        "LOG",
+        "MATCH",
+        "TINDER"
+      ]
+    },
+    {
+      "title": "MESS UP",
+      "color": "green",
+      "words": [
+        "BLOW",
+        "BUMBLE",
+        "FLUFF",
+        "SPOIL"
+      ]
+    },
+    {
+      "title": "WORKSHOP TOOLS",
+      "color": "blue",
+      "words": [
+        "DRILL",
+        "GRINDER",
+        "ROUTER",
+        "SAW"
+      ]
+    },
+    {
+      "title": "PARTS OF A DOOR",
+      "color": "purple",
+      "words": [
+        "FRAME",
+        "HANDLE",
+        "HINGE",
+        "LOCK"
+      ]
+    }
+  ]
+}

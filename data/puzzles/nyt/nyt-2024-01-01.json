@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-01",
+  "groups": [
+    {
+      "title": "GARDENING NOUNS/VERBS",
+      "color": "yellow",
+      "words": [
+        "PLANT",
+        "SEED",
+        "WATER",
+        "WEED"
+      ]
+    },
+    {
+      "title": "KINDS OF SALADS",
+      "color": "green",
+      "words": [
+        "CAESAR",
+        "GREEK",
+        "GREEN",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "CLASSIC GAME SHOWS, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "FEUD",
+        "MILLIONAIRE",
+        "PYRAMID",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "W + VOWEL SOUND",
+      "color": "purple",
+      "words": [
+        "WAY",
+        "WEE",
+        "WHY",
+        "WHOA"
+      ]
+    }
+  ]
+}

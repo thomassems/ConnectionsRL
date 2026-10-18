@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-06",
+  "groups": [
+    {
+      "title": "WANE",
+      "color": "yellow",
+      "words": [
+        "DWINDLE",
+        "FADE",
+        "PETER",
+        "TAPER"
+      ]
+    },
+    {
+      "title": "DO SOME TASKS IN THE GARDEN",
+      "color": "green",
+      "words": [
+        "PLANT",
+        "PRUNE",
+        "WATER",
+        "WEED"
+      ]
+    },
+    {
+      "title": "SHOES",
+      "color": "blue",
+      "words": [
+        "FLAT",
+        "MARY JANE",
+        "MULE",
+        "SLIDE"
+      ]
+    },
+    {
+      "title": "SAND___",
+      "color": "purple",
+      "words": [
+        "CASTLE",
+        "PAPER",
+        "PIPER",
+        "STONE"
+      ]
+    }
+  ]
+}

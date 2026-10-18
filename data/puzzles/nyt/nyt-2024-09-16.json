@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-16",
+  "groups": [
+    {
+      "title": "FOREMOST",
+      "color": "yellow",
+      "words": [
+        "CHIEF",
+        "PREMIER",
+        "PRINCIPAL",
+        "SUPREME"
+      ]
+    },
+    {
+      "title": "SPIKY THINGS",
+      "color": "green",
+      "words": [
+        "CACTUS",
+        "HEDGEHOG",
+        "MACE",
+        "PINEAPPLE"
+      ]
+    },
+    {
+      "title": "OVERLY SENTIMENTAL WORK",
+      "color": "blue",
+      "words": [
+        "CHEESE",
+        "CORN",
+        "MUSH",
+        "PAP"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE CAPPED",
+      "color": "purple",
+      "words": [
+        "BOTTLE",
+        "GRADUATE",
+        "MUSHROOM",
+        "SALARY"
+      ]
+    }
+  ]
+}

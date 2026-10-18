@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-19",
+  "groups": [
+    {
+      "title": "AFFLUENT",
+      "color": "yellow",
+      "words": [
+        "FLUSH",
+        "LOADED",
+        "RICH",
+        "WEALTHY"
+      ]
+    },
+    {
+      "title": "CUT INTO PIECES",
+      "color": "green",
+      "words": [
+        "CHOP",
+        "CUBE",
+        "DICE",
+        "MINCE"
+      ]
+    },
+    {
+      "title": "OLD-FASHIONED",
+      "color": "blue",
+      "words": [
+        "SQUARE",
+        "STRAIGHT",
+        "STUFFY",
+        "TRADITIONAL"
+      ]
+    },
+    {
+      "title": "FRUIT HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "BURY",
+        "CURRENT",
+        "LEACHY",
+        "PAIR"
+      ]
+    }
+  ]
+}

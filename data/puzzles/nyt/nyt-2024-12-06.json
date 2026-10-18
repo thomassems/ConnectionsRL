@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-06",
+  "groups": [
+    {
+      "title": "BAFFLE",
+      "color": "yellow",
+      "words": [
+        "PERPLEX",
+        "PUZZLE",
+        "STUMP",
+        "VEX"
+      ]
+    },
+    {
+      "title": "CURSE",
+      "color": "green",
+      "words": [
+        "HEX",
+        "JINX",
+        "POX",
+        "SPELL"
+      ]
+    },
+    {
+      "title": "“TOY STORY” CHARACTERS, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "BUZZ",
+        "HAMM",
+        "REX",
+        "SLINKY"
+      ]
+    },
+    {
+      "title": "COLLOQUIAL SUFFIXES",
+      "color": "purple",
+      "words": [
+        "CORE",
+        "GATE",
+        "MANIA",
+        "PILLED"
+      ]
+    }
+  ]
+}

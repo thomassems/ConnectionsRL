@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-16",
+  "groups": [
+    {
+      "title": "CURRENT SITUATION",
+      "color": "yellow",
+      "words": [
+        "CONDITION",
+        "FORM",
+        "SHAPE",
+        "STATE"
+      ]
+    },
+    {
+      "title": "REMOTE RURAL AREA",
+      "color": "green",
+      "words": [
+        "BUSH",
+        "COUNTRY",
+        "STICKS",
+        "WOODS"
+      ]
+    },
+    {
+      "title": "CLASSIC LAWN ORNAMENTS",
+      "color": "blue",
+      "words": [
+        "FLAMINGO",
+        "FOUNTAIN",
+        "GNOME",
+        "PINWHEEL"
+      ]
+    },
+    {
+      "title": "___ TALE",
+      "color": "purple",
+      "words": [
+        "FAIRY",
+        "FISH",
+        "FOLK",
+        "TALL"
+      ]
+    }
+  ]
+}

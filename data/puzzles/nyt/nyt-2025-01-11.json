@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-11",
+  "groups": [
+    {
+      "title": "DISPLAY OF ROWS AND COLUMNS",
+      "color": "yellow",
+      "words": [
+        "ARRAY",
+        "GRID",
+        "MATRIX",
+        "TABLE"
+      ]
+    },
+    {
+      "title": "THINGS TO DO AT A WORK EVENT",
+      "color": "green",
+      "words": [
+        "CIRCULATE",
+        "CONVERSE",
+        "MINGLE",
+        "NETWORK"
+      ]
+    },
+    {
+      "title": "OLYMPIC EVENTS SINCE 2000",
+      "color": "blue",
+      "words": [
+        "BREAKING",
+        "SURFING",
+        "TAEKWONDO",
+        "TRAMPOLINE"
+      ]
+    },
+    {
+      "title": "___ COURT",
+      "color": "purple",
+      "words": [
+        "FOOD",
+        "KANGAROO",
+        "SUPREME",
+        "TENNIS"
+      ]
+    }
+  ]
+}

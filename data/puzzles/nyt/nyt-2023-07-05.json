@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-05",
+  "groups": [
+    {
+      "title": "CANDY BARS",
+      "color": "yellow",
+      "words": [
+        "BOUNTY",
+        "CRUNCH",
+        "HEATH",
+        "MILKY WAY"
+      ]
+    },
+    {
+      "title": "VIDEO GAME CONSOLES",
+      "color": "green",
+      "words": [
+        "DREAMCAST",
+        "GENESIS",
+        "SWITCH",
+        "WII"
+      ]
+    },
+    {
+      "title": "EAR PARTS",
+      "color": "blue",
+      "words": [
+        "ANVIL",
+        "COCHLEA",
+        "HAMMER",
+        "STIRRUP"
+      ]
+    },
+    {
+      "title": "BAND NAMES MINUS NUMBERS",
+      "color": "purple",
+      "words": [
+        "BLINK",
+        "MAROON",
+        "SUM",
+        "U"
+      ]
+    }
+  ]
+}

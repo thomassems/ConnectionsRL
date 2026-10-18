@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-21",
+  "groups": [
+    {
+      "title": "INFO ON A NUTRITION LABEL",
+      "color": "yellow",
+      "words": [
+        "FAT",
+        "IRON",
+        "PROTEIN",
+        "SODIUM"
+      ]
+    },
+    {
+      "title": "METAPHOR FOR SOMETHING UNEXPECTED",
+      "color": "green",
+      "words": [
+        "BOMBSHELL",
+        "CURVEBALL",
+        "TWIST",
+        "WRENCH"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN INSERT INTO A SPREADSHEET",
+      "color": "blue",
+      "words": [
+        "CELL",
+        "COLUMN",
+        "ROW",
+        "SHEET"
+      ]
+    },
+    {
+      "title": "HELICAL THINGS",
+      "color": "purple",
+      "words": [
+        "CORKSCREW",
+        "DNA",
+        "FUSILLI",
+        "SPRING"
+      ]
+    }
+  ]
+}

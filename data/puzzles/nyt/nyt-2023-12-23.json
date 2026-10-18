@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-23",
+  "groups": [
+    {
+      "title": "MEANS OF TRANSPORTATION",
+      "color": "yellow",
+      "words": [
+        "BOAT",
+        "CAR",
+        "PLANE",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "WILLING TO PARTICIPATE",
+      "color": "green",
+      "words": [
+        "DOWN",
+        "GAME",
+        "IN",
+        "ON BOARD"
+      ]
+    },
+    {
+      "title": "LITTLE BIT, IN A RECIPE",
+      "color": "blue",
+      "words": [
+        "DASH",
+        "DROP",
+        "PINCH",
+        "SPLASH"
+      ]
+    },
+    {
+      "title": "___BERRY ",
+      "color": "purple",
+      "words": [
+        "BLUE",
+        "GOOSE",
+        "RASP",
+        "STRAW"
+      ]
+    }
+  ]
+}

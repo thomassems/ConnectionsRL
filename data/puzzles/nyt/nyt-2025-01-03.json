@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-03",
+  "groups": [
+    {
+      "title": "PARTS OF A FOOT",
+      "color": "yellow",
+      "words": [
+        "ARCH",
+        "BALL",
+        "HEEL",
+        "SOLE"
+      ]
+    },
+    {
+      "title": "ONE DOLLAR",
+      "color": "green",
+      "words": [
+        "BUCK",
+        "CLAM",
+        "SINGLE",
+        "SMACKER"
+      ]
+    },
+    {
+      "title": "KINDS OF MUSHROOMS",
+      "color": "blue",
+      "words": [
+        "BUTTON",
+        "MOREL",
+        "OYSTER",
+        "TRUMPET"
+      ]
+    },
+    {
+      "title": "POT___",
+      "color": "purple",
+      "words": [
+        "BELLY",
+        "HOLE",
+        "LUCK",
+        "STICKER"
+      ]
+    }
+  ]
+}

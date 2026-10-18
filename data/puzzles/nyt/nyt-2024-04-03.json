@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-03",
+  "groups": [
+    {
+      "title": "MODEL FOR REFERENCE",
+      "color": "yellow",
+      "words": [
+        "BENCHMARK",
+        "GAUGE",
+        "STANDARD",
+        "YARDSTICK"
+      ]
+    },
+    {
+      "title": "POKER ACTIONS",
+      "color": "green",
+      "words": [
+        "BET",
+        "CALL",
+        "CHECK",
+        "FOLD"
+      ]
+    },
+    {
+      "title": "SKIN TYPES",
+      "color": "blue",
+      "words": [
+        "COMBINATION",
+        "DRY",
+        "NORMAL",
+        "OILY"
+      ]
+    },
+    {
+      "title": "STARTS OF U.S. STATES",
+      "color": "purple",
+      "words": [
+        "KENT",
+        "MARY",
+        "MASS",
+        "WASH"
+      ]
+    }
+  ]
+}

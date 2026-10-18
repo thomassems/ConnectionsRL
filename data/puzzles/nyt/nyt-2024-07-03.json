@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-03",
+  "groups": [
+    {
+      "title": "DEVELOP, AS IDEAS",
+      "color": "yellow",
+      "words": [
+        "BRAINSTORM",
+        "IDEATE",
+        "SPITBALL",
+        "WORKSHOP"
+      ]
+    },
+    {
+      "title": "TANGIBLE",
+      "color": "green",
+      "words": [
+        "CONCRETE",
+        "MATERIAL",
+        "REAL",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "KINDS OF CAKE",
+      "color": "blue",
+      "words": [
+        "BIRTHDAY",
+        "CRUMB",
+        "MARBLE",
+        "POUND"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN THROW, IN METAPHORS",
+      "color": "purple",
+      "words": [
+        "CURVEBALL",
+        "PARTY",
+        "TANTRUM",
+        "WRENCH"
+      ]
+    }
+  ]
+}

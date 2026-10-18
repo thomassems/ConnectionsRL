@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-14",
+  "groups": [
+    {
+      "title": "PULL USING FORCE",
+      "color": "yellow",
+      "words": [
+        "RIP",
+        "TEAR",
+        "WRENCH",
+        "YANK"
+      ]
+    },
+    {
+      "title": "BIT OF REPETITIVE TRAINING",
+      "color": "green",
+      "words": [
+        "DRILL",
+        "EXERCISE",
+        "PRACTICE",
+        "ROUTINE"
+      ]
+    },
+    {
+      "title": "U.S.-BASED AIRLINES",
+      "color": "blue",
+      "words": [
+        "AMERICAN",
+        "FRONTIER",
+        "SPIRIT",
+        "UNITED"
+      ]
+    },
+    {
+      "title": "BEGINNING WITH DAY ABBREVIATIONS",
+      "color": "purple",
+      "words": [
+        "FRIAR",
+        "MONKEY",
+        "SUNDRY",
+        "WEDDING"
+      ]
+    }
+  ]
+}

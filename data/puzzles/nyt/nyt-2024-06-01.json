@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-01",
+  "groups": [
+    {
+      "title": "“DON’T DELAY!”",
+      "color": "yellow",
+      "words": [
+        "HURRY",
+        "NOW",
+        "PRONTO",
+        "STAT"
+      ]
+    },
+    {
+      "title": "OCEAN PHENOMENA",
+      "color": "green",
+      "words": [
+        "CURRENT",
+        "DRIFT",
+        "TIDE",
+        "WAVE"
+      ]
+    },
+    {
+      "title": "DUMBBELL EXERCISES",
+      "color": "blue",
+      "words": [
+        "CURL",
+        "FLY",
+        "PRESS",
+        "ROW"
+      ]
+    },
+    {
+      "title": "PHILOSOPHER HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "LOCK",
+        "MARKS",
+        "PANE",
+        "RUSTLE"
+      ]
+    }
+  ]
+}

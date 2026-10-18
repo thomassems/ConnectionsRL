@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-08",
+  "groups": [
+    {
+      "title": "COMMIT TO PAPER",
+      "color": "yellow",
+      "words": [
+        "AUTHOR",
+        "COMPOSE",
+        "PEN",
+        "WRITE"
+      ]
+    },
+    {
+      "title": "NEEDS FOR PLAYING YAHTZEE",
+      "color": "green",
+      "words": [
+        "CUP",
+        "DICE",
+        "PENCIL",
+        "SCORECARD"
+      ]
+    },
+    {
+      "title": "HEROES OF ACTION MOVIE FRANCHISES",
+      "color": "blue",
+      "words": [
+        "BOND",
+        "JONES",
+        "OCEAN",
+        "WICK"
+      ]
+    },
+    {
+      "title": "___STICK",
+      "color": "purple",
+      "words": [
+        "CANDLE",
+        "CHOP",
+        "JOY",
+        "YARD"
+      ]
+    }
+  ]
+}

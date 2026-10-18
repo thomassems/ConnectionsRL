@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-07",
+  "groups": [
+    {
+      "title": "THROB",
+      "color": "yellow",
+      "words": [
+        "BEAT",
+        "POUND",
+        "PULSE",
+        "THUMP"
+      ]
+    },
+    {
+      "title": "LANDFORMS",
+      "color": "green",
+      "words": [
+        "CAPE",
+        "CRATER",
+        "GORGE",
+        "RIDGE"
+      ]
+    },
+    {
+      "title": "PICTURE HANGING NEEDS",
+      "color": "blue",
+      "words": [
+        "HAMMER",
+        "HANGER",
+        "LEVEL",
+        "NAIL"
+      ]
+    },
+    {
+      "title": "FOOT___",
+      "color": "purple",
+      "words": [
+        "BALL",
+        "HILLS",
+        "LOCKER",
+        "PRINT"
+      ]
+    }
+  ]
+}

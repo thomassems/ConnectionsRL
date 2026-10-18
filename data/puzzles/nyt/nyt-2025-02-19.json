@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-19",
+  "groups": [
+    {
+      "title": "STRUCTURES BY THE SHORE",
+      "color": "yellow",
+      "words": [
+        "BOARDWALK",
+        "DOCK",
+        "LIGHTHOUSE",
+        "WHARF"
+      ]
+    },
+    {
+      "title": "SMALL IMPERFECTION",
+      "color": "green",
+      "words": [
+        "DENT",
+        "DING",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "title": "SOUNDS A CUCKOO CLOCK MAKES",
+      "color": "blue",
+      "words": [
+        "CHIME",
+        "CUCKOO",
+        "TICK",
+        "TOCK"
+      ]
+    },
+    {
+      "title": "___TAIL",
+      "color": "purple",
+      "words": [
+        "COCK",
+        "MOCK",
+        "PIG",
+        "PONY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-08",
+  "groups": [
+    {
+      "title": "FAUX",
+      "color": "yellow",
+      "words": [
+        "ARTIFICIAL",
+        "FAKE",
+        "IMITATION",
+        "MOCK"
+      ]
+    },
+    {
+      "title": "WASHING MACHINE CYCLES/SETTINGS",
+      "color": "green",
+      "words": [
+        "BULKY",
+        "COTTON",
+        "DELICATE",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "WORDS SAID FREQUENTLY IN THE “BILL AND TED” MOVIES",
+      "color": "blue",
+      "words": [
+        "BOGUS",
+        "DUDE",
+        "EXCELLENT",
+        "TOTALLY"
+      ]
+    },
+    {
+      "title": "___BOX",
+      "color": "purple",
+      "words": [
+        "CHATTER",
+        "JUKE",
+        "SHADOW",
+        "SOAP"
+      ]
+    }
+  ]
+}

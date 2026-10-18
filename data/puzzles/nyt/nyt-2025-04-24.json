@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-24",
+  "groups": [
+    {
+      "title": "THINGS THAT ARE WHITE",
+      "color": "yellow",
+      "words": [
+        "BABY POWDER",
+        "MILK",
+        "POLAR BEAR",
+        "SNOW"
+      ]
+    },
+    {
+      "title": "KINDS OF LETTUCE",
+      "color": "green",
+      "words": [
+        "BUTTER",
+        "ICEBERG",
+        "LEAF",
+        "ROMAINE"
+      ]
+    },
+    {
+      "title": "“BATMAN” VILLAINS",
+      "color": "blue",
+      "words": [
+        "BANE",
+        "JOKER",
+        "PENGUIN",
+        "SCARECROW"
+      ]
+    },
+    {
+      "title": "THEY HAVE LITERAL/IDIOMATIC EARS",
+      "color": "purple",
+      "words": [
+        "CORNFIELD",
+        "MUSICIANS",
+        "PITCHERS",
+        "WALLS"
+      ]
+    }
+  ]
+}

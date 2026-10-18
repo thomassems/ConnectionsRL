@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-21",
+  "groups": [
+    {
+      "title": "RIP OFF",
+      "color": "yellow",
+      "words": [
+        "FLEECE",
+        "HOSE",
+        "ROB",
+        "STIFF"
+      ]
+    },
+    {
+      "title": "THINGS MADE OF WAX",
+      "color": "green",
+      "words": [
+        "CANDLE",
+        "CRAYON",
+        "HONEYCOMB",
+        "SEAL"
+      ]
+    },
+    {
+      "title": "PARTS OF AN AIRPLANE",
+      "color": "blue",
+      "words": [
+        "CABIN",
+        "ENGINE",
+        "NOSE",
+        "WING"
+      ]
+    },
+    {
+      "title": "UNITS OF VEGETABLES",
+      "color": "purple",
+      "words": [
+        "BULB",
+        "EAR",
+        "HEAD",
+        "STALK"
+      ]
+    }
+  ]
+}

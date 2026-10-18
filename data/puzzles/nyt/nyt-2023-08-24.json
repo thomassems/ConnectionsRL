@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-24",
+  "groups": [
+    {
+      "title": "EXTINCT ANIMALS",
+      "color": "yellow",
+      "words": [
+        "DODO",
+        "MAMMOTH",
+        "MASTODON",
+        "TRILOBITE"
+      ]
+    },
+    {
+      "title": "FAILURES",
+      "color": "green",
+      "words": [
+        "BUSTS",
+        "FLOPS",
+        "MISSES",
+        "TURKEYS"
+      ]
+    },
+    {
+      "title": "SLANG FOR CLOTHES",
+      "color": "blue",
+      "words": [
+        "DUDS",
+        "GETUP",
+        "OUTFIT",
+        "THREADS"
+      ]
+    },
+    {
+      "title": "KISS",
+      "color": "purple",
+      "words": [
+        "PECK",
+        "SMACK",
+        "SMOOCH",
+        "X"
+      ]
+    }
+  ]
+}

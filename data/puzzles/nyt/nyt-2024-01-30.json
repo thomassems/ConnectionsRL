@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-30",
+  "groups": [
+    {
+      "title": "HIT HARD",
+      "color": "yellow",
+      "words": [
+        "BANG",
+        "HAMMER",
+        "POUND",
+        "SLAM"
+      ]
+    },
+    {
+      "title": "NEWSPAPER NAMES",
+      "color": "green",
+      "words": [
+        "CHRONICLE",
+        "HERALD",
+        "REGISTER",
+        "SUN"
+      ]
+    },
+    {
+      "title": "CRESCENT-SHAPED THINGS",
+      "color": "blue",
+      "words": [
+        "BANANA",
+        "CROISSANT",
+        "MOON",
+        "SICKLE"
+      ]
+    },
+    {
+      "title": "POWER-UPS IN SUPER MARIO WORLD",
+      "color": "purple",
+      "words": [
+        "FEATHER",
+        "FLOWER",
+        "MUSHROOM",
+        "STAR"
+      ]
+    }
+  ]
+}

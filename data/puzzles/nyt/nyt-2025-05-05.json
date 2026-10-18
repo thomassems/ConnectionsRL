@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-05",
+  "groups": [
+    {
+      "title": "GLIDE",
+      "color": "yellow",
+      "words": [
+        "COAST",
+        "CRUISE",
+        "DRIFT",
+        "FLOAT"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH COUNT DRACULA",
+      "color": "green",
+      "words": [
+        "BAT",
+        "CAPE",
+        "CASTLE",
+        "FANG"
+      ]
+    },
+    {
+      "title": "STOP CHANGING",
+      "color": "blue",
+      "words": [
+        "FLATTEN",
+        "LEVEL",
+        "PLATEAU",
+        "SETTLE"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE LONG AND CYLINDRICAL",
+      "color": "purple",
+      "words": [
+        "BATON",
+        "CIGAR",
+        "HOAGIE",
+        "TORPEDO"
+      ]
+    }
+  ]
+}

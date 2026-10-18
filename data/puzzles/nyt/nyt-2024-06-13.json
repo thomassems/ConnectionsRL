@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-13",
+  "groups": [
+    {
+      "title": "ENJOY",
+      "color": "yellow",
+      "words": [
+        "APPRECIATE",
+        "DIG",
+        "FANCY",
+        "LIKE"
+      ]
+    },
+    {
+      "title": "BLOCKBUSTER",
+      "color": "green",
+      "words": [
+        "HIT",
+        "SENSATION",
+        "SMASH",
+        "SUCCESS"
+      ]
+    },
+    {
+      "title": "CAMPAIGN SWAG",
+      "color": "blue",
+      "words": [
+        "BUTTON",
+        "HAT",
+        "SHIRT",
+        "STICKER"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “COPY”",
+      "color": "purple",
+      "words": [
+        "CAT",
+        "EDITOR",
+        "PASTE",
+        "THAT"
+      ]
+    }
+  ]
+}

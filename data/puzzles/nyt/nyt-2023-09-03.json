@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-03",
+  "groups": [
+    {
+      "title": "FEMALE ANIMALS",
+      "color": "yellow",
+      "words": [
+        "COW",
+        "DOE",
+        "HEN",
+        "MARE"
+      ]
+    },
+    {
+      "title": "PRONOUNS",
+      "color": "green",
+      "words": [
+        "I",
+        "IT",
+        "THEY",
+        "WE"
+      ]
+    },
+    {
+      "title": "ROMAN NUMERALS",
+      "color": "blue",
+      "words": [
+        "D",
+        "L",
+        "M",
+        "V"
+      ]
+    },
+    {
+      "title": "HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "EWE",
+        "U",
+        "YEW",
+        "YOU"
+      ]
+    }
+  ]
+}

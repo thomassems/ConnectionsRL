@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-16",
+  "groups": [
+    {
+      "title": "THINGS THAT PREVENT LEAKS",
+      "color": "yellow",
+      "words": [
+        "CAP",
+        "COVER",
+        "PLUG",
+        "SEAL"
+      ]
+    },
+    {
+      "title": "KINDS OF HATS",
+      "color": "green",
+      "words": [
+        "BERET",
+        "DERBY",
+        "PILLBOX",
+        "SNAPBACK"
+      ]
+    },
+    {
+      "title": "COLLEGE FOOTBALL TEAM MEMBERS",
+      "color": "blue",
+      "words": [
+        "GATOR",
+        "SOONER",
+        "VOLUNTEER",
+        "WOLVERINE"
+      ]
+    },
+    {
+      "title": "GO ___",
+      "color": "purple",
+      "words": [
+        "BANANAS",
+        "COMMANDO",
+        "FIGURE",
+        "ROGUE"
+      ]
+    }
+  ]
+}

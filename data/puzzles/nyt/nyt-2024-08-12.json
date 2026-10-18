@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-12",
+  "groups": [
+    {
+      "title": "METAL ELEMENTS",
+      "color": "yellow",
+      "words": [
+        "GOLD",
+        "LEAD",
+        "MERCURY",
+        "TIN"
+      ]
+    },
+    {
+      "title": "MATTRESS SIZES",
+      "color": "green",
+      "words": [
+        "FULL",
+        "KING",
+        "QUEEN",
+        "TWIN"
+      ]
+    },
+    {
+      "title": "SLANG FOR TOILET",
+      "color": "blue",
+      "words": [
+        "CAN",
+        "HEAD",
+        "JOHN",
+        "THRONE"
+      ]
+    },
+    {
+      "title": "KINDS OF KNIVES",
+      "color": "purple",
+      "words": [
+        "BOWIE",
+        "BUTCHER",
+        "BUTTER",
+        "BUTTERFLY"
+      ]
+    }
+  ]
+}

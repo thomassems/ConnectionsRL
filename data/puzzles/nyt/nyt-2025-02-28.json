@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-28",
+  "groups": [
+    {
+      "title": "BE INDECISIVE",
+      "color": "yellow",
+      "words": [
+        "HESITATE",
+        "WAFFLE",
+        "WAVER",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "LOVELY PERSON",
+      "color": "green",
+      "words": [
+        "ANGEL",
+        "DEAR",
+        "DOLL",
+        "PEACH"
+      ]
+    },
+    {
+      "title": "LUCIDITY",
+      "color": "blue",
+      "words": [
+        "MARBLES",
+        "MIND",
+        "SENSE",
+        "WITS"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF METAPHORS FOR THINGS THAT CAN’T BE UNDONE",
+      "color": "purple",
+      "words": [
+        "BELL",
+        "EGG",
+        "GENIE",
+        "TOOTHPASTE"
+      ]
+    }
+  ]
+}

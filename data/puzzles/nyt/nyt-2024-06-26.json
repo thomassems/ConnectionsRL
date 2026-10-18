@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-26",
+  "groups": [
+    {
+      "title": "ARMY RANKS",
+      "color": "yellow",
+      "words": [
+        "CAPTAIN",
+        "GENERAL",
+        "MAJOR",
+        "PRIVATE"
+      ]
+    },
+    {
+      "title": "PLACE TO PLUG SOMETHING IN",
+      "color": "green",
+      "words": [
+        "JACK",
+        "OUTLET",
+        "PORT",
+        "SOCKET"
+      ]
+    },
+    {
+      "title": "CONSUMER DESIRE, COLLECTIVELY",
+      "color": "blue",
+      "words": [
+        "APPETITE",
+        "AUDIENCE",
+        "DEMAND",
+        "MARKET"
+      ]
+    },
+    {
+      "title": "___ AD",
+      "color": "purple",
+      "words": [
+        "ATTACK",
+        "PERSONAL",
+        "POP-UP",
+        "WANT"
+      ]
+    }
+  ]
+}
