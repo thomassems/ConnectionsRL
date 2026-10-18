@@ -1,0 +1,2025 @@
+{
+  "method": "candidate scorer: supervised warm start, then DQN updates",
+  "seed": 7,
+  "train_count": 476,
+  "validation_count": 141,
+  "test_count_used": 0,
+  "manifest_sha256": "2346e606b7e39378641823162003c109fb624dae07f94cf23f55f610792fd621",
+  "vector_source_sha256": "d53187b22e459e74a27b2fead6d904d8e0da6bbd7c5c7f5b6811a3c010de3cfe",
+  "training": [
+    {
+      "phase": "supervised",
+      "epoch": 1,
+      "loss": 0.856061134894355
+    },
+    {
+      "phase": "supervised",
+      "epoch": 2,
+      "loss": 0.7714808986467474
+    },
+    {
+      "phase": "supervised",
+      "epoch": 3,
+      "loss": 0.7366504157666399
+    },
+    {
+      "phase": "reinforcement",
+      "epoch": 1,
+      "episodes": 476,
+      "exploration_epsilon": 0.15,
+      "mean_groups": 0.9915966386554622,
+      "wins": 51,
+      "mean_update_loss": 0.6137665493638268
+    }
+  ],
+  "validation_after_supervised": {
+    "count": 141,
+    "wins": 14,
+    "mean_groups": 0.9290780141843972,
+    "mean_reward": -4.8255319148936175,
+    "results": [
+      {
+        "puzzle_id": "nyt-2024-10-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-02",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-04",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-05",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-06",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-07",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-09",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-10",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-11",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-12",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-13",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-14",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.4,
+        "turns": 7
+      },
+      {
+        "puzzle_id": "nyt-2024-10-15",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-16",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-17",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-18",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -3.6,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-19",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-20",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-21",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-22",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 7.8,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-23",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-24",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-25",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-26",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-27",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-28",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-29",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-30",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.6,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-31",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-02",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-03",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-04",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-05",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-06",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-07",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-09",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -3.6,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-10",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-11",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-12",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-13",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-14",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-15",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-16",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-17",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-18",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-19",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-20",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-21",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-22",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-23",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-24",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-25",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.4,
+        "turns": 7
+      },
+      {
+        "puzzle_id": "nyt-2024-11-26",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-27",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-28",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-29",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-30",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-01",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-04",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-05",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-06",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-07",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-09",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-10",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-11",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-13",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-14",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-15",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-16",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-17",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-18",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-19",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-20",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-21",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-22",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-23",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-24",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-25",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-26",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-27",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-28",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-29",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-30",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-31",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-04",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.4,
+        "turns": 7
+      },
+      {
+        "puzzle_id": "nyt-2025-01-05",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-06",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-01-07",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-09",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-10",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-11",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-12",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-13",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-14",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-15",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-01-16",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-17",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-18",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-19",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-20",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-21",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-22",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-23",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-24",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-25",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-26",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-27",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-28",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-29",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-30",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-01-31",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.8,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-01",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-03",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-02-04",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-05",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-06",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-07",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-08",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-09",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-10",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-11",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-12",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-13",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-02-14",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-15",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-16",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-17",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-18",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-19",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      }
+    ]
+  },
+  "validation_after_rl": {
+    "count": 141,
+    "wins": 16,
+    "mean_groups": 1.148936170212766,
+    "mean_reward": -4.49645390070922,
+    "results": [
+      {
+        "puzzle_id": "nyt-2024-10-01",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-02",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-04",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-05",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-06",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-07",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-09",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-10",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-11",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-12",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-13",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-14",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-15",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-16",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.8,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-17",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-18",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-19",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.4,
+        "turns": 7
+      },
+      {
+        "puzzle_id": "nyt-2024-10-20",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-21",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-22",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-10-23",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-24",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-25",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-26",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-27",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-28",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-29",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-30",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-10-31",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-02",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-03",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-04",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-05",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-06",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-07",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-09",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 7.6,
+        "turns": 7
+      },
+      {
+        "puzzle_id": "nyt-2024-11-10",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-11",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-12",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-13",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-14",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-15",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-16",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-17",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-18",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-19",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-20",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-21",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-22",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-11-23",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-24",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-25",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-26",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-27",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-28",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-11-29",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-11-30",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-01",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-04",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-05",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -3.6,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-06",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-07",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-08",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-09",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-10",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-11",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-13",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-14",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-15",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 7.8,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-16",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-17",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-18",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-19",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-20",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.6,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-21",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-22",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-23",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-24",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-25",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-26",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-27",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-28",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-12-29",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2024-12-30",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -6.0,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2024-12-31",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-04",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-05",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-06",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-07",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-08",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-09",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-10",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-11",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-12",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-13",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-14",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -5.2,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-01-15",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-16",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-17",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-18",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-19",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-20",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-21",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-22",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-23",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-24",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -7.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-25",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-26",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-27",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-01-28",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-29",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-30",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -5.6,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-01-31",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -3.6,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-02-01",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.0,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -6.4,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-03",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-04",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -4.6,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-05",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-06",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-07",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-08",
+        "status": "lost",
+        "groups_solved": 2,
+        "reward": -4.4,
+        "turns": 6
+      },
+      {
+        "puzzle_id": "nyt-2025-02-09",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-10",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-11",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-12",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-13",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 8.8,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-14",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -7.2,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2025-02-15",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-16",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 7.6,
+        "turns": 7
+      },
+      {
+        "puzzle_id": "nyt-2025-02-17",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -6.2,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-18",
+        "status": "lost",
+        "groups_solved": 1,
+        "reward": -5.4,
+        "turns": 5
+      },
+      {
+        "puzzle_id": "nyt-2025-02-19",
+        "status": "won",
+        "groups_solved": 4,
+        "reward": 9.0,
+        "turns": 4
+      }
+    ]
+  }
+}
