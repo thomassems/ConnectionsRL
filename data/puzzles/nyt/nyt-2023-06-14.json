@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-14",
+  "groups": [
+    {
+      "title": "FACIAL FEATURES",
+      "color": "yellow",
+      "words": [
+        "CHEEK",
+        "EYE",
+        "MOUTH",
+        "NOSE"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR EAT",
+      "color": "green",
+      "words": [
+        "CHOW",
+        "GOBBLE",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "title": "DOG BREEDS, INFORMALLY",
+      "color": "blue",
+      "words": [
+        "LAB",
+        "PEKE",
+        "PIT",
+        "POM"
+      ]
+    },
+    {
+      "title": "MEMBERS OF A TRIO",
+      "color": "purple",
+      "words": [
+        "AMIGO",
+        "KING",
+        "STOOGE",
+        "TENOR"
+      ]
+    }
+  ]
+}

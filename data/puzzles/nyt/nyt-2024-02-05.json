@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-05",
+  "groups": [
+    {
+      "title": "\"GIVE ME A BREAK!\"",
+      "color": "yellow",
+      "words": [
+        "BROTHER",
+        "LORD",
+        "PLEASE",
+        "SHEESH"
+      ]
+    },
+    {
+      "title": "ECCLESIASTICAL TITLES",
+      "color": "green",
+      "words": [
+        "BISHOP",
+        "CARDINAL",
+        "PASTOR",
+        "PRIOR"
+      ]
+    },
+    {
+      "title": "ROCK & ROLL HALL OF FAME INDUCTEES",
+      "color": "blue",
+      "words": [
+        "HEART",
+        "MADONNA",
+        "PRINCE",
+        "QUEEN"
+      ]
+    },
+    {
+      "title": "CITY HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "DELI",
+        "NIECE",
+        "ROAM",
+        "SOUL"
+      ]
+    }
+  ]
+}

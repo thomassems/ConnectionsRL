@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-08",
+  "groups": [
+    {
+      "title": "THINGS THAT ARE ORANGE",
+      "color": "yellow",
+      "words": [
+        "BASKETBALL",
+        "CARROT",
+        "GOLDFISH",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "title": "LONG, SKINNY OBJECTS",
+      "color": "green",
+      "words": [
+        "POLE",
+        "ROD",
+        "STAFF",
+        "STICK"
+      ]
+    },
+    {
+      "title": "SEEN ON A GOLF COURSE",
+      "color": "blue",
+      "words": [
+        "CART",
+        "CLUB",
+        "HOLE",
+        "TEE"
+      ]
+    },
+    {
+      "title": "SHAPES OF CAPITAL GREEK LETTERS",
+      "color": "purple",
+      "words": [
+        "CIRCLE",
+        "HORSESHOE",
+        "PITCHFORK",
+        "TRIANGLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-07",
+  "groups": [
+    {
+      "title": "CRAM",
+      "color": "yellow",
+      "words": [
+        "JAM",
+        "PACK",
+        "RAM",
+        "STUFF"
+      ]
+    },
+    {
+      "title": "RESTAURANT JOBS",
+      "color": "green",
+      "words": [
+        "COOK",
+        "DISHWASHER",
+        "HOST",
+        "SERVER"
+      ]
+    },
+    {
+      "title": "ELECTROMAGNETIC SPECTRUM",
+      "color": "blue",
+      "words": [
+        "MICROWAVE",
+        "RADIO",
+        "VISIBLE",
+        "X-RAY"
+      ]
+    },
+    {
+      "title": "THINGS WITH BITS",
+      "color": "purple",
+      "words": [
+        "BRIDLE",
+        "BYTE",
+        "COMEDIAN",
+        "DRILL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-17",
+  "groups": [
+    {
+      "title": "TIME OFF",
+      "color": "yellow",
+      "words": [
+        "BREAK",
+        "LEAVE",
+        "REST",
+        "VACATION"
+      ]
+    },
+    {
+      "title": "FOLLOW A MEANDERING COURSE",
+      "color": "green",
+      "words": [
+        "CURVE",
+        "SNAKE",
+        "WEAVE",
+        "WIND"
+      ]
+    },
+    {
+      "title": "BOWLING RESULTS",
+      "color": "blue",
+      "words": [
+        "DOUBLE",
+        "SPARE",
+        "STRIKE",
+        "TURKEY"
+      ]
+    },
+    {
+      "title": "___FISH",
+      "color": "purple",
+      "words": [
+        "BLOW",
+        "CAT",
+        "GOLD",
+        "SWORD"
+      ]
+    }
+  ]
+}

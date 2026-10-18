@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-07",
+  "groups": [
+    {
+      "title": "MOVIE GENRES",
+      "color": "yellow",
+      "words": [
+        "HORROR",
+        "MUSICAL",
+        "ROMANCE",
+        "WESTERN"
+      ]
+    },
+    {
+      "title": "PATTERNS",
+      "color": "green",
+      "words": [
+        "HOUNDSTOOTH",
+        "PAISLEY",
+        "PLAID",
+        "STRIPES"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR FALSEHOOD",
+      "color": "blue",
+      "words": [
+        "FIB",
+        "FICTION",
+        "LIE",
+        "TALE"
+      ]
+    },
+    {
+      "title": "CANDY PIECES",
+      "color": "purple",
+      "words": [
+        "DOT",
+        "GOOBER",
+        "KISS",
+        "WHOPPER"
+      ]
+    }
+  ]
+}

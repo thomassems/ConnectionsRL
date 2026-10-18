@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-19",
+  "groups": [
+    {
+      "title": "AREA OF EXPERTISE",
+      "color": "yellow",
+      "words": [
+        "CONCENTRATION",
+        "FIELD",
+        "FOCUS",
+        "SPECIALTY"
+      ]
+    },
+    {
+      "title": "WAYS TO UNLOCK A DEVICE",
+      "color": "green",
+      "words": [
+        "FACE",
+        "FINGERPRINT",
+        "PASSWORD",
+        "PIN"
+      ]
+    },
+    {
+      "title": "PASTA SHAPES",
+      "color": "blue",
+      "words": [
+        "EAR",
+        "ELBOW",
+        "RIBBON",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "DOUBLE ___",
+      "color": "purple",
+      "words": [
+        "AGENT",
+        "DRIBBLE",
+        "JEOPARDY",
+        "STANDARD"
+      ]
+    }
+  ]
+}

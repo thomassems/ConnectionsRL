@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-22",
+  "groups": [
+    {
+      "title": "BODY PARTS IN \"HEAD, SHOULDERS, KNEES AND TOES\"",
+      "color": "yellow",
+      "words": [
+        "HEAD",
+        "KNEES",
+        "SHOULDERS",
+        "TOES"
+      ]
+    },
+    {
+      "title": "CAR, INFORMALLY",
+      "color": "green",
+      "words": [
+        "AUTO",
+        "RIDE",
+        "WHEELS",
+        "WHIP"
+      ]
+    },
+    {
+      "title": "REMOVES THE COVERING OF",
+      "color": "blue",
+      "words": [
+        "PARES",
+        "PEELS",
+        "SHELLS",
+        "SHUCKS"
+      ]
+    },
+    {
+      "title": "\"BUZZY\" THINGS",
+      "color": "purple",
+      "words": [
+        "BEES",
+        "CAFFEINE",
+        "GOSSIP",
+        "INTERCOMS"
+      ]
+    }
+  ]
+}

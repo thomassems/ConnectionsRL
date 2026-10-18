@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-09",
+  "groups": [
+    {
+      "title": "MASSIVE",
+      "color": "yellow",
+      "words": [
+        "GIANT",
+        "JUMBO",
+        "MONSTER",
+        "SUPER"
+      ]
+    },
+    {
+      "title": "USED WHEN SERVING SOUP",
+      "color": "green",
+      "words": [
+        "BOWL",
+        "LADLE",
+        "POT",
+        "SPOON"
+      ]
+    },
+    {
+      "title": "SOMEBODY",
+      "color": "blue",
+      "words": [
+        "CHARACTER",
+        "INDIVIDUAL",
+        "PARTY",
+        "PERSON"
+      ]
+    },
+    {
+      "title": "SCI-FI FRANCHISES",
+      "color": "purple",
+      "words": [
+        "ALIEN",
+        "AVATAR",
+        "DUNE",
+        "TRON"
+      ]
+    }
+  ]
+}

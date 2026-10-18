@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-20",
+  "groups": [
+    {
+      "title": "RUSH OF WIND",
+      "color": "yellow",
+      "words": [
+        "BLOW",
+        "DRAFT",
+        "GUST",
+        "PUFF"
+      ]
+    },
+    {
+      "title": "ROTATE",
+      "color": "green",
+      "words": [
+        "CRANK",
+        "REEL",
+        "TURN",
+        "WIND"
+      ]
+    },
+    {
+      "title": "ZODIAC SYMBOLS",
+      "color": "blue",
+      "words": [
+        "BULL",
+        "CRAB",
+        "LION",
+        "RAM"
+      ]
+    },
+    {
+      "title": "DR. SEUSS TITLE FIGURES",
+      "color": "purple",
+      "words": [
+        "CAT",
+        "GRINCH",
+        "POP",
+        "TURTLE"
+      ]
+    }
+  ]
+}

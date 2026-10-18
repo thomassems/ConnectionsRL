@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-27",
+  "groups": [
+    {
+      "title": "INDICATION OF THINGS TO COME",
+      "color": "yellow",
+      "words": [
+        "MESSAGE",
+        "OMEN",
+        "SIGN",
+        "WARNING"
+      ]
+    },
+    {
+      "title": "NAME PREFIXES",
+      "color": "green",
+      "words": [
+        "GEN",
+        "MS",
+        "PROF",
+        "REV"
+      ]
+    },
+    {
+      "title": "ART MEDIUMS",
+      "color": "blue",
+      "words": [
+        "CHARCOAL",
+        "INK",
+        "PAINT",
+        "PASTEL"
+      ]
+    },
+    {
+      "title": "___ PEPPER",
+      "color": "purple",
+      "words": [
+        "BELL",
+        "BLACK",
+        "DR",
+        "GHOST"
+      ]
+    }
+  ]
+}

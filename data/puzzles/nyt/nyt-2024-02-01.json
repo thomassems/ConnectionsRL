@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-01",
+  "groups": [
+    {
+      "title": "MAKE SHORTER",
+      "color": "yellow",
+      "words": [
+        "CLIP",
+        "CUT",
+        "PARE",
+        "TRIM"
+      ]
+    },
+    {
+      "title": "MUSCULAR",
+      "color": "green",
+      "words": [
+        "BUILT",
+        "JACKED",
+        "RIPPED",
+        "SWOLE"
+      ]
+    },
+    {
+      "title": "ENTHUSIAST",
+      "color": "blue",
+      "words": [
+        "BUFF",
+        "FAN",
+        "LOVER",
+        "NUT"
+      ]
+    },
+    {
+      "title": "WRINKLY THINGS",
+      "color": "purple",
+      "words": [
+        "BRAIN",
+        "PRUNE",
+        "PUG",
+        "WALNUT"
+      ]
+    }
+  ]
+}

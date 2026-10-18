@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-05",
+  "groups": [
+    {
+      "title": "POP MEGASTARS",
+      "color": "yellow",
+      "words": [
+        "GRANDE",
+        "MARS",
+        "STYLES",
+        "SWIFT"
+      ]
+    },
+    {
+      "title": "METHOD",
+      "color": "green",
+      "words": [
+        "CHANNEL",
+        "MEANS",
+        "MEDIUM",
+        "VEHICLE"
+      ]
+    },
+    {
+      "title": "UNLIKELY, AS CHANCES",
+      "color": "blue",
+      "words": [
+        "OUTSIDE",
+        "REMOTE",
+        "SLIM",
+        "SMALL"
+      ]
+    },
+    {
+      "title": "LIVING ___",
+      "color": "purple",
+      "words": [
+        "LARGE",
+        "LEGEND",
+        "PROOF",
+        "ROOM"
+      ]
+    }
+  ]
+}

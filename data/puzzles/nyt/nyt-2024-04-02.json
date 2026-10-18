@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-02",
+  "groups": [
+    {
+      "title": "THRUST",
+      "color": "yellow",
+      "words": [
+        "JAB",
+        "POKE",
+        "PROD",
+        "STICK"
+      ]
+    },
+    {
+      "title": "KINDS OF SNAKES",
+      "color": "green",
+      "words": [
+        "ADDER",
+        "BOA",
+        "MAMBA",
+        "MOCCASIN"
+      ]
+    },
+    {
+      "title": "SEEN IN “CINDERELLA”",
+      "color": "blue",
+      "words": [
+        "BALL",
+        "PRINCE",
+        "PUMPKIN",
+        "SLIPPER"
+      ]
+    },
+    {
+      "title": "PASTA SHAPES",
+      "color": "purple",
+      "words": [
+        "BOWTIE",
+        "ELBOW",
+        "TUBE",
+        "WHEEL"
+      ]
+    }
+  ]
+}

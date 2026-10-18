@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-25",
+  "groups": [
+    {
+      "title": "STATES OF MATTER",
+      "color": "yellow",
+      "words": [
+        "GAS",
+        "LIQUID",
+        "PLASMA",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "EDIT MENU COMMANDS",
+      "color": "green",
+      "words": [
+        "COPY",
+        "CUT",
+        "PASTE",
+        "UNDO"
+      ]
+    },
+    {
+      "title": "DEFEAT BADLY",
+      "color": "blue",
+      "words": [
+        "CRUSH",
+        "ROUT",
+        "SHELLAC",
+        "TRASH"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "color": "purple",
+      "words": [
+        "LEAST",
+        "SLATE",
+        "STALE",
+        "TESLA"
+      ]
+    }
+  ]
+}

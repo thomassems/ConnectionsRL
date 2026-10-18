@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-16",
+  "groups": [
+    {
+      "title": "COMFY SHOES",
+      "color": "yellow",
+      "words": [
+        "CROC",
+        "LOAFER",
+        "MOCCASIN",
+        "SLIPPER"
+      ]
+    },
+    {
+      "title": "THINGS MADE WITH FEATHERS",
+      "color": "green",
+      "words": [
+        "BOA",
+        "HEADDRESS",
+        "PILLOW",
+        "SHUTTLECOCK"
+      ]
+    },
+    {
+      "title": "PROGRAMMING LANGUAGES",
+      "color": "blue",
+      "words": [
+        "BASIC",
+        "JAVA",
+        "PYTHON",
+        "RUBY"
+      ]
+    },
+    {
+      "title": "THINGS THAT CAN STRIKE",
+      "color": "purple",
+      "words": [
+        "COBRA",
+        "INSPIRATION",
+        "LIGHTNING",
+        "UNION"
+      ]
+    }
+  ]
+}

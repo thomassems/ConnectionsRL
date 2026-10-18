@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-06",
+  "groups": [
+    {
+      "title": "BIOLOGICAL BUILDING BLOCKS",
+      "color": "yellow",
+      "words": [
+        "ATOM",
+        "CELL",
+        "MOLECULE",
+        "PROTEIN"
+      ]
+    },
+    {
+      "title": "PURCHASES FOR A BABY",
+      "color": "green",
+      "words": [
+        "BOTTLE",
+        "CRIB",
+        "MOBILE",
+        "RATTLE"
+      ]
+    },
+    {
+      "title": "OBJECTS PLAYED AS INSTRUMENTS",
+      "color": "blue",
+      "words": [
+        "JUG",
+        "SAW",
+        "SPOONS",
+        "WASHBOARD"
+      ]
+    },
+    {
+      "title": "___ TAG",
+      "color": "purple",
+      "words": [
+        "DOG",
+        "FREEZE",
+        "PHONE",
+        "PRICE"
+      ]
+    }
+  ]
+}

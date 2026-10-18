@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-13",
+  "groups": [
+    {
+      "title": "GOLF COURSE PARTS",
+      "color": "yellow",
+      "words": [
+        "BUNKER",
+        "FAIRWAY",
+        "GREEN",
+        "ROUGH"
+      ]
+    },
+    {
+      "title": "“I GIVE!”",
+      "color": "green",
+      "words": [
+        "ENOUGH",
+        "MERCY",
+        "STOP",
+        "UNCLE"
+      ]
+    },
+    {
+      "title": "INDECENT",
+      "color": "blue",
+      "words": [
+        "BAWDY",
+        "BLUE",
+        "COARSE",
+        "RISQUÉ"
+      ]
+    },
+    {
+      "title": "”-OUGH” WORDS THAT DON’T RHYME",
+      "color": "purple",
+      "words": [
+        "BOUGH",
+        "COUGH",
+        "DOUGH",
+        "TOUGH"
+      ]
+    }
+  ]
+}

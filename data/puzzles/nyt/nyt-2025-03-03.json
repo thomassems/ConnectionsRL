@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-03",
+  "groups": [
+    {
+      "title": "BE AT LEISURE",
+      "color": "yellow",
+      "words": [
+        "CHILL",
+        "LOAF",
+        "LOUNGE",
+        "REST"
+      ]
+    },
+    {
+      "title": "FORMATS OF GOLD",
+      "color": "green",
+      "words": [
+        "BAR",
+        "COIN",
+        "LEAF",
+        "NUGGET"
+      ]
+    },
+    {
+      "title": "CYLINDER OF MATERIAL",
+      "color": "blue",
+      "words": [
+        "BOLT",
+        "REEL",
+        "ROLL",
+        "SCROLL"
+      ]
+    },
+    {
+      "title": "SEEN IN “THE FLINTSTONES”",
+      "color": "purple",
+      "words": [
+        "BONE",
+        "CLUB",
+        "DINOSAUR",
+        "RUBBLE"
+      ]
+    }
+  ]
+}

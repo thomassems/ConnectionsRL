@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-10",
+  "groups": [
+    {
+      "title": "CHUTZPAH",
+      "color": "yellow",
+      "words": [
+        "BRASS",
+        "CHEEK",
+        "GALL",
+        "NERVE"
+      ]
+    },
+    {
+      "title": "ACCESSORIES FOR DOG WALKING",
+      "color": "green",
+      "words": [
+        "COLLAR",
+        "HALTER",
+        "HARNESS",
+        "LEAD"
+      ]
+    },
+    {
+      "title": "THINGS THAT SPIN",
+      "color": "blue",
+      "words": [
+        "CAROUSEL",
+        "GLOBE",
+        "RECORD",
+        "TOP"
+      ]
+    },
+    {
+      "title": "LEAD SINGERS OF ’70S ROCK BANDS",
+      "color": "purple",
+      "words": [
+        "FERRY",
+        "MERCURY",
+        "NICKS",
+        "PLANT"
+      ]
+    }
+  ]
+}

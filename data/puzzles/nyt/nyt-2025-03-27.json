@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-27",
+  "groups": [
+    {
+      "title": "AFFECT",
+      "color": "yellow",
+      "words": [
+        "MOVE",
+        "REACH",
+        "SWAY",
+        "TOUCH"
+      ]
+    },
+    {
+      "title": "YOU GOT IT!",
+      "color": "green",
+      "words": [
+        "BINGO",
+        "CORRECT",
+        "DING",
+        "RIGHT"
+      ]
+    },
+    {
+      "title": "SLANG FOR MONEY",
+      "color": "blue",
+      "words": [
+        "CHANGE",
+        "GREEN",
+        "PAPER",
+        "SCRATCH"
+      ]
+    },
+    {
+      "title": "OBJECTS WITH THE PREFIX “MICRO-”",
+      "color": "purple",
+      "words": [
+        "CHIP",
+        "PHONE",
+        "SCOPE",
+        "WAVE"
+      ]
+    }
+  ]
+}

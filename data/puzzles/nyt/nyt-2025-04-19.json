@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-19",
+  "groups": [
+    {
+      "title": "SPOKEN PRESENTATION",
+      "color": "yellow",
+      "words": [
+        "ADDRESS",
+        "LECTURE",
+        "SPEECH",
+        "TALK"
+      ]
+    },
+    {
+      "title": "ADJECTIVES FOR A DESERT",
+      "color": "green",
+      "words": [
+        "DRY",
+        "HOT",
+        "SANDY",
+        "VAST"
+      ]
+    },
+    {
+      "title": "DOG BREEDS, INFORMALLY",
+      "color": "blue",
+      "words": [
+        "BULLY",
+        "CHOW",
+        "GOLDEN",
+        "LAB"
+      ]
+    },
+    {
+      "title": "REPRESENTED BY THREE-DIGIT NUMBERS",
+      "color": "purple",
+      "words": [
+        "CANNABIS",
+        "DEVIL",
+        "INTRO CLASS",
+        "JAMES BOND"
+      ]
+    }
+  ]
+}

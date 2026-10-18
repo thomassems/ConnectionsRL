@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-05",
+  "groups": [
+    {
+      "title": "ENORMOUS",
+      "color": "yellow",
+      "words": [
+        "BIG",
+        "GIANT",
+        "GREAT",
+        "HUGE"
+      ]
+    },
+    {
+      "title": "BOOKSTORE SECTIONS",
+      "color": "green",
+      "words": [
+        "FICTION",
+        "HUMOR",
+        "POETRY",
+        "TRAVEL"
+      ]
+    },
+    {
+      "title": "TV SHOWS WITH HAPPY-SOUNDING NAMES",
+      "color": "blue",
+      "words": [
+        "CHEERS",
+        "EUPHORIA",
+        "FELICITY",
+        "GLEE"
+      ]
+    },
+    {
+      "title": "___ CRANE",
+      "color": "purple",
+      "words": [
+        "CONSTRUCTION",
+        "FRASIER",
+        "PAPER",
+        "WHOOPING"
+      ]
+    }
+  ]
+}

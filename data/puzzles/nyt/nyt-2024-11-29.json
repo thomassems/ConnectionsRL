@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-29",
+  "groups": [
+    {
+      "title": "UNDERTAKING",
+      "color": "yellow",
+      "words": [
+        "ENDEAVOR",
+        "ENTERPRISE",
+        "PROJECT",
+        "VENTURE"
+      ]
+    },
+    {
+      "title": "UNITS",
+      "color": "green",
+      "words": [
+        "HERTZ",
+        "MOLE",
+        "SECOND",
+        "VOLT"
+      ]
+    },
+    {
+      "title": "M.L.B. TEAM MEMBER",
+      "color": "blue",
+      "words": [
+        "NATIONAL",
+        "RAY",
+        "TIGER",
+        "TWIN"
+      ]
+    },
+    {
+      "title": "FIRST WORDS OF HBO SHOWS",
+      "color": "purple",
+      "words": [
+        "BOARDWALK",
+        "CURB",
+        "GAME",
+        "SILICON"
+      ]
+    }
+  ]
+}

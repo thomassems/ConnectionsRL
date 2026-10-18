@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-21",
+  "groups": [
+    {
+      "title": "AMUSEMENT PARK RIDES",
+      "color": "yellow",
+      "words": [
+        "FERRIS WHEEL",
+        "MERRY-GO-ROUND",
+        "ROLLER COASTER",
+        "TILT-A-WHIRL"
+      ]
+    },
+    {
+      "title": "APPROVAL",
+      "color": "green",
+      "words": [
+        "CLEARANCE",
+        "GO-AHEAD",
+        "GREEN LIGHT",
+        "THUMBS-UP"
+      ]
+    },
+    {
+      "title": "TYPES OF COME-FROM-BEHIND STORIES",
+      "color": "blue",
+      "words": [
+        "CINDERELLA",
+        "DAVID-AND-GOLIATH",
+        "RAGS-TO-RICHES",
+        "UNDERDOG"
+      ]
+    },
+    {
+      "title": "BEGINNING WITH SYNONYMS FOR REAR END",
+      "color": "purple",
+      "words": [
+        "BUMPER-TO-BUMPER",
+        "BUTTERMILK",
+        "RUMPELSTILTSKIN",
+        "TAILGATE"
+      ]
+    }
+  ]
+}

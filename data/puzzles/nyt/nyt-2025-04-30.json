@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-30",
+  "groups": [
+    {
+      "title": "PARTS OF A SHOE",
+      "color": "yellow",
+      "words": [
+        "HEEL",
+        "SOLE",
+        "TONGUE",
+        "UPPER"
+      ]
+    },
+    {
+      "title": "ACCOMMODATION",
+      "color": "green",
+      "words": [
+        "CAPACITY",
+        "CHAIRS",
+        "ROOM",
+        "SEATING"
+      ]
+    },
+    {
+      "title": "REPUTATION",
+      "color": "blue",
+      "words": [
+        "FACE",
+        "IMAGE",
+        "REGARD",
+        "STANDING"
+      ]
+    },
+    {
+      "title": "ENDING WITH SYNONYMS FOR “YUCK”",
+      "color": "purple",
+      "words": [
+        "DYNASTY",
+        "ENGROSS",
+        "GIMMICK",
+        "MILDEW"
+      ]
+    }
+  ]
+}

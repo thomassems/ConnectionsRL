@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-09",
+  "groups": [
+    {
+      "title": "CROPS",
+      "color": "yellow",
+      "words": [
+        "CORN",
+        "CUCUMBER",
+        "PEPPER",
+        "TOMATO"
+      ]
+    },
+    {
+      "title": "SLANG FOR HEAD",
+      "color": "green",
+      "words": [
+        "CROWN",
+        "DOME",
+        "MELON",
+        "NOODLE"
+      ]
+    },
+    {
+      "title": "SONG",
+      "color": "blue",
+      "words": [
+        "CUT",
+        "NUMBER",
+        "SINGLE",
+        "TRACK"
+      ]
+    },
+    {
+      "title": "THINGS THAT WHISTLE",
+      "color": "purple",
+      "words": [
+        "BIRD",
+        "KETTLE",
+        "REFEREE",
+        "TRAIN"
+      ]
+    }
+  ]
+}

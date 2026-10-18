@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-21",
+  "groups": [
+    {
+      "title": "WOODWINDS",
+      "color": "yellow",
+      "words": [
+        "BASSOON",
+        "CLARINET",
+        "FLUTE",
+        "OBOE"
+      ]
+    },
+    {
+      "title": "COVERINGS",
+      "color": "green",
+      "words": [
+        "CAP",
+        "COVER",
+        "LID",
+        "TOP"
+      ]
+    },
+    {
+      "title": "SUNGLASSES",
+      "color": "blue",
+      "words": [
+        "AVIATOR",
+        "CAT EYE",
+        "WAYFARER",
+        "WRAPAROUND"
+      ]
+    },
+    {
+      "title": "SEALS",
+      "color": "purple",
+      "words": [
+        "HARBOR",
+        "HARP",
+        "HOODED",
+        "MONK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-18",
+  "groups": [
+    {
+      "title": "LEG PARTS",
+      "color": "yellow",
+      "words": [
+        "ANKLE",
+        "KNEE",
+        "SHIN",
+        "THIGH"
+      ]
+    },
+    {
+      "title": "BABY ANIMALS",
+      "color": "green",
+      "words": [
+        "CALF",
+        "CUB",
+        "JOEY",
+        "KID"
+      ]
+    },
+    {
+      "title": "SLANG FOR TOILET",
+      "color": "blue",
+      "words": [
+        "CAN",
+        "HEAD",
+        "JOHN",
+        "THRONE"
+      ]
+    },
+    {
+      "title": "___FISH THAT AREN’T FISH",
+      "color": "purple",
+      "words": [
+        "CRAY",
+        "JELLY",
+        "SILVER",
+        "STAR"
+      ]
+    }
+  ]
+}

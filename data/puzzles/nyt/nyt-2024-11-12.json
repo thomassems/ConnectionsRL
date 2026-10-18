@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-12",
+  "groups": [
+    {
+      "title": "COMPLAIN",
+      "color": "yellow",
+      "words": [
+        "BELLYACHE",
+        "CARP",
+        "CRAB",
+        "GRUMBLE"
+      ]
+    },
+    {
+      "title": "VEGETABLE UNITS",
+      "color": "green",
+      "words": [
+        "CLOVE",
+        "FLORET",
+        "SPEAR",
+        "STALK"
+      ]
+    },
+    {
+      "title": "LAPTOP SPECS",
+      "color": "blue",
+      "words": [
+        "RAM",
+        "RESOLUTION",
+        "SPEED",
+        "STORAGE"
+      ]
+    },
+    {
+      "title": "FEATURES OF JUSTICE PERSONIFIED",
+      "color": "purple",
+      "words": [
+        "BLINDFOLD",
+        "ROBE",
+        "SCALES",
+        "SWORD"
+      ]
+    }
+  ]
+}

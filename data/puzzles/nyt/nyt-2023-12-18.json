@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-18",
+  "groups": [
+    {
+      "title": "BRIEF MOMENT",
+      "color": "yellow",
+      "words": [
+        "FLASH",
+        "JIFFY",
+        "SECOND",
+        "WINK"
+      ]
+    },
+    {
+      "title": "PRIMARY",
+      "color": "green",
+      "words": [
+        "CHIEF",
+        "FIRST",
+        "MAIN",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "title": "AVENUES IN N.Y.C.",
+      "color": "blue",
+      "words": [
+        "BROADWAY",
+        "FIFTH",
+        "MADISON",
+        "PARK"
+      ]
+    },
+    {
+      "title": "___ HOUR",
+      "color": "purple",
+      "words": [
+        "AMATEUR",
+        "ELEVENTH",
+        "HAPPY",
+        "RUSH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-13",
+  "groups": [
+    {
+      "title": "FASTENING VERBS",
+      "color": "yellow",
+      "words": [
+        "BUCKLE",
+        "BUTTON",
+        "SNAP",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "SLANG FOR ZERO",
+      "color": "green",
+      "words": [
+        "JACK",
+        "NADA",
+        "NOTHING",
+        "SQUAT"
+      ]
+    },
+    {
+      "title": "GYM EXERCISES",
+      "color": "blue",
+      "words": [
+        "CURL",
+        "LUNGE",
+        "PLANK",
+        "PRESS"
+      ]
+    },
+    {
+      "title": "“CAPTAINS”",
+      "color": "purple",
+      "words": [
+        "CRUNCH",
+        "KANGAROO",
+        "OBVIOUS",
+        "PLANET"
+      ]
+    }
+  ]
+}

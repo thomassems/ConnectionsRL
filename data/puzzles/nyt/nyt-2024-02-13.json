@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-13",
+  "groups": [
+    {
+      "title": "ENCOURAGE, WITH \"ON\"",
+      "color": "yellow",
+      "words": [
+        "EGG",
+        "GOAD",
+        "SPUR",
+        "URGE"
+      ]
+    },
+    {
+      "title": "SPHERICAL FOODS",
+      "color": "green",
+      "words": [
+        "JAWBREAKER",
+        "MEATBALL",
+        "MOZZARELLA",
+        "ORANGE"
+      ]
+    },
+    {
+      "title": "GROCERY STORE AISLES",
+      "color": "blue",
+      "words": [
+        "DAIRY",
+        "FROZEN",
+        "PRODUCE",
+        "SNACK"
+      ]
+    },
+    {
+      "title": "GO ___",
+      "color": "purple",
+      "words": [
+        "BANANAS",
+        "FIGURE",
+        "FISH",
+        "STEADY"
+      ]
+    }
+  ]
+}

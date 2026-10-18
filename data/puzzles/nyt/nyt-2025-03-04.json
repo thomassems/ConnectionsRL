@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-04",
+  "groups": [
+    {
+      "title": "ADJECTIVES FOR NICE SKIN",
+      "color": "yellow",
+      "words": [
+        "DEWY",
+        "FRESH",
+        "GLOWING",
+        "SMOOTH"
+      ]
+    },
+    {
+      "title": "MESS OF HAIR",
+      "color": "green",
+      "words": [
+        "MAT",
+        "MOP",
+        "TANGLE",
+        "THATCH"
+      ]
+    },
+    {
+      "title": "DICKENS CHARACTERS",
+      "color": "blue",
+      "words": [
+        "BUCKET",
+        "PIP",
+        "SCROOGE",
+        "TWIST"
+      ]
+    },
+    {
+      "title": "___ CHAIN",
+      "color": "purple",
+      "words": [
+        "DAISY",
+        "FOOD",
+        "MOUNTAIN",
+        "SUPPLY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-21",
+  "groups": [
+    {
+      "title": "MILIEU",
+      "color": "yellow",
+      "words": [
+        "CIRCLE",
+        "SCENE",
+        "SPHERE",
+        "WORLD"
+      ]
+    },
+    {
+      "title": "LUMINARY",
+      "color": "green",
+      "words": [
+        "GREAT",
+        "ICON",
+        "LEGEND",
+        "LION"
+      ]
+    },
+    {
+      "title": "ARCHITECTURAL DRAWING TOOLS",
+      "color": "blue",
+      "words": [
+        "COMPASS",
+        "RULER",
+        "STENCIL",
+        "T-SQUARE"
+      ]
+    },
+    {
+      "title": "BAR ___",
+      "color": "purple",
+      "words": [
+        "CHART",
+        "EXAM",
+        "MITZVAH",
+        "SOAP"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-02",
+  "groups": [
+    {
+      "title": "HIGHLY SKILLED",
+      "color": "yellow",
+      "words": [
+        "ACE",
+        "CRACKERJACK",
+        "EXPERT",
+        "HOTSHOT"
+      ]
+    },
+    {
+      "title": "USED TO FIX A FLAT",
+      "color": "green",
+      "words": [
+        "CHOCK",
+        "JACK",
+        "TIRE",
+        "WRENCH"
+      ]
+    },
+    {
+      "title": "JOAQUIN PHOENIX MOVIES",
+      "color": "blue",
+      "words": [
+        "GLADIATOR",
+        "HER",
+        "JOKER",
+        "SIGNS"
+      ]
+    },
+    {
+      "title": "WORDS STARTING WITH MUSIC GENRES",
+      "color": "purple",
+      "words": [
+        "POPCORN",
+        "RAPTURE",
+        "ROCKETRY",
+        "SOULMATE"
+      ]
+    }
+  ]
+}

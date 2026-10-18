@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-04",
+  "groups": [
+    {
+      "title": "'60S BAND MEMBERS",
+      "color": "yellow",
+      "words": [
+        "BEACH BOY",
+        "BEATLE",
+        "BYRD",
+        "MONKEE"
+      ]
+    },
+    {
+      "title": "DANCE FADS",
+      "color": "green",
+      "words": [
+        "DOUGIE",
+        "MACARENA",
+        "MASHED POTATO",
+        "TWIST"
+      ]
+    },
+    {
+      "title": "MAGAZINES",
+      "color": "blue",
+      "words": [
+        "FORTUNE",
+        "ROLLING STONE",
+        "VOGUE",
+        "WIRED"
+      ]
+    },
+    {
+      "title": "THINGS WITH LINKS",
+      "color": "purple",
+      "words": [
+        "CHAIN",
+        "GOLF COURSE",
+        "SAUSAGE",
+        "WEBSITE"
+      ]
+    }
+  ]
+}

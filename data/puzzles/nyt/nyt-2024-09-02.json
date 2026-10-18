@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-02",
+  "groups": [
+    {
+      "title": "PECULIAR",
+      "color": "yellow",
+      "words": [
+        "CURIOUS",
+        "FUNNY",
+        "OFF",
+        "WEIRD"
+      ]
+    },
+    {
+      "title": "ASSIGNMENT",
+      "color": "green",
+      "words": [
+        "JOB",
+        "POSITION",
+        "POST",
+        "STATION"
+      ]
+    },
+    {
+      "title": "CLASSIC COLLECTION ITEMS",
+      "color": "blue",
+      "words": [
+        "COIN",
+        "COMIC",
+        "RECORD",
+        "STAMP"
+      ]
+    },
+    {
+      "title": "CHAIN ___",
+      "color": "purple",
+      "words": [
+        "LETTER",
+        "MAIL",
+        "REACTION",
+        "STORE"
+      ]
+    }
+  ]
+}

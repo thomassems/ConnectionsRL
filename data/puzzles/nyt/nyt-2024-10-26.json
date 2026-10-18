@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-26",
+  "groups": [
+    {
+      "title": "FLUSTER",
+      "color": "yellow",
+      "words": [
+        "FAZE",
+        "RATTLE",
+        "RUFFLE",
+        "THROW"
+      ]
+    },
+    {
+      "title": "SERIES OF MESSAGES",
+      "color": "green",
+      "words": [
+        "CHAIN",
+        "CHAT",
+        "CONVERSATION",
+        "THREAD"
+      ]
+    },
+    {
+      "title": "PLACES TO LIE/SIT THAT MOVE",
+      "color": "blue",
+      "words": [
+        "CRADLE",
+        "HAMMOCK",
+        "ROCKER",
+        "SWING"
+      ]
+    },
+    {
+      "title": "CYLINDER-SHAPED THINGS",
+      "color": "purple",
+      "words": [
+        "CAN",
+        "ROLLER",
+        "SILO",
+        "SPOOL"
+      ]
+    }
+  ]
+}

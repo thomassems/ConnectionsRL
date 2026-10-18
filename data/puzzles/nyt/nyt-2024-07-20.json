@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-20",
+  "groups": [
+    {
+      "title": "EFFORTLESS",
+      "color": "yellow",
+      "words": [
+        "FLUID",
+        "GRACEFUL",
+        "NATURAL",
+        "SMOOTH"
+      ]
+    },
+    {
+      "title": "EXERTION",
+      "color": "green",
+      "words": [
+        "EFFORT",
+        "LABOR",
+        "SWEAT",
+        "WORK"
+      ]
+    },
+    {
+      "title": "ENERGY FOR AN ELECTRONIC DEVICE",
+      "color": "blue",
+      "words": [
+        "BATTERY",
+        "CHARGE",
+        "JUICE",
+        "POWER"
+      ]
+    },
+    {
+      "title": "WHAT “POP” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "BURST",
+        "DAD",
+        "MAINSTREAM",
+        "SODA"
+      ]
+    }
+  ]
+}

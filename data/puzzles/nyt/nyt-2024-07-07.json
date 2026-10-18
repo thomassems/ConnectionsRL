@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-07",
+  "groups": [
+    {
+      "title": "CHANGE STATES OF MATTER",
+      "color": "yellow",
+      "words": [
+        "CONDENSE",
+        "FREEZE",
+        "MELT",
+        "VAPORIZE"
+      ]
+    },
+    {
+      "title": "REPLACEMENT",
+      "color": "green",
+      "words": [
+        "ALTERNATE",
+        "BACKUP",
+        "COVER",
+        "SUB"
+      ]
+    },
+    {
+      "title": "SLANGY NAMES FOR PROFESSIONS",
+      "color": "blue",
+      "words": [
+        "COPPER",
+        "HACK",
+        "SHRINK",
+        "SUIT"
+      ]
+    },
+    {
+      "title": "MARIAH CAREY NUMBER ONE HITS",
+      "color": "purple",
+      "words": [
+        "FANTASY",
+        "HERO",
+        "HONEY",
+        "SOMEDAY"
+      ]
+    }
+  ]
+}

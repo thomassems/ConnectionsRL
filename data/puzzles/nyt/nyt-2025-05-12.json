@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-12",
+  "groups": [
+    {
+      "title": "PLACES TO FIND PAPER MONEY",
+      "color": "yellow",
+      "words": [
+        "ATM",
+        "CASH REGISTER",
+        "TIP JAR",
+        "WALLET"
+      ]
+    },
+    {
+      "title": "REBOUND",
+      "color": "green",
+      "words": [
+        "BANK",
+        "BOUNCE",
+        "CAROM",
+        "RICOCHET"
+      ]
+    },
+    {
+      "title": "THINGS TRACKED BY WEB ANALYTICS",
+      "color": "blue",
+      "words": [
+        "CLICK",
+        "HIT",
+        "PAGE VIEW",
+        "VISIT"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN DO WITH YOUR LIPS",
+      "color": "purple",
+      "words": [
+        "CURL",
+        "PUCKER",
+        "PURSE",
+        "SMACK"
+      ]
+    }
+  ]
+}

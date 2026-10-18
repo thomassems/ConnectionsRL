@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-20",
+  "groups": [
+    {
+      "title": "SPORTS",
+      "color": "yellow",
+      "words": [
+        "CRICKET",
+        "FENCING",
+        "POLO",
+        "SQUASH"
+      ]
+    },
+    {
+      "title": "TOPS",
+      "color": "green",
+      "words": [
+        "CAMI",
+        "HALTER",
+        "TANK",
+        "TEE"
+      ]
+    },
+    {
+      "title": "VEGETABLES",
+      "color": "blue",
+      "words": [
+        "BEET",
+        "CARROT",
+        "CORN",
+        "ONION"
+      ]
+    },
+    {
+      "title": "INSECTS",
+      "color": "purple",
+      "words": [
+        "ANT",
+        "BEETLE",
+        "MANTIS",
+        "TERMITE"
+      ]
+    }
+  ]
+}

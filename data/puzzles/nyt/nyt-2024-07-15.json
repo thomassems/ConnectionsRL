@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-15",
+  "groups": [
+    {
+      "title": "REGARD AS TRUE",
+      "color": "yellow",
+      "words": [
+        "ACCEPT",
+        "BELIEVE",
+        "BUY",
+        "TRUST"
+      ]
+    },
+    {
+      "title": "FACADE",
+      "color": "green",
+      "words": [
+        "BLUFF",
+        "FRONT",
+        "SHAM",
+        "SHOW"
+      ]
+    },
+    {
+      "title": "WAYS TO SECURE A TV",
+      "color": "blue",
+      "words": [
+        "BASE",
+        "BRACKET",
+        "MOUNT",
+        "STAND"
+      ]
+    },
+    {
+      "title": "LIQUOR BOTTLE SIZES",
+      "color": "purple",
+      "words": [
+        "FIFTH",
+        "HANDLE",
+        "LITER",
+        "PINT"
+      ]
+    }
+  ]
+}

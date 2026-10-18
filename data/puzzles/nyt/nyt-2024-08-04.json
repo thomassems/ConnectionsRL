@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-04",
+  "groups": [
+    {
+      "title": "KIDDO",
+      "color": "yellow",
+      "words": [
+        "BUDDY",
+        "CHAMP",
+        "SPORT",
+        "TIGER"
+      ]
+    },
+    {
+      "title": "UP FOR IT",
+      "color": "green",
+      "words": [
+        "AMENABLE",
+        "DOWN",
+        "GAME",
+        "WILLING"
+      ]
+    },
+    {
+      "title": "BEGINNING WITH DOUBLE LETTERS",
+      "color": "blue",
+      "words": [
+        "AARDVARK",
+        "EERIE",
+        "LLAMA",
+        "OOZE"
+      ]
+    },
+    {
+      "title": "NICKNAMES FOR THE SEA, WITH “THE”",
+      "color": "purple",
+      "words": [
+        "BLUE",
+        "BRINY",
+        "DEEP",
+        "DRINK"
+      ]
+    }
+  ]
+}

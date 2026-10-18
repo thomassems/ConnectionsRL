@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-28",
+  "groups": [
+    {
+      "title": "HIGHEST POINT",
+      "color": "yellow",
+      "words": [
+        "CREST",
+        "PEAK",
+        "SUMMIT",
+        "VERTEX"
+      ]
+    },
+    {
+      "title": "“CAN I GET YOUR ___?” (PHONE INFO REQUEST)",
+      "color": "green",
+      "words": [
+        "CELL",
+        "CONTACT",
+        "DIGITS",
+        "NUMBER"
+      ]
+    },
+    {
+      "title": "MODIFIERS MEANING “SMALL”",
+      "color": "blue",
+      "words": [
+        "BABY",
+        "MINI",
+        "POCKET",
+        "TOY"
+      ]
+    },
+    {
+      "title": "INSIDE A SCRABBLE BOX",
+      "color": "purple",
+      "words": [
+        "BAG",
+        "BOARD",
+        "RACKS",
+        "TILES"
+      ]
+    }
+  ]
+}

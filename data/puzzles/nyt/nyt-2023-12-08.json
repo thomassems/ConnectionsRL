@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-08",
+  "groups": [
+    {
+      "title": "DECLINE",
+      "color": "yellow",
+      "words": [
+        "EBB",
+        "FADE",
+        "FLAG",
+        "WANE"
+      ]
+    },
+    {
+      "title": "ABSOLUTE",
+      "color": "green",
+      "words": [
+        "PURE",
+        "SHEER",
+        "TOTAL",
+        "UTTER"
+      ]
+    },
+    {
+      "title": "EXPRESS",
+      "color": "blue",
+      "words": [
+        "AIR",
+        "SPEAK",
+        "STATE",
+        "VOICE"
+      ]
+    },
+    {
+      "title": "SUPERHERO LAST NAMES",
+      "color": "purple",
+      "words": [
+        "BANNER",
+        "PRINCE",
+        "STARK",
+        "WAYNE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-01",
+  "groups": [
+    {
+      "title": "GRAINS",
+      "color": "yellow",
+      "words": [
+        "BARLEY",
+        "OAT",
+        "RYE",
+        "SPELT"
+      ]
+    },
+    {
+      "title": "ROYAL AND NOBLE TITLES",
+      "color": "green",
+      "words": [
+        "BARON",
+        "EARL",
+        "KING",
+        "PRINCE"
+      ]
+    },
+    {
+      "title": "UNIVERSITIES",
+      "color": "blue",
+      "words": [
+        "BROWN",
+        "DUKE",
+        "HOWARD",
+        "RICE"
+      ]
+    },
+    {
+      "title": "BEST DIRECTOR OSCAR WINNERS",
+      "color": "purple",
+      "words": [
+        "BONG",
+        "FORD",
+        "LEE",
+        "STONE"
+      ]
+    }
+  ]
+}

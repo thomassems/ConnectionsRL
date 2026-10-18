@@ -1,0 +1,97 @@
+{
+  "method": "candidate scorer: supervised warm start, then DQN updates",
+  "seed": 7,
+  "train_count": 8,
+  "validation_count": 4,
+  "test_count_used": 0,
+  "manifest_sha256": "2d0e257f567283de639209bb5fe11f9148f0b057a400db92301bae179998801a",
+  "vector_source_sha256": "d53187b22e459e74a27b2fead6d904d8e0da6bbd7c5c7f5b6811a3c010de3cfe",
+  "training": [
+    {
+      "phase": "supervised",
+      "epoch": 1,
+      "loss": 1.004063181579113
+    },
+    {
+      "phase": "reinforcement",
+      "epoch": 1,
+      "episodes": 8,
+      "exploration_epsilon": 0.15,
+      "mean_groups": 0.0,
+      "wins": 0,
+      "mean_update_loss": 1.3177064657211304
+    }
+  ],
+  "validation_after_supervised": {
+    "count": 4,
+    "wins": 0,
+    "mean_groups": 0.0,
+    "mean_reward": -8.0,
+    "results": [
+      {
+        "puzzle_id": "nyt-2024-10-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-04",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      }
+    ]
+  },
+  "validation_after_rl": {
+    "count": 4,
+    "wins": 0,
+    "mean_groups": 0.0,
+    "mean_reward": -8.0,
+    "results": [
+      {
+        "puzzle_id": "nyt-2024-10-01",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-02",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-03",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      },
+      {
+        "puzzle_id": "nyt-2024-10-04",
+        "status": "lost",
+        "groups_solved": 0,
+        "reward": -8.0,
+        "turns": 4
+      }
+    ]
+  }
+}

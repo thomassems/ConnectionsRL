@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-24",
+  "groups": [
+    {
+      "title": "SYNONYMS FOR ANGRY",
+      "color": "yellow",
+      "words": [
+        "FURIOUS",
+        "INCENSED",
+        "IRATE",
+        "LIVID"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE YELLOW",
+      "color": "green",
+      "words": [
+        "BANANA",
+        "CANARY",
+        "SCHOOL BUS",
+        "SUNFLOWER"
+      ]
+    },
+    {
+      "title": "MARINE BIRDS",
+      "color": "blue",
+      "words": [
+        "BOOBY",
+        "GULL",
+        "PELICAN",
+        "PUFFIN"
+      ]
+    },
+    {
+      "title": "___ BOYS",
+      "color": "purple",
+      "words": [
+        "BEACH",
+        "BEASTIE",
+        "HARDY",
+        "LOST"
+      ]
+    }
+  ]
+}

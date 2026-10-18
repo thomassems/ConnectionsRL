@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-05",
+  "groups": [
+    {
+      "title": "HAIR SALON OFFERINGS",
+      "color": "yellow",
+      "words": [
+        "BLOWOUT",
+        "COLOR",
+        "CUT",
+        "TRIM"
+      ]
+    },
+    {
+      "title": "CRITICIZE",
+      "color": "green",
+      "words": [
+        "BASH",
+        "BLAST",
+        "PAN",
+        "SLAM"
+      ]
+    },
+    {
+      "title": "OBTAIN",
+      "color": "blue",
+      "words": [
+        "BAG",
+        "LAND",
+        "SCORE",
+        "SNAG"
+      ]
+    },
+    {
+      "title": "MEASURED IN FOOTBALL STATS",
+      "color": "purple",
+      "words": [
+        "ATTEMPT",
+        "RECEPTION",
+        "SACK",
+        "YARD"
+      ]
+    }
+  ]
+}

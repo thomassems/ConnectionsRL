@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-25",
+  "groups": [
+    {
+      "title": "SCHOOL PERIODS",
+      "color": "yellow",
+      "words": [
+        "CLASS",
+        "HOMEROOM",
+        "LUNCH",
+        "RECESS"
+      ]
+    },
+    {
+      "title": "FEATURES OF A SKI RESORT",
+      "color": "green",
+      "words": [
+        "LIFT",
+        "LODGE",
+        "MOGUL",
+        "SLOPE"
+      ]
+    },
+    {
+      "title": "WORDS DERIVED FROM JAPANESE",
+      "color": "blue",
+      "words": [
+        "EMOJI",
+        "GINKGO",
+        "KARAOKE",
+        "TYCOON"
+      ]
+    },
+    {
+      "title": "WORDS AFTER THE PREFIX “TRI-”",
+      "color": "purple",
+      "words": [
+        "ANGLE",
+        "CYCLE",
+        "DENT",
+        "POD"
+      ]
+    }
+  ]
+}

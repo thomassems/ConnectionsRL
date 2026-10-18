@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-10",
+  "groups": [
+    {
+      "title": "SHADES OF YELLOW",
+      "color": "yellow",
+      "words": [
+        "CANARY",
+        "GOLD",
+        "LEMON",
+        "MUSTARD"
+      ]
+    },
+    {
+      "title": "SUPPLY",
+      "color": "green",
+      "words": [
+        "MINE",
+        "RESERVE",
+        "STORE",
+        "WELL"
+      ]
+    },
+    {
+      "title": "ANTI-SPIRIT OF CHRISTMAS",
+      "color": "blue",
+      "words": [
+        "BAH",
+        "COAL",
+        "GRINCH",
+        "NAUGHTY"
+      ]
+    },
+    {
+      "title": "SPANISH WORDS",
+      "color": "purple",
+      "words": [
+        "ELLA",
+        "GUSTO",
+        "MAYO",
+        "SOY"
+      ]
+    }
+  ]
+}

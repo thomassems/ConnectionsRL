@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-14",
+  "groups": [
+    {
+      "title": "IMPOSE, AS A PENALTY",
+      "color": "yellow",
+      "words": [
+        "ASSESS",
+        "CHARGE",
+        "FINE",
+        "LEVY"
+      ]
+    },
+    {
+      "title": "CHECKOUT LINE IMPULSE BUYS",
+      "color": "green",
+      "words": [
+        "CANDY",
+        "CHAPSTICK",
+        "CHARGING CABLE",
+        "MAGAZINE"
+      ]
+    },
+    {
+      "title": "MOVIES OF VARIOUS LENGTHS",
+      "color": "blue",
+      "words": [
+        "EPIC",
+        "FEATURE",
+        "FILM SERIES",
+        "SHORT"
+      ]
+    },
+    {
+      "title": "___ ROAD",
+      "color": "purple",
+      "words": [
+        "DIRT",
+        "HIGH",
+        "ROCKY",
+        "SILK"
+      ]
+    }
+  ]
+}

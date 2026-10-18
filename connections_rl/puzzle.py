@@ -21,6 +21,8 @@ class Group:
             raise ValueError("group title must be a non-empty string")
         if not isinstance(self.color, str) or self.color not in COLORS:
             raise ValueError(f"group color must be one of {sorted(COLORS)}")
+        if not isinstance(self.words, tuple):
+            raise ValueError("group words must be a tuple")
         if len(self.words) != 4 or any(
             not isinstance(word, str) or not word.strip() for word in self.words
         ):
@@ -35,6 +37,10 @@ class Puzzle:
     def __post_init__(self) -> None:
         if not isinstance(self.puzzle_id, str) or not self.puzzle_id.strip():
             raise ValueError("puzzle_id must be a non-empty string")
+        if not isinstance(self.groups, tuple) or any(
+            not isinstance(group, Group) for group in self.groups
+        ):
+            raise ValueError("puzzle groups must be a tuple of Group objects")
         if len(self.groups) != 4:
             raise ValueError("a puzzle must contain exactly four groups")
         colors = [group.color for group in self.groups]

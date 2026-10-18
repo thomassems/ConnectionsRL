@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-25",
+  "groups": [
+    {
+      "title": "GRAMMAR TENSE TERMS",
+      "color": "yellow",
+      "words": [
+        "FUTURE",
+        "PAST",
+        "PERFECT",
+        "PRESENT"
+      ]
+    },
+    {
+      "title": "“GRACIOUS ME!”",
+      "color": "green",
+      "words": [
+        "GOODNESS",
+        "HEAVENS",
+        "LORD",
+        "MERCY"
+      ]
+    },
+    {
+      "title": "12 DAYS OF CHRISTMAS",
+      "color": "blue",
+      "words": [
+        "DRUMMER",
+        "LADY",
+        "RING",
+        "SWAN"
+      ]
+    },
+    {
+      "title": "___ SYRUP",
+      "color": "purple",
+      "words": [
+        "CORN",
+        "COUGH",
+        "MAPLE",
+        "SIMPLE"
+      ]
+    }
+  ]
+}

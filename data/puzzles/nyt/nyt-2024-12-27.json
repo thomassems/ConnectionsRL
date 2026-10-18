@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-27",
+  "groups": [
+    {
+      "title": "BREAKFAST SIDES",
+      "color": "yellow",
+      "words": [
+        "BACON",
+        "GRITS",
+        "HASH",
+        "TOAST"
+      ]
+    },
+    {
+      "title": "PUSHES, AS A BUTTON",
+      "color": "green",
+      "words": [
+        "CLICKS",
+        "HITS",
+        "PRESSES",
+        "TAPS"
+      ]
+    },
+    {
+      "title": "THEY HAVE A HORN",
+      "color": "blue",
+      "words": [
+        "AFRICA",
+        "BUGLER",
+        "CAR",
+        "UNICORN"
+      ]
+    },
+    {
+      "title": "OSCAR-WINNING ACTORS",
+      "color": "purple",
+      "words": [
+        "BRIDGES",
+        "IRONS",
+        "PHOENIX",
+        "WASHINGTON"
+      ]
+    }
+  ]
+}

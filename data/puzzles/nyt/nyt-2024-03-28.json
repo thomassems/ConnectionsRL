@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-28",
+  "groups": [
+    {
+      "title": "EXITED",
+      "color": "yellow",
+      "words": [
+        "DEPARTED",
+        "LEFT",
+        "SPLIT",
+        "WENT"
+      ]
+    },
+    {
+      "title": "ONE FLYING AN AIRPLANE",
+      "color": "green",
+      "words": [
+        "ACE",
+        "AVIATOR",
+        "FLIER",
+        "PILOT"
+      ]
+    },
+    {
+      "title": "KINDS OF WHALES",
+      "color": "blue",
+      "words": [
+        "BLUE",
+        "FIN",
+        "GRAY",
+        "RIGHT"
+      ]
+    },
+    {
+      "title": "THINGS WITH SLOTS",
+      "color": "purple",
+      "words": [
+        "ATM",
+        "CASINO",
+        "SCHEDULE",
+        "SPATULA"
+      ]
+    }
+  ]
+}

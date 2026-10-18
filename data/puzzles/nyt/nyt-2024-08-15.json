@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-15",
+  "groups": [
+    {
+      "title": "BREADTH",
+      "color": "yellow",
+      "words": [
+        "EXTENT",
+        "RANGE",
+        "REACH",
+        "SCOPE"
+      ]
+    },
+    {
+      "title": "OTHER HALF",
+      "color": "green",
+      "words": [
+        "COMPLEMENT",
+        "MATCH",
+        "MATE",
+        "PARTNER"
+      ]
+    },
+    {
+      "title": "BEERS, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "BUD",
+        "NATTY",
+        "SIERRA",
+        "STELLA"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “PAY”",
+      "color": "purple",
+      "words": [
+        "CHECK",
+        "DIRT",
+        "PAL",
+        "PHONE"
+      ]
+    }
+  ]
+}

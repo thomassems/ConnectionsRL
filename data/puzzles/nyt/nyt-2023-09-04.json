@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-04",
+  "groups": [
+    {
+      "title": "PAINTING ACCESSORIES",
+      "color": "yellow",
+      "words": [
+        "BRUSH",
+        "CANVAS",
+        "EASEL",
+        "PALETTE"
+      ]
+    },
+    {
+      "title": "AUTOMATIC TRANSMISSION SETTINGS",
+      "color": "green",
+      "words": [
+        "DRIVE",
+        "NEUTRAL",
+        "PARK",
+        "REVERSE"
+      ]
+    },
+    {
+      "title": "THINGS WITH TEETH",
+      "color": "blue",
+      "words": [
+        "COMB",
+        "GEAR",
+        "SAW",
+        "ZIPPER"
+      ]
+    },
+    {
+      "title": "___ CHAIR",
+      "color": "purple",
+      "words": [
+        "FIRST",
+        "FOLDING",
+        "HIGH",
+        "LAWN"
+      ]
+    }
+  ]
+}

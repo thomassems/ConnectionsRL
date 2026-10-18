@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-08",
+  "groups": [
+    {
+      "title": "ARCHERY EQUIPMENT",
+      "color": "yellow",
+      "words": [
+        "ARROW",
+        "BOW",
+        "QUIVER",
+        "TARGET"
+      ]
+    },
+    {
+      "title": "CARD GAMES",
+      "color": "green",
+      "words": [
+        "BRIDGE",
+        "GIN",
+        "SPIT",
+        "WAR"
+      ]
+    },
+    {
+      "title": "WALLOP",
+      "color": "blue",
+      "words": [
+        "BELT",
+        "CLOCK",
+        "DECK",
+        "SLUG"
+      ]
+    },
+    {
+      "title": "CLASSIC TATTOOS",
+      "color": "purple",
+      "words": [
+        "ANCHOR",
+        "DRAGON",
+        "HEART",
+        "ROSE"
+      ]
+    }
+  ]
+}

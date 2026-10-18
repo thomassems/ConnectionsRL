@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-18",
+  "groups": [
+    {
+      "title": "TASKS FOR A STUDENT",
+      "color": "yellow",
+      "words": [
+        "ASSIGNMENT",
+        "DRILL",
+        "EXERCISE",
+        "LESSON"
+      ]
+    },
+    {
+      "title": "ENCOURAGING RESPONSES IN A GUESSING GAME",
+      "color": "green",
+      "words": [
+        "ALMOST",
+        "CLOSE",
+        "NOT QUITE",
+        "WARM"
+      ]
+    },
+    {
+      "title": "UP FOR ANYTHING",
+      "color": "blue",
+      "words": [
+        "EASY",
+        "FLEXIBLE",
+        "GAME",
+        "OPEN"
+      ]
+    },
+    {
+      "title": "WHAT “A” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "AREA",
+        "ATHLETIC",
+        "EXCELLENT",
+        "ONE"
+      ]
+    }
+  ]
+}

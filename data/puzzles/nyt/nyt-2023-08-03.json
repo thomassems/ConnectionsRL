@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-03",
+  "groups": [
+    {
+      "title": "ANIMAL GROUP NAMES",
+      "color": "yellow",
+      "words": [
+        "COLONY",
+        "HERD",
+        "PRIDE",
+        "SWARM"
+      ]
+    },
+    {
+      "title": "STONED",
+      "color": "green",
+      "words": [
+        "BAKED",
+        "BLAZED",
+        "HIGH",
+        "LIT"
+      ]
+    },
+    {
+      "title": "AP CLASSES",
+      "color": "blue",
+      "words": [
+        "BIO",
+        "CHEM",
+        "GOV",
+        "STATS"
+      ]
+    },
+    {
+      "title": "TAXONOMY RANKS",
+      "color": "purple",
+      "words": [
+        "CLASS",
+        "DOMAIN",
+        "FAMILY",
+        "ORDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-21",
+  "groups": [
+    {
+      "title": "WAYS TO SUPPORT A CANDIDATE",
+      "color": "yellow",
+      "words": [
+        "CAMPAIGN",
+        "CANVASS",
+        "ORGANIZE",
+        "STUMP"
+      ]
+    },
+    {
+      "title": "CONSTITUTION",
+      "color": "green",
+      "words": [
+        "COMPOSITION",
+        "FABRIC",
+        "MAKEUP",
+        "STRUCTURE"
+      ]
+    },
+    {
+      "title": "CARPENTRY TOOLS",
+      "color": "blue",
+      "words": [
+        "CLAMP",
+        "FILE",
+        "LEVEL",
+        "SAW"
+      ]
+    },
+    {
+      "title": "MATH ABBREVIATIONS",
+      "color": "purple",
+      "words": [
+        "LOG",
+        "MAX",
+        "MOD",
+        "TAN"
+      ]
+    }
+  ]
+}

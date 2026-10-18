@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-30",
+  "groups": [
+    {
+      "title": "SPARKLING THINGS",
+      "color": "yellow",
+      "words": [
+        "DIAMOND",
+        "GLITTER",
+        "GOLD",
+        "SEQUIN"
+      ]
+    },
+    {
+      "title": "PARTICIPATE IN SUMMER OLYMPIC EVENTS",
+      "color": "green",
+      "words": [
+        "BOX",
+        "DIVE",
+        "FENCE",
+        "ROW"
+      ]
+    },
+    {
+      "title": "WONDERS OF THE WORLD",
+      "color": "blue",
+      "words": [
+        "GARDENS",
+        "LIGHTHOUSE",
+        "PYRAMID",
+        "TEMPLE"
+      ]
+    },
+    {
+      "title": "ICE ___",
+      "color": "purple",
+      "words": [
+        "CREAM",
+        "CUBE",
+        "MACHINE",
+        "STORM"
+      ]
+    }
+  ]
+}

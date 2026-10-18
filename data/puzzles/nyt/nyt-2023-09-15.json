@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-15",
+  "groups": [
+    {
+      "title": "BOVIDS",
+      "color": "yellow",
+      "words": [
+        "BUFFALO",
+        "COW",
+        "GOAT",
+        "SHEEP"
+      ]
+    },
+    {
+      "title": "EMIT LIGHT",
+      "color": "green",
+      "words": [
+        "BEAM",
+        "GLOW",
+        "RADIATE",
+        "SHINE"
+      ]
+    },
+    {
+      "title": "GYMNASTICS APPARATUS",
+      "color": "blue",
+      "words": [
+        "FLOOR",
+        "HORSE",
+        "RINGS",
+        "VAULT"
+      ]
+    },
+    {
+      "title": "WORDS THAT SOUND LIKE TWO LETTERS",
+      "color": "purple",
+      "words": [
+        "CUTIE",
+        "ENVY",
+        "EXCEL",
+        "SEEDY"
+      ]
+    }
+  ]
+}

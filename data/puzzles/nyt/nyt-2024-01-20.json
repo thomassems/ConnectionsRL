@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-20",
+  "groups": [
+    {
+      "title": "DECLINE",
+      "color": "yellow",
+      "words": [
+        "DIP",
+        "DROP",
+        "FALL",
+        "SINK"
+      ]
+    },
+    {
+      "title": "MOVE WITH SPEED",
+      "color": "green",
+      "words": [
+        "BLAZE",
+        "FLY",
+        "RACE",
+        "TEAR"
+      ]
+    },
+    {
+      "title": "KINDS OF DANCE",
+      "color": "blue",
+      "words": [
+        "MODERN",
+        "SALSA",
+        "SWING",
+        "TAP"
+      ]
+    },
+    {
+      "title": "BABY ___",
+      "color": "purple",
+      "words": [
+        "BOOM",
+        "CARROT",
+        "SHOWER",
+        "TALK"
+      ]
+    }
+  ]
+}

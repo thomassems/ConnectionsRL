@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-18",
+  "groups": [
+    {
+      "title": "EXCEPTIONAL",
+      "color": "yellow",
+      "words": [
+        "REMARKABLE",
+        "SINGULAR",
+        "SPECIAL",
+        "UNIQUE"
+      ]
+    },
+    {
+      "title": "GERMAN WORDS",
+      "color": "green",
+      "words": [
+        "ANGST",
+        "DIE",
+        "KINDER",
+        "WURST"
+      ]
+    },
+    {
+      "title": "PLURAL ANIMALS IDENTICAL TO THEIR SINGULAR FORMS",
+      "color": "blue",
+      "words": [
+        "DEER",
+        "SHEEP",
+        "SHRIMP",
+        "SQUID"
+      ]
+    },
+    {
+      "title": "PLURAL WORDS THAT ARE VERY DIFFERENT FROM THEIR SINGULAR FORMS",
+      "color": "purple",
+      "words": [
+        "DICE",
+        "LICE",
+        "MICE",
+        "OXEN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-15",
+  "groups": [
+    {
+      "title": "LIST OF CANDIDATES",
+      "color": "yellow",
+      "words": [
+        "BALLOT",
+        "ROSTER",
+        "SLATE",
+        "TICKET"
+      ]
+    },
+    {
+      "title": "PROTECTIVE BARRIER",
+      "color": "green",
+      "words": [
+        "BUFFER",
+        "CUSHION",
+        "PAD",
+        "SHIELD"
+      ]
+    },
+    {
+      "title": "MEDICINE FORMATS",
+      "color": "blue",
+      "words": [
+        "CAPSULE",
+        "CREAM",
+        "SYRUP",
+        "TABLET"
+      ]
+    },
+    {
+      "title": "PEA ___",
+      "color": "purple",
+      "words": [
+        "COAT",
+        "GREEN",
+        "POD",
+        "SOUP"
+      ]
+    }
+  ]
+}

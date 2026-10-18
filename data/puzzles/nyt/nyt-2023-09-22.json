@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-22",
+  "groups": [
+    {
+      "title": "SODA FOUNTAIN ORDERS",
+      "color": "yellow",
+      "words": [
+        "FLOAT",
+        "MALT",
+        "SHAKE",
+        "SUNDAE"
+      ]
+    },
+    {
+      "title": "SET, AS PLANS",
+      "color": "green",
+      "words": [
+        "CONCRETE",
+        "FIRM",
+        "SOLID",
+        "TANGIBLE"
+      ]
+    },
+    {
+      "title": "M. NIGHT SHYAMALAN MOVIES",
+      "color": "blue",
+      "words": [
+        "GLASS",
+        "OLD",
+        "SIGNS",
+        "SPLIT"
+      ]
+    },
+    {
+      "title": "___BOARD",
+      "color": "purple",
+      "words": [
+        "DASH",
+        "HOVER",
+        "KEY",
+        "STAR"
+      ]
+    }
+  ]
+}

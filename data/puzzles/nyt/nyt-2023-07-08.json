@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-08",
+  "groups": [
+    {
+      "title": "HATS",
+      "color": "yellow",
+      "words": [
+        "BERET",
+        "BOWLER",
+        "FEDORA",
+        "FEZ"
+      ]
+    },
+    {
+      "title": "ORGANS",
+      "color": "green",
+      "words": [
+        "HEART",
+        "KIDNEY",
+        "LIVER",
+        "LUNG"
+      ]
+    },
+    {
+      "title": "PARTS OF A BOOK",
+      "color": "blue",
+      "words": [
+        "COVER",
+        "JACKET",
+        "PAGE",
+        "SPINE"
+      ]
+    },
+    {
+      "title": "JACK ___",
+      "color": "purple",
+      "words": [
+        "ASS",
+        "KNIFE",
+        "POT",
+        "RABBIT"
+      ]
+    }
+  ]
+}

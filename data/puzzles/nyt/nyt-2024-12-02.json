@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-02",
+  "groups": [
+    {
+      "title": "ANNOUNCE",
+      "color": "yellow",
+      "words": [
+        "BROADCAST",
+        "DECLARE",
+        "HERALD",
+        "TRUMPET"
+      ]
+    },
+    {
+      "title": "THINGS INVOLVING MALLETS",
+      "color": "green",
+      "words": [
+        "CARPENTRY",
+        "CROQUET",
+        "WHAC-A-MOLE",
+        "XYLOPHONE"
+      ]
+    },
+    {
+      "title": "ICON EMBROIDERED ON A POLO SHIRT",
+      "color": "blue",
+      "words": [
+        "CROCODILE",
+        "LAUREL",
+        "POLO PLAYER",
+        "SWOOSH"
+      ]
+    },
+    {
+      "title": "___ CLIP",
+      "color": "purple",
+      "words": [
+        "ALLIGATOR",
+        "HAIR",
+        "PAPER",
+        "VIDEO"
+      ]
+    }
+  ]
+}

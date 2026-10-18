@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-18",
+  "groups": [
+    {
+      "title": "OPEN SPACE",
+      "color": "yellow",
+      "words": [
+        "COURT",
+        "PLAZA",
+        "SQUARE",
+        "YARD"
+      ]
+    },
+    {
+      "title": "BOXING UNIT",
+      "color": "green",
+      "words": [
+        "BOUT",
+        "CONTEST",
+        "MATCH",
+        "ROUND"
+      ]
+    },
+    {
+      "title": "GLITZINESS",
+      "color": "blue",
+      "words": [
+        "DAZZLE",
+        "FLASH",
+        "POMP",
+        "RITZ"
+      ]
+    },
+    {
+      "title": "EMOJI",
+      "color": "purple",
+      "words": [
+        "FIRE",
+        "HEART",
+        "SKULL",
+        "SPARKLES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-20",
+  "groups": [
+    {
+      "title": "BITS OF HARDWARE",
+      "color": "yellow",
+      "words": [
+        "NAIL",
+        "NUT",
+        "SCREW",
+        "WASHER"
+      ]
+    },
+    {
+      "title": "FISHING GEAR",
+      "color": "green",
+      "words": [
+        "FLY",
+        "HOOK",
+        "LINE",
+        "SINKER"
+      ]
+    },
+    {
+      "title": "HAIR SALON FIXTURES",
+      "color": "blue",
+      "words": [
+        "CHAIR",
+        "DRYER",
+        "MIRROR",
+        "SINK"
+      ]
+    },
+    {
+      "title": "LIGHTNING ___",
+      "color": "purple",
+      "words": [
+        "BOLT",
+        "BUG",
+        "ROD",
+        "STRIKE"
+      ]
+    }
+  ]
+}

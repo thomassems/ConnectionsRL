@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-07",
+  "groups": [
+    {
+      "title": "BE IN CHARGE OF",
+      "color": "yellow",
+      "words": [
+        "DIRECT",
+        "HEAD",
+        "LEAD",
+        "RUN"
+      ]
+    },
+    {
+      "title": "THINGS MADE OF RUBBER",
+      "color": "green",
+      "words": [
+        "BALLOON",
+        "ERASER",
+        "GALOSH",
+        "TIRE"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH THE GENIE IN “ALADDIN”",
+      "color": "blue",
+      "words": [
+        "BLUE",
+        "EARRING",
+        "LAMP",
+        "WISHES"
+      ]
+    },
+    {
+      "title": "RED ___",
+      "color": "purple",
+      "words": [
+        "BULL",
+        "CROSS",
+        "HERRING",
+        "VELVET"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-23",
+  "groups": [
+    {
+      "title": "IMPOSTOR",
+      "color": "yellow",
+      "words": [
+        "CHARLATAN",
+        "FRAUD",
+        "QUACK",
+        "SHAM"
+      ]
+    },
+    {
+      "title": "UTTERANCE",
+      "color": "green",
+      "words": [
+        "NOISE",
+        "PEEP",
+        "SOUND",
+        "WORD"
+      ]
+    },
+    {
+      "title": "ONE WHO LIKES SHOWING OFF",
+      "color": "blue",
+      "words": [
+        "HAM",
+        "HOT DOG",
+        "PEACOCK",
+        "SHOWBOAT"
+      ]
+    },
+    {
+      "title": "LOONEY TUNES CHARACTERS MINUS A LETTER",
+      "color": "purple",
+      "words": [
+        "BUG",
+        "PORK",
+        "SPEED",
+        "TWEET"
+      ]
+    }
+  ]
+}

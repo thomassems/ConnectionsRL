@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-17",
+  "groups": [
+    {
+      "title": "FRUITS",
+      "color": "yellow",
+      "words": [
+        "APRICOT",
+        "FIG",
+        "GRAPE",
+        "LIME"
+      ]
+    },
+    {
+      "title": "LUXURIOUS",
+      "color": "green",
+      "words": [
+        "DELUXE",
+        "GRAND",
+        "LAVISH",
+        "OPULENT"
+      ]
+    },
+    {
+      "title": "BEST ACTRESS OSCAR WINNERS",
+      "color": "blue",
+      "words": [
+        "BERRY",
+        "FOSTER",
+        "STONE",
+        "SWANK"
+      ]
+    },
+    {
+      "title": "WHAT “GREEN” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ENVIOUS",
+        "FRESH",
+        "NAIVE",
+        "UNWELL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-31",
+  "groups": [
+    {
+      "title": "MERRIMENT",
+      "color": "yellow",
+      "words": [
+        "CHEER",
+        "GLEE",
+        "FESTIVITY",
+        "MIRTH"
+      ]
+    },
+    {
+      "title": "BOOKED FOR A WEDDING",
+      "color": "green",
+      "words": [
+        "BAND",
+        "CATERER",
+        "FLORIST",
+        "OFFICIANT"
+      ]
+    },
+    {
+      "title": "RHYMES",
+      "color": "blue",
+      "words": [
+        "CHOIR",
+        "FIRE",
+        "LIAR",
+        "FRYER"
+      ]
+    },
+    {
+      "title": "___ PIT",
+      "color": "purple",
+      "words": [
+        "BARBECUE",
+        "ORCHESTRA",
+        "SNAKE",
+        "TAR"
+      ]
+    }
+  ]
+}

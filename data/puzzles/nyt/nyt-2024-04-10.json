@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-10",
+  "groups": [
+    {
+      "title": "PERSON IN CHARGE",
+      "color": "yellow",
+      "words": [
+        "CHAIR",
+        "CHIEF",
+        "DIRECTOR",
+        "HEAD"
+      ]
+    },
+    {
+      "title": "GRASSY AREA",
+      "color": "green",
+      "words": [
+        "FIELD",
+        "GREEN",
+        "GROUNDS",
+        "LAWN"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “NUT”",
+      "color": "blue",
+      "words": [
+        "CHEST",
+        "COCO",
+        "HAZEL",
+        "PEA"
+      ]
+    },
+    {
+      "title": "SECOND WORDS IN TARANTINO MOVIES",
+      "color": "purple",
+      "words": [
+        "BROWN",
+        "DOGS",
+        "FICTION",
+        "UNCHAINED"
+      ]
+    }
+  ]
+}

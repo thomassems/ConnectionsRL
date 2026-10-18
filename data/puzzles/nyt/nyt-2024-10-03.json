@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-03",
+  "groups": [
+    {
+      "title": "BEVERAGES",
+      "color": "yellow",
+      "words": [
+        "JUICE",
+        "MILK",
+        "PUNCH",
+        "SODA"
+      ]
+    },
+    {
+      "title": "CARE FOR A PLANT",
+      "color": "green",
+      "words": [
+        "FERTILIZE",
+        "POT",
+        "PRUNE",
+        "WATER"
+      ]
+    },
+    {
+      "title": "ITEM SOLD IN PAIRS",
+      "color": "blue",
+      "words": [
+        "BOOKEND",
+        "EARBUD",
+        "SKI",
+        "SOCK"
+      ]
+    },
+    {
+      "title": "BUGS PLUS STARTING LETTER",
+      "color": "purple",
+      "words": [
+        "BLOUSE",
+        "PANT",
+        "SMITE",
+        "STICK"
+      ]
+    }
+  ]
+}

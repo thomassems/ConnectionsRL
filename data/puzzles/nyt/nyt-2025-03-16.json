@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-16",
+  "groups": [
+    {
+      "title": "BUNCH",
+      "color": "yellow",
+      "words": [
+        "CLUSTER",
+        "COLLECTION",
+        "CONSTELLATION",
+        "GROUP"
+      ]
+    },
+    {
+      "title": "ENDING WITH SILENT “T”",
+      "color": "green",
+      "words": [
+        "BALLET",
+        "DEBUT",
+        "RAPPORT",
+        "TAROT"
+      ]
+    },
+    {
+      "title": "SERIAL KILLER MOVIES",
+      "color": "blue",
+      "words": [
+        "MONSTER",
+        "PSYCHO",
+        "SEVEN",
+        "ZODIAC"
+      ]
+    },
+    {
+      "title": "STARTING WITH CONSTELLATIONS",
+      "color": "purple",
+      "words": [
+        "DRACONIAN",
+        "HYDRANT",
+        "LEONARDO",
+        "LIBRARY"
+      ]
+    }
+  ]
+}

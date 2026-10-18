@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-01",
+  "groups": [
+    {
+      "title": "FEATURES ON A PAIR OF JEANS",
+      "color": "yellow",
+      "words": [
+        "BUTTON",
+        "FLY",
+        "POCKET",
+        "RIVET"
+      ]
+    },
+    {
+      "title": "OBJECTS IN 0-, 1-, 2- AND 3-DIMENSIONAL SPACE",
+      "color": "green",
+      "words": [
+        "LINE",
+        "PLANE",
+        "POINT",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "WEB BROWSER MENUS",
+      "color": "blue",
+      "words": [
+        "FILE",
+        "HISTORY",
+        "VIEW",
+        "WINDOW"
+      ]
+    },
+    {
+      "title": "MEMBER OF A ’60S BAND",
+      "color": "purple",
+      "words": [
+        "ANIMAL",
+        "DOOR",
+        "KINK",
+        "SUPREME"
+      ]
+    }
+  ]
+}

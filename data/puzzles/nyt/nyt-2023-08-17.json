@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-17",
+  "groups": [
+    {
+      "title": "DESSERTS",
+      "color": "yellow",
+      "words": [
+        "CAKE",
+        "COBBLER",
+        "PIE",
+        "TART"
+      ]
+    },
+    {
+      "title": "OCCUPATIONAL SURNAMES",
+      "color": "green",
+      "words": [
+        "FISHER",
+        "MASON",
+        "MILLER",
+        "SMITH"
+      ]
+    },
+    {
+      "title": "ALTER DECEPTIVELY",
+      "color": "blue",
+      "words": [
+        "DISTORT",
+        "DOCTOR",
+        "FUDGE",
+        "TWIST"
+      ]
+    },
+    {
+      "title": "SQUARE ___",
+      "color": "purple",
+      "words": [
+        "DANCE",
+        "MEAL",
+        "ONE",
+        "ROOT"
+      ]
+    }
+  ]
+}

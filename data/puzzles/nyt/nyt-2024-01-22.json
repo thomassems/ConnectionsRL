@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-22",
+  "groups": [
+    {
+      "title": "SYMBOLIC RODS",
+      "color": "yellow",
+      "words": [
+        "BATON",
+        "SCEPTER",
+        "STAFF",
+        "WAND"
+      ]
+    },
+    {
+      "title": "DENTAL TERMS",
+      "color": "green",
+      "words": [
+        "CAVITY",
+        "CROWN",
+        "FILLING",
+        "PLAQUE"
+      ]
+    },
+    {
+      "title": "RUBBER STAMP WORDS",
+      "color": "blue",
+      "words": [
+        "APPROVED",
+        "PAID",
+        "URGENT",
+        "VOID"
+      ]
+    },
+    {
+      "title": "___ YEAR",
+      "color": "purple",
+      "words": [
+        "GAP",
+        "LEAP",
+        "LIGHT",
+        "SCHOOL"
+      ]
+    }
+  ]
+}

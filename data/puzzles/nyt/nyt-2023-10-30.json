@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-30",
+  "groups": [
+    {
+      "title": "BIRD FEATURES",
+      "color": "yellow",
+      "words": [
+        "BEAK",
+        "FEATHER",
+        "TALON",
+        "WING"
+      ]
+    },
+    {
+      "title": "BLINK OF AN EYE",
+      "color": "green",
+      "words": [
+        "FLASH",
+        "HEARTBEAT",
+        "SECOND",
+        "WINK"
+      ]
+    },
+    {
+      "title": "MAHJONG TILES",
+      "color": "blue",
+      "words": [
+        "BAMBOO",
+        "DRAGON",
+        "SEASON",
+        "WIND"
+      ]
+    },
+    {
+      "title": "___ BUTTON",
+      "color": "purple",
+      "words": [
+        "BELLY",
+        "HOT",
+        "PANIC",
+        "SNOOZE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-16",
+  "groups": [
+    {
+      "title": "FLABBERGAST",
+      "color": "yellow",
+      "words": [
+        "FLOOR",
+        "ROCK",
+        "SHOCK",
+        "SURPRISE"
+      ]
+    },
+    {
+      "title": "BIT OF JOURNALISM",
+      "color": "green",
+      "words": [
+        "ARTICLE",
+        "FEATURE",
+        "REPORT",
+        "STORY"
+      ]
+    },
+    {
+      "title": "ON THE SAME PLANE",
+      "color": "blue",
+      "words": [
+        "EVEN",
+        "FLAT",
+        "FLUSH",
+        "LEVEL"
+      ]
+    },
+    {
+      "title": "THEATER SECTIONS",
+      "color": "purple",
+      "words": [
+        "BALCONY",
+        "BOX",
+        "ORCHESTRA",
+        "STAGE"
+      ]
+    }
+  ]
+}

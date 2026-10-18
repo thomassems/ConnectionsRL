@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-21",
+  "groups": [
+    {
+      "title": "CLAIRVOYANT",
+      "color": "yellow",
+      "words": [
+        "MEDIUM",
+        "MYSTIC",
+        "ORACLE",
+        "PSYCHIC"
+      ]
+    },
+    {
+      "title": "SPECIAL EDITION ADJECTIVES",
+      "color": "green",
+      "words": [
+        "COLLECTIBLE",
+        "EXCLUSIVE",
+        "LIMITED",
+        "RARE"
+      ]
+    },
+    {
+      "title": "“GREAT JOB!”",
+      "color": "blue",
+      "words": [
+        "IMPRESSIVE",
+        "NICE",
+        "PROPS",
+        "WELL DONE"
+      ]
+    },
+    {
+      "title": "EXTREMELY",
+      "color": "purple",
+      "words": [
+        "AWFUL",
+        "BLOODY",
+        "REAL",
+        "WAY"
+      ]
+    }
+  ]
+}

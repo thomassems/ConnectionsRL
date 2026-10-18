@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-02",
+  "groups": [
+    {
+      "title": "CONFORMISTS",
+      "color": "yellow",
+      "words": [
+        "FOLLOWERS",
+        "LEMMINGS",
+        "PUPPETS",
+        "SHEEP"
+      ]
+    },
+    {
+      "title": "COMPANY OWNERSHIP OFFERS",
+      "color": "green",
+      "words": [
+        "EQUITY",
+        "OPTIONS",
+        "SHARES",
+        "STOCKS"
+      ]
+    },
+    {
+      "title": "U.S. CITIES",
+      "color": "blue",
+      "words": [
+        "BILLINGS",
+        "BUFFALO",
+        "MOBILE",
+        "PHOENIX"
+      ]
+    },
+    {
+      "title": "WHAT \"DIGS\" MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "APARTMENT",
+        "INSULTS",
+        "LIKES",
+        "SHOVELS"
+      ]
+    }
+  ]
+}

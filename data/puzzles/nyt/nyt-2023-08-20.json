@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-20",
+  "groups": [
+    {
+      "title": "CAMPING SUPPLIES",
+      "color": "yellow",
+      "words": [
+        "COOLER",
+        "LANTERN",
+        "SLEEPING BAG",
+        "TENT"
+      ]
+    },
+    {
+      "title": "INSULT",
+      "color": "green",
+      "words": [
+        "BARB",
+        "DIG",
+        "DISS",
+        "JAB"
+      ]
+    },
+    {
+      "title": "TINY",
+      "color": "blue",
+      "words": [
+        "MINUTE",
+        "SLIGHT",
+        "SMALL",
+        "WEE"
+      ]
+    },
+    {
+      "title": "HAPPY ___",
+      "color": "purple",
+      "words": [
+        "CAMPER",
+        "HOUR",
+        "MEAL",
+        "MEDIUM"
+      ]
+    }
+  ]
+}

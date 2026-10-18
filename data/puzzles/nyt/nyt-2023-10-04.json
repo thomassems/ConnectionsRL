@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-04",
+  "groups": [
+    {
+      "title": "CHRISTMAS-RELATED",
+      "color": "yellow",
+      "words": [
+        "MISTLETOE",
+        "REINDEER",
+        "SNOWMAN",
+        "STOCKING"
+      ]
+    },
+    {
+      "title": "MAKE PUBLIC",
+      "color": "green",
+      "words": [
+        "DISPLAY",
+        "EXHIBIT",
+        "PRESENT",
+        "SHOW"
+      ]
+    },
+    {
+      "title": "TORUS-SHAPED FOOD",
+      "color": "blue",
+      "words": [
+        "BAGEL",
+        "CHEERIO",
+        "DONUT",
+        "LIFESAVER"
+      ]
+    },
+    {
+      "title": "THINGS WITH STRIPES",
+      "color": "purple",
+      "words": [
+        "CANDY CANE",
+        "CROSSWALK",
+        "REFEREE",
+        "TIGER"
+      ]
+    }
+  ]
+}

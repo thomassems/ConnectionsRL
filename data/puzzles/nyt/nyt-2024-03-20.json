@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-20",
+  "groups": [
+    {
+      "title": "SEEN AT A SPORTS STADIUM",
+      "color": "yellow",
+      "words": [
+        "ASTROTURF",
+        "JUMBOTRON",
+        "SCOREBOARD",
+        "SKYBOX"
+      ]
+    },
+    {
+      "title": "CAMERA BRANDS",
+      "color": "green",
+      "words": [
+        "FUJIFILM",
+        "HASSELBLAD",
+        "OLYMPUS",
+        "POLAROID"
+      ]
+    },
+    {
+      "title": "ITALIAN DEMONYMS",
+      "color": "blue",
+      "words": [
+        "BOLOGNESE",
+        "NEAPOLITAN",
+        "PARMESAN",
+        "VENETIAN"
+      ]
+    },
+    {
+      "title": "STARTING WITH ROCK BANDS",
+      "color": "purple",
+      "words": [
+        "CREAMSICLE",
+        "JOURNEYMAN",
+        "KISSCAM",
+        "RUSHMORE"
+      ]
+    }
+  ]
+}

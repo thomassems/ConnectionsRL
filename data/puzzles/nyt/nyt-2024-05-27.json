@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-27",
+  "groups": [
+    {
+      "title": "AGENCY IN DECISIONMAKING",
+      "color": "yellow",
+      "words": [
+        "CHOICE",
+        "SAY",
+        "VOICE",
+        "VOTE"
+      ]
+    },
+    {
+      "title": "DOG COMMANDS",
+      "color": "green",
+      "words": [
+        "DOWN",
+        "HEEL",
+        "SHAKE",
+        "SPEAK"
+      ]
+    },
+    {
+      "title": "KINDS OF NOTES",
+      "color": "blue",
+      "words": [
+        "FLAT",
+        "NATURAL",
+        "QUARTER",
+        "WHOLE"
+      ]
+    },
+    {
+      "title": "___ IRON",
+      "color": "purple",
+      "words": [
+        "PUMP",
+        "STEAM",
+        "TIRE",
+        "WAFFLE"
+      ]
+    }
+  ]
+}

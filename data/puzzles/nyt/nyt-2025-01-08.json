@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-08",
+  "groups": [
+    {
+      "title": "SECTION",
+      "color": "yellow",
+      "words": [
+        "BRANCH",
+        "DIVISION",
+        "LIMB",
+        "WING"
+      ]
+    },
+    {
+      "title": "ACCESSORIES FOR PLAYING AN INSTRUMENT",
+      "color": "green",
+      "words": [
+        "BOW",
+        "DRUMSTICK",
+        "MALLET",
+        "PICK"
+      ]
+    },
+    {
+      "title": "DISTINCTIVE FEATURES OF AN ELEPHANT",
+      "color": "blue",
+      "words": [
+        "EAR",
+        "MEMORY",
+        "TRUNK",
+        "TUSK"
+      ]
+    },
+    {
+      "title": "WORDS MISSPELLED IN NU METAL BAND NAMES",
+      "color": "purple",
+      "words": [
+        "BISCUIT",
+        "CORN",
+        "LINCOLN",
+        "STAINED"
+      ]
+    }
+  ]
+}

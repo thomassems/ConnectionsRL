@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-28",
+  "groups": [
+    {
+      "title": "PARTS OF A CAR",
+      "color": "yellow",
+      "words": [
+        "BUMPER",
+        "HOOD",
+        "TIRE",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "MOVE QUICKLY",
+      "color": "green",
+      "words": [
+        "BOLT",
+        "DART",
+        "DASH",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "BIRDS",
+      "color": "blue",
+      "words": [
+        "CARDINAL",
+        "JAY",
+        "LARK",
+        "SWIFT"
+      ]
+    },
+    {
+      "title": "JAZZ LEGENDS",
+      "color": "purple",
+      "words": [
+        "HANCOCK",
+        "HOLIDAY",
+        "MONK",
+        "PARKER"
+      ]
+    }
+  ]
+}

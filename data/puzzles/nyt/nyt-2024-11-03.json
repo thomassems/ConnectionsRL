@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-03",
+  "groups": [
+    {
+      "title": "HEARTWARMING",
+      "color": "yellow",
+      "words": [
+        "MOVING",
+        "SWEET",
+        "TENDER",
+        "TOUCHING"
+      ]
+    },
+    {
+      "title": "SNEAKING SUSPICION",
+      "color": "green",
+      "words": [
+        "FEELING",
+        "HUNCH",
+        "IMPRESSION",
+        "SENSE"
+      ]
+    },
+    {
+      "title": "LEGAL SESSION",
+      "color": "blue",
+      "words": [
+        "HEARING",
+        "INQUIRY",
+        "PROCEEDING",
+        "TRIAL"
+      ]
+    },
+    {
+      "title": "EASY ___",
+      "color": "purple",
+      "words": [
+        "CHAIR",
+        "LISTENING",
+        "MONEY",
+        "STREET"
+      ]
+    }
+  ]
+}

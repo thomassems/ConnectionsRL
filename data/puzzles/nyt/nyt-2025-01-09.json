@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-09",
+  "groups": [
+    {
+      "title": "VENDOR’S SPOT AT A MARKET",
+      "color": "yellow",
+      "words": [
+        "BOOTH",
+        "STALL",
+        "STAND",
+        "TABLE"
+      ]
+    },
+    {
+      "title": "DOG COMMANDS",
+      "color": "green",
+      "words": [
+        "COME",
+        "HEEL",
+        "SIT",
+        "STAY"
+      ]
+    },
+    {
+      "title": "CORPORATE DEPARTMENTS",
+      "color": "blue",
+      "words": [
+        "FINANCE",
+        "IT",
+        "LEGAL",
+        "SALES"
+      ]
+    },
+    {
+      "title": "LAST WORDS IN “AMERICA THE BEAUTIFUL”",
+      "color": "purple",
+      "words": [
+        "FROM",
+        "SEA",
+        "SHINING",
+        "TO"
+      ]
+    }
+  ]
+}

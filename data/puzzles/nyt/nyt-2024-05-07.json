@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-07",
+  "groups": [
+    {
+      "title": "DELI BREAD OPTIONS",
+      "color": "yellow",
+      "words": [
+        "BUN",
+        "HERO",
+        "ROLL",
+        "WRAP"
+      ]
+    },
+    {
+      "title": "SLANG FOR MOUTH",
+      "color": "green",
+      "words": [
+        "CHOPS",
+        "KISSER",
+        "TRAP",
+        "YAP"
+      ]
+    },
+    {
+      "title": "KEEP RHYTHM WITH MUSIC",
+      "color": "blue",
+      "words": [
+        "BOB",
+        "CLAP",
+        "SNAP",
+        "TAP"
+      ]
+    },
+    {
+      "title": "ROUND OF ___",
+      "color": "purple",
+      "words": [
+        "APPLAUSE",
+        "DRINKS",
+        "FUNDING",
+        "GOLF"
+      ]
+    }
+  ]
+}

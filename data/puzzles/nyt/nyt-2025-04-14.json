@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-14",
+  "groups": [
+    {
+      "title": "RESTRICT",
+      "color": "yellow",
+      "words": [
+        "BLOCK",
+        "CHECK",
+        "DAM",
+        "STOP"
+      ]
+    },
+    {
+      "title": "TICKETED EVENTS",
+      "color": "green",
+      "words": [
+        "CONCERT",
+        "GAME",
+        "MOVIE",
+        "PLAY"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH THE GAME THE OREGON TRAIL",
+      "color": "blue",
+      "words": [
+        "DYSENTERY",
+        "FORD",
+        "HUNT",
+        "OXEN"
+      ]
+    },
+    {
+      "title": "WHAT “FORD” MIGHT REFER TO",
+      "color": "purple",
+      "words": [
+        "ACTOR",
+        "CAR",
+        "DIRECTOR",
+        "PRESIDENT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-05",
+  "groups": [
+    {
+      "title": "CLASSIC TOYS",
+      "color": "yellow",
+      "words": [
+        "BLOCKS",
+        "DOLL",
+        "TOP",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "WORDS WITH THREE G’S",
+      "color": "green",
+      "words": [
+        "BAGGAGE",
+        "EGGNOG",
+        "GIGGLE",
+        "LEGGINGS"
+      ]
+    },
+    {
+      "title": "SHAKESPEARE CHARACTERS",
+      "color": "blue",
+      "words": [
+        "DUNCAN",
+        "JULIET",
+        "PUCK",
+        "VIOLA"
+      ]
+    },
+    {
+      "title": "___ STICK",
+      "color": "purple",
+      "words": [
+        "FISH",
+        "HOCKEY",
+        "MEMORY",
+        "SELFIE"
+      ]
+    }
+  ]
+}

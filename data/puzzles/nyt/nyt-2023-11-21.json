@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-21",
+  "groups": [
+    {
+      "title": "TYPES OF TEETH",
+      "color": "yellow",
+      "words": [
+        "CANINE",
+        "FANG",
+        "MOLAR",
+        "TUSK"
+      ]
+    },
+    {
+      "title": "FASHIONABLE",
+      "color": "green",
+      "words": [
+        "CHIC",
+        "HIP",
+        "HOT",
+        "IN"
+      ]
+    },
+    {
+      "title": "DANCE MOVES",
+      "color": "blue",
+      "words": [
+        "FLOSS",
+        "ROBOT",
+        "VOGUE",
+        "WORM"
+      ]
+    },
+    {
+      "title": "THINGS THAT SUCK",
+      "color": "purple",
+      "words": [
+        "LEECH",
+        "STRAW",
+        "VACUUM",
+        "VAMPIRE"
+      ]
+    }
+  ]
+}

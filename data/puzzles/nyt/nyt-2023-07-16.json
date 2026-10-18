@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-16",
+  "groups": [
+    {
+      "title": "U.S. COINS",
+      "color": "yellow",
+      "words": [
+        "DIME",
+        "NICKEL",
+        "PENNY",
+        "QUARTER"
+      ]
+    },
+    {
+      "title": "METAL ELEMENTS",
+      "color": "green",
+      "words": [
+        "IRON",
+        "LEAD",
+        "TIN",
+        "ZINC"
+      ]
+    },
+    {
+      "title": "LUCKY CHARMS MARSHMALLOWS",
+      "color": "blue",
+      "words": [
+        "CLOVER",
+        "HORSESHOE",
+        "MOON",
+        "RAINBOW"
+      ]
+    },
+    {
+      "title": "___ AND ___",
+      "color": "purple",
+      "words": [
+        "AGAIN",
+        "HALF",
+        "NECK",
+        "SO"
+      ]
+    }
+  ]
+}

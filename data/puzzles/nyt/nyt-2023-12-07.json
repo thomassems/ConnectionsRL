@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-07",
+  "groups": [
+    {
+      "title": "STATE ABBREVIATIONS",
+      "color": "yellow",
+      "words": [
+        "HI",
+        "LA",
+        "MA",
+        "OK"
+      ]
+    },
+    {
+      "title": "CABLE CHANNELS",
+      "color": "green",
+      "words": [
+        "BET",
+        "E",
+        "HALLMARK",
+        "USA"
+      ]
+    },
+    {
+      "title": "IN THE NATO ALPHABET",
+      "color": "blue",
+      "words": [
+        "ALFA",
+        "BRAVO",
+        "ROMEO",
+        "TANGO"
+      ]
+    },
+    {
+      "title": "___-___",
+      "color": "purple",
+      "words": [
+        "BOO",
+        "POM",
+        "TOM",
+        "YO"
+      ]
+    }
+  ]
+}

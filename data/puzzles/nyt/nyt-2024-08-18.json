@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-18",
+  "groups": [
+    {
+      "title": "ALARM CLOCK BUTTONS",
+      "color": "yellow",
+      "words": [
+        "ALARM",
+        "HOUR",
+        "SNOOZE",
+        "TIME SET"
+      ]
+    },
+    {
+      "title": "“HERE’S A THOUGHT ...”",
+      "color": "green",
+      "words": [
+        "PERHAPS",
+        "SAY",
+        "SUPPOSE",
+        "WHAT IF"
+      ]
+    },
+    {
+      "title": "CANDY PIECES",
+      "color": "blue",
+      "words": [
+        "KISS",
+        "NERD",
+        "RUNT",
+        "WHOPPER"
+      ]
+    },
+    {
+      "title": "SEVEN DWARFS MINUS LAST LETTER",
+      "color": "purple",
+      "words": [
+        "DO",
+        "DOPE",
+        "GRUMP",
+        "SLEEP"
+      ]
+    }
+  ]
+}

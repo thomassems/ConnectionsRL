@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-12",
+  "groups": [
+    {
+      "title": "FABRICATION",
+      "color": "yellow",
+      "words": [
+        "FAIRY TALE",
+        "FANTASY",
+        "FICTION",
+        "INVENTION"
+      ]
+    },
+    {
+      "title": "WOO",
+      "color": "green",
+      "words": [
+        "CHARM",
+        "COURT",
+        "PURSUE",
+        "ROMANCE"
+      ]
+    },
+    {
+      "title": "CLASSIC ATARI GAMES",
+      "color": "blue",
+      "words": [
+        "ASTEROIDS",
+        "BREAKOUT",
+        "CENTIPEDE",
+        "DEFENDER"
+      ]
+    },
+    {
+      "title": "THINGS FEATURING TAILS",
+      "color": "purple",
+      "words": [
+        "COIN TOSS",
+        "COMETS",
+        "DRESS COAT",
+        "SONIC THE HEDGEHOG"
+      ]
+    }
+  ]
+}

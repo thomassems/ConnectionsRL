@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-07",
+  "groups": [
+    {
+      "title": "EMBLEM",
+      "color": "yellow",
+      "words": [
+        "LABEL",
+        "MARK",
+        "SEAL",
+        "STAMP"
+      ]
+    },
+    {
+      "title": "SUBJECTS OF ACCLAIMED MUSICAL BIOPICS",
+      "color": "green",
+      "words": [
+        "BROWN",
+        "CASH",
+        "DYLAN",
+        "MERCURY"
+      ]
+    },
+    {
+      "title": "U.S. CITIES",
+      "color": "blue",
+      "words": [
+        "BUFFALO",
+        "HELENA",
+        "IRVING",
+        "PHOENIX"
+      ]
+    },
+    {
+      "title": "FRUITS WITH THEIR SECOND LETTERS CHANGED",
+      "color": "purple",
+      "words": [
+        "AMPLE",
+        "DOTE",
+        "LUMON",
+        "POACH"
+      ]
+    }
+  ]
+}

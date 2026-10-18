@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-19",
+  "groups": [
+    {
+      "title": "ROMANTIC PARTNER",
+      "color": "yellow",
+      "words": [
+        "FLAME",
+        "LOVER",
+        "STEADY",
+        "SWEETHEART"
+      ]
+    },
+    {
+      "title": "INSULT",
+      "color": "green",
+      "words": [
+        "BURN",
+        "DIG",
+        "JAB",
+        "SLIGHT"
+      ]
+    },
+    {
+      "title": "GAS PUMP OPTIONS",
+      "color": "blue",
+      "words": [
+        "DIESEL",
+        "PLUS",
+        "PREMIUM",
+        "REGULAR"
+      ]
+    },
+    {
+      "title": "___ TABLE",
+      "color": "purple",
+      "words": [
+        "COFFEE",
+        "PERIODIC",
+        "POOL",
+        "WATER"
+      ]
+    }
+  ]
+}

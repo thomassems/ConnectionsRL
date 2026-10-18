@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-31",
+  "groups": [
+    {
+      "title": "APPETIZER UNIT",
+      "color": "yellow",
+      "words": [
+        "FRY",
+        "NACHO",
+        "POPPER",
+        "WING"
+      ]
+    },
+    {
+      "title": "RESPONSE TO A CORRECT ANSWER",
+      "color": "green",
+      "words": [
+        "BINGO",
+        "CORRECT",
+        "RIGHT",
+        "YES"
+      ]
+    },
+    {
+      "title": "MAR",
+      "color": "blue",
+      "words": [
+        "CHIP",
+        "DING",
+        "NICK",
+        "SCRATCH"
+      ]
+    },
+    {
+      "title": "___JACK",
+      "color": "purple",
+      "words": [
+        "APPLE",
+        "CRACKER",
+        "FLAP",
+        "LUMBER"
+      ]
+    }
+  ]
+}

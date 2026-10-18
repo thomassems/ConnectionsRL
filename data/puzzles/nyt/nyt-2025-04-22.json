@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-22",
+  "groups": [
+    {
+      "title": "CANCEL, AS A PROJECT",
+      "color": "yellow",
+      "words": [
+        "AXE",
+        "CUT",
+        "DROP",
+        "SCRAP"
+      ]
+    },
+    {
+      "title": "SEEN IN A POTTERY STUDIO",
+      "color": "green",
+      "words": [
+        "CLAY",
+        "GLAZE",
+        "KILN",
+        "WHEEL"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE SLIPPERY",
+      "color": "blue",
+      "words": [
+        "BANANA PEEL",
+        "EEL",
+        "GREASE",
+        "ICE"
+      ]
+    },
+    {
+      "title": "NATURAL PRODUCERS OF HEAT",
+      "color": "purple",
+      "words": [
+        "FIRE",
+        "LIGHTNING",
+        "SUN",
+        "VOLCANO"
+      ]
+    }
+  ]
+}

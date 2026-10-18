@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-17",
+  "groups": [
+    {
+      "title": "GET EXCITED, WITH \"UP\"",
+      "color": "yellow",
+      "words": [
+        "AMP",
+        "FIRE",
+        "HYPE",
+        "PSYCH"
+      ]
+    },
+    {
+      "title": "KINDS OF SHOES",
+      "color": "green",
+      "words": [
+        "FLAT",
+        "MULE",
+        "PUMP",
+        "SLIDE"
+      ]
+    },
+    {
+      "title": "LEGISLATIVE ROLES",
+      "color": "blue",
+      "words": [
+        "CHAIR",
+        "LEADER",
+        "SPEAKER",
+        "WHIP"
+      ]
+    },
+    {
+      "title": "NAME HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "DUG",
+        "MATTE",
+        "MIC",
+        "PEAT"
+      ]
+    }
+  ]
+}

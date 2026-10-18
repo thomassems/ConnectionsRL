@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-28",
+  "groups": [
+    {
+      "title": "FUNNY PERSON",
+      "color": "yellow",
+      "words": [
+        "CARD",
+        "CHARACTER",
+        "JOKER",
+        "LAUGH"
+      ]
+    },
+    {
+      "title": "RESISTANCE TRAINING EQUIPMENT",
+      "color": "green",
+      "words": [
+        "BAND",
+        "BENCH",
+        "DUMBBELL",
+        "MAT"
+      ]
+    },
+    {
+      "title": "CANDY BARS MINUS “S”",
+      "color": "blue",
+      "words": [
+        "AIRHEAD",
+        "MAR",
+        "MOUND",
+        "SNICKER"
+      ]
+    },
+    {
+      "title": "SPEED ___",
+      "color": "purple",
+      "words": [
+        "BUMP",
+        "CHESS",
+        "DEMON",
+        "DIAL"
+      ]
+    }
+  ]
+}

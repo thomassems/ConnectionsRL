@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-26",
+  "groups": [
+    {
+      "title": "MUNICIPALITIES",
+      "color": "yellow",
+      "words": [
+        "CITY",
+        "COUNTY",
+        "TOWN",
+        "VILLAGE"
+      ]
+    },
+    {
+      "title": "BLENDER BUTTONS",
+      "color": "green",
+      "words": [
+        "CHOP",
+        "GRIND",
+        "PULSE",
+        "PUREE"
+      ]
+    },
+    {
+      "title": "FINANCIAL TERMS",
+      "color": "blue",
+      "words": [
+        "CAPITAL",
+        "EQUITY",
+        "INTEREST",
+        "STOCK"
+      ]
+    },
+    {
+      "title": "___ LEAGUE",
+      "color": "purple",
+      "words": [
+        "IVY",
+        "JUSTICE",
+        "LITTLE",
+        "PREMIER"
+      ]
+    }
+  ]
+}

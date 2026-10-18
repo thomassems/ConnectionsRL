@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-13",
+  "groups": [
+    {
+      "title": "MADE OF KERATIN",
+      "color": "yellow",
+      "words": [
+        "CLAW",
+        "HOOF",
+        "HORN",
+        "NAIL"
+      ]
+    },
+    {
+      "title": "ROAD RUNNER CARTOON STAPLES",
+      "color": "green",
+      "words": [
+        "ANVIL",
+        "BOULDER",
+        "COYOTE",
+        "TNT"
+      ]
+    },
+    {
+      "title": "KINDS OF PANTS",
+      "color": "blue",
+      "words": [
+        "CAPRI",
+        "CARGO",
+        "HAMMER",
+        "STIRRUP"
+      ]
+    },
+    {
+      "title": "___ ROLL",
+      "color": "purple",
+      "words": [
+        "CALIFORNIA",
+        "DRUM",
+        "EGG",
+        "HONOR"
+      ]
+    }
+  ]
+}

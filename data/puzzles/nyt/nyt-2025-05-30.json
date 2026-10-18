@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-30",
+  "groups": [
+    {
+      "title": "RODS",
+      "color": "yellow",
+      "words": [
+        "BAT",
+        "CLUB",
+        "STAFF",
+        "STICK"
+      ]
+    },
+    {
+      "title": "THEY'RE ON A ROLL!",
+      "color": "green",
+      "words": [
+        "FOIL",
+        "TAPE",
+        "RIBBON",
+        "TOILET PAPER"
+      ]
+    },
+    {
+      "title": "COMMON SWAG ITEMS",
+      "color": "blue",
+      "words": [
+        "HAT",
+        "TEE",
+        "TOTE",
+        "WATER BOTTLE"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “SHACK”",
+      "color": "purple",
+      "words": [
+        "CADDY",
+        "LOVE",
+        "RADIO",
+        "SHAKE"
+      ]
+    }
+  ]
+}

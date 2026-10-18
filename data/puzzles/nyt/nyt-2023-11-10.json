@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-10",
+  "groups": [
+    {
+      "title": "SPICES",
+      "color": "yellow",
+      "words": [
+        "ANISE",
+        "DILL",
+        "NUTMEG",
+        "SAGE"
+      ]
+    },
+    {
+      "title": "INTELLIGENT",
+      "color": "green",
+      "words": [
+        "BRIGHT",
+        "QUICK",
+        "SHARP",
+        "SMART"
+      ]
+    },
+    {
+      "title": "DEODORANTS",
+      "color": "blue",
+      "words": [
+        "AXE",
+        "DEGREE",
+        "OLD SPICE",
+        "SECRET"
+      ]
+    },
+    {
+      "title": "MEDIEVAL WEAPONS",
+      "color": "purple",
+      "words": [
+        "CLUB",
+        "MACE",
+        "SPEAR",
+        "SWORD"
+      ]
+    }
+  ]
+}

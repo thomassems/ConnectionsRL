@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-09",
+  "groups": [
+    {
+      "title": "BASEBALL CALLS",
+      "color": "yellow",
+      "words": [
+        "BALL",
+        "OUT",
+        "SAFE",
+        "STRIKE"
+      ]
+    },
+    {
+      "title": "HEAT SOURCES",
+      "color": "green",
+      "words": [
+        "FORGE",
+        "FURNACE",
+        "KILN",
+        "OVEN"
+      ]
+    },
+    {
+      "title": "FISH THAT ARE VERBS",
+      "color": "blue",
+      "words": [
+        "CARP",
+        "CATFISH",
+        "FLOUNDER",
+        "SMELT"
+      ]
+    },
+    {
+      "title": "SILENT “L”",
+      "color": "purple",
+      "words": [
+        "COLONEL",
+        "SALMON",
+        "WALK",
+        "YOLK"
+      ]
+    }
+  ]
+}

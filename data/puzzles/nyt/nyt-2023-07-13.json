@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-13",
+  "groups": [
+    {
+      "title": "SHOE PARTS",
+      "color": "yellow",
+      "words": [
+        "HEEL",
+        "LACE",
+        "SOLE",
+        "TONGUE"
+      ]
+    },
+    {
+      "title": "BOARD GAMES",
+      "color": "green",
+      "words": [
+        "CLUE",
+        "RISK",
+        "SORRY",
+        "TROUBLE"
+      ]
+    },
+    {
+      "title": "FICTIONAL SPIES",
+      "color": "blue",
+      "words": [
+        "BOND",
+        "HUNT",
+        "RYAN",
+        "SMART"
+      ]
+    },
+    {
+      "title": "RUBBER ___",
+      "color": "purple",
+      "words": [
+        "BAND",
+        "CEMENT",
+        "DUCKIE",
+        "SOUL"
+      ]
+    }
+  ]
+}

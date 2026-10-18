@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-09",
+  "groups": [
+    {
+      "title": "EAT VORACIOUSLY",
+      "color": "yellow",
+      "words": [
+        "DOWN",
+        "INHALE",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "title": "AREAS OF ACADEMIC FOCUS",
+      "color": "green",
+      "words": [
+        "CONCENTRATION",
+        "DEGREE",
+        "MAJOR",
+        "MINOR"
+      ]
+    },
+    {
+      "title": "UNIVERSAL",
+      "color": "blue",
+      "words": [
+        "BLANKET",
+        "BROAD",
+        "GENERAL",
+        "SWEEPING"
+      ]
+    },
+    {
+      "title": "SPACE ___",
+      "color": "purple",
+      "words": [
+        "BAR",
+        "CADET",
+        "HEATER",
+        "STATION"
+      ]
+    }
+  ]
+}

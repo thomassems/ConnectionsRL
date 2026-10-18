@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-19",
+  "groups": [
+    {
+      "title": "MOVIE SUMMARY INFO",
+      "color": "yellow",
+      "words": [
+        "CAST",
+        "GENRE",
+        "PLOT",
+        "TITLE"
+      ]
+    },
+    {
+      "title": "PRETENSE",
+      "color": "green",
+      "words": [
+        "AFFECT",
+        "AIRS",
+        "CHARADE",
+        "FRONT"
+      ]
+    },
+    {
+      "title": "FAMOUS GUITARISTS",
+      "color": "blue",
+      "words": [
+        "BERRY",
+        "KING",
+        "PAGE",
+        "WATERS"
+      ]
+    },
+    {
+      "title": "SECOND ___",
+      "color": "purple",
+      "words": [
+        "FIDDLE",
+        "GUESS",
+        "NATURE",
+        "WIND"
+      ]
+    }
+  ]
+}

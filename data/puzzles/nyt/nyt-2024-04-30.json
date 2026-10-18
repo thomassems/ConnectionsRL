@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-30",
+  "groups": [
+    {
+      "title": "DIPPING SAUCES",
+      "color": "yellow",
+      "words": [
+        "AIOLI",
+        "BARBECUE",
+        "MARINARA",
+        "RANCH"
+      ]
+    },
+    {
+      "title": "INTERROGATE",
+      "color": "green",
+      "words": [
+        "EXAMINE",
+        "GRILL",
+        "PROBE",
+        "QUESTION"
+      ]
+    },
+    {
+      "title": "TRANSACTION RECORD",
+      "color": "blue",
+      "words": [
+        "BILL",
+        "INVOICE",
+        "RECEIPT",
+        "STATEMENT"
+      ]
+    },
+    {
+      "title": "WHAT “STOCK” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ANCESTRY",
+        "BROTH",
+        "CATTLE",
+        "MERCHANDISE"
+      ]
+    }
+  ]
+}

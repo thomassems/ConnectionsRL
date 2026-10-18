@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-11",
+  "groups": [
+    {
+      "title": "MAKE HAPPY",
+      "color": "yellow",
+      "words": [
+        "DELIGHT",
+        "PLEASE",
+        "SUIT",
+        "TICKLE"
+      ]
+    },
+    {
+      "title": "EVADE",
+      "color": "green",
+      "words": [
+        "DODGE",
+        "DUCK",
+        "SHAKE",
+        "SKIRT"
+      ]
+    },
+    {
+      "title": "COMMON VIDEO GAME FEATURES",
+      "color": "blue",
+      "words": [
+        "BOSS",
+        "LEVEL",
+        "HEALTH",
+        "POWER-UP"
+      ]
+    },
+    {
+      "title": "MOTHER ___",
+      "color": "purple",
+      "words": [
+        "EARTH",
+        "GOOSE",
+        "MAY I",
+        "SUPERIOR"
+      ]
+    }
+  ]
+}

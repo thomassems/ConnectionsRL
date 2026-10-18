@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-07",
+  "groups": [
+    {
+      "title": "DIGITAL NOTIFICATION SOUNDS",
+      "color": "yellow",
+      "words": [
+        "CHIME",
+        "DING",
+        "PING",
+        "RING"
+      ]
+    },
+    {
+      "title": "TATTLE",
+      "color": "green",
+      "words": [
+        "RAT",
+        "SING",
+        "SNITCH",
+        "SQUEAL"
+      ]
+    },
+    {
+      "title": "GROUP WITHIN A GROUP",
+      "color": "blue",
+      "words": [
+        "CAMP",
+        "DIVISION",
+        "FACTION",
+        "WING"
+      ]
+    },
+    {
+      "title": "MICROSOFT PRODUCTS",
+      "color": "purple",
+      "words": [
+        "BING",
+        "EDGE",
+        "SURFACE",
+        "WORD"
+      ]
+    }
+  ]
+}

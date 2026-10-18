@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-30",
+  "groups": [
+    {
+      "title": "UPSWING",
+      "color": "yellow",
+      "words": [
+        "BOOM",
+        "RISE",
+        "SPIKE",
+        "SURGE"
+      ]
+    },
+    {
+      "title": "THINGS WITH WHEELS",
+      "color": "green",
+      "words": [
+        "DOLLY",
+        "ROLLERBLADE",
+        "SKATEBOARD",
+        "WAGON"
+      ]
+    },
+    {
+      "title": "KINDS OF TAPE",
+      "color": "blue",
+      "words": [
+        "DUCT",
+        "ELECTRICAL",
+        "GAFFER",
+        "PACKING"
+      ]
+    },
+    {
+      "title": "RETAIL CHAINS WITH A LETTER CHANGED",
+      "color": "purple",
+      "words": [
+        "BEST BOY",
+        "IDEA",
+        "KRONER",
+        "STABLES"
+      ]
+    }
+  ]
+}

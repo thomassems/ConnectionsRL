@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-30",
+  "groups": [
+    {
+      "title": "OFF-WHITE SHADES",
+      "color": "yellow",
+      "words": [
+        "CREAM",
+        "EGGSHELL",
+        "IVORY",
+        "VANILLA"
+      ]
+    },
+    {
+      "title": "ANTI-VAMPIRE",
+      "color": "green",
+      "words": [
+        "CRUCIFIX",
+        "GARLIC",
+        "MIRROR",
+        "STAKE"
+      ]
+    },
+    {
+      "title": "KINDS OF MEAT",
+      "color": "blue",
+      "words": [
+        "BEEF",
+        "PORK",
+        "POULTRY",
+        "VENISON"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR ARGUMENT",
+      "color": "purple",
+      "words": [
+        "ROW",
+        "QUARREL",
+        "SPAT",
+        "TIFF"
+      ]
+    }
+  ]
+}

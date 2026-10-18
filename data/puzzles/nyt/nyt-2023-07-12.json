@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-12",
+  "groups": [
+    {
+      "title": "VEGETABLES THAT ARE ALSO FRUITS",
+      "color": "yellow",
+      "words": [
+        "CUCUMBER",
+        "EGGPLANT",
+        "PEPPER",
+        "TOMATO"
+      ]
+    },
+    {
+      "title": "3-D SHAPES",
+      "color": "green",
+      "words": [
+        "CONE",
+        "CUBE",
+        "PYRAMID",
+        "SPHERE"
+      ]
+    },
+    {
+      "title": "WORDS WITH “i”",
+      "color": "blue",
+      "words": [
+        "MAC",
+        "PAD",
+        "PHONE",
+        "POD"
+      ]
+    },
+    {
+      "title": "WORDS WITH TWO PRONUNCIATIONS",
+      "color": "purple",
+      "words": [
+        "JOB",
+        "LIMA",
+        "MOBILE",
+        "POLISH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-04",
+  "groups": [
+    {
+      "title": "CONCAVITY",
+      "color": "yellow",
+      "words": [
+        "DENT",
+        "DIMPLE",
+        "DING",
+        "DIVOT"
+      ]
+    },
+    {
+      "title": "SMALL AMOUNT",
+      "color": "green",
+      "words": [
+        "DAB",
+        "DASH",
+        "DOLLOP",
+        "DROP"
+      ]
+    },
+    {
+      "title": "DISNEY CHARACTERS",
+      "color": "blue",
+      "words": [
+        "DAISY",
+        "DALE",
+        "DOC",
+        "DORY"
+      ]
+    },
+    {
+      "title": "___ DATE",
+      "color": "purple",
+      "words": [
+        "DELIVERY",
+        "DINNER",
+        "DREAM",
+        "DUE"
+      ]
+    }
+  ]
+}

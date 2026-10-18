@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-22",
+  "groups": [
+    {
+      "title": "ONE THING AFTER ANOTHER",
+      "color": "yellow",
+      "words": [
+        "CHAIN",
+        "TRAIN",
+        "SERIES",
+        "STRING"
+      ]
+    },
+    {
+      "title": "KINDS OF GOLF CLUBS",
+      "color": "green",
+      "words": [
+        "DRIVER",
+        "IRON",
+        "WEDGE",
+        "WOOD"
+      ]
+    },
+    {
+      "title": "HORROR MOVIES, WITH “THE”",
+      "color": "blue",
+      "words": [
+        "BIRDS",
+        "FOG",
+        "OMEN",
+        "RING"
+      ]
+    },
+    {
+      "title": "WORDS FOR SAUSAGE",
+      "color": "purple",
+      "words": [
+        "BRAT",
+        "DOG",
+        "FRANK",
+        "LINK"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-14",
+  "groups": [
+    {
+      "title": "SLENDER PROJECTIONS",
+      "color": "yellow",
+      "words": [
+        "POINT",
+        "PRONG",
+        "TINE",
+        "TIP"
+      ]
+    },
+    {
+      "title": "CONDITIONS FOR COLLECTIBLES",
+      "color": "green",
+      "words": [
+        "FAIR",
+        "FINE",
+        "GOOD",
+        "MINT"
+      ]
+    },
+    {
+      "title": "PROFESSION",
+      "color": "blue",
+      "words": [
+        "BUSINESS",
+        "FIELD",
+        "LINE",
+        "TRADE"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “NUT”",
+      "color": "purple",
+      "words": [
+        "BRAZIL",
+        "BUTTER",
+        "DOUGH",
+        "PINE"
+      ]
+    }
+  ]
+}

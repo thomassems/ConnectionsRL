@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-11",
+  "groups": [
+    {
+      "title": "SPARSE/LACKING",
+      "color": "yellow",
+      "words": [
+        "LIGHT",
+        "SHORT",
+        "SPARE",
+        "THIN"
+      ]
+    },
+    {
+      "title": "FUN TIME",
+      "color": "green",
+      "words": [
+        "BALL",
+        "BLAST",
+        "KICK",
+        "RIOT"
+      ]
+    },
+    {
+      "title": "FILMMAKING EQUIPMENT",
+      "color": "blue",
+      "words": [
+        "BOOM",
+        "DOLLY",
+        "LENS",
+        "TRIPOD"
+      ]
+    },
+    {
+      "title": "“GET A ___!”",
+      "color": "purple",
+      "words": [
+        "CLUE",
+        "GRIP",
+        "LIFE",
+        "ROOM"
+      ]
+    }
+  ]
+}

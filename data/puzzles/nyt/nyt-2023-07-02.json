@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-02",
+  "groups": [
+    {
+      "title": "MUSIC GENRES",
+      "color": "yellow",
+      "words": [
+        "JAZZ",
+        "POP",
+        "PUNK",
+        "RAP"
+      ]
+    },
+    {
+      "title": "WEB BROWSERS",
+      "color": "green",
+      "words": [
+        "CHROME",
+        "EDGE",
+        "OPERA",
+        "SAFARI"
+      ]
+    },
+    {
+      "title": "“LITTLE WOMEN” SISTERS",
+      "color": "blue",
+      "words": [
+        "AMY",
+        "BETH",
+        "JO",
+        "MEG"
+      ]
+    },
+    {
+      "title": "LIL ___ RAPPERS",
+      "color": "purple",
+      "words": [
+        "BABY",
+        "JON",
+        "KIM",
+        "WAYNE"
+      ]
+    }
+  ]
+}

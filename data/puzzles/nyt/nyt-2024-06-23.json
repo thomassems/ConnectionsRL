@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-23",
+  "groups": [
+    {
+      "title": "“SETTLE DOWN!”",
+      "color": "yellow",
+      "words": [
+        "EASY",
+        "ENOUGH",
+        "RELAX",
+        "QUIET"
+      ]
+    },
+    {
+      "title": "MINOR AILMENTS",
+      "color": "green",
+      "words": [
+        "BUG",
+        "CHILL",
+        "COLD",
+        "COUGH"
+      ]
+    },
+    {
+      "title": "WHAT HUMPBACK WHALES DO",
+      "color": "blue",
+      "words": [
+        "BREACH",
+        "DIVE",
+        "SING",
+        "SPOUT"
+      ]
+    },
+    {
+      "title": "___ CITY NICKNAMES",
+      "color": "purple",
+      "words": [
+        "MAGIC",
+        "MOTOR",
+        "SIN",
+        "WINDY"
+      ]
+    }
+  ]
+}

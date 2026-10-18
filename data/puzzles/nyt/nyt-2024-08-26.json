@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-26",
+  "groups": [
+    {
+      "title": "OFFICIAL SANCTIONING",
+      "color": "yellow",
+      "words": [
+        "APPROVAL",
+        "BLESSING",
+        "CONSENT",
+        "SUPPORT"
+      ]
+    },
+    {
+      "title": "TORUS-SHAPED THINGS",
+      "color": "green",
+      "words": [
+        "BAGEL",
+        "LIFESAVER",
+        "TIRE",
+        "WREATH"
+      ]
+    },
+    {
+      "title": "BAD GOLF SHOTS",
+      "color": "blue",
+      "words": [
+        "HOOK",
+        "SHANK",
+        "SLICE",
+        "WHIFF"
+      ]
+    },
+    {
+      "title": "FOOTWEAR MINUS “ER” SOUND",
+      "color": "purple",
+      "words": [
+        "LOAF",
+        "SLIP",
+        "SNEAK",
+        "WADE"
+      ]
+    }
+  ]
+}

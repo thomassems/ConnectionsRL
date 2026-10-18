@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-22",
+  "groups": [
+    {
+      "title": "TYPES OF ACADEMIC COURSES",
+      "color": "yellow",
+      "words": [
+        "DISCUSSION",
+        "LAB",
+        "LECTURE",
+        "SEMINAR"
+      ]
+    },
+    {
+      "title": "RESULTS OF SOME DIGGING",
+      "color": "green",
+      "words": [
+        "DITCH",
+        "HOLE",
+        "PIT",
+        "TRENCH"
+      ]
+    },
+    {
+      "title": "ONES WEARING ROBES",
+      "color": "blue",
+      "words": [
+        "BOXER",
+        "JUDGE",
+        "MONK",
+        "WIZARD"
+      ]
+    },
+    {
+      "title": "___ UP",
+      "color": "purple",
+      "words": [
+        "BATTER",
+        "BOTTOMS",
+        "CHIN",
+        "LAWYER"
+      ]
+    }
+  ]
+}

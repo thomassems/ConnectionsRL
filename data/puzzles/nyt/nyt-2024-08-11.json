@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-11",
+  "groups": [
+    {
+      "title": "LARGE BOAT",
+      "color": "yellow",
+      "words": [
+        "BARGE",
+        "CRAFT",
+        "SHIP",
+        "VESSEL"
+      ]
+    },
+    {
+      "title": "ALL-TIME GREAT",
+      "color": "green",
+      "words": [
+        "BEST",
+        "CHAMP",
+        "GOAT",
+        "LEGEND"
+      ]
+    },
+    {
+      "title": "REGARDING",
+      "color": "blue",
+      "words": [
+        "ABOUT",
+        "CONCERNING",
+        "ON",
+        "TOWARD"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF BODY FEATURES",
+      "color": "purple",
+      "words": [
+        "HARE",
+        "I",
+        "MUSSEL",
+        "NAVAL"
+      ]
+    }
+  ]
+}

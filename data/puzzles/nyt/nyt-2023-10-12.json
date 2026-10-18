@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-12",
+  "groups": [
+    {
+      "title": "CONCEAL",
+      "color": "yellow",
+      "words": [
+        "BLOCK",
+        "COVER",
+        "HIDE",
+        "MASK"
+      ]
+    },
+    {
+      "title": "PARTS OF A WATCH",
+      "color": "green",
+      "words": [
+        "CROWN",
+        "DIAL",
+        "HAND",
+        "STRAP"
+      ]
+    },
+    {
+      "title": "WONDER WOMAN’S COSTUME",
+      "color": "blue",
+      "words": [
+        "LASSO",
+        "SHIELD",
+        "SWORD",
+        "TIARA"
+      ]
+    },
+    {
+      "title": "THINGS THAT CAN RUN",
+      "color": "purple",
+      "words": [
+        "CANDIDATE",
+        "FAUCET",
+        "MASCARA",
+        "NOSE"
+      ]
+    }
+  ]
+}

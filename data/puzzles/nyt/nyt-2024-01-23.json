@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-23",
+  "groups": [
+    {
+      "title": "BRING INTO BEING",
+      "color": "yellow",
+      "words": [
+        "COIN",
+        "CREATE",
+        "DEVISE",
+        "INVENT"
+      ]
+    },
+    {
+      "title": "EXCELLENT",
+      "color": "green",
+      "words": [
+        "FINE",
+        "PRIME",
+        "QUALITY",
+        "STERLING"
+      ]
+    },
+    {
+      "title": "SYMBOLS ABOVE NUMBERS ON A KEYBOARD",
+      "color": "blue",
+      "words": [
+        "AT",
+        "DOLLAR",
+        "PERCENT",
+        "POUND"
+      ]
+    },
+    {
+      "title": "PASS THE ___",
+      "color": "purple",
+      "words": [
+        "BAR",
+        "BUCK",
+        "TIME",
+        "TORCH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-13",
+  "groups": [
+    {
+      "title": "BEANS",
+      "color": "yellow",
+      "words": [
+        "FAVA",
+        "KIDNEY",
+        "LIMA",
+        "PINTO"
+      ]
+    },
+    {
+      "title": "CITIES BEGINNING WITH “L”",
+      "color": "green",
+      "words": [
+        "LAGOS",
+        "LIMERICK",
+        "LINCOLN",
+        "LUXOR"
+      ]
+    },
+    {
+      "title": "POETRY TERMS",
+      "color": "blue",
+      "words": [
+        "LINE",
+        "METER",
+        "RHYME",
+        "VERSE"
+      ]
+    },
+    {
+      "title": "“THE(E) ___” RAPPERS",
+      "color": "purple",
+      "words": [
+        "CREATOR",
+        "DUDE",
+        "RAPPER",
+        "STALLION"
+      ]
+    }
+  ]
+}

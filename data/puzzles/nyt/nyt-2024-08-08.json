@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-08",
+  "groups": [
+    {
+      "title": "SPLASHY WAYS TO ENTER A POOL",
+      "color": "yellow",
+      "words": [
+        "BACKFLIP",
+        "BELLYFLOP",
+        "CANNONBALL",
+        "JACKKNIFE"
+      ]
+    },
+    {
+      "title": "REITERATE",
+      "color": "green",
+      "words": [
+        "ECHO",
+        "PARROT",
+        "REPEAT",
+        "QUOTE"
+      ]
+    },
+    {
+      "title": "MAINSTAY",
+      "color": "blue",
+      "words": [
+        "ANCHOR",
+        "BACKBONE",
+        "CORNERSTONE",
+        "PILLAR"
+      ]
+    },
+    {
+      "title": "___ RADIO",
+      "color": "purple",
+      "words": [
+        "HAM",
+        "PIRATE",
+        "SATELLITE",
+        "TALK"
+      ]
+    }
+  ]
+}

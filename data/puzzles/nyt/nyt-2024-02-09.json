@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-09",
+  "groups": [
+    {
+      "title": "MUSIC PLAYER BUTTONS",
+      "color": "yellow",
+      "words": [
+        "REWIND",
+        "SHUFFLE",
+        "SKIP",
+        "STOP"
+      ]
+    },
+    {
+      "title": "BROADCAST",
+      "color": "green",
+      "words": [
+        "AIR",
+        "RUN",
+        "SCREEN",
+        "SHOW"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN DRAW",
+      "color": "blue",
+      "words": [
+        "BATH",
+        "CARD",
+        "CURTAIN",
+        "PICTURE"
+      ]
+    },
+    {
+      "title": "NUMBER ANAGRAMS",
+      "color": "purple",
+      "words": [
+        "EON",
+        "ETHER",
+        "NET",
+        "TOW"
+      ]
+    }
+  ]
+}

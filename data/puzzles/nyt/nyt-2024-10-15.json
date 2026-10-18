@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-15",
+  "groups": [
+    {
+      "title": "FOOTBALL POSITIONS",
+      "color": "yellow",
+      "words": [
+        "CENTER",
+        "GUARD",
+        "QUARTERBACK",
+        "SAFETY"
+      ]
+    },
+    {
+      "title": "CABLE CHANNELS",
+      "color": "green",
+      "words": [
+        "DISCOVERY",
+        "HISTORY",
+        "NICKELODEON",
+        "OXYGEN"
+      ]
+    },
+    {
+      "title": "FICTIONAL CLOWNS",
+      "color": "blue",
+      "words": [
+        "HOMEY",
+        "JOKER",
+        "PENNYWISE",
+        "RONALD"
+      ]
+    },
+    {
+      "title": "WHAT “D” MIGHT STAND FOR",
+      "color": "purple",
+      "words": [
+        "DEFENSE",
+        "DEMOCRAT",
+        "DIMENSIONAL",
+        "DRIVE"
+      ]
+    }
+  ]
+}

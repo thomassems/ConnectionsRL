@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-30",
+  "groups": [
+    {
+      "title": "BREATHES HEAVILY",
+      "color": "yellow",
+      "words": [
+        "GASPS",
+        "HUFFS",
+        "PANTS",
+        "PUFFS"
+      ]
+    },
+    {
+      "title": "PRESERVES, AS MEAT",
+      "color": "green",
+      "words": [
+        "CANS",
+        "CURES",
+        "SALTS",
+        "SMOKES"
+      ]
+    },
+    {
+      "title": "PREDICAMENTS",
+      "color": "blue",
+      "words": [
+        "BINDS",
+        "JAMS",
+        "PICKLES",
+        "SPOTS"
+      ]
+    },
+    {
+      "title": "THINGS IN “MY FAVORITE THINGS”",
+      "color": "purple",
+      "words": [
+        "KETTLES",
+        "MITTENS",
+        "RAINDROPS",
+        "WHISKERS"
+      ]
+    }
+  ]
+}

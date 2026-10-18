@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-01",
+  "groups": [
+    {
+      "title": "LONG SANDWICHES",
+      "color": "yellow",
+      "words": [
+        "HERO",
+        "HOAGIE",
+        "GRINDER",
+        "SUB"
+      ]
+    },
+    {
+      "title": "DATING APPS",
+      "color": "green",
+      "words": [
+        "BUMBLE",
+        "HINGE",
+        "MATCH",
+        "TINDER"
+      ]
+    },
+    {
+      "title": "VAMPIRE MOVIES",
+      "color": "blue",
+      "words": [
+        "BLADE",
+        "LOST BOYS",
+        "NEAR DARK",
+        "TWILIGHT"
+      ]
+    },
+    {
+      "title": "ADAMS",
+      "color": "purple",
+      "words": [
+        "ANT",
+        "DRIVER",
+        "SCOTT",
+        "WEST"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-04",
+  "groups": [
+    {
+      "title": "CONSERVE",
+      "color": "yellow",
+      "words": [
+        "KEEP",
+        "PRESERVE",
+        "SAVE",
+        "STORE"
+      ]
+    },
+    {
+      "title": "SMOOTH USING FRICTION",
+      "color": "green",
+      "words": [
+        "BUFF",
+        "FILE",
+        "GRIND",
+        "SAND"
+      ]
+    },
+    {
+      "title": "SPORTS GAMBLING TERMS",
+      "color": "blue",
+      "words": [
+        "FAVORITE",
+        "PARLAY",
+        "SPREAD",
+        "UNDER"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “FINGERS”",
+      "color": "purple",
+      "words": [
+        "BUTTER",
+        "CHICKEN",
+        "LADY",
+        "STICKY"
+      ]
+    }
+  ]
+}

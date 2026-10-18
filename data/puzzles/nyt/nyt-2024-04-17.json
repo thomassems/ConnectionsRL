@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-17",
+  "groups": [
+    {
+      "title": "UPRIGHT SUPPORT",
+      "color": "yellow",
+      "words": [
+        "COLUMN",
+        "PILLAR",
+        "POLE",
+        "POST"
+      ]
+    },
+    {
+      "title": "HEED, AS RULES",
+      "color": "green",
+      "words": [
+        "FOLLOW",
+        "MIND",
+        "OBSERVE",
+        "REGARD"
+      ]
+    },
+    {
+      "title": "ALLOTMENT",
+      "color": "blue",
+      "words": [
+        "INTEREST",
+        "PERCENTAGE",
+        "SHARE",
+        "STAKE"
+      ]
+    },
+    {
+      "title": "GATHERED BY SPIES",
+      "color": "purple",
+      "words": [
+        "DIRT",
+        "INFORMATION",
+        "INTELLIGENCE",
+        "SECRETS"
+      ]
+    }
+  ]
+}

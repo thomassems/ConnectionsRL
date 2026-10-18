@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-02",
+  "groups": [
+    {
+      "title": "COMPUTER EQUIPMENT",
+      "color": "yellow",
+      "words": [
+        "KEYBOARD",
+        "MONITOR",
+        "MOUSE",
+        "SPEAKER"
+      ]
+    },
+    {
+      "title": "RODENTS",
+      "color": "green",
+      "words": [
+        "GERBIL",
+        "HAMSTER",
+        "RAT",
+        "VOLE"
+      ]
+    },
+    {
+      "title": "MUSICAL INSTRUMENTS",
+      "color": "blue",
+      "words": [
+        "HARP",
+        "HORN",
+        "ORGAN",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR COMPLAIN",
+      "color": "purple",
+      "words": [
+        "CARP",
+        "GRIPE",
+        "GROUSE",
+        "MOAN"
+      ]
+    }
+  ]
+}

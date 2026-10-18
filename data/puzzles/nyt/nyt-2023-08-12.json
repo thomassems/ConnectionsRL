@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-12",
+  "groups": [
+    {
+      "title": "STATE ABBREVIATIONS",
+      "color": "yellow",
+      "words": [
+        "CO",
+        "MA",
+        "ME",
+        "PA"
+      ]
+    },
+    {
+      "title": "MUSICAL NOTES",
+      "color": "green",
+      "words": [
+        "DO",
+        "FA",
+        "LA",
+        "TI"
+      ]
+    },
+    {
+      "title": "GREEK LETTERS",
+      "color": "blue",
+      "words": [
+        "MU",
+        "NU",
+        "PI",
+        "XI"
+      ]
+    },
+    {
+      "title": "PERIODIC TABLE SYMBOLS",
+      "color": "purple",
+      "words": [
+        "FE",
+        "HE",
+        "NA",
+        "NI"
+      ]
+    }
+  ]
+}

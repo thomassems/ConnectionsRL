@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-30",
+  "groups": [
+    {
+      "title": "AVOID",
+      "color": "yellow",
+      "words": [
+        "DODGE",
+        "DUCK",
+        "ESCAPE",
+        "SKIRT"
+      ]
+    },
+    {
+      "title": "HITCHCOCK MOVIES",
+      "color": "green",
+      "words": [
+        "BIRDS",
+        "NOTORIOUS",
+        "REBECCA",
+        "ROPE"
+      ]
+    },
+    {
+      "title": "SIDEKICKS",
+      "color": "blue",
+      "words": [
+        "GOOSE",
+        "HOBBES",
+        "ROBIN",
+        "WATSON"
+      ]
+    },
+    {
+      "title": "___ CHEESE",
+      "color": "purple",
+      "words": [
+        "COTTAGE",
+        "CREAM",
+        "SAY",
+        "STRING"
+      ]
+    }
+  ]
+}

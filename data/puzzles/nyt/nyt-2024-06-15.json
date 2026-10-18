@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-15",
+  "groups": [
+    {
+      "title": "BASKETBALL SHOTS",
+      "color": "yellow",
+      "words": [
+        "DUNK",
+        "FLOATER",
+        "LAYUP",
+        "THREE"
+      ]
+    },
+    {
+      "title": "FISH",
+      "color": "green",
+      "words": [
+        "PERCH",
+        "PIKE",
+        "SKATE",
+        "SOLE"
+      ]
+    },
+    {
+      "title": "QUALITIES OF THICK HAIR",
+      "color": "blue",
+      "words": [
+        "BODY",
+        "BOUNCE",
+        "LIFT",
+        "VOLUME"
+      ]
+    },
+    {
+      "title": "___ CHILD",
+      "color": "purple",
+      "words": [
+        "FLOWER",
+        "ONLY",
+        "POSTER",
+        "PROBLEM"
+      ]
+    }
+  ]
+}

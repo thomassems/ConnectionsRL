@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-25",
+  "groups": [
+    {
+      "title": "ANCIENT WRITING SURFACES",
+      "color": "yellow",
+      "words": [
+        "CLAY",
+        "PAPYRUS",
+        "PARCHMENT",
+        "WAX"
+      ]
+    },
+    {
+      "title": "LEAD, AS A TV PROGRAM",
+      "color": "green",
+      "words": [
+        "ANCHOR",
+        "HOST",
+        "MODERATE",
+        "PRESENT"
+      ]
+    },
+    {
+      "title": "NATURAL ABILITY",
+      "color": "blue",
+      "words": [
+        "FACULTY",
+        "FLAIR",
+        "INSTINCT",
+        "TALENT"
+      ]
+    },
+    {
+      "title": "WRAPPED THINGS",
+      "color": "purple",
+      "words": [
+        "BURRITO",
+        "GIFT",
+        "MUMMY",
+        "SPRAIN"
+      ]
+    }
+  ]
+}

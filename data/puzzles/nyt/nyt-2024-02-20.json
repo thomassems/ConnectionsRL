@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-20",
+  "groups": [
+    {
+      "title": "PARTY POOPER",
+      "color": "yellow",
+      "words": [
+        "BORE",
+        "DRAG",
+        "DRIP",
+        "DUD"
+      ]
+    },
+    {
+      "title": "MUSICAL SECTIONS",
+      "color": "green",
+      "words": [
+        "BRASS",
+        "RHYTHM",
+        "STRING",
+        "WIND"
+      ]
+    },
+    {
+      "title": "BIT OF LIQUID",
+      "color": "blue",
+      "words": [
+        "BEAD",
+        "DROP",
+        "GLOB",
+        "TEAR"
+      ]
+    },
+    {
+      "title": "VEGETABLE HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "BEAT",
+        "CHARRED",
+        "LEAK",
+        "PEE"
+      ]
+    }
+  ]
+}

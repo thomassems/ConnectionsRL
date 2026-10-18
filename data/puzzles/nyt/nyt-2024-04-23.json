@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-23",
+  "groups": [
+    {
+      "title": "THROW OUT",
+      "color": "yellow",
+      "words": [
+        "BOOT",
+        "BOUNCE",
+        "EJECT",
+        "TOSS"
+      ]
+    },
+    {
+      "title": "TERRA FIRMA",
+      "color": "green",
+      "words": [
+        "EARTH",
+        "GROUND",
+        "LAND",
+        "SOIL"
+      ]
+    },
+    {
+      "title": "SEAS",
+      "color": "blue",
+      "words": [
+        "BALTIC",
+        "BLACK",
+        "PHILIPPINE",
+        "RED"
+      ]
+    },
+    {
+      "title": "TOM HANKS MOVIES",
+      "color": "purple",
+      "words": [
+        "BIG",
+        "PHILADELPHIA",
+        "SPLASH",
+        "SULLY"
+      ]
+    }
+  ]
+}

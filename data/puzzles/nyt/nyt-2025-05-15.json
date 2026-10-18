@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-15",
+  "groups": [
+    {
+      "title": "RATIONALE",
+      "color": "yellow",
+      "words": [
+        "BASIS",
+        "FOUNDATION",
+        "GROUNDS",
+        "REASON"
+      ]
+    },
+    {
+      "title": "TYPES OF SNOW",
+      "color": "green",
+      "words": [
+        "CRUST",
+        "ICE",
+        "POWDER",
+        "SLUSH"
+      ]
+    },
+    {
+      "title": "LAST WORDS OF FAMOUS OPERA TITLES",
+      "color": "blue",
+      "words": [
+        "BESS",
+        "BUTTERFLY",
+        "FLUTE",
+        "SEVILLE"
+      ]
+    },
+    {
+      "title": "REAL ___",
+      "color": "purple",
+      "words": [
+        "DEAL",
+        "ESTATE",
+        "MADRID",
+        "WORLD"
+      ]
+    }
+  ]
+}

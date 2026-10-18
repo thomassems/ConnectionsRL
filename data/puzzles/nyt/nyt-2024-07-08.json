@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-08",
+  "groups": [
+    {
+      "title": "BIT OF ADVICE",
+      "color": "yellow",
+      "words": [
+        "POINTER",
+        "SUGGESTION",
+        "TIP",
+        "TRICK"
+      ]
+    },
+    {
+      "title": "FORTITUDE",
+      "color": "green",
+      "words": [
+        "GRIT",
+        "RESOLVE",
+        "SPIRIT",
+        "WILL"
+      ]
+    },
+    {
+      "title": "SPEND TIME AT",
+      "color": "blue",
+      "words": [
+        "FREQUENT",
+        "HAUNT",
+        "PATRONIZE",
+        "VISIT"
+      ]
+    },
+    {
+      "title": "WORDS ENDING IN NUMBERS",
+      "color": "purple",
+      "words": [
+        "CANINE",
+        "FREIGHT",
+        "OFTEN",
+        "OZONE"
+      ]
+    }
+  ]
+}

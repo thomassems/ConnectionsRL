@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-26",
+  "groups": [
+    {
+      "title": "GOOD THINGS TO GET AT WORK",
+      "color": "yellow",
+      "words": [
+        "BONUS",
+        "EQUITY",
+        "PROMOTION",
+        "RAISE"
+      ]
+    },
+    {
+      "title": "DISREGARD",
+      "color": "green",
+      "words": [
+        "DISCOUNT",
+        "FORGET",
+        "IGNORE",
+        "OVERLOOK"
+      ]
+    },
+    {
+      "title": "KINDS OF CRACKERS",
+      "color": "blue",
+      "words": [
+        "ANIMAL",
+        "CLUB",
+        "GOLDFISH",
+        "RITZ"
+      ]
+    },
+    {
+      "title": "FEATURED IN “ELOISE”",
+      "color": "purple",
+      "words": [
+        "ELOISE",
+        "PLAZA",
+        "PUG",
+        "TURTLE"
+      ]
+    }
+  ]
+}

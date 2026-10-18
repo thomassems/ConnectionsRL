@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-20",
+  "groups": [
+    {
+      "title": "BIT OF NEWSPAPER WRITING",
+      "color": "yellow",
+      "words": [
+        "ARTICLE",
+        "COLUMN",
+        "FEATURE",
+        "STORY"
+      ]
+    },
+    {
+      "title": "NOISY DISTURBANCE",
+      "color": "green",
+      "words": [
+        "CLATTER",
+        "RACKET",
+        "ROW",
+        "RUCKUS"
+      ]
+    },
+    {
+      "title": "TABLE TENNIS NEEDS",
+      "color": "blue",
+      "words": [
+        "BALL",
+        "NET",
+        "PADDLE",
+        "TABLE"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF COORDINATING CONJUNCTIONS",
+      "color": "purple",
+      "words": [
+        "BUTT",
+        "FORE",
+        "OAR",
+        "SEW"
+      ]
+    }
+  ]
+}

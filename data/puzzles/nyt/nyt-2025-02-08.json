@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-08",
+  "groups": [
+    {
+      "title": "INFO ON A BASEBALL CARD",
+      "color": "yellow",
+      "words": [
+        "BIO",
+        "PLAYER",
+        "STAT",
+        "TEAM"
+      ]
+    },
+    {
+      "title": "SCRUNCH, AS FABRIC",
+      "color": "green",
+      "words": [
+        "BUNCH",
+        "GATHER",
+        "RUFFLE",
+        "PUCKER"
+      ]
+    },
+    {
+      "title": "TIME ADVERBS",
+      "color": "blue",
+      "words": [
+        "LATER",
+        "NOW",
+        "SOON",
+        "THEN"
+      ]
+    },
+    {
+      "title": "___ FOOD",
+      "color": "purple",
+      "words": [
+        "FAST",
+        "FINGER",
+        "JUNK",
+        "SOUL"
+      ]
+    }
+  ]
+}

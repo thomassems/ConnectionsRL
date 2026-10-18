@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-25",
+  "groups": [
+    {
+      "title": "BLACK-AND-WHITE THINGS",
+      "color": "yellow",
+      "words": [
+        "CROSSWORD",
+        "OREO",
+        "PANDA",
+        "TUXEDO"
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "color": "green",
+      "words": [
+        "ABEL",
+        "ABLE",
+        "BALE",
+        "BELA"
+      ]
+    },
+    {
+      "title": "U.S. PRESIDENTIAL NICKNAMES",
+      "color": "blue",
+      "words": [
+        "ABE",
+        "CAL",
+        "DICK",
+        "TEDDY"
+      ]
+    },
+    {
+      "title": "CLEAR AS ___",
+      "color": "purple",
+      "words": [
+        "A BELL",
+        "CRYSTAL",
+        "DAY",
+        "MUD"
+      ]
+    }
+  ]
+}

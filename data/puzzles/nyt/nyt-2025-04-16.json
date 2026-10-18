@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-16",
+  "groups": [
+    {
+      "title": "BURLESQUE WEAR",
+      "color": "yellow",
+      "words": [
+        "BOA",
+        "CORSET",
+        "GARTER",
+        "STOCKINGS"
+      ]
+    },
+    {
+      "title": "MESS UP THE SURFACE OF",
+      "color": "green",
+      "words": [
+        "SCAR",
+        "SCRAPE",
+        "SCRATCH",
+        "SCORE"
+      ]
+    },
+    {
+      "title": "THEY ROAR",
+      "color": "blue",
+      "words": [
+        "CROWD",
+        "ENGINE",
+        "KATY PERRY",
+        "LION"
+      ]
+    },
+    {
+      "title": "LATIN DANCES WITH A VOWEL CHANGED",
+      "color": "purple",
+      "words": [
+        "MAMBA",
+        "MERINGUE",
+        "SIMBA",
+        "TANGY"
+      ]
+    }
+  ]
+}

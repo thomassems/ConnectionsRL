@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-20",
+  "groups": [
+    {
+      "title": "CONCOCTION",
+      "color": "yellow",
+      "words": [
+        "COCKTAIL",
+        "COMPOUND",
+        "MIXTURE",
+        "SOLUTION"
+      ]
+    },
+    {
+      "title": "TYPES OF SENTENCES",
+      "color": "green",
+      "words": [
+        "COMMAND",
+        "EXCLAMATION",
+        "QUESTION",
+        "STATEMENT"
+      ]
+    },
+    {
+      "title": "KINDS OF BROS",
+      "color": "blue",
+      "words": [
+        "CRYPTO",
+        "FINANCE",
+        "PHARMA",
+        "TECH"
+      ]
+    },
+    {
+      "title": "COMPLAINT HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "GROWN",
+        "MOWN",
+        "WHALE",
+        "WINE"
+      ]
+    }
+  ]
+}

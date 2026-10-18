@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-30",
+  "groups": [
+    {
+      "title": "BLACK-AND-WHITE ANIMALS",
+      "color": "yellow",
+      "words": [
+        "ORCA",
+        "PANDA",
+        "SKUNK",
+        "ZEBRA"
+      ]
+    },
+    {
+      "title": "SEQUENCE",
+      "color": "green",
+      "words": [
+        "CHAIN",
+        "SERIES",
+        "STRING",
+        "TRAIN"
+      ]
+    },
+    {
+      "title": "HETERONYMS",
+      "color": "blue",
+      "words": [
+        "BASS",
+        "DOVE",
+        "DESERT",
+        "WIND"
+      ]
+    },
+    {
+      "title": "___ TRAP",
+      "color": "purple",
+      "words": [
+        "BEAR",
+        "SAND",
+        "SPEED",
+        "TOURIST"
+      ]
+    }
+  ]
+}

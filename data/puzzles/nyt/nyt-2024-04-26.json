@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-26",
+  "groups": [
+    {
+      "title": "REFINED SENSIBILITY",
+      "color": "yellow",
+      "words": [
+        "ELEGANCE",
+        "GRACE",
+        "STYLE",
+        "TASTE"
+      ]
+    },
+    {
+      "title": "CATCH SOME RAYS",
+      "color": "green",
+      "words": [
+        "BAKE",
+        "BASK",
+        "SUN",
+        "TAN"
+      ]
+    },
+    {
+      "title": "EMOTIONALLY SWAY ",
+      "color": "blue",
+      "words": [
+        "AFFECT",
+        "IMPACT",
+        "MOVE",
+        "TOUCH"
+      ]
+    },
+    {
+      "title": "NUMBERS WITH FIRST LETTERS REPLACED BY “S”",
+      "color": "purple",
+      "words": [
+        "SEN",
+        "SIGHT",
+        "SINE",
+        "SOUR"
+      ]
+    }
+  ]
+}

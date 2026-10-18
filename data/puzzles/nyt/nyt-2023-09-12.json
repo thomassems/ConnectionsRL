@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-12",
+  "groups": [
+    {
+      "title": "HOT DRINKS",
+      "color": "yellow",
+      "words": [
+        "CHAI",
+        "COCOA",
+        "COFFEE",
+        "TEA"
+      ]
+    },
+    {
+      "title": "ANIMAL SOUNDS",
+      "color": "green",
+      "words": [
+        "BUZZ",
+        "CLUCK",
+        "MEOW",
+        "OINK"
+      ]
+    },
+    {
+      "title": "TREE FEATURES",
+      "color": "blue",
+      "words": [
+        "BARK",
+        "BRANCH",
+        "ROOT",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "INSIDE INFO",
+      "color": "purple",
+      "words": [
+        "DIRT",
+        "DISH",
+        "SCOOP",
+        "SKINNY"
+      ]
+    }
+  ]
+}

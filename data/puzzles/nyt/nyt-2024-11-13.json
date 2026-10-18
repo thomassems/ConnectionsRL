@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-13",
+  "groups": [
+    {
+      "title": "THINGS THAT ARE YELLOW",
+      "color": "yellow",
+      "words": [
+        "CANARY",
+        "LEMON",
+        "MINION",
+        "MUSTARD"
+      ]
+    },
+    {
+      "title": "BUILDING ADD-ONS",
+      "color": "green",
+      "words": [
+        "ADDITION",
+        "ANNEX",
+        "EXTENSION",
+        "WING"
+      ]
+    },
+    {
+      "title": "CONCERNS FOR A DENTIST",
+      "color": "blue",
+      "words": [
+        "CALCULUS",
+        "CAVITY",
+        "PLAQUE",
+        "TARTAR"
+      ]
+    },
+    {
+      "title": "WORDS THAT SEEM LONGER WRITTEN THAN SPOKEN",
+      "color": "purple",
+      "words": [
+        "COLONEL",
+        "PHARAOH",
+        "WEDNESDAY",
+        "WORCESTERSHIRE"
+      ]
+    }
+  ]
+}

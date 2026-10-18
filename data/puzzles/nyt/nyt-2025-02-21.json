@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-21",
+  "groups": [
+    {
+      "title": "WAY OF SOLVING A PROBLEM",
+      "color": "yellow",
+      "words": [
+        "ANSWER",
+        "FIX",
+        "REMEDY",
+        "SOLUTION"
+      ]
+    },
+    {
+      "title": "COLLECT, AS FROM AN ORCHARD",
+      "color": "green",
+      "words": [
+        "GATHER",
+        "HARVEST",
+        "PICK",
+        "REAP"
+      ]
+    },
+    {
+      "title": "PHOTOSHOP TOOLS",
+      "color": "blue",
+      "words": [
+        "ERASER",
+        "EYEDROPPER",
+        "LASSO",
+        "MAGIC WAND"
+      ]
+    },
+    {
+      "title": "OBJECTS THAT MAY BE RIGHT- OR LEFT-HANDED",
+      "color": "purple",
+      "words": [
+        "BASEBALL GLOVE",
+        "CAN OPENER",
+        "GOLF CLUB",
+        "GUITAR"
+      ]
+    }
+  ]
+}

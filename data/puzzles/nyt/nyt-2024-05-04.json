@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-04",
+  "groups": [
+    {
+      "title": "ENJOY",
+      "color": "yellow",
+      "words": [
+        "FANCY",
+        "LOVE",
+        "RELISH",
+        "SAVOR"
+      ]
+    },
+    {
+      "title": "FILLER WORDS",
+      "color": "green",
+      "words": [
+        "LIKE",
+        "LITERALLY",
+        "UM",
+        "WELL"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF A LOCK",
+      "color": "blue",
+      "words": [
+        "CYLINDER",
+        "PIN",
+        "SPRING",
+        "TUMBLER"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF UNITS OF MEASURE",
+      "color": "purple",
+      "words": [
+        "CARROT",
+        "HURTS",
+        "JEWEL",
+        "OM"
+      ]
+    }
+  ]
+}

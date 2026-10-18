@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-24",
+  "groups": [
+    {
+      "title": "JOKE AROUND WITH",
+      "color": "yellow",
+      "words": [
+        "KID",
+        "RAZZ",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "title": "POULTRY CUTS",
+      "color": "green",
+      "words": [
+        "BREAST",
+        "TENDER",
+        "THIGH",
+        "WING"
+      ]
+    },
+    {
+      "title": "BABY ANIMALS",
+      "color": "blue",
+      "words": [
+        "CALF",
+        "CUB",
+        "FAWN",
+        "KIT"
+      ]
+    },
+    {
+      "title": "PUSH THROUGH A CROWD",
+      "color": "purple",
+      "words": [
+        "BARGE",
+        "JOSTLE",
+        "MUSCLE",
+        "SHOULDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-12",
+  "groups": [
+    {
+      "title": "PLACES IN NEW YORK CITY",
+      "color": "yellow",
+      "words": [
+        "CHINATOWN",
+        "DUMBO",
+        "MANHATTAN",
+        "WALL STREET"
+      ]
+    },
+    {
+      "title": "RHYMING TITLES",
+      "color": "green",
+      "words": [
+        "BE KIND REWIND",
+        "E.T.",
+        "FRIGHT NIGHT",
+        "KILL BILL"
+      ]
+    },
+    {
+      "title": "ENDING IN UNITS OF MEASUREMENT",
+      "color": "blue",
+      "words": [
+        "HEDWIG AND THE ANGRY INCH",
+        "MY LEFT FOOT",
+        "THE GREEN MILE",
+        "THE LONGEST YARD"
+      ]
+    },
+    {
+      "title": "STARTING WITH ANIMALS",
+      "color": "purple",
+      "words": [
+        "BEETLEJUICE",
+        "FOXY BROWN",
+        "DOGMA",
+        "OCTOPUSSY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-07",
+  "groups": [
+    {
+      "title": "SHARED",
+      "color": "yellow",
+      "words": [
+        "COLLECTIVE",
+        "COMMON",
+        "JOINT",
+        "MUTUAL"
+      ]
+    },
+    {
+      "title": "RID OF CONTENTS",
+      "color": "green",
+      "words": [
+        "CLEAR",
+        "DRAIN",
+        "EMPTY",
+        "FLUSH"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH “STUB”",
+      "color": "blue",
+      "words": [
+        "CIGARETTE",
+        "PENCIL",
+        "TICKET",
+        "TOE"
+      ]
+    },
+    {
+      "title": "___ DREAM",
+      "color": "purple",
+      "words": [
+        "AMERICAN",
+        "FEVER",
+        "LUCID",
+        "PIPE"
+      ]
+    }
+  ]
+}

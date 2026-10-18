@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-16",
+  "groups": [
+    {
+      "title": "TIME PERIODS",
+      "color": "yellow",
+      "words": [
+        "CENTURY",
+        "DECADE",
+        "MILLENNIUM",
+        "YEAR"
+      ]
+    },
+    {
+      "title": "BREAKFAST FOODS",
+      "color": "green",
+      "words": [
+        "CEREAL",
+        "OMELET",
+        "PANCAKE",
+        "WAFFLE"
+      ]
+    },
+    {
+      "title": "PAINTERS",
+      "color": "blue",
+      "words": [
+        "BACON",
+        "CLOSE",
+        "MUNCH",
+        "WHISTLER"
+      ]
+    },
+    {
+      "title": "ONE IN A DOZEN",
+      "color": "purple",
+      "words": [
+        "EGG",
+        "JUROR",
+        "MONTH",
+        "ROSE"
+      ]
+    }
+  ]
+}

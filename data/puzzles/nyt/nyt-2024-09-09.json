@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-09",
+  "groups": [
+    {
+      "title": "GET RED IN THE FACE",
+      "color": "yellow",
+      "words": [
+        "BLUSH",
+        "BURN",
+        "FLUSH",
+        "GLOW"
+      ]
+    },
+    {
+      "title": "CONTINUOUS",
+      "color": "green",
+      "words": [
+        "CONSECUTIVE",
+        "NONSTOP",
+        "SOLID",
+        "STRAIGHT"
+      ]
+    },
+    {
+      "title": "FLAVOR ASSORTMENT",
+      "color": "blue",
+      "words": [
+        "FLIGHT",
+        "PLATTER",
+        "SAMPLER",
+        "TASTING"
+      ]
+    },
+    {
+      "title": "SITCOMS",
+      "color": "purple",
+      "words": [
+        "BLOSSOM",
+        "COACH",
+        "COMMUNITY",
+        "FULL HOUSE"
+      ]
+    }
+  ]
+}

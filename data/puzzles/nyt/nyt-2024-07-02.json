@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-02",
+  "groups": [
+    {
+      "title": "PACK (AWAY) FOR FUTURE USE",
+      "color": "yellow",
+      "words": [
+        "SQUIRREL",
+        "STASH",
+        "STORE",
+        "STOW"
+      ]
+    },
+    {
+      "title": "ADJECTIVES FOR ASSETS",
+      "color": "green",
+      "words": [
+        "FIXED",
+        "FROZEN",
+        "LIQUID",
+        "TOXIC"
+      ]
+    },
+    {
+      "title": "LATIN WORDS",
+      "color": "blue",
+      "words": [
+        "CAVEAT",
+        "ERGO",
+        "QUID",
+        "VOX"
+      ]
+    },
+    {
+      "title": "___ GAME",
+      "color": "purple",
+      "words": [
+        "ARCADE",
+        "BLAME",
+        "NUMBERS",
+        "SQUID"
+      ]
+    }
+  ]
+}

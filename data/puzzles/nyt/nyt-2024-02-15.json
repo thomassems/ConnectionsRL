@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-15",
+  "groups": [
+    {
+      "title": "FOLLOW ATTENTIVELY",
+      "color": "yellow",
+      "words": [
+        "MONITOR",
+        "SURVEY",
+        "TRACK",
+        "WATCH"
+      ]
+    },
+    {
+      "title": "WHERE YOU MIGHT FIND SAND",
+      "color": "green",
+      "words": [
+        "BEACH",
+        "DESERT",
+        "HOURGLASS",
+        "PLAYGROUND"
+      ]
+    },
+    {
+      "title": "OVEN BUTTONS",
+      "color": "blue",
+      "words": [
+        "BAKE",
+        "BROIL",
+        "LIGHT",
+        "TIMER"
+      ]
+    },
+    {
+      "title": "BRITPOP BANDS",
+      "color": "purple",
+      "words": [
+        "BLUR",
+        "OASIS",
+        "PULP",
+        "SUEDE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-15",
+  "groups": [
+    {
+      "title": "RESIDE",
+      "color": "yellow",
+      "words": [
+        "DWELL",
+        "INHABIT",
+        "LIVE",
+        "STAY"
+      ]
+    },
+    {
+      "title": "DECREASE",
+      "color": "green",
+      "words": [
+        "DECLINE",
+        "DROP",
+        "DWINDLE",
+        "EBB"
+      ]
+    },
+    {
+      "title": "DOOFUS",
+      "color": "blue",
+      "words": [
+        "CLOWN",
+        "DWEEB",
+        "SAP",
+        "TURKEY"
+      ]
+    },
+    {
+      "title": "MEMBER OF A SEPTET",
+      "color": "purple",
+      "words": [
+        "DWARF",
+        "SEA",
+        "SIN",
+        "WONDER"
+      ]
+    }
+  ]
+}

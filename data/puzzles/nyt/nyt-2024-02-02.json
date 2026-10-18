@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-02",
+  "groups": [
+    {
+      "title": "TIME OFF",
+      "color": "yellow",
+      "words": [
+        "BREAK",
+        "HOLIDAY",
+        "LEAVE",
+        "RECESS"
+      ]
+    },
+    {
+      "title": "FEATURES OF A BELT",
+      "color": "green",
+      "words": [
+        "BUCKLE",
+        "HOLE",
+        "LOOP",
+        "STRAP"
+      ]
+    },
+    {
+      "title": "HOMOPHONES",
+      "color": "blue",
+      "words": [
+        "HOLEY",
+        "HOLI",
+        "HOLY",
+        "WHOLLY"
+      ]
+    },
+    {
+      "title": "___WOOD",
+      "color": "purple",
+      "words": [
+        "DOG",
+        "DRIFT",
+        "HOLLY",
+        "SANDAL"
+      ]
+    }
+  ]
+}

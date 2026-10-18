@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-09",
+  "groups": [
+    {
+      "title": "DOCTORS’ ORDERS",
+      "color": "yellow",
+      "words": [
+        "DIET",
+        "EXERCISE",
+        "FRESH AIR",
+        "SLEEP"
+      ]
+    },
+    {
+      "title": "EMAIL ACTIONS",
+      "color": "green",
+      "words": [
+        "COMPOSE",
+        "FORWARD",
+        "REPLY ALL",
+        "SEND"
+      ]
+    },
+    {
+      "title": "PODCASTS",
+      "color": "blue",
+      "words": [
+        "RADIOLAB",
+        "SERIAL",
+        "UP FIRST",
+        "WTF"
+      ]
+    },
+    {
+      "title": "___ COMEDY",
+      "color": "purple",
+      "words": [
+        "BLACK",
+        "DIVINE",
+        "PROP",
+        "SKETCH"
+      ]
+    }
+  ]
+}

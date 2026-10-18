@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-29",
+  "groups": [
+    {
+      "title": "OWNED",
+      "color": "yellow",
+      "words": [
+        "BORE",
+        "HAD",
+        "HELD",
+        "POSSESSED"
+      ]
+    },
+    {
+      "title": "THINGS YOU MIGHT DO IN YOUR SLEEP",
+      "color": "green",
+      "words": [
+        "DREAM",
+        "DROOL",
+        "SNORE",
+        "TALK"
+      ]
+    },
+    {
+      "title": "MOVIE SERIES WITH 2024 RELEASES",
+      "color": "blue",
+      "words": [
+        "ALIEN",
+        "GLADIATOR",
+        "VENOM",
+        "WICKED"
+      ]
+    },
+    {
+      "title": "___ HOUSE",
+      "color": "purple",
+      "words": [
+        "FULL",
+        "GINGERBREAD",
+        "HAUNTED",
+        "WHITE"
+      ]
+    }
+  ]
+}

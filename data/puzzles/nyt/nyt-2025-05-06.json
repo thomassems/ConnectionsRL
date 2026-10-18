@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-06",
+  "groups": [
+    {
+      "title": "SILENCE",
+      "color": "yellow",
+      "words": [
+        "CALM",
+        "HUSH",
+        "PEACE",
+        "STILL"
+      ]
+    },
+    {
+      "title": "TENNIS COMPETITION UNITS",
+      "color": "green",
+      "words": [
+        "GAME",
+        "MATCH",
+        "SET",
+        "TOURNAMENT"
+      ]
+    },
+    {
+      "title": "COMPARATIVELY SMALL",
+      "color": "blue",
+      "words": [
+        "BABY",
+        "COMPACT",
+        "MINUTE",
+        "TOY"
+      ]
+    },
+    {
+      "title": "STARTING WITH SYNONYMS FOR “TEASE”",
+      "color": "purple",
+      "words": [
+        "KIDNEY",
+        "MOCKINGBIRD",
+        "RAZZMATAZZ",
+        "RIBBON"
+      ]
+    }
+  ]
+}

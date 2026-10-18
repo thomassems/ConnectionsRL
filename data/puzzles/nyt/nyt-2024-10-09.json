@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-09",
+  "groups": [
+    {
+      "title": "EFFERVESCENCE",
+      "color": "yellow",
+      "words": [
+        "BUBBLES",
+        "FIZZ",
+        "FOAM",
+        "FROTH"
+      ]
+    },
+    {
+      "title": "BURGEON",
+      "color": "green",
+      "words": [
+        "BLOSSOM",
+        "DEVELOP",
+        "MATURE",
+        "PROGRESS"
+      ]
+    },
+    {
+      "title": "MUSIC PUBLICATIONS",
+      "color": "blue",
+      "words": [
+        "BILLBOARD",
+        "MOJO",
+        "PITCHFORK",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "ENDING WITH TABLEWARE",
+      "color": "purple",
+      "words": [
+        "BOILERPLATE",
+        "BUTTERCUP",
+        "JACKKNIFE",
+        "WITHERSPOON"
+      ]
+    }
+  ]
+}

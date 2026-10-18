@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-24",
+  "groups": [
+    {
+      "title": "CONDUITS FOR WATER REMOVAL",
+      "color": "yellow",
+      "words": [
+        "DRAIN",
+        "DUCT",
+        "PIPE",
+        "SEWER"
+      ]
+    },
+    {
+      "title": "FOOD PRODUCTS ASSOCIATED WITH SENTIMENTALITY",
+      "color": "green",
+      "words": [
+        "CHEESE",
+        "CORN",
+        "SAP",
+        "SCHMALTZ"
+      ]
+    },
+    {
+      "title": "THINGS TO CRACK",
+      "color": "blue",
+      "words": [
+        "EGG",
+        "KNUCKLES",
+        "SMILE",
+        "WINDOW"
+      ]
+    },
+    {
+      "title": "___ CHANGE",
+      "color": "purple",
+      "words": [
+        "CHUMP",
+        "CLIMATE",
+        "LOOSE",
+        "SEA"
+      ]
+    }
+  ]
+}

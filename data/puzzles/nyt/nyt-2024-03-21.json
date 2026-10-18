@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-21",
+  "groups": [
+    {
+      "title": "CHAT, INFORMALLY",
+      "color": "yellow",
+      "words": [
+        "GAB",
+        "JAW",
+        "YAK",
+        "YAP"
+      ]
+    },
+    {
+      "title": "FEMALE ANIMALS",
+      "color": "green",
+      "words": [
+        "COW",
+        "DOE",
+        "EWE",
+        "HEN"
+      ]
+    },
+    {
+      "title": "PALINDROMES",
+      "color": "blue",
+      "words": [
+        "BIB",
+        "EYE",
+        "GAG",
+        "POP"
+      ]
+    },
+    {
+      "title": "STARTS OF PLANET NAMES",
+      "color": "purple",
+      "words": [
+        "EAR",
+        "MAR",
+        "MER",
+        "SAT"
+      ]
+    }
+  ]
+}

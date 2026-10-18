@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-05",
+  "groups": [
+    {
+      "title": "“AWESOME!”",
+      "color": "yellow",
+      "words": [
+        "COOL",
+        "NICE",
+        "SICK",
+        "SWEET"
+      ]
+    },
+    {
+      "title": "VARIETY",
+      "color": "green",
+      "words": [
+        "KIND",
+        "SORT",
+        "STYLE",
+        "TYPE"
+      ]
+    },
+    {
+      "title": "GIST",
+      "color": "blue",
+      "words": [
+        "DRIFT",
+        "IDEA",
+        "MESSAGE",
+        "POINT"
+      ]
+    },
+    {
+      "title": "FRIED APPETIZER, INFORMALLY",
+      "color": "purple",
+      "words": [
+        "RING",
+        "STICK",
+        "TENDER",
+        "WING"
+      ]
+    }
+  ]
+}

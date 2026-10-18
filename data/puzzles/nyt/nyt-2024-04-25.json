@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-25",
+  "groups": [
+    {
+      "title": "LAB EQUIPMENT",
+      "color": "yellow",
+      "words": [
+        "BEAKER",
+        "DROPPER",
+        "GOGGLES",
+        "MICROSCOPE"
+      ]
+    },
+    {
+      "title": "NEXUS",
+      "color": "green",
+      "words": [
+        "CENTER",
+        "HEART",
+        "HUB",
+        "NUCLEUS"
+      ]
+    },
+    {
+      "title": "SPREADSHEET TERMS",
+      "color": "blue",
+      "words": [
+        "CELL",
+        "FORMULA",
+        "SHEET",
+        "SORT"
+      ]
+    },
+    {
+      "title": "___ LANGUAGE",
+      "color": "purple",
+      "words": [
+        "BODY",
+        "LOVE",
+        "ROMANCE",
+        "SIGN"
+      ]
+    }
+  ]
+}

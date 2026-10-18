@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-03",
+  "groups": [
+    {
+      "title": "SOPRANOS",
+      "color": "yellow",
+      "words": [
+        "CARMELA",
+        "JUNIOR",
+        "MEADOW",
+        "TONY"
+      ]
+    },
+    {
+      "title": "FAMILIAL NICKNAMES",
+      "color": "green",
+      "words": [
+        "CUZ",
+        "GRAMMY",
+        "MUMMY",
+        "POP"
+      ]
+    },
+    {
+      "title": "“SESAME STREET” CHARACTERS",
+      "color": "blue",
+      "words": [
+        "COOKIE",
+        "COUNT",
+        "OSCAR",
+        "SNUFFY"
+      ]
+    },
+    {
+      "title": "NAMES THAT SOUND LIKE TWO LETTERS",
+      "color": "purple",
+      "words": [
+        "CECE",
+        "EDIE",
+        "EMMY",
+        "KATIE"
+      ]
+    }
+  ]
+}

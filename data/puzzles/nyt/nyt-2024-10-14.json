@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-14",
+  "groups": [
+    {
+      "title": "RUMMAGE",
+      "color": "yellow",
+      "words": [
+        "COMB",
+        "DIG",
+        "ROOT",
+        "SIFT"
+      ]
+    },
+    {
+      "title": "SOUNDS OF THUNDER",
+      "color": "green",
+      "words": [
+        "CLAP",
+        "PEAL",
+        "ROLL",
+        "RUMBLE"
+      ]
+    },
+    {
+      "title": "WAYS TO WEAR YOUR HAIR UP",
+      "color": "blue",
+      "words": [
+        "BUN",
+        "BRAID",
+        "PONY",
+        "TWIST"
+      ]
+    },
+    {
+      "title": "THINGS THAT CAN HAVE LEAVES",
+      "color": "purple",
+      "words": [
+        "BOOK",
+        "SALAD",
+        "TABLE",
+        "TREE"
+      ]
+    }
+  ]
+}

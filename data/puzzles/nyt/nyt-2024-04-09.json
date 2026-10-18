@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-09",
+  "groups": [
+    {
+      "title": "BREADTH",
+      "color": "yellow",
+      "words": [
+        "EXTENT",
+        "RANGE",
+        "REACH",
+        "SCOPE"
+      ]
+    },
+    {
+      "title": "HAIR TOOLS",
+      "color": "green",
+      "words": [
+        "BRUSH",
+        "COMB",
+        "DRYER",
+        "IRON"
+      ]
+    },
+    {
+      "title": "HERALDRY TERMS",
+      "color": "blue",
+      "words": [
+        "ARMS",
+        "COAT",
+        "CREST",
+        "SHIELD"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “DRUM”",
+      "color": "purple",
+      "words": [
+        "EAR",
+        "KETTLE",
+        "OIL",
+        "STEEL"
+      ]
+    }
+  ]
+}

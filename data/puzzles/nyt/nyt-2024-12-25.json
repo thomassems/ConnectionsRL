@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-25",
+  "groups": [
+    {
+      "title": "CELESTIAL OBJECTS",
+      "color": "yellow",
+      "words": [
+        "COMET",
+        "MOON",
+        "PLANET",
+        "STAR"
+      ]
+    },
+    {
+      "title": "ARCHERS",
+      "color": "green",
+      "words": [
+        "CUPID",
+        "HAWKEYE",
+        "ROBIN HOOD",
+        "SAGITTARIUS"
+      ]
+    },
+    {
+      "title": "FEMALE ANIMALS",
+      "color": "blue",
+      "words": [
+        "JENNY",
+        "NANNY",
+        "QUEEN",
+        "VIXEN"
+      ]
+    },
+    {
+      "title": "“S.N.L.” CAST MEMBERS",
+      "color": "purple",
+      "words": [
+        "FEY",
+        "RUDOLPH",
+        "SHANNON",
+        "STRONG"
+      ]
+    }
+  ]
+}

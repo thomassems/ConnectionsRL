@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-25",
+  "groups": [
+    {
+      "title": "PLAYING CARDS",
+      "color": "yellow",
+      "words": [
+        "ACE",
+        "JACK",
+        "KING",
+        "QUEEN"
+      ]
+    },
+    {
+      "title": "DOPPELGÄNGER",
+      "color": "green",
+      "words": [
+        "CLONE",
+        "DOUBLE",
+        "RINGER",
+        "TWIN"
+      ]
+    },
+    {
+      "title": "EAR PIERCING SITES",
+      "color": "blue",
+      "words": [
+        "CONCH",
+        "HELIX",
+        "LOBE",
+        "ROOK"
+      ]
+    },
+    {
+      "title": "___ MAIL",
+      "color": "purple",
+      "words": [
+        "CHAIN",
+        "ELECTRONIC",
+        "JUNK",
+        "SNAIL"
+      ]
+    }
+  ]
+}

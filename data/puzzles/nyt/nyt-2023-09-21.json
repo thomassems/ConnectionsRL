@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-21",
+  "groups": [
+    {
+      "title": "RESTAURANT WORKERS",
+      "color": "yellow",
+      "words": [
+        "BARTENDER",
+        "CHEF",
+        "HOST",
+        "SERVER"
+      ]
+    },
+    {
+      "title": "MOTOR VEHICLES",
+      "color": "green",
+      "words": [
+        "BUS",
+        "CAR",
+        "MOTORCYCLE",
+        "TRUCK"
+      ]
+    },
+    {
+      "title": "MUPPETS",
+      "color": "blue",
+      "words": [
+        "ANIMAL",
+        "BEAKER",
+        "GONZO",
+        "SCOOTER"
+      ]
+    },
+    {
+      "title": "HAND- AND FOOT-RELATED SLANG",
+      "color": "purple",
+      "words": [
+        "DIGIT",
+        "DOG",
+        "MITT",
+        "PIGGY"
+      ]
+    }
+  ]
+}

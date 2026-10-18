@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-13",
+  "groups": [
+    {
+      "title": "CREDENTIALS FOR ENTRY",
+      "color": "yellow",
+      "words": [
+        "BADGE",
+        "INVITE",
+        "PASS",
+        "TICKET"
+      ]
+    },
+    {
+      "title": "PRESIDE OVER",
+      "color": "green",
+      "words": [
+        "CHAIR",
+        "DIRECT",
+        "LEAD",
+        "RUN"
+      ]
+    },
+    {
+      "title": "AMERICAN FOOTBALL POSITIONS",
+      "color": "blue",
+      "words": [
+        "CENTER",
+        "END",
+        "SAFETY",
+        "TACKLE"
+      ]
+    },
+    {
+      "title": "POSTPONE",
+      "color": "purple",
+      "words": [
+        "HOLD",
+        "PUNT",
+        "STALL",
+        "TABLE"
+      ]
+    }
+  ]
+}

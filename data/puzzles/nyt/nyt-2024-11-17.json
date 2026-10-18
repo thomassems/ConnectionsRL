@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-17",
+  "groups": [
+    {
+      "title": "ALLIANCE",
+      "color": "yellow",
+      "words": [
+        "ASSOCIATION",
+        "GUILD",
+        "LEAGUE",
+        "UNION"
+      ]
+    },
+    {
+      "title": "CLOSE-FITTING ",
+      "color": "green",
+      "words": [
+        "CLINGY",
+        "SLEEK",
+        "SLINKY",
+        "SNUG"
+      ]
+    },
+    {
+      "title": "OCCASIONS WHEN ONE MIGHT KNEEL",
+      "color": "blue",
+      "words": [
+        "APOLOGY",
+        "DUBBING",
+        "PRAYER",
+        "PROPOSAL"
+      ]
+    },
+    {
+      "title": "WHAT AN APOSTROPHE MIGHT INDICATE",
+      "color": "purple",
+      "words": [
+        "CONTRACTION",
+        "FOOT",
+        "POSSESSIVE",
+        "QUOTATION"
+      ]
+    }
+  ]
+}

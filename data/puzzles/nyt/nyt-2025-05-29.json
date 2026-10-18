@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-29",
+  "groups": [
+    {
+      "title": "SALUTE",
+      "color": "yellow",
+      "words": [
+        "APPLAUD",
+        "HAIL",
+        "HONOR",
+        "PRAISE"
+      ]
+    },
+    {
+      "title": "SUITABLE",
+      "color": "green",
+      "words": [
+        "APT",
+        "FIT",
+        "PROPER",
+        "RIGHT"
+      ]
+    },
+    {
+      "title": "VERBS FOR FINISHING DONUTS",
+      "color": "blue",
+      "words": [
+        "FROST",
+        "GLAZE",
+        "POWDER",
+        "SPRINKLE"
+      ]
+    },
+    {
+      "title": "WHAT “BUFF” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ENTHUSIAST",
+        "MUSCULAR",
+        "NUDE",
+        "POLISH"
+      ]
+    }
+  ]
+}

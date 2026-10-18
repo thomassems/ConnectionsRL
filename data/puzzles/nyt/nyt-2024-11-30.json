@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-30",
+  "groups": [
+    {
+      "title": "DANCE STYLES",
+      "color": "yellow",
+      "words": [
+        "JAZZ",
+        "MODERN",
+        "SWING",
+        "TAP"
+      ]
+    },
+    {
+      "title": "STEAL",
+      "color": "green",
+      "words": [
+        "LIFT",
+        "PALM",
+        "POCKET",
+        "SWIPE"
+      ]
+    },
+    {
+      "title": "PERFORM WELL ON",
+      "color": "blue",
+      "words": [
+        "ACE",
+        "CRUSH",
+        "NAIL",
+        "ROCK"
+      ]
+    },
+    {
+      "title": "___BALL PITCHES",
+      "color": "purple",
+      "words": [
+        "CURVE",
+        "FAST",
+        "KNUCKLE",
+        "SCREW"
+      ]
+    }
+  ]
+}

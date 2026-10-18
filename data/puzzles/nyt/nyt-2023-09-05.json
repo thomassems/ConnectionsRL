@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-05",
+  "groups": [
+    {
+      "title": "INFORMATION DISPLAYS",
+      "color": "yellow",
+      "words": [
+        "CHART",
+        "DIAGRAM",
+        "GRAPH",
+        "MAP"
+      ]
+    },
+    {
+      "title": "ADDITIONAL BENEFIT",
+      "color": "green",
+      "words": [
+        "BONUS",
+        "EXTRA",
+        "ICING",
+        "PERK"
+      ]
+    },
+    {
+      "title": "THANKSGIVING FOOD",
+      "color": "blue",
+      "words": [
+        "GRAVY",
+        "PIE",
+        "STUFFING",
+        "TURKEY"
+      ]
+    },
+    {
+      "title": "SONG TITLES WITH PARENTHESES",
+      "color": "purple",
+      "words": [
+        "I RAN",
+        "ISTANBUL",
+        "MONTERO",
+        "SATISFACTION"
+      ]
+    }
+  ]
+}

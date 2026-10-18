@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-11",
+  "groups": [
+    {
+      "title": "CANDY BARS",
+      "color": "yellow",
+      "words": [
+        "CRUNCH",
+        "DOVE",
+        "MARS",
+        "PAYDAY"
+      ]
+    },
+    {
+      "title": "GIST",
+      "color": "green",
+      "words": [
+        "CORE",
+        "MEAT",
+        "SUBSTANCE",
+        "THRUST"
+      ]
+    },
+    {
+      "title": "KINDS OF BRAS",
+      "color": "blue",
+      "words": [
+        "DEMI",
+        "PUSH-UP",
+        "SPORTS",
+        "WIRELESS"
+      ]
+    },
+    {
+      "title": "___ BIRD",
+      "color": "purple",
+      "words": [
+        "BIG",
+        "EARLY",
+        "LADY",
+        "SUE"
+      ]
+    }
+  ]
+}

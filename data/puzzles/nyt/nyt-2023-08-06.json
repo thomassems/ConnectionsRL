@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-06",
+  "groups": [
+    {
+      "title": "CLASSIC ARCADE GAMES",
+      "color": "yellow",
+      "words": [
+        "ASTEROIDS",
+        "BREAKOUT",
+        "FROGGER",
+        "PONG"
+      ]
+    },
+    {
+      "title": "DANCES",
+      "color": "green",
+      "words": [
+        "HUSTLE",
+        "SALSA",
+        "SWING",
+        "TANGO"
+      ]
+    },
+    {
+      "title": "TOUCHSCREEN GESTURES",
+      "color": "blue",
+      "words": [
+        "PINCH",
+        "SPREAD",
+        "SWIPE",
+        "TAP"
+      ]
+    },
+    {
+      "title": "RAPPERS MINUS NUMBERS",
+      "color": "purple",
+      "words": [
+        "CENT",
+        "CHAINZ",
+        "PAC",
+        "SAVAGE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-21",
+  "groups": [
+    {
+      "title": "EMBODIMENT",
+      "color": "yellow",
+      "words": [
+        "EXAMPLE",
+        "IDEAL",
+        "MODEL",
+        "SYMBOL"
+      ]
+    },
+    {
+      "title": "RELATED TO TRAINS",
+      "color": "green",
+      "words": [
+        "CAR",
+        "CONDUCTOR",
+        "STATION",
+        "TRACK"
+      ]
+    },
+    {
+      "title": "STARTING WITH THE SAME SOUND",
+      "color": "blue",
+      "words": [
+        "CYMBAL",
+        "SCIMITAR",
+        "SIMMER",
+        "SYMPHONY"
+      ]
+    },
+    {
+      "title": "EAR___",
+      "color": "purple",
+      "words": [
+        "DRUM",
+        "MARK",
+        "WAX",
+        "WIG"
+      ]
+    }
+  ]
+}

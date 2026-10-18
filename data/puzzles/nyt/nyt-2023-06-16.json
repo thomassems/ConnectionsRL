@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-16",
+  "groups": [
+    {
+      "title": "STREAMING SERVICES",
+      "color": "yellow",
+      "words": [
+        "HULU",
+        "NETFLIX",
+        "PEACOCK",
+        "PRIME"
+      ]
+    },
+    {
+      "title": "CONDIMENTS",
+      "color": "green",
+      "words": [
+        "KETCHUP",
+        "MAYO",
+        "RELISH",
+        "TARTAR"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR SAD",
+      "color": "blue",
+      "words": [
+        "BLUE",
+        "DOWN",
+        "GLUM",
+        "LOW"
+      ]
+    },
+    {
+      "title": "CLUE CHARACTERS",
+      "color": "purple",
+      "words": [
+        "GREEN",
+        "MUSTARD",
+        "PLUM",
+        "SCARLET"
+      ]
+    }
+  ]
+}

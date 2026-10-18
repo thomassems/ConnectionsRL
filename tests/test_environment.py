@@ -20,6 +20,7 @@ class ConnectionsEnvTests(unittest.TestCase):
         self.assertEqual(self.initial.guess_history, ())
         self.assertEqual(self.initial.mistakes_left, 4)
         self.assertEqual(self.initial.status, "in_progress")
+        self.assertFalse(hasattr(self.initial, "puzzle_id"))
         self.assertEqual(len(self.env.available_guesses()), 1820)
         self.assertEqual(self.env.reset(seed=7), self.initial)
 

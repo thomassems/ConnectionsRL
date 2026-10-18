@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-29",
+  "groups": [
+    {
+      "title": "IN PRISTINE CONDITION",
+      "color": "yellow",
+      "words": [
+        "MINT",
+        "NEW",
+        "ORIGINAL",
+        "UNUSED"
+      ]
+    },
+    {
+      "title": "MEDICAL ROLES",
+      "color": "green",
+      "words": [
+        "ATTENDING",
+        "FELLOW",
+        "INTERN",
+        "RESIDENT"
+      ]
+    },
+    {
+      "title": "SINGULAR NOUN IN A FAMOUS “JULIUS CAESAR” LINE",
+      "color": "blue",
+      "words": [
+        "COUNTRYMAN",
+        "EAR",
+        "FRIEND",
+        "ROMAN"
+      ]
+    },
+    {
+      "title": "___ SQUARE",
+      "color": "purple",
+      "words": [
+        "PERFECT",
+        "POCKET",
+        "TIMES",
+        "TOWN"
+      ]
+    }
+  ]
+}

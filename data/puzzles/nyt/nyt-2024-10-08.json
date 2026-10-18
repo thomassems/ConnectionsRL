@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-08",
+  "groups": [
+    {
+      "title": "HALLOWEEN SYMBOLS",
+      "color": "yellow",
+      "words": [
+        "BAT",
+        "PUMPKIN",
+        "SPIDER",
+        "WITCH"
+      ]
+    },
+    {
+      "title": "PROHIBIT",
+      "color": "green",
+      "words": [
+        "BAN",
+        "BLOCK",
+        "DENY",
+        "FORBID"
+      ]
+    },
+    {
+      "title": "FOUND ON SHEET MUSIC",
+      "color": "blue",
+      "words": [
+        "ACCIDENTAL",
+        "NOTE",
+        "REST",
+        "STAFF"
+      ]
+    },
+    {
+      "title": "CANDY ___",
+      "color": "purple",
+      "words": [
+        "APPLE",
+        "BAR",
+        "CANE",
+        "CORN"
+      ]
+    }
+  ]
+}

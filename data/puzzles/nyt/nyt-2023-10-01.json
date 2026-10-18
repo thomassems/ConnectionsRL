@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-01",
+  "groups": [
+    {
+      "title": "COFFEE COUNTER ITEMS",
+      "color": "yellow",
+      "words": [
+        "CUP",
+        "LID",
+        "STIRRER",
+        "STRAW"
+      ]
+    },
+    {
+      "title": "NOCTURNAL ANIMALS",
+      "color": "green",
+      "words": [
+        "BAT",
+        "MOTH",
+        "OWL",
+        "WOLF"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE RED",
+      "color": "blue",
+      "words": [
+        "BEET",
+        "BRICK",
+        "CARDINAL",
+        "POPPY"
+      ]
+    },
+    {
+      "title": "___ FIGURE",
+      "color": "purple",
+      "words": [
+        "ACTION",
+        "BALLPARK",
+        "GO",
+        "STICK"
+      ]
+    }
+  ]
+}

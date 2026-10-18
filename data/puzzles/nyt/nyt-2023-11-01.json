@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-01",
+  "groups": [
+    {
+      "title": "SOCIAL MEDIA ACTIONS",
+      "color": "yellow",
+      "words": [
+        "FOLLOW",
+        "LIKE",
+        "SHARE",
+        "SUBSCRIBE"
+      ]
+    },
+    {
+      "title": "USE A NEEDLE AND THREAD",
+      "color": "green",
+      "words": [
+        "DARN",
+        "HEM",
+        "SEAM",
+        "SEW"
+      ]
+    },
+    {
+      "title": "SHOWS SET IN HOSPITALS",
+      "color": "blue",
+      "words": [
+        "ER",
+        "HOUSE",
+        "RATCHED",
+        "SCRUBS"
+      ]
+    },
+    {
+      "title": "EXPRESSIONS OF HESITATION",
+      "color": "purple",
+      "words": [
+        "ERM",
+        "UH",
+        "UM",
+        "WELL"
+      ]
+    }
+  ]
+}

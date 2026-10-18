@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-15",
+  "groups": [
+    {
+      "title": "SPICES",
+      "color": "yellow",
+      "words": [
+        "CLOVE",
+        "MACE",
+        "NUTMEG",
+        "PEPPER"
+      ]
+    },
+    {
+      "title": "PERFORM POORLY",
+      "color": "green",
+      "words": [
+        "FLAIL",
+        "FLOP",
+        "FLOUNDER",
+        "TANK"
+      ]
+    },
+    {
+      "title": "SKIM THROUGH, AS PAGES",
+      "color": "blue",
+      "words": [
+        "FLIP",
+        "LEAF",
+        "RIFFLE",
+        "THUMB"
+      ]
+    },
+    {
+      "title": "POP SINGERS MINUS “S”",
+      "color": "purple",
+      "words": [
+        "KEY",
+        "MAR",
+        "SPEAR",
+        "STYLE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-14",
+  "groups": [
+    {
+      "title": "BOATS",
+      "color": "yellow",
+      "words": [
+        "FERRY",
+        "JUNK",
+        "TUG",
+        "YACHT"
+      ]
+    },
+    {
+      "title": "SANDWICHES",
+      "color": "green",
+      "words": [
+        "CLUB",
+        "CUBAN",
+        "MELT",
+        "SUB"
+      ]
+    },
+    {
+      "title": "CUTS OF BEEF",
+      "color": "blue",
+      "words": [
+        "FLANK",
+        "LOIN",
+        "ROUND",
+        "SHANK"
+      ]
+    },
+    {
+      "title": "NICKNAMES THAT ARE VERBS",
+      "color": "purple",
+      "words": [
+        "CHUCK",
+        "JOSH",
+        "ROB",
+        "SUE"
+      ]
+    }
+  ]
+}

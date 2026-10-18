@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-03",
+  "groups": [
+    {
+      "title": "PRINTED NOTIFICATION",
+      "color": "yellow",
+      "words": [
+        "ANNOUNCEMENT",
+        "BULLETIN",
+        "NOTICE",
+        "POSTER"
+      ]
+    },
+    {
+      "title": "SEEN AT A GROCERY CHECKOUT COUNTER",
+      "color": "green",
+      "words": [
+        "CONVEYOR BELT",
+        "REGISTER",
+        "SCALE",
+        "SCANNER"
+      ]
+    },
+    {
+      "title": "THINGS WITH TABS",
+      "color": "blue",
+      "words": [
+        "BROWSER",
+        "FOLDER",
+        "KEYBOARD",
+        "SODA CAN"
+      ]
+    },
+    {
+      "title": "PALM ___",
+      "color": "purple",
+      "words": [
+        "BEACH",
+        "READER",
+        "SUNDAY",
+        "TREE"
+      ]
+    }
+  ]
+}

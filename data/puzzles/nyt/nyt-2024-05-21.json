@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-21",
+  "groups": [
+    {
+      "title": "SMIDGEN",
+      "color": "yellow",
+      "words": [
+        "BIT",
+        "DASH",
+        "PINCH",
+        "TOUCH"
+      ]
+    },
+    {
+      "title": "BARGAIN",
+      "color": "green",
+      "words": [
+        "BUY",
+        "DEAL",
+        "STEAL",
+        "VALUE"
+      ]
+    },
+    {
+      "title": "BILLIARDS EQUIPMENT",
+      "color": "blue",
+      "words": [
+        "BALL",
+        "CHALK",
+        "CUE",
+        "RACK"
+      ]
+    },
+    {
+      "title": "___BOOK (THAT’S NOT A BOOK)",
+      "color": "purple",
+      "words": [
+        "FACE",
+        "MAC",
+        "MATCH",
+        "POCKET"
+      ]
+    }
+  ]
+}

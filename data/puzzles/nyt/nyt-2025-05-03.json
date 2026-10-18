@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-03",
+  "groups": [
+    {
+      "title": "AWESOME",
+      "color": "yellow",
+      "words": [
+        "DOPE",
+        "FIRE",
+        "LIT",
+        "SICK"
+      ]
+    },
+    {
+      "title": "DEFEAT SOUNDLY",
+      "color": "green",
+      "words": [
+        "CREAM",
+        "LICK",
+        "PASTE",
+        "SMOKE"
+      ]
+    },
+    {
+      "title": "“WILL” CONTRACTIONS WITHOUT THE APOSTROPHE",
+      "color": "blue",
+      "words": [
+        "HELL",
+        "ILL",
+        "SHELL",
+        "WELL"
+      ]
+    },
+    {
+      "title": "URL ENDINGS PLUS A LETTER",
+      "color": "purple",
+      "words": [
+        "COMP",
+        "MILK",
+        "NETI",
+        "ORGO"
+      ]
+    }
+  ]
+}

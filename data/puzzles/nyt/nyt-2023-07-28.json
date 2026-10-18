@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-28",
+  "groups": [
+    {
+      "title": "BIOMES",
+      "color": "yellow",
+      "words": [
+        "DESERT",
+        "FOREST",
+        "GRASSLAND",
+        "TUNDRA"
+      ]
+    },
+    {
+      "title": "LIZARDS",
+      "color": "green",
+      "words": [
+        "CHAMELEON",
+        "GECKO",
+        "IGUANA",
+        "MONITOR"
+      ]
+    },
+    {
+      "title": "YOGA POSES",
+      "color": "blue",
+      "words": [
+        "COBRA",
+        "LOTUS",
+        "TREE",
+        "WARRIOR"
+      ]
+    },
+    {
+      "title": "DANCES WHEN DOUBLED",
+      "color": "purple",
+      "words": [
+        "CAN",
+        "CHA",
+        "GO",
+        "NAE"
+      ]
+    }
+  ]
+}

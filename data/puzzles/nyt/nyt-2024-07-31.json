@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-31",
+  "groups": [
+    {
+      "title": "RASPY",
+      "color": "yellow",
+      "words": [
+        "GRUFF",
+        "HOARSE",
+        "HUSKY",
+        "ROUGH"
+      ]
+    },
+    {
+      "title": "FINGERS",
+      "color": "green",
+      "words": [
+        "LITTLE",
+        "MIDDLE",
+        "POINTER",
+        "RING"
+      ]
+    },
+    {
+      "title": "ALE STYLES",
+      "color": "blue",
+      "words": [
+        "AMBER",
+        "PORTER",
+        "SOUR",
+        "STOUT"
+      ]
+    },
+    {
+      "title": "FRENCH ___",
+      "color": "purple",
+      "words": [
+        "BULLDOG",
+        "FRY",
+        "HORN",
+        "KISS"
+      ]
+    }
+  ]
+}

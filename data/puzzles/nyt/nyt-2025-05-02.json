@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-02",
+  "groups": [
+    {
+      "title": "KINDS OF CARVINGS",
+      "color": "yellow",
+      "words": [
+        "BUST",
+        "RELIEF",
+        "STATUE",
+        "TORSO"
+      ]
+    },
+    {
+      "title": "PILLAR",
+      "color": "green",
+      "words": [
+        "BRACE",
+        "POST",
+        "PROP",
+        "SUPPORT"
+      ]
+    },
+    {
+      "title": "BBQ OFFERING",
+      "color": "blue",
+      "words": [
+        "DOG",
+        "LINK",
+        "RIB",
+        "WING"
+      ]
+    },
+    {
+      "title": "___NECK",
+      "color": "purple",
+      "words": [
+        "BOTTLE",
+        "BREAK",
+        "GOOSE",
+        "TURTLE"
+      ]
+    }
+  ]
+}

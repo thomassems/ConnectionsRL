@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-07",
+  "groups": [
+    {
+      "title": "GET BETTER, AS A BROKEN BONE",
+      "color": "yellow",
+      "words": [
+        "HEAL",
+        "KNIT",
+        "MEND",
+        "RECOVER"
+      ]
+    },
+    {
+      "title": "NOT INCLUDING",
+      "color": "green",
+      "words": [
+        "BESIDES",
+        "BUT",
+        "EXCEPT",
+        "SAVE"
+      ]
+    },
+    {
+      "title": "TAROT MINOR ARCANA SUITS",
+      "color": "blue",
+      "words": [
+        "CUPS",
+        "PENTACLES",
+        "SWORDS",
+        "WANDS"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF GEMSTONES",
+      "color": "purple",
+      "words": [
+        "CHORAL",
+        "OPEL",
+        "PURL",
+        "QUARTS"
+      ]
+    }
+  ]
+}

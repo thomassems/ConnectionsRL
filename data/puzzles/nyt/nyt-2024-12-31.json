@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-31",
+  "groups": [
+    {
+      "title": "MOVE QUICKLY",
+      "color": "yellow",
+      "words": [
+        "BOLT",
+        "DART",
+        "DASH",
+        "FLY"
+      ]
+    },
+    {
+      "title": "FUN TIME",
+      "color": "green",
+      "words": [
+        "BALL",
+        "BLAST",
+        "KICK",
+        "THRILL"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE AN ADDRESSEE",
+      "color": "blue",
+      "words": [
+        "ATTENTION",
+        "DEAR",
+        "FOR",
+        "TO"
+      ]
+    },
+    {
+      "title": "NAME ___",
+      "color": "purple",
+      "words": [
+        "BRAND",
+        "DROP",
+        "GAME",
+        "NAMES"
+      ]
+    }
+  ]
+}

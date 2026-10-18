@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-13",
+  "groups": [
+    {
+      "title": "FASHION DESIGNER'S OUTPUT",
+      "color": "yellow",
+      "words": [
+        "BRAND",
+        "COLLECTION",
+        "LABEL",
+        "LINE"
+      ]
+    },
+    {
+      "title": "PLAYGROUND VERBS",
+      "color": "green",
+      "words": [
+        "DODGE",
+        "HIDE",
+        "HOP",
+        "TAG"
+      ]
+    },
+    {
+      "title": "LOONEY TUNES FIGURES",
+      "color": "blue",
+      "words": [
+        "BUNNY",
+        "DUCK",
+        "MARTIAN",
+        "PIG"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF MUSICALS",
+      "color": "purple",
+      "words": [
+        "GREECE",
+        "HARE",
+        "KATZ",
+        "MAIM"
+      ]
+    }
+  ]
+}

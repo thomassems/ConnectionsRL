@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-30",
+  "groups": [
+    {
+      "title": "PLAYING CARD SUITS",
+      "color": "yellow",
+      "words": [
+        "CLUB",
+        "DIAMOND",
+        "HEART",
+        "SPADE"
+      ]
+    },
+    {
+      "title": "GOLF CLUBS",
+      "color": "green",
+      "words": [
+        "IRON",
+        "PUTTER",
+        "WEDGE",
+        "WOOD"
+      ]
+    },
+    {
+      "title": "YEARN",
+      "color": "blue",
+      "words": [
+        "ACHE",
+        "LONG",
+        "PINE",
+        "THIRST"
+      ]
+    },
+    {
+      "title": "INSUFFICIENT",
+      "color": "purple",
+      "words": [
+        "LOW",
+        "SHORT",
+        "SHY",
+        "WANTING"
+      ]
+    }
+  ]
+}

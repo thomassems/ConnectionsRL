@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-04",
+  "groups": [
+    {
+      "title": "VERY SMALL AMOUNT",
+      "color": "yellow",
+      "words": [
+        "HINT",
+        "TOUCH",
+        "TRACE",
+        "SHRED"
+      ]
+    },
+    {
+      "title": "PUPPY PURCHASES",
+      "color": "green",
+      "words": [
+        "BED",
+        "BOWL",
+        "COLLAR",
+        "CRATE"
+      ]
+    },
+    {
+      "title": "HELP PUT ON A PARTY",
+      "color": "blue",
+      "words": [
+        "CATER",
+        "HOST",
+        "THROW",
+        "PLAN"
+      ]
+    },
+    {
+      "title": "SYMBOLS ON A KEYBOARD",
+      "color": "purple",
+      "words": [
+        "BRACE",
+        "CARET",
+        "HASH",
+        "STAR"
+      ]
+    }
+  ]
+}

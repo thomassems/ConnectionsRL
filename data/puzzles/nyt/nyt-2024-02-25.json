@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-25",
+  "groups": [
+    {
+      "title": "WALK HEAVILY",
+      "color": "yellow",
+      "words": [
+        "LUMBER",
+        "PLOD",
+        "STOMP",
+        "TRUDGE"
+      ]
+    },
+    {
+      "title": "FLEXIBLE",
+      "color": "green",
+      "words": [
+        "ELASTIC",
+        "LIMBER",
+        "PLASTIC",
+        "SUPPLE"
+      ]
+    },
+    {
+      "title": "FENCING EQUIPMENT",
+      "color": "blue",
+      "words": [
+        "FOIL",
+        "GLOVE",
+        "JACKET",
+        "MASK"
+      ]
+    },
+    {
+      "title": "WORDS BEGINNING WITH INSTRUMENTS",
+      "color": "purple",
+      "words": [
+        "BASSINET",
+        "CELLOPHANE",
+        "HARPOON",
+        "ORGANISM"
+      ]
+    }
+  ]
+}

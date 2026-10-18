@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-31",
+  "groups": [
+    {
+      "title": "NEWSPAPER SECTIONS",
+      "color": "yellow",
+      "words": [
+        "ARTS",
+        "BUSINESS",
+        "COMICS",
+        "SPORTS"
+      ]
+    },
+    {
+      "title": "TREE FEATURES",
+      "color": "green",
+      "words": [
+        "BARK",
+        "CROWN",
+        "RINGS",
+        "ROOTS"
+      ]
+    },
+    {
+      "title": "KINDS OF SALAD",
+      "color": "blue",
+      "words": [
+        "CHEF",
+        "GARDEN",
+        "GREEK",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "SEEN ON BACKS OF U.S. COINS",
+      "color": "purple",
+      "words": [
+        "EAGLE",
+        "MONTICELLO",
+        "SHIELD",
+        "TORCH"
+      ]
+    }
+  ]
+}

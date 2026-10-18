@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-18",
+  "groups": [
+    {
+      "title": "UNITS OF VOLUME",
+      "color": "yellow",
+      "words": [
+        "CUP",
+        "GALLON",
+        "PINT",
+        "QUART"
+      ]
+    },
+    {
+      "title": "EXTREMELY",
+      "color": "green",
+      "words": [
+        "AWFUL",
+        "QUITE",
+        "SUPER",
+        "VERY"
+      ]
+    },
+    {
+      "title": "WORLD CURRENCIES",
+      "color": "blue",
+      "words": [
+        "RAND",
+        "REAL",
+        "STERLING",
+        "WON"
+      ]
+    },
+    {
+      "title": "___ CAKE",
+      "color": "purple",
+      "words": [
+        "CARROT",
+        "COFFEE",
+        "POUND",
+        "SPONGE"
+      ]
+    }
+  ]
+}

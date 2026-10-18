@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-01",
+  "groups": [
+    {
+      "title": "PROGRESS SLOWLY",
+      "color": "yellow",
+      "words": [
+        "CRAWL",
+        "CREEP",
+        "DRAG",
+        "INCH"
+      ]
+    },
+    {
+      "title": "WAYS TO ORDER A BEER",
+      "color": "green",
+      "words": [
+        "BOTTLE",
+        "CAN",
+        "DRAFT",
+        "TAP"
+      ]
+    },
+    {
+      "title": "CHEESY CORN SNACK UNIT",
+      "color": "blue",
+      "words": [
+        "BALL",
+        "CURL",
+        "DOODLE",
+        "PUFF"
+      ]
+    },
+    {
+      "title": "___ EFFECT",
+      "color": "purple",
+      "words": [
+        "BUTTERFLY",
+        "DOMINO",
+        "HALO",
+        "PLACEBO"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-17",
+  "groups": [
+    {
+      "title": "FRANKFURTER",
+      "color": "yellow",
+      "words": [
+        "BANGER",
+        "BRAT",
+        "LINK",
+        "SAUSAGE"
+      ]
+    },
+    {
+      "title": "STRIKE",
+      "color": "green",
+      "words": [
+        "BOP",
+        "HIT",
+        "KNOCK",
+        "TAP"
+      ]
+    },
+    {
+      "title": "WEB BROWSERS",
+      "color": "blue",
+      "words": [
+        "CHROME",
+        "EDGE",
+        "OPERA",
+        "SAFARI"
+      ]
+    },
+    {
+      "title": "ENDING WITH BEER BRANDS",
+      "color": "purple",
+      "words": [
+        "AUTOHARP",
+        "CONTRABASS",
+        "PEPPERONI",
+        "ROSEBUD"
+      ]
+    }
+  ]
+}

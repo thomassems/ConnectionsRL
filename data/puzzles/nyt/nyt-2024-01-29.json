@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-29",
+  "groups": [
+    {
+      "title": "DO SOME MARKETING FOR",
+      "color": "yellow",
+      "words": [
+        "PITCH",
+        "PLUG",
+        "PROMOTE",
+        "PUSH"
+      ]
+    },
+    {
+      "title": "ROMANTIC TWOSOME",
+      "color": "green",
+      "words": [
+        "COUPLE",
+        "ITEM",
+        "PAIR",
+        "THING"
+      ]
+    },
+    {
+      "title": "TENNIS SCORING TERMS",
+      "color": "blue",
+      "words": [
+        "AD",
+        "ALL",
+        "DEUCE",
+        "LOVE"
+      ]
+    },
+    {
+      "title": "WORDS WITH “FRUIT”",
+      "color": "purple",
+      "words": [
+        "BREAD",
+        "DRAGON",
+        "JACK",
+        "PASSION"
+      ]
+    }
+  ]
+}

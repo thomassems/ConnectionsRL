@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-08",
+  "groups": [
+    {
+      "title": "PRICK",
+      "color": "yellow",
+      "words": [
+        "JAB",
+        "PIERCE",
+        "POKE",
+        "STICK"
+      ]
+    },
+    {
+      "title": "RADIO LINGO",
+      "color": "green",
+      "words": [
+        "COPY",
+        "NEGATIVE",
+        "OVER",
+        "ROGER"
+      ]
+    },
+    {
+      "title": "OLD TESTAMENT BOOKS",
+      "color": "blue",
+      "words": [
+        "DANIEL",
+        "JOB",
+        "JUDGES",
+        "NUMBERS"
+      ]
+    },
+    {
+      "title": "WORDS PRONOUNCED “SH” WITHOUT AN “SH”",
+      "color": "purple",
+      "words": [
+        "SEAN",
+        "SIOBHAN",
+        "SUGAR",
+        "SURE"
+      ]
+    }
+  ]
+}

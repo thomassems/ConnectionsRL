@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-03",
+  "groups": [
+    {
+      "title": "LONG-HAIRED ANIMALS",
+      "color": "yellow",
+      "words": [
+        "AFGHAN",
+        "ALPACA",
+        "ANGORA",
+        "YAK"
+      ]
+    },
+    {
+      "title": "PRATTLE ON",
+      "color": "green",
+      "words": [
+        "BLATHER",
+        "CHAT",
+        "JABBER",
+        "GAB"
+      ]
+    },
+    {
+      "title": "SNEAKER BRANDS",
+      "color": "blue",
+      "words": [
+        "CONVERSE",
+        "JORDAN",
+        "PUMA",
+        "VANS"
+      ]
+    },
+    {
+      "title": "___ BALLOON",
+      "color": "purple",
+      "words": [
+        "LEAD",
+        "SPEECH",
+        "TRIAL",
+        "WATER"
+      ]
+    }
+  ]
+}

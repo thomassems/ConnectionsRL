@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-19",
+  "groups": [
+    {
+      "title": "FUND",
+      "color": "yellow",
+      "words": [
+        "KITTY",
+        "POOL",
+        "POT",
+        "PURSE"
+      ]
+    },
+    {
+      "title": "COURT FILING",
+      "color": "green",
+      "words": [
+        "ACTION",
+        "CASE",
+        "CLAIM",
+        "SUIT"
+      ]
+    },
+    {
+      "title": "LANDFORMS",
+      "color": "blue",
+      "words": [
+        "BASIN",
+        "BLUFF",
+        "CAPE",
+        "PLAIN"
+      ]
+    },
+    {
+      "title": "THEY HAVE RAYS",
+      "color": "purple",
+      "words": [
+        "AQUARIUM",
+        "GEOMETRY",
+        "SUN",
+        "TAMPA BAY"
+      ]
+    }
+  ]
+}

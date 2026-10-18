@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-23",
+  "groups": [
+    {
+      "title": "QUITE THE PARTY",
+      "color": "yellow",
+      "words": [
+        "BASH",
+        "BLAST",
+        "BLOWOUT",
+        "RAVE"
+      ]
+    },
+    {
+      "title": "ONE’S CONSTITUTION",
+      "color": "green",
+      "words": [
+        "CHARACTER",
+        "FIBER",
+        "MAKEUP",
+        "NATURE"
+      ]
+    },
+    {
+      "title": "BRITISH IMPERIAL UNITS OF WEIGHT",
+      "color": "blue",
+      "words": [
+        "DRAM",
+        "OUNCE",
+        "POUND",
+        "STONE"
+      ]
+    },
+    {
+      "title": "WHAT “CAT’S EYE” CAN BE USED TO DESCRIBE",
+      "color": "purple",
+      "words": [
+        "EYELINER",
+        "GLASSES",
+        "MARBLE",
+        "NEBULA"
+      ]
+    }
+  ]
+}

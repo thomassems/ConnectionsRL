@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-26",
+  "groups": [
+    {
+      "title": "BASEBALL EQUIPMENT",
+      "color": "yellow",
+      "words": [
+        "BALL",
+        "BASE",
+        "BAT",
+        "GLOVE"
+      ]
+    },
+    {
+      "title": "HARD HIT",
+      "color": "green",
+      "words": [
+        "BLOW",
+        "LICK",
+        "SOCK",
+        "STRIKE"
+      ]
+    },
+    {
+      "title": "ORIGINAL MONOPOLY TOKENS",
+      "color": "blue",
+      "words": [
+        "BOOT",
+        "IRON",
+        "THIMBLE",
+        "TOP HAT"
+      ]
+    },
+    {
+      "title": "___ BUNNY",
+      "color": "purple",
+      "words": [
+        "BAD",
+        "BUGS",
+        "DUST",
+        "HONEY"
+      ]
+    }
+  ]
+}

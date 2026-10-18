@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-12",
+  "groups": [
+    {
+      "title": "MURKY CONDITION",
+      "color": "yellow",
+      "words": [
+        "CLOUD",
+        "FOG",
+        "HAZE",
+        "MIST"
+      ]
+    },
+    {
+      "title": "FOLLOW",
+      "color": "green",
+      "words": [
+        "SHADOW",
+        "TAIL",
+        "TRACK",
+        "TRAIL"
+      ]
+    },
+    {
+      "title": "PINBALL MACHINE COMPONENTS",
+      "color": "blue",
+      "words": [
+        "BALL",
+        "BUMPER",
+        "FLIPPER",
+        "PLUNGER"
+      ]
+    },
+    {
+      "title": "___LAND",
+      "color": "purple",
+      "words": [
+        "FIN",
+        "GREEN",
+        "ICE",
+        "IRE"
+      ]
+    }
+  ]
+}

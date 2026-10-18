@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-02",
+  "groups": [
+    {
+      "title": "AU NATUREL",
+      "color": "yellow",
+      "words": [
+        "BARE",
+        "NAKED",
+        "NUDE",
+        "UNCLAD"
+      ]
+    },
+    {
+      "title": "BAKED GOODS",
+      "color": "green",
+      "words": [
+        "BUN",
+        "DANISH",
+        "MUFFIN",
+        "TURNOVER"
+      ]
+    },
+    {
+      "title": "AMERICAN FOOTBALL ACTIONS",
+      "color": "blue",
+      "words": [
+        "FUMBLE",
+        "PUNT",
+        "SACK",
+        "SNAP"
+      ]
+    },
+    {
+      "title": "MANICURE STEPS",
+      "color": "purple",
+      "words": [
+        "BUFF",
+        "CLIP",
+        "FILE",
+        "POLISH"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-23",
+  "groups": [
+    {
+      "title": "RUB TOGETHER",
+      "color": "yellow",
+      "words": [
+        "GNASH",
+        "GRATE",
+        "GRIND",
+        "SCRAPE"
+      ]
+    },
+    {
+      "title": "WAYS TO PRESERVE FOOD",
+      "color": "green",
+      "words": [
+        "CAN",
+        "FERMENT",
+        "FREEZE",
+        "PICKLE"
+      ]
+    },
+    {
+      "title": "BREAKFAST CONDIMENTS",
+      "color": "blue",
+      "words": [
+        "BUTTER",
+        "HOT SAUCE",
+        "JAM",
+        "SYRUP"
+      ]
+    },
+    {
+      "title": "PROVERBIAL THINGS THAT ARE SPILLED",
+      "color": "purple",
+      "words": [
+        "BEANS",
+        "GUTS",
+        "MILK",
+        "TEA"
+      ]
+    }
+  ]
+}

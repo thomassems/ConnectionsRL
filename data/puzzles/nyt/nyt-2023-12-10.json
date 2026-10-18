@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-10",
+  "groups": [
+    {
+      "title": "PARTS OF A RIVER",
+      "color": "yellow",
+      "words": [
+        "BANK",
+        "BED",
+        "DELTA",
+        "MOUTH"
+      ]
+    },
+    {
+      "title": "SOMETHING EASY TO DO",
+      "color": "green",
+      "words": [
+        "BREEZE",
+        "CINCH",
+        "PICNIC",
+        "SNAP"
+      ]
+    },
+    {
+      "title": "WRAP AROUND IN A CIRCLE",
+      "color": "blue",
+      "words": [
+        "COIL",
+        "SPIRAL",
+        "TWIST",
+        "WIND"
+      ]
+    },
+    {
+      "title": "JUMP INTO THE AIR",
+      "color": "purple",
+      "words": [
+        "BOUND",
+        "LEAP",
+        "SPRING",
+        "VAULT"
+      ]
+    }
+  ]
+}

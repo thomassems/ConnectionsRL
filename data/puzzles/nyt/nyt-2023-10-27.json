@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-27",
+  "groups": [
+    {
+      "title": "SHAMELESS BOLDNESS",
+      "color": "yellow",
+      "words": [
+        "BRASS",
+        "CHEEK",
+        "GALL",
+        "NERVE"
+      ]
+    },
+    {
+      "title": "METAL ELEMENTS",
+      "color": "green",
+      "words": [
+        "COPPER",
+        "GOLD",
+        "NICKEL",
+        "SILVER"
+      ]
+    },
+    {
+      "title": "W.N.B.A. TEAMS",
+      "color": "blue",
+      "words": [
+        "MERCURY",
+        "SKY",
+        "SPARKS",
+        "LIBERTY"
+      ]
+    },
+    {
+      "title": "THINGS WITH TRUNKS",
+      "color": "purple",
+      "words": [
+        "CARS",
+        "ELEPHANTS",
+        "SWIMMERS",
+        "TREES"
+      ]
+    }
+  ]
+}

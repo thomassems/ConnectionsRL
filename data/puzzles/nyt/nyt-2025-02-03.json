@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-03",
+  "groups": [
+    {
+      "title": "COMMENT AFTER AN INSULT",
+      "color": "yellow",
+      "words": [
+        "BURN",
+        "OUCH",
+        "SNAP",
+        "ZING"
+      ]
+    },
+    {
+      "title": "TINY AMOUNT, WITH “A”",
+      "color": "green",
+      "words": [
+        "BIT",
+        "LITTLE",
+        "MITE",
+        "TAD"
+      ]
+    },
+    {
+      "title": "BIT OF CITRUS GARNISH",
+      "color": "blue",
+      "words": [
+        "SLICE",
+        "TWIST",
+        "WEDGE",
+        "ZEST"
+      ]
+    },
+    {
+      "title": "BUNGLE, WITH “UP”",
+      "color": "purple",
+      "words": [
+        "FOUL",
+        "LOUSE",
+        "MUCK",
+        "SCREW"
+      ]
+    }
+  ]
+}

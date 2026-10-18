@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-11",
+  "groups": [
+    {
+      "title": "HALLOWEEN DECORATIONS",
+      "color": "yellow",
+      "words": [
+        "BAT",
+        "COBWEB",
+        "PUMPKIN",
+        "TOMBSTONE"
+      ]
+    },
+    {
+      "title": "TV SHOWS",
+      "color": "green",
+      "words": [
+        "24",
+        "BONES",
+        "FIREFLY",
+        "WEEDS"
+      ]
+    },
+    {
+      "title": "SLOT MACHINE SYMBOLS",
+      "color": "blue",
+      "words": [
+        "7",
+        "BAR",
+        "BELL",
+        "CHERRY"
+      ]
+    },
+    {
+      "title": "NUMBERS IN BOOK TITLES",
+      "color": "purple",
+      "words": [
+        "22",
+        "451",
+        "2001",
+        "20,000"
+      ]
+    }
+  ]
+}

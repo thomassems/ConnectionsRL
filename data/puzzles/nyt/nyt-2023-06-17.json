@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-17",
+  "groups": [
+    {
+      "title": "MONOPOLY SQUARES",
+      "color": "yellow",
+      "words": [
+        "BOARDWALK",
+        "CHANCE",
+        "GO",
+        "JAIL"
+      ]
+    },
+    {
+      "title": "SHADES OF BLUE",
+      "color": "green",
+      "words": [
+        "BABY",
+        "MIDNIGHT",
+        "POWDER",
+        "ROYAL"
+      ]
+    },
+    {
+      "title": "RAPPERS",
+      "color": "blue",
+      "words": [
+        "COMMON",
+        "FUTURE",
+        "ICE CUBE",
+        "Q-TIP"
+      ]
+    },
+    {
+      "title": "MEMBERS OF A SEPTET",
+      "color": "purple",
+      "words": [
+        "SEA",
+        "SIN",
+        "SISTER",
+        "WONDER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-02",
+  "groups": [
+    {
+      "title": "CAPRICE",
+      "color": "yellow",
+      "words": [
+        "FANCY",
+        "IMPULSE",
+        "LARK",
+        "WHIM"
+      ]
+    },
+    {
+      "title": "ILK",
+      "color": "green",
+      "words": [
+        "KIND",
+        "LIKE",
+        "SORT",
+        "TYPE"
+      ]
+    },
+    {
+      "title": "WILLIAMSES",
+      "color": "blue",
+      "words": [
+        "HANK",
+        "ROBIN",
+        "TENNESSEE",
+        "VENUS"
+      ]
+    },
+    {
+      "title": "WORDS PRONOUNCED DIFFERENTLY AS PROPER NOUNS",
+      "color": "purple",
+      "words": [
+        "HERB",
+        "JOB",
+        "NICE",
+        "READING"
+      ]
+    }
+  ]
+}

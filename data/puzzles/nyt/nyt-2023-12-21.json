@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-21",
+  "groups": [
+    {
+      "title": "SEEN IN A LAUNDRY ROOM",
+      "color": "yellow",
+      "words": [
+        "DRYER",
+        "HAMPER",
+        "IRON",
+        "WASHER"
+      ]
+    },
+    {
+      "title": "SHEPHERD",
+      "color": "green",
+      "words": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "STEER"
+      ]
+    },
+    {
+      "title": "WHAT “I” MIGHT MEAN",
+      "color": "blue",
+      "words": [
+        "IODINE",
+        "IOTA",
+        "MYSELF",
+        "ONE"
+      ]
+    },
+    {
+      "title": "___ VALLEY",
+      "color": "purple",
+      "words": [
+        "DEATH",
+        "HIDDEN",
+        "SILICON",
+        "UNCANNY"
+      ]
+    }
+  ]
+}

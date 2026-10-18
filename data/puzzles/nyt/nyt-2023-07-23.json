@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-23",
+  "groups": [
+    {
+      "title": "SCUBA GEAR",
+      "color": "yellow",
+      "words": [
+        "FINS",
+        "MASK",
+        "SNORKEL",
+        "TANK"
+      ]
+    },
+    {
+      "title": "PUNCTUATION MARKS",
+      "color": "green",
+      "words": [
+        "COLON",
+        "COMMA",
+        "HYPHEN",
+        "PERIOD"
+      ]
+    },
+    {
+      "title": "RUN QUICKLY",
+      "color": "blue",
+      "words": [
+        "BOLT",
+        "DASH",
+        "RACE",
+        "SPRINT"
+      ]
+    },
+    {
+      "title": "___ CAT",
+      "color": "purple",
+      "words": [
+        "DOJA",
+        "FAT",
+        "HOUSE",
+        "JUNGLE"
+      ]
+    }
+  ]
+}

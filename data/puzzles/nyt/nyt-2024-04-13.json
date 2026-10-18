@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-13",
+  "groups": [
+    {
+      "title": "SEEN AT THE CIRCUS",
+      "color": "yellow",
+      "words": [
+        "CLOWN",
+        "RING",
+        "TENT",
+        "TRAPEZE"
+      ]
+    },
+    {
+      "title": "“THE WIZARD OF OZ” FIGURES",
+      "color": "green",
+      "words": [
+        "LION",
+        "SCARECROW",
+        "WITCH",
+        "WIZARD"
+      ]
+    },
+    {
+      "title": "FILM DEPARTMENTS",
+      "color": "blue",
+      "words": [
+        "HAIR",
+        "MAKEUP",
+        "PROPS",
+        "WARDROBE"
+      ]
+    },
+    {
+      "title": "“I’M A ___” (LYRICS IN “THE JOKER”)",
+      "color": "purple",
+      "words": [
+        "JOKER",
+        "LOVER",
+        "SINNER",
+        "SMOKER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-27",
+  "groups": [
+    {
+      "title": "NOT WORKING RELIABLY",
+      "color": "yellow",
+      "words": [
+        "BUGGY",
+        "ERRATIC",
+        "GLITCHY",
+        "SPOTTY"
+      ]
+    },
+    {
+      "title": "CAR PARTS",
+      "color": "green",
+      "words": [
+        "BUMPER",
+        "GRILLE",
+        "MIRROR",
+        "RIM"
+      ]
+    },
+    {
+      "title": "WHAT A SITTER MIGHT SIT",
+      "color": "blue",
+      "words": [
+        "BABY",
+        "HOUSE",
+        "PET",
+        "PLANT"
+      ]
+    },
+    {
+      "title": "___ BAND",
+      "color": "purple",
+      "words": [
+        "BOY",
+        "RUBBER",
+        "TRIBUTE",
+        "WEDDING"
+      ]
+    }
+  ]
+}

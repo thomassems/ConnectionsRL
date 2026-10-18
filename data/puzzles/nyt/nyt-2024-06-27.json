@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-27",
+  "groups": [
+    {
+      "title": "PURSUIT",
+      "color": "yellow",
+      "words": [
+        "CHASE",
+        "HUNT",
+        "QUEST",
+        "SEARCH"
+      ]
+    },
+    {
+      "title": "ROMANTIC LETTER SIGN-OFFS",
+      "color": "green",
+      "words": [
+        "ALWAYS",
+        "KISSES",
+        "LOVE",
+        "YOURS"
+      ]
+    },
+    {
+      "title": "GROUP WITHIN A GROUP",
+      "color": "blue",
+      "words": [
+        "CAMP",
+        "PARTY",
+        "SIDE",
+        "WING"
+      ]
+    },
+    {
+      "title": "GOLD ___",
+      "color": "purple",
+      "words": [
+        "BOND",
+        "LEAF",
+        "MINE",
+        "RUSH"
+      ]
+    }
+  ]
+}

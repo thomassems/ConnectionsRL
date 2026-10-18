@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-26",
+  "groups": [
+    {
+      "title": "DECORATIVE EDGE",
+      "color": "yellow",
+      "words": [
+        "BORDER",
+        "FRILL",
+        "FRINGE",
+        "TRIM"
+      ]
+    },
+    {
+      "title": "INCREASE, IN A WAY",
+      "color": "green",
+      "words": [
+        "GROW",
+        "MOUNT",
+        "SWELL",
+        "WAX"
+      ]
+    },
+    {
+      "title": "SPECIFICATIONS FOR A BARTENDER",
+      "color": "blue",
+      "words": [
+        "DRY",
+        "NEAT",
+        "STRAIGHT",
+        "VIRGIN"
+      ]
+    },
+    {
+      "title": "STRING ___",
+      "color": "purple",
+      "words": [
+        "BEAN",
+        "BIKINI",
+        "CHEESE",
+        "THEORY"
+      ]
+    }
+  ]
+}

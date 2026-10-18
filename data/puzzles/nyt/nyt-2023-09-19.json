@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-19",
+  "groups": [
+    {
+      "title": "WEB BROWSER-RELATED",
+      "color": "yellow",
+      "words": [
+        "BOOKMARK",
+        "HISTORY",
+        "TAB",
+        "WINDOW"
+      ]
+    },
+    {
+      "title": "SHIRT FEATURES",
+      "color": "green",
+      "words": [
+        "BUTTON",
+        "COLLAR",
+        "CUFF",
+        "POCKET"
+      ]
+    },
+    {
+      "title": "CONNECTION",
+      "color": "blue",
+      "words": [
+        "BOND",
+        "LINK",
+        "RELATION",
+        "TIE"
+      ]
+    },
+    {
+      "title": "DIRTY ___",
+      "color": "purple",
+      "words": [
+        "DOZEN",
+        "JOKE",
+        "LAUNDRY",
+        "MARTINI"
+      ]
+    }
+  ]
+}

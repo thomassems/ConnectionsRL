@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-30",
+  "groups": [
+    {
+      "title": "RELATIVES",
+      "color": "yellow",
+      "words": [
+        "AUNT",
+        "COUSIN",
+        "MOTHER",
+        "NEPHEW"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR OFFBEAT",
+      "color": "green",
+      "words": [
+        "DAFFY",
+        "KOOKY",
+        "QUIRKY",
+        "WACKY"
+      ]
+    },
+    {
+      "title": "DISNEY DUCKS",
+      "color": "blue",
+      "words": [
+        "DAISY",
+        "DEWEY",
+        "DONALD",
+        "SCROOGE"
+      ]
+    },
+    {
+      "title": "___ CLOCK",
+      "color": "purple",
+      "words": [
+        "ALARM",
+        "BIOLOGICAL",
+        "CUCKOO",
+        "GRANDFATHER"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-17",
+  "groups": [
+    {
+      "title": "FOOLISHNESS",
+      "color": "yellow",
+      "words": [
+        "ABSURDITY",
+        "FOLLY",
+        "MADNESS",
+        "NONSENSE"
+      ]
+    },
+    {
+      "title": "MOVE FORWARD",
+      "color": "green",
+      "words": [
+        "ADVANCE",
+        "MARCH",
+        "PROGRESS",
+        "PUSH"
+      ]
+    },
+    {
+      "title": "THINGS THAT MIGHT STINK",
+      "color": "blue",
+      "words": [
+        "CHEESE",
+        "FEET",
+        "GARBAGE",
+        "SKUNK"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “DEEP”",
+      "color": "purple",
+      "words": [
+        "CUT",
+        "FAKE",
+        "FREEZE",
+        "SIX"
+      ]
+    }
+  ]
+}

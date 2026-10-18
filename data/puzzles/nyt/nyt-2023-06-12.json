@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-12",
+  "groups": [
+    {
+      "title": "WET WEATHER",
+      "color": "yellow",
+      "words": [
+        "HAIL",
+        "RAIN",
+        "SLEET",
+        "SNOW"
+      ]
+    },
+    {
+      "title": "NBA TEAMS",
+      "color": "green",
+      "words": [
+        "BUCKS",
+        "HEAT",
+        "JAZZ",
+        "NETS"
+      ]
+    },
+    {
+      "title": "KEYBOARD KEYS",
+      "color": "blue",
+      "words": [
+        "OPTION",
+        "RETURN",
+        "SHIFT",
+        "TAB"
+      ]
+    },
+    {
+      "title": "PALINDROMES",
+      "color": "purple",
+      "words": [
+        "KAYAK",
+        "LEVEL",
+        "MOM",
+        "RACECAR"
+      ]
+    }
+  ]
+}

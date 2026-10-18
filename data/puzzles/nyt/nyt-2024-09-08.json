@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-08",
+  "groups": [
+    {
+      "title": "VERBS IN A CAKE RECIPE",
+      "color": "yellow",
+      "words": [
+        "BAKE",
+        "BEAT",
+        "FROST",
+        "PREHEAT"
+      ]
+    },
+    {
+      "title": "WHAT A HEART DOES WHEN EXCITED",
+      "color": "green",
+      "words": [
+        "POUND",
+        "PUMP",
+        "RACE",
+        "THROB"
+      ]
+    },
+    {
+      "title": "ECCLESIASTICAL TITLES",
+      "color": "blue",
+      "words": [
+        "BISHOP",
+        "PASTOR",
+        "PRIOR",
+        "POPE"
+      ]
+    },
+    {
+      "title": "___ BOYS",
+      "color": "purple",
+      "words": [
+        "BAD",
+        "BEACH",
+        "HARDY",
+        "PET SHOP"
+      ]
+    }
+  ]
+}

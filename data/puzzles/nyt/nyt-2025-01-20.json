@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-20",
+  "groups": [
+    {
+      "title": "TAKE ON, AS A RESPONSIBILITY",
+      "color": "yellow",
+      "words": [
+        "ASSUME",
+        "BEAR",
+        "HANDLE",
+        "SHOULDER"
+      ]
+    },
+    {
+      "title": "CORNERS",
+      "color": "green",
+      "words": [
+        "ANGLE",
+        "BEND",
+        "CROOK",
+        "ELBOW"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH POPEYE",
+      "color": "blue",
+      "words": [
+        "ANCHOR",
+        "FOREARM",
+        "PIPE",
+        "SPINACH"
+      ]
+    },
+    {
+      "title": "___ SHEET",
+      "color": "purple",
+      "words": [
+        "BALANCE",
+        "CHEAT",
+        "COOKIE",
+        "FITTED"
+      ]
+    }
+  ]
+}

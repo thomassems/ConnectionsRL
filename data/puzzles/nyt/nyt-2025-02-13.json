@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-13",
+  "groups": [
+    {
+      "title": "TEMPLATE",
+      "color": "yellow",
+      "words": [
+        "BLUEPRINT",
+        "GUIDE",
+        "MODEL",
+        "MOLD"
+      ]
+    },
+    {
+      "title": "DEMONSTRATION, AS OF APPRECIATION",
+      "color": "green",
+      "words": [
+        "EXPRESSION",
+        "GESTURE",
+        "SYMBOL",
+        "TOKEN"
+      ]
+    },
+    {
+      "title": "MODAL VERBS",
+      "color": "blue",
+      "words": [
+        "CAN",
+        "MIGHT",
+        "MUST",
+        "WILL"
+      ]
+    },
+    {
+      "title": "___ TRIP",
+      "color": "purple",
+      "words": [
+        "EGO",
+        "GUILT",
+        "HEAD",
+        "POWER"
+      ]
+    }
+  ]
+}

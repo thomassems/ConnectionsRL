@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-22",
+  "groups": [
+    {
+      "title": "COLOR TYPES",
+      "color": "yellow",
+      "words": [
+        "GRAYSCALE",
+        "NEON",
+        "NEUTRAL",
+        "PASTEL"
+      ]
+    },
+    {
+      "title": "FILE MENU OPTIONS",
+      "color": "green",
+      "words": [
+        "NEW",
+        "OPEN",
+        "PRINT",
+        "SAVE"
+      ]
+    },
+    {
+      "title": "CHANCE TO WIN A PRIZE",
+      "color": "blue",
+      "words": [
+        "DRAWING",
+        "LOTTERY",
+        "POOL",
+        "RAFFLE"
+      ]
+    },
+    {
+      "title": "WHAT “BRONZE” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ALLOY",
+        "SCULPTURE",
+        "SUNTAN",
+        "THIRD"
+      ]
+    }
+  ]
+}

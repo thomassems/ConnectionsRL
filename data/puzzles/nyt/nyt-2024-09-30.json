@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-30",
+  "groups": [
+    {
+      "title": "COOK WITH HEAT AND WATER",
+      "color": "yellow",
+      "words": [
+        "BLANCH",
+        "BOIL",
+        "POACH",
+        "STEAM"
+      ]
+    },
+    {
+      "title": "COMMON PERFUME INGREDIENTS",
+      "color": "green",
+      "words": [
+        "AMBERGRIS",
+        "MUSK",
+        "ROSE",
+        "VANILLA"
+      ]
+    },
+    {
+      "title": "CHARACTERS WITH PET DOGS",
+      "color": "blue",
+      "words": [
+        "CHARLIE",
+        "DOROTHY",
+        "SHAGGY",
+        "WALLACE"
+      ]
+    },
+    {
+      "title": "CAPITAL CITY HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "KETO",
+        "ROAM",
+        "SOPHIA",
+        "SOUL"
+      ]
+    }
+  ]
+}

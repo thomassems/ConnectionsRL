@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-18",
+  "groups": [
+    {
+      "title": "EAT A LITTLE",
+      "color": "yellow",
+      "words": [
+        "GRAZE",
+        "NIBBLE",
+        "PECK",
+        "SNACK"
+      ]
+    },
+    {
+      "title": "PURSUE",
+      "color": "green",
+      "words": [
+        "HUNT",
+        "TRACK",
+        "TRAIL",
+        "STALK"
+      ]
+    },
+    {
+      "title": "INGREDIENTS IN MINESTRONE",
+      "color": "blue",
+      "words": [
+        "BEANS",
+        "PASTA",
+        "STOCK",
+        "VEGETABLES"
+      ]
+    },
+    {
+      "title": "___CAST",
+      "color": "purple",
+      "words": [
+        "BROAD",
+        "FORE",
+        "POD",
+        "TYPE"
+      ]
+    }
+  ]
+}

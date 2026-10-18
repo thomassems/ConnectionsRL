@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-22",
+  "groups": [
+    {
+      "title": "RELAX",
+      "color": "yellow",
+      "words": [
+        "CHILL",
+        "HANG",
+        "LOAF",
+        "LOUNGE"
+      ]
+    },
+    {
+      "title": "CATCHY SONG",
+      "color": "green",
+      "words": [
+        "BANGER",
+        "BOP",
+        "GROOVE",
+        "JAM"
+      ]
+    },
+    {
+      "title": "BRITISH CUISINE",
+      "color": "blue",
+      "words": [
+        "MASH",
+        "ROAST",
+        "SCONE",
+        "TRIFLE"
+      ]
+    },
+    {
+      "title": "STICKY SITUATION",
+      "color": "purple",
+      "words": [
+        "BIND",
+        "PICKLE",
+        "SCRAPE",
+        "SPOT"
+      ]
+    }
+  ]
+}

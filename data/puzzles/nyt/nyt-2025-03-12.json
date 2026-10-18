@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-12",
+  "groups": [
+    {
+      "title": "INGREDIENTS IN CLASSIC POUND CAKE",
+      "color": "yellow",
+      "words": [
+        "BUTTER",
+        "EGGS",
+        "FLOUR",
+        "SUGAR"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE RED",
+      "color": "green",
+      "words": [
+        "CARDINAL",
+        "ELMO",
+        "KETCHUP",
+        "ROSE"
+      ]
+    },
+    {
+      "title": "WORDS SAID TO HAVE NO EXACT RHYMES",
+      "color": "blue",
+      "words": [
+        "MONTH",
+        "ORANGE",
+        "PURPLE",
+        "SILVER"
+      ]
+    },
+    {
+      "title": "___ CANDY",
+      "color": "purple",
+      "words": [
+        "COTTON",
+        "EYE",
+        "JOHN",
+        "ROCK"
+      ]
+    }
+  ]
+}

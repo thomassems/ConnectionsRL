@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-14",
+  "groups": [
+    {
+      "title": "BLUNDER",
+      "color": "yellow",
+      "words": [
+        "BOO-BOO",
+        "FLUB",
+        "GAFFE",
+        "GOOF"
+      ]
+    },
+    {
+      "title": "FLOWERS",
+      "color": "green",
+      "words": [
+        "DAISY",
+        "JASMINE",
+        "PETUNIA",
+        "POPPY"
+      ]
+    },
+    {
+      "title": "THINGS BEES DO",
+      "color": "blue",
+      "words": [
+        "BUZZ",
+        "DANCE",
+        "POLLINATE",
+        "STING"
+      ]
+    },
+    {
+      "title": "FIRST NAMES OF YANKEES LEGENDS",
+      "color": "purple",
+      "words": [
+        "BABE",
+        "LOU",
+        "MICKEY",
+        "YOGI"
+      ]
+    }
+  ]
+}

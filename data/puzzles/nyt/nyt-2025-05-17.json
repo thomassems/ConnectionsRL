@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-17",
+  "groups": [
+    {
+      "title": "MEMBER OF A KINGDOM IN TAXONOMY",
+      "color": "yellow",
+      "words": [
+        "ANIMAL",
+        "BACTERIA",
+        "FUNGUS",
+        "PLANT"
+      ]
+    },
+    {
+      "title": "GRADUATED INSTRUMENTS",
+      "color": "green",
+      "words": [
+        "BEAKER",
+        "PROTRACTOR",
+        "RULER",
+        "SYRINGE"
+      ]
+    },
+    {
+      "title": "KINDS OF PENGUINS",
+      "color": "blue",
+      "words": [
+        "CHINSTRAP",
+        "EMPEROR",
+        "KING",
+        "MACARONI"
+      ]
+    },
+    {
+      "title": "“E” THINGS",
+      "color": "purple",
+      "words": [
+        "COMMERCE",
+        "MAIL",
+        "SCOOTER",
+        "SIGNATURE"
+      ]
+    }
+  ]
+}

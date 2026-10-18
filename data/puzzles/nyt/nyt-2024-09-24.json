@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-24",
+  "groups": [
+    {
+      "title": "INSPIRED",
+      "color": "yellow",
+      "words": [
+        "CREATIVE",
+        "FRESH",
+        "NOVEL",
+        "ORIGINAL"
+      ]
+    },
+    {
+      "title": "PROCURE IN ADVANCE",
+      "color": "green",
+      "words": [
+        "BOOK",
+        "CHARTER",
+        "RESERVE",
+        "SECURE"
+      ]
+    },
+    {
+      "title": "BIT OF PARTY DECORATION",
+      "color": "blue",
+      "words": [
+        "BALLOON",
+        "BANNER",
+        "CONFETTI",
+        "GARLAND"
+      ]
+    },
+    {
+      "title": "ONLINE PERSONALITY",
+      "color": "purple",
+      "words": [
+        "AMBASSADOR",
+        "INFLUENCER",
+        "MODEL",
+        "STREAMER"
+      ]
+    }
+  ]
+}

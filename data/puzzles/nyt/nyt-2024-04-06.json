@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-06",
+  "groups": [
+    {
+      "title": "INTRINSIC MOTIVATORS",
+      "color": "yellow",
+      "words": [
+        "DESIRE",
+        "DRIVE",
+        "RESOLVE",
+        "WILL"
+      ]
+    },
+    {
+      "title": "SUMMER GEAR",
+      "color": "green",
+      "words": [
+        "HAT",
+        "SHORTS",
+        "SUNGLASSES",
+        "TEE"
+      ]
+    },
+    {
+      "title": "COLLECTION",
+      "color": "blue",
+      "words": [
+        "ARRAY",
+        "BATTERY",
+        "SET",
+        "SERIES"
+      ]
+    },
+    {
+      "title": "HORSE___",
+      "color": "purple",
+      "words": [
+        "FLY",
+        "POWER",
+        "RADISH",
+        "SHOE"
+      ]
+    }
+  ]
+}

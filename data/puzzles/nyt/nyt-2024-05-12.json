@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-12",
+  "groups": [
+    {
+      "title": "PLAYFULLY POKE FUN AT",
+      "color": "yellow",
+      "words": [
+        "KID",
+        "NEEDLE",
+        "RIB",
+        "TEASE"
+      ]
+    },
+    {
+      "title": "CUTS OF BEEF",
+      "color": "green",
+      "words": [
+        "CHUCK",
+        "FLANK",
+        "LOIN",
+        "ROUND"
+      ]
+    },
+    {
+      "title": "ACRONYMS/INITIALISMS",
+      "color": "blue",
+      "words": [
+        "MIA",
+        "OMG",
+        "PIN",
+        "RAM"
+      ]
+    },
+    {
+      "title": "COCKTAILS MINUS PLACE NAMES",
+      "color": "purple",
+      "words": [
+        "LIBRE",
+        "MAMA",
+        "MULE",
+        "SLING"
+      ]
+    }
+  ]
+}

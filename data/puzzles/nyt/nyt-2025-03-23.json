@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-23",
+  "groups": [
+    {
+      "title": "CAPTIVATE",
+      "color": "yellow",
+      "words": [
+        "ABSORB",
+        "ENTRANCE",
+        "GRAB",
+        "RIVET"
+      ]
+    },
+    {
+      "title": "THINGS WITH WINGS",
+      "color": "green",
+      "words": [
+        "AIRPLANE",
+        "FAIRY",
+        "FLY",
+        "HOSPITAL"
+      ]
+    },
+    {
+      "title": "WORDS THAT MODIFY “WATCH”",
+      "color": "blue",
+      "words": [
+        "POCKET",
+        "SMART",
+        "STOP",
+        "WRIST"
+      ]
+    },
+    {
+      "title": "WORDS REPEATED IN “MISS MARY MACK”",
+      "color": "purple",
+      "words": [
+        "BACK",
+        "BLACK",
+        "BUTTONS",
+        "MACK"
+      ]
+    }
+  ]
+}

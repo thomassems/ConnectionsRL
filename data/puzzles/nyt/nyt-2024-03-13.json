@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-13",
+  "groups": [
+    {
+      "title": "HALLOWEEN PURCHASES",
+      "color": "yellow",
+      "words": [
+        "CANDY",
+        "COSTUME",
+        "DECORATIONS",
+        "PUMPKIN"
+      ]
+    },
+    {
+      "title": "PLANTS WITH SIMILAR FLAVORS",
+      "color": "green",
+      "words": [
+        "ANISE",
+        "FENNEL",
+        "LICORICE",
+        "TARRAGON"
+      ]
+    },
+    {
+      "title": "FOOD SLANG FOR HEAD",
+      "color": "blue",
+      "words": [
+        "BEAN",
+        "MELON",
+        "NOODLE",
+        "NUT"
+      ]
+    },
+    {
+      "title": "GEMSTONE CUTS",
+      "color": "purple",
+      "words": [
+        "BAGUETTE",
+        "EMERALD",
+        "PRINCESS",
+        "RADIANT"
+      ]
+    }
+  ]
+}

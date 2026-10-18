@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-07",
+  "groups": [
+    {
+      "title": "SEA CREATURES",
+      "color": "yellow",
+      "words": [
+        "CRAB",
+        "RAY",
+        "SPONGE",
+        "SQUID"
+      ]
+    },
+    {
+      "title": "BASIC TWO-DIMENSIONAL SHAPES",
+      "color": "green",
+      "words": [
+        "CIRCLE",
+        "DIAMOND",
+        "SQUARE",
+        "TRIANGLE"
+      ]
+    },
+    {
+      "title": "BOXING MANEUVERS",
+      "color": "blue",
+      "words": [
+        "BOB",
+        "CROSS",
+        "HOOK",
+        "WEAVE"
+      ]
+    },
+    {
+      "title": "FANCY ___",
+      "color": "purple",
+      "words": [
+        "FEAST",
+        "FREE",
+        "PANTS",
+        "THAT"
+      ]
+    }
+  ]
+}

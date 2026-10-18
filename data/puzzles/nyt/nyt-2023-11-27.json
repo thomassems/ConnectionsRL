@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-27",
+  "groups": [
+    {
+      "title": "CARRY A TUNE",
+      "color": "yellow",
+      "words": [
+        "HUM",
+        "SING",
+        "SCAT",
+        "WHISTLE"
+      ]
+    },
+    {
+      "title": "WHOLE AMOUNT",
+      "color": "green",
+      "words": [
+        "COUNT",
+        "GROSS",
+        "SUM",
+        "TOTAL"
+      ]
+    },
+    {
+      "title": "MOJITO INGREDIENTS",
+      "color": "blue",
+      "words": [
+        "LIME",
+        "MINT",
+        "RUM",
+        "SODA"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE “STICKY”",
+      "color": "purple",
+      "words": [
+        "GLUE",
+        "GUM",
+        "TAPE",
+        "STICK"
+      ]
+    }
+  ]
+}

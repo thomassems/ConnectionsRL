@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-16",
+  "groups": [
+    {
+      "title": "AT SOME FUTURE POINT",
+      "color": "yellow",
+      "words": [
+        "EVENTUALLY",
+        "LATER",
+        "NEXT",
+        "SOON"
+      ]
+    },
+    {
+      "title": "PARTS OF A TOURNAMENT SETUP",
+      "color": "green",
+      "words": [
+        "BRACKET",
+        "BYE",
+        "ROUND",
+        "SEED"
+      ]
+    },
+    {
+      "title": "BIT OF BREAKFAST CEREAL",
+      "color": "blue",
+      "words": [
+        "CHEERIO",
+        "FLAKE",
+        "PEBBLE",
+        "PUFF"
+      ]
+    },
+    {
+      "title": "WHAT THE OUTSTRETCHED INDEX AND MIDDLE FINGERS CAN REPRESENT",
+      "color": "purple",
+      "words": [
+        "PEACE",
+        "SCISSORS",
+        "TWO",
+        "VICTORY"
+      ]
+    }
+  ]
+}

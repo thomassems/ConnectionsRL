@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-12",
+  "groups": [
+    {
+      "title": "SCHOOL FACILITIES",
+      "color": "yellow",
+      "words": [
+        "AUDITORIUM",
+        "GYM",
+        "LAB",
+        "LIBRARY"
+      ]
+    },
+    {
+      "title": "ROULETTE BETS",
+      "color": "green",
+      "words": [
+        "BLACK",
+        "EVEN",
+        "ODD",
+        "RED"
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH “DOVE”",
+      "color": "blue",
+      "words": [
+        "CHOCOLATE",
+        "PEACE",
+        "PIGEON",
+        "SOAP"
+      ]
+    },
+    {
+      "title": "___ GOOSE",
+      "color": "purple",
+      "words": [
+        "GREY",
+        "GOLDEN",
+        "MOTHER",
+        "SILLY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-06-06",
+  "groups": [
+    {
+      "title": "MOVE TO ACTION",
+      "color": "yellow",
+      "words": [
+        "DRIVE",
+        "PROMPT",
+        "PROPEL",
+        "PUSH"
+      ]
+    },
+    {
+      "title": "UNO CARDS",
+      "color": "green",
+      "words": [
+        "DRAW",
+        "REVERSE",
+        "SKIP",
+        "WILD"
+      ]
+    },
+    {
+      "title": "HAIL SIZE COMPARISONS",
+      "color": "blue",
+      "words": [
+        "BASEBALL",
+        "GRAPEFRUIT",
+        "MARBLE",
+        "PEA"
+      ]
+    },
+    {
+      "title": "PLACES WITH BENCHES",
+      "color": "purple",
+      "words": [
+        "COURTROOM",
+        "DUGOUT",
+        "GYM",
+        "PARK"
+      ]
+    }
+  ]
+}

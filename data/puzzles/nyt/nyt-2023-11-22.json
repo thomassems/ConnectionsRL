@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-22",
+  "groups": [
+    {
+      "title": "AREAS BETWEEN MOUNTAINS AND HILLS",
+      "color": "yellow",
+      "words": [
+        "CANYON",
+        "GULCH",
+        "PASS",
+        "RAVINE"
+      ]
+    },
+    {
+      "title": "EAT VORACIOUSLY",
+      "color": "green",
+      "words": [
+        "GORGE",
+        "GULP",
+        "SCARF",
+        "WOLF"
+      ]
+    },
+    {
+      "title": "FEATURED IN “SNOW WHITE”",
+      "color": "blue",
+      "words": [
+        "APPLE",
+        "BASHFUL",
+        "MIRROR",
+        "QUEEN"
+      ]
+    },
+    {
+      "title": "“C” + BIRD",
+      "color": "purple",
+      "words": [
+        "CHEN",
+        "CLARK",
+        "COWL",
+        "CRAVEN"
+      ]
+    }
+  ]
+}

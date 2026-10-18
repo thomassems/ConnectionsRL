@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-09",
+  "groups": [
+    {
+      "title": "NOT PRESENT",
+      "color": "yellow",
+      "words": [
+        "ABSENT",
+        "ELSEWHERE",
+        "GONE",
+        "MIA"
+      ]
+    },
+    {
+      "title": "SUPPORTER",
+      "color": "green",
+      "words": [
+        "ADVOCATE",
+        "CHAMPION",
+        "CHEERLEADER",
+        "EXPONENT"
+      ]
+    },
+    {
+      "title": "ROCK GENRES",
+      "color": "blue",
+      "words": [
+        "GLAM",
+        "GOTH",
+        "METAL",
+        "PUNK"
+      ]
+    },
+    {
+      "title": "SHOCK ___",
+      "color": "purple",
+      "words": [
+        "HORROR",
+        "JOCK",
+        "VALUE",
+        "WAVE"
+      ]
+    }
+  ]
+}

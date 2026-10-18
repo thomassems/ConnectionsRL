@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-18",
+  "groups": [
+    {
+      "title": "SIDEWALK SIGHTS",
+      "color": "yellow",
+      "words": [
+        "CURB",
+        "GRATE",
+        "GUTTER",
+        "MANHOLE"
+      ]
+    },
+    {
+      "title": "HAVE IN MIND",
+      "color": "green",
+      "words": [
+        "AIM",
+        "INTEND",
+        "MEAN",
+        "PLAN"
+      ]
+    },
+    {
+      "title": "UNIT ABBREVIATIONS",
+      "color": "blue",
+      "words": [
+        "CAL",
+        "GAL",
+        "IN",
+        "OZ"
+      ]
+    },
+    {
+      "title": "GOLDEN ___",
+      "color": "purple",
+      "words": [
+        "FLEECE",
+        "GIRLS",
+        "PARACHUTE",
+        "RULE"
+      ]
+    }
+  ]
+}

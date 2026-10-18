@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-08",
+  "groups": [
+    {
+      "title": "PUNCH",
+      "color": "yellow",
+      "words": [
+        "BELT",
+        "BLOW",
+        "SOCK",
+        "SLUG"
+      ]
+    },
+    {
+      "title": "CRAM",
+      "color": "green",
+      "words": [
+        "SANDWICH",
+        "SHOEHORN",
+        "SQUEEZE",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "COMPANIES NAMED AFTER ANIMALS",
+      "color": "blue",
+      "words": [
+        "CATERPILLAR",
+        "DOVE",
+        "GREYHOUND",
+        "PUMA"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF MUSIC GENRES",
+      "color": "purple",
+      "words": [
+        "INDY",
+        "METTLE",
+        "SEOUL",
+        "WRAP"
+      ]
+    }
+  ]
+}

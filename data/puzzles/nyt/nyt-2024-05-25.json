@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-25",
+  "groups": [
+    {
+      "title": "ADVERTISING FORMATS",
+      "color": "yellow",
+      "words": [
+        "BANNER",
+        "BILLBOARD",
+        "POSTER",
+        "SIGN"
+      ]
+    },
+    {
+      "title": "INAUGURAL",
+      "color": "green",
+      "words": [
+        "FIRST",
+        "INITIAL",
+        "MAIDEN",
+        "PREMIER"
+      ]
+    },
+    {
+      "title": "ADVOCATE FOR",
+      "color": "blue",
+      "words": [
+        "BACK",
+        "CHAMPION",
+        "ENDORSE",
+        "SUPPORT"
+      ]
+    },
+    {
+      "title": "PRONOUNS PLUS \"E\"",
+      "color": "purple",
+      "words": [
+        "HERE",
+        "THEME",
+        "USE",
+        "WEE"
+      ]
+    }
+  ]
+}

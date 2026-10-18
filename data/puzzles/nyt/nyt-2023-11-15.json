@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-15",
+  "groups": [
+    {
+      "title": "“GROSS!”",
+      "color": "yellow",
+      "words": [
+        "EW",
+        "ICK",
+        "PU",
+        "UGH"
+      ]
+    },
+    {
+      "title": "MAGAZINES",
+      "color": "green",
+      "words": [
+        "O",
+        "OK",
+        "US",
+        "W"
+      ]
+    },
+    {
+      "title": "“YES” IN DIFFERENT LANGUAGES",
+      "color": "blue",
+      "words": [
+        "HAI",
+        "JA",
+        "SI",
+        "DA"
+      ]
+    },
+    {
+      "title": "HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "OUI",
+        "WE",
+        "WEE",
+        "WII"
+      ]
+    }
+  ]
+}

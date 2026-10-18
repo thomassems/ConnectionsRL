@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-30",
+  "groups": [
+    {
+      "title": "PLAYGROUND FIXTURES",
+      "color": "yellow",
+      "words": [
+        "SANDBOX",
+        "SEESAW",
+        "SLIDE",
+        "SWING"
+      ]
+    },
+    {
+      "title": "INFLUENCE",
+      "color": "green",
+      "words": [
+        "CLOUT",
+        "PULL",
+        "SWAY",
+        "WEIGHT"
+      ]
+    },
+    {
+      "title": "EGYPTIAN SYMBOLS",
+      "color": "blue",
+      "words": [
+        "ANKH",
+        "CROOK",
+        "EYE",
+        "SCARAB"
+      ]
+    },
+    {
+      "title": "FONTS",
+      "color": "purple",
+      "words": [
+        "COURIER",
+        "IMPACT",
+        "PAPYRUS",
+        "TIMES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-26",
+  "groups": [
+    {
+      "title": "ITEMS IN A LINEN CLOSET",
+      "color": "yellow",
+      "words": [
+        "PILLOWCASE",
+        "SHEET",
+        "TOWEL",
+        "WASHCLOTH"
+      ]
+    },
+    {
+      "title": "DIAMETRIC",
+      "color": "green",
+      "words": [
+        "COUNTER",
+        "OPPOSITE",
+        "POLAR",
+        "REVERSE"
+      ]
+    },
+    {
+      "title": "LINGERIE",
+      "color": "blue",
+      "words": [
+        "GARTER",
+        "HOSE",
+        "SLIP",
+        "TEDDY"
+      ]
+    },
+    {
+      "title": "CARD GAMES WITH FIRST LETTER CHANGED",
+      "color": "purple",
+      "words": [
+        "DIN",
+        "FRIDGE",
+        "GUMMY",
+        "JOKER"
+      ]
+    }
+  ]
+}

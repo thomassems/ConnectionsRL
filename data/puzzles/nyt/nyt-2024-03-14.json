@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-14",
+  "groups": [
+    {
+      "title": "BOX OFFICE VICTORY",
+      "color": "yellow",
+      "words": [
+        "HIT",
+        "SMASH",
+        "SUCCESS",
+        "WINNER"
+      ]
+    },
+    {
+      "title": "VOLLEYBALL MOVES",
+      "color": "green",
+      "words": [
+        "BUMP",
+        "SERVE",
+        "SET",
+        "SPIKE"
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF GREEK LETTERS",
+      "color": "blue",
+      "words": [
+        "MOO",
+        "NEW",
+        "PIE",
+        "ROW"
+      ]
+    },
+    {
+      "title": "___-O",
+      "color": "purple",
+      "words": [
+        "DADDY",
+        "DAY",
+        "JACKIE",
+        "JELL"
+      ]
+    }
+  ]
+}

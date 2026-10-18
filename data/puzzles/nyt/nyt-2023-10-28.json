@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-28",
+  "groups": [
+    {
+      "title": "SENSES",
+      "color": "yellow",
+      "words": [
+        "SIGHT",
+        "SMELL",
+        "TASTE",
+        "TOUCH"
+      ]
+    },
+    {
+      "title": "APPEARANCE",
+      "color": "green",
+      "words": [
+        "DRESS",
+        "LOOK",
+        "MANNER",
+        "STYLE"
+      ]
+    },
+    {
+      "title": "\"I AGREE!\"",
+      "color": "blue",
+      "words": [
+        "DITTO",
+        "LIKEWISE",
+        "SAME",
+        "SECOND"
+      ]
+    },
+    {
+      "title": "___ MOON",
+      "color": "purple",
+      "words": [
+        "BLUE",
+        "HARVEST",
+        "NEW",
+        "SAILOR"
+      ]
+    }
+  ]
+}

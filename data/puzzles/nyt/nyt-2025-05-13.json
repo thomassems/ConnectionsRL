@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-13",
+  "groups": [
+    {
+      "title": "PLACES TO SHOP",
+      "color": "yellow",
+      "words": [
+        "BAZAAR",
+        "FAIR",
+        "MARKET",
+        "OUTLET"
+      ]
+    },
+    {
+      "title": "KINDS OF PIZZA",
+      "color": "green",
+      "words": [
+        "HAWAIIAN",
+        "PLAIN",
+        "SUPREME",
+        "VEGGIE"
+      ]
+    },
+    {
+      "title": "ENDING WITH COLORS",
+      "color": "blue",
+      "words": [
+        "EVERGREEN",
+        "INFRARED",
+        "MARIGOLD",
+        "QUICKSILVER"
+      ]
+    },
+    {
+      "title": "___ CLEANER",
+      "color": "purple",
+      "words": [
+        "BATHROOM",
+        "DRY",
+        "PIPE",
+        "VACUUM"
+      ]
+    }
+  ]
+}

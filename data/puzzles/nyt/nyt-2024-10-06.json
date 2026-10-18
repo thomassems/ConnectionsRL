@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-06",
+  "groups": [
+    {
+      "title": "TURN TAIL",
+      "color": "yellow",
+      "words": [
+        "FLEE",
+        "LEAVE",
+        "RETREAT",
+        "WITHDRAW"
+      ]
+    },
+    {
+      "title": "THINGS CATS DO",
+      "color": "green",
+      "words": [
+        "KNEAD",
+        "PURR",
+        "SCRATCH",
+        "SHED"
+      ]
+    },
+    {
+      "title": "PAGES ON A WEBSITE",
+      "color": "blue",
+      "words": [
+        "ABOUT",
+        "CONTACT",
+        "HOME",
+        "LOGIN"
+      ]
+    },
+    {
+      "title": "___ CHEESE",
+      "color": "purple",
+      "words": [
+        "COTTAGE",
+        "CREAM",
+        "GOAT",
+        "STRING"
+      ]
+    }
+  ]
+}

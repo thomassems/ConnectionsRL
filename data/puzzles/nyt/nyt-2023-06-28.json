@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-28",
+  "groups": [
+    {
+      "title": "NECKWEAR",
+      "color": "yellow",
+      "words": [
+        "ASCOT",
+        "BOLO",
+        "SCARF",
+        "TIE"
+      ]
+    },
+    {
+      "title": "SHIP DIRECTIONS",
+      "color": "green",
+      "words": [
+        "BOW",
+        "PORT",
+        "STARBOARD",
+        "STERN"
+      ]
+    },
+    {
+      "title": "DETERGENTS",
+      "color": "blue",
+      "words": [
+        "ALL",
+        "ERA",
+        "GAIN",
+        "TIDE"
+      ]
+    },
+    {
+      "title": "___ TRIANGLE",
+      "color": "purple",
+      "words": [
+        "ACUTE",
+        "BERMUDA",
+        "LOVE",
+        "RIGHT"
+      ]
+    }
+  ]
+}

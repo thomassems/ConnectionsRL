@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-17",
+  "groups": [
+    {
+      "title": "CENTRAL SECTION OF THE BODY",
+      "color": "yellow",
+      "words": [
+        "CORE",
+        "MIDRIFF",
+        "TORSO",
+        "TRUNK"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF A PIZZA",
+      "color": "green",
+      "words": [
+        "CHEESE",
+        "CRUST",
+        "SAUCE",
+        "TOPPINGS"
+      ]
+    },
+    {
+      "title": "UNITS OF BEER",
+      "color": "blue",
+      "words": [
+        "CASE",
+        "FORTY",
+        "GROWLER",
+        "SIX-PACK"
+      ]
+    },
+    {
+      "title": "BASEBALL GREATS",
+      "color": "purple",
+      "words": [
+        "BONDS",
+        "MANTLE",
+        "TROUT",
+        "YOUNG"
+      ]
+    }
+  ]
+}

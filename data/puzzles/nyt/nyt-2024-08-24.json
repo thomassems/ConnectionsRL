@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-24",
+  "groups": [
+    {
+      "title": "HEARSAY",
+      "color": "yellow",
+      "words": [
+        "RUMBLING",
+        "SPECULATION",
+        "TALK",
+        "WHISPERS"
+      ]
+    },
+    {
+      "title": "MOVE STEALTHILY",
+      "color": "green",
+      "words": [
+        "CREEP",
+        "SLIP",
+        "STEAL",
+        "TIPTOE"
+      ]
+    },
+    {
+      "title": "CAR RENTAL COMPANIES",
+      "color": "blue",
+      "words": [
+        "BUDGET",
+        "ENTERPRISE",
+        "NATIONAL",
+        "THRIFTY"
+      ]
+    },
+    {
+      "title": "ENDING WITH CHEMICAL ELEMENTS",
+      "color": "purple",
+      "words": [
+        "ENVIRON",
+        "JARGON",
+        "LATIN",
+        "PLEAD"
+      ]
+    }
+  ]
+}

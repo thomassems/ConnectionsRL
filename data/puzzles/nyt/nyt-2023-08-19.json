@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-19",
+  "groups": [
+    {
+      "title": "FRIEND",
+      "color": "yellow",
+      "words": [
+        "BUD",
+        "CHUM",
+        "MATE",
+        "PAL"
+      ]
+    },
+    {
+      "title": "COOKWEAR",
+      "color": "green",
+      "words": [
+        "CROCK",
+        "POT",
+        "SKILLET",
+        "WOK"
+      ]
+    },
+    {
+      "title": "SHOES",
+      "color": "blue",
+      "words": [
+        "CLOG",
+        "PUMP",
+        "SLIDE",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "SLANG FOR CANNABIS",
+      "color": "purple",
+      "words": [
+        "GRASS",
+        "HERB",
+        "MARY JANE",
+        "WEED"
+      ]
+    }
+  ]
+}

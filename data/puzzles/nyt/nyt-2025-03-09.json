@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-09",
+  "groups": [
+    {
+      "title": "COMPUTER INPUT DEVICES",
+      "color": "yellow",
+      "words": [
+        "MICROPHONE",
+        "MOUSE",
+        "SCANNER",
+        "TABLET"
+      ]
+    },
+    {
+      "title": "BUILDING MATERIALS",
+      "color": "green",
+      "words": [
+        "BRICK",
+        "CONCRETE",
+        "METAL",
+        "STONE"
+      ]
+    },
+    {
+      "title": "HELPFUL DEED",
+      "color": "blue",
+      "words": [
+        "FAVOR",
+        "KINDNESS",
+        "SERVICE",
+        "SOLID"
+      ]
+    },
+    {
+      "title": "#1 SONGS FROM 1982",
+      "color": "purple",
+      "words": [
+        "ABRACADABRA",
+        "CENTERFOLD",
+        "MICKEY",
+        "PHYSICAL"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-15",
+  "groups": [
+    {
+      "title": "FISSURE",
+      "color": "yellow",
+      "words": [
+        "CRACK",
+        "HOLE",
+        "LEAK",
+        "PUNCTURE"
+      ]
+    },
+    {
+      "title": "ELEMENTS OF WRITING",
+      "color": "green",
+      "words": [
+        "LETTER",
+        "PHRASE",
+        "SENTENCE",
+        "WORD"
+      ]
+    },
+    {
+      "title": "INSTRUMENTS YOU BLOW INTO",
+      "color": "blue",
+      "words": [
+        "JUG",
+        "PIPE",
+        "RECORDER",
+        "WHISTLE"
+      ]
+    },
+    {
+      "title": "___ OF TIME",
+      "color": "purple",
+      "words": [
+        "NICK",
+        "PASSAGE",
+        "SANDS",
+        "WASTE"
+      ]
+    }
+  ]
+}

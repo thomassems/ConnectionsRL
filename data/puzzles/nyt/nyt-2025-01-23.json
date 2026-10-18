@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-23",
+  "groups": [
+    {
+      "title": "OUTDO",
+      "color": "yellow",
+      "words": [
+        "BETTER",
+        "ECLIPSE",
+        "SURPASS",
+        "TOP"
+      ]
+    },
+    {
+      "title": "PICNIC ACCESSORIES",
+      "color": "green",
+      "words": [
+        "BASKET",
+        "BLANKET",
+        "COOLER",
+        "UTENSILS"
+      ]
+    },
+    {
+      "title": "PARTS OF AN INDIANA JONES COSTUME",
+      "color": "blue",
+      "words": [
+        "BOMBER",
+        "FEDORA",
+        "SATCHEL",
+        "WHIP"
+      ]
+    },
+    {
+      "title": "RHYMES OF U.S. PRESIDENT NAMES",
+      "color": "purple",
+      "words": [
+        "PAGAN",
+        "SMARTER",
+        "VIXEN",
+        "WIDEN"
+      ]
+    }
+  ]
+}

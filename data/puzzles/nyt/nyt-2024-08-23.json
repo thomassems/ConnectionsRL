@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-23",
+  "groups": [
+    {
+      "title": "VISUAL INTERFACE",
+      "color": "yellow",
+      "words": [
+        "DISPLAY",
+        "MONITOR",
+        "SCREEN",
+        "TERMINAL"
+      ]
+    },
+    {
+      "title": "BURLESQUE WEAR",
+      "color": "green",
+      "words": [
+        "BOA",
+        "CORSET",
+        "FAN",
+        "GLOVES"
+      ]
+    },
+    {
+      "title": "BEIGE SHADES",
+      "color": "blue",
+      "words": [
+        "BUFF",
+        "CREAM",
+        "FAWN",
+        "TAN"
+      ]
+    },
+    {
+      "title": "LANGUAGE HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "BASK",
+        "CHECK",
+        "FINISH",
+        "TIE"
+      ]
+    }
+  ]
+}

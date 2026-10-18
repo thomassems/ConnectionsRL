@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-24",
+  "groups": [
+    {
+      "title": "CONTEMPLATE",
+      "color": "yellow",
+      "words": [
+        "BROOD",
+        "MUSE",
+        "PONDER",
+        "REFLECT"
+      ]
+    },
+    {
+      "title": "RUDE THINGS TO DO",
+      "color": "green",
+      "words": [
+        "INTERRUPT",
+        "LITTER",
+        "POINT",
+        "STARE"
+      ]
+    },
+    {
+      "title": "VOCATION",
+      "color": "blue",
+      "words": [
+        "CRAFT",
+        "LINE",
+        "TRADE",
+        "WORK"
+      ]
+    },
+    {
+      "title": "___ PATCH",
+      "color": "purple",
+      "words": [
+        "CABBAGE",
+        "NICOTINE",
+        "ROUGH",
+        "SOUL"
+      ]
+    }
+  ]
+}

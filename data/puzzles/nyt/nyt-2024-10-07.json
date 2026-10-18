@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-07",
+  "groups": [
+    {
+      "title": "KNUCKLEHEAD",
+      "color": "yellow",
+      "words": [
+        "DING-DONG",
+        "DODO",
+        "YAHOO",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "CAR ONOMATOPOEIA",
+      "color": "green",
+      "words": [
+        "BEEP BEEP",
+        "PURR",
+        "SKRRT",
+        "VROOM"
+      ]
+    },
+    {
+      "title": "SOUNDS OF LAUGHTER",
+      "color": "blue",
+      "words": [
+        "HAR-HAR",
+        "HOOT",
+        "WHOOP",
+        "YUK"
+      ]
+    },
+    {
+      "title": "FAMOUS PRIMATES",
+      "color": "purple",
+      "words": [
+        "BUBBLES",
+        "GEORGE",
+        "KING KONG",
+        "KOKO"
+      ]
+    }
+  ]
+}

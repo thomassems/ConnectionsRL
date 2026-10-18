@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-11",
+  "groups": [
+    {
+      "title": "VARIATION FROM THE NORM",
+      "color": "yellow",
+      "words": [
+        "ALTERNATIVE",
+        "BREAK",
+        "CHANGE",
+        "DEPARTURE"
+      ]
+    },
+    {
+      "title": "THINGS THAT RING",
+      "color": "green",
+      "words": [
+        "ALARM",
+        "BELL",
+        "INTERCOM",
+        "PHONE"
+      ]
+    },
+    {
+      "title": "THINGS TRADITIONALLY MADE OF LEATHER",
+      "color": "blue",
+      "words": [
+        "FOOTBALL",
+        "MOCCASINS",
+        "SADDLE",
+        "WALLET"
+      ]
+    },
+    {
+      "title": "SINGER-SONGWRITER PIANISTS",
+      "color": "purple",
+      "words": [
+        "KEYS",
+        "KING",
+        "LEGEND",
+        "WONDER"
+      ]
+    }
+  ]
+}

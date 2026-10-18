@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-25",
+  "groups": [
+    {
+      "title": "SOCIAL GATHERING",
+      "color": "yellow",
+      "words": [
+        "BASH",
+        "BLOWOUT",
+        "PARTY",
+        "SHINDIG"
+      ]
+    },
+    {
+      "title": "FOUND IN A KITCHEN",
+      "color": "green",
+      "words": [
+        "COUNTER",
+        "MIXER",
+        "RANGE",
+        "SINK"
+      ]
+    },
+    {
+      "title": "“PINOCCHIO” FIGURES",
+      "color": "blue",
+      "words": [
+        "CRICKET",
+        "PUPPET",
+        "WHALE",
+        "WOODCARVER"
+      ]
+    },
+    {
+      "title": "EASTER ___",
+      "color": "purple",
+      "words": [
+        "BUNNY",
+        "EGG",
+        "ISLAND",
+        "SUNDAY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-02",
+  "groups": [
+    {
+      "title": "STRETCH, AS ONE’S PATIENCE",
+      "color": "yellow",
+      "words": [
+        "STRAIN",
+        "TAX",
+        "TEST",
+        "TRY"
+      ]
+    },
+    {
+      "title": "THINGS A DJ DOES",
+      "color": "green",
+      "words": [
+        "MIX",
+        "SAMPLE",
+        "SCRATCH",
+        "SPIN"
+      ]
+    },
+    {
+      "title": "ADJECTIVES USED IN GRAMMAR",
+      "color": "blue",
+      "words": [
+        "DIRECT",
+        "IRREGULAR",
+        "POSSESSIVE",
+        "PRESENT"
+      ]
+    },
+    {
+      "title": "WHAT “GREEN” MIGHT MEAN",
+      "color": "purple",
+      "words": [
+        "ECOLOGICAL",
+        "JEALOUS",
+        "LUSH",
+        "NAUSEOUS"
+      ]
+    }
+  ]
+}

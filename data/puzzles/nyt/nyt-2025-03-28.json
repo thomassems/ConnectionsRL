@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-03-28",
+  "groups": [
+    {
+      "title": "HURL",
+      "color": "yellow",
+      "words": [
+        "CHUCK",
+        "PELT",
+        "PITCH",
+        "SLING"
+      ]
+    },
+    {
+      "title": "BE ON BOTH SIDES OF",
+      "color": "green",
+      "words": [
+        "BOOKEND",
+        "BRACKET",
+        "FLANK",
+        "SURROUND"
+      ]
+    },
+    {
+      "title": "PARTS OF A CLASSIC GIRL SCOUT UNIFORM",
+      "color": "blue",
+      "words": [
+        "BADGE",
+        "BERET",
+        "SASH",
+        "SKIRT"
+      ]
+    },
+    {
+      "title": "___ HALL",
+      "color": "purple",
+      "words": [
+        "BINGO",
+        "CITY",
+        "MONTY",
+        "STUDY"
+      ]
+    }
+  ]
+}

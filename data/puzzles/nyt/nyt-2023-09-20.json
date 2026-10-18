@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-20",
+  "groups": [
+    {
+      "title": "REPLACEMENT",
+      "color": "yellow",
+      "words": [
+        "BACKUP",
+        "COPY",
+        "EXTRA",
+        "SPARE"
+      ]
+    },
+    {
+      "title": "BOWLING",
+      "color": "green",
+      "words": [
+        "ALLEY",
+        "BALL",
+        "LANE",
+        "PIN"
+      ]
+    },
+    {
+      "title": "COMMON SWAG ITEMS",
+      "color": "blue",
+      "words": [
+        "MUG",
+        "PEN",
+        "TEE",
+        "TOTE"
+      ]
+    },
+    {
+      "title": "NUMBER HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "ATE",
+        "FOR",
+        "TOO",
+        "WON"
+      ]
+    }
+  ]
+}

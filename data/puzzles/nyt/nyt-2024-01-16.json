@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-16",
+  "groups": [
+    {
+      "title": "DECEIVE",
+      "color": "yellow",
+      "words": [
+        "CON",
+        "DUPE",
+        "FOOL",
+        "TRICK"
+      ]
+    },
+    {
+      "title": "INSIDE INFO",
+      "color": "green",
+      "words": [
+        "DOPE",
+        "SCOOP",
+        "SKINNY",
+        "WORD"
+      ]
+    },
+    {
+      "title": "TILT TO ONE SIDE",
+      "color": "blue",
+      "words": [
+        "CANT",
+        "LEAN",
+        "LIST",
+        "SLOPE"
+      ]
+    },
+    {
+      "title": "WORDS SPELLED WITH AN UPSIDE-DOWN CALCULATOR",
+      "color": "purple",
+      "words": [
+        "BOOB",
+        "EGGSHELL",
+        "GIGGLE",
+        "HELLO"
+      ]
+    }
+  ]
+}

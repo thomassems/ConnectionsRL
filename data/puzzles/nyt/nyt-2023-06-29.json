@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-06-29",
+  "groups": [
+    {
+      "title": "MUSCLES, INFORMALLY",
+      "color": "yellow",
+      "words": [
+        "LAT",
+        "PEC",
+        "QUAD",
+        "TRI"
+      ]
+    },
+    {
+      "title": "AWARDS",
+      "color": "green",
+      "words": [
+        "CUP",
+        "MEDAL",
+        "RIBBON",
+        "TROPHY"
+      ]
+    },
+    {
+      "title": "TITLE TV DOCTORS",
+      "color": "blue",
+      "words": [
+        "GREY",
+        "HOUSE",
+        "HOWSER",
+        "QUINN"
+      ]
+    },
+    {
+      "title": "NFL PLAYERS",
+      "color": "purple",
+      "words": [
+        "BEAR",
+        "BILL",
+        "BROWN",
+        "COMMANDER"
+      ]
+    }
+  ]
+}

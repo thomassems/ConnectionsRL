@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-18",
+  "groups": [
+    {
+      "title": "INTERJECTIONS",
+      "color": "yellow",
+      "words": [
+        "BOY",
+        "GOODNESS",
+        "MAN",
+        "WOW"
+      ]
+    },
+    {
+      "title": "HORROR MOVIES, WITH “THE”",
+      "color": "green",
+      "words": [
+        "BIRDS",
+        "EXORCIST",
+        "HAUNTING",
+        "SHINING"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN PICK",
+      "color": "blue",
+      "words": [
+        "APPLE",
+        "BANJO",
+        "CARD",
+        "NOSE"
+      ]
+    },
+    {
+      "title": "PERSONAL PROPERTY MINUS “S”",
+      "color": "purple",
+      "words": [
+        "BELONGING",
+        "EFFECT",
+        "GOOD",
+        "POSSESSION"
+      ]
+    }
+  ]
+}

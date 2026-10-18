@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-01",
+  "groups": [
+    {
+      "title": "TINT",
+      "color": "yellow",
+      "words": [
+        "HUE",
+        "SHADE",
+        "TINGE",
+        "TONE"
+      ]
+    },
+    {
+      "title": "COMPONENTS OF A MYSTERY",
+      "color": "green",
+      "words": [
+        "ALIBI",
+        "CLUE",
+        "DETECTIVE",
+        "SUSPECT"
+      ]
+    },
+    {
+      "title": "TAKE ISSUE WITH",
+      "color": "blue",
+      "words": [
+        "CONTEST",
+        "CHALLENGE",
+        "DISPUTE",
+        "QUESTION"
+      ]
+    },
+    {
+      "title": "STRIKE A ___",
+      "color": "purple",
+      "words": [
+        "CHORD",
+        "DEAL",
+        "MATCH",
+        "POSE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-14",
+  "groups": [
+    {
+      "title": "WINE BOTTLE INFO",
+      "color": "yellow",
+      "words": [
+        "GRAPE",
+        "REGION",
+        "VINTAGE",
+        "WINERY"
+      ]
+    },
+    {
+      "title": "CONSOLE INPUTS",
+      "color": "green",
+      "words": [
+        "BUTTON",
+        "KNOB",
+        "SLIDER",
+        "SWITCH"
+      ]
+    },
+    {
+      "title": "PREFIXES",
+      "color": "blue",
+      "words": [
+        "PRO",
+        "RETRO",
+        "SUB",
+        "SUPER"
+      ]
+    },
+    {
+      "title": "___ KING",
+      "color": "purple",
+      "words": [
+        "BURGER",
+        "CALIFORNIA",
+        "LION",
+        "PROM"
+      ]
+    }
+  ]
+}

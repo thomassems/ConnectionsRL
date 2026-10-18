@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-28",
+  "groups": [
+    {
+      "title": "AUDIO APPS",
+      "color": "yellow",
+      "words": [
+        "AUDIBLE",
+        "PANDORA",
+        "SHAZAM",
+        "TIDAL"
+      ]
+    },
+    {
+      "title": "INDICATE",
+      "color": "green",
+      "words": [
+        "MEAN",
+        "SIGNIFY",
+        "SPELL",
+        "SUGGEST"
+      ]
+    },
+    {
+      "title": "CHURCH OF ENGLAND WEDDING VOW VERBS",
+      "color": "blue",
+      "words": [
+        "CHERISH",
+        "HAVE",
+        "HOLD",
+        "LOVE"
+      ]
+    },
+    {
+      "title": "MAGIC WORDS",
+      "color": "purple",
+      "words": [
+        "ABRACADABRA",
+        "PLEASE",
+        "PRESTO",
+        "THANK YOU"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-12",
+  "groups": [
+    {
+      "title": "PRESIDENTS",
+      "color": "yellow",
+      "words": [
+        "FORD",
+        "GRANT",
+        "LINCOLN",
+        "WILSON"
+      ]
+    },
+    {
+      "title": "SPORTS PROFESSIONALS",
+      "color": "green",
+      "words": [
+        "COACH",
+        "GM",
+        "PLAYER",
+        "SCOUT"
+      ]
+    },
+    {
+      "title": "CAR COMPANIES",
+      "color": "blue",
+      "words": [
+        "BMW",
+        "HONDA",
+        "JAGUAR",
+        "SUBARU"
+      ]
+    },
+    {
+      "title": "COMMON PREFIXES",
+      "color": "purple",
+      "words": [
+        "AUTO",
+        "POST",
+        "SEMI",
+        "SUB"
+      ]
+    }
+  ]
+}

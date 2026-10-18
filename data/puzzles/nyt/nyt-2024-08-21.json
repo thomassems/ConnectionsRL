@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-21",
+  "groups": [
+    {
+      "title": "COVER WITH A THICK LAYER",
+      "color": "yellow",
+      "words": [
+        "CAKE",
+        "COAT",
+        "PLASTER",
+        "SMEAR"
+      ]
+    },
+    {
+      "title": "THINGS THAT ARE INFLATED",
+      "color": "green",
+      "words": [
+        "BALLOON",
+        "BASKETBALL",
+        "FLOATIE",
+        "TIRE"
+      ]
+    },
+    {
+      "title": "KINDS OF CHARTS",
+      "color": "blue",
+      "words": [
+        "BAR",
+        "BUBBLE",
+        "LINE",
+        "PIE"
+      ]
+    },
+    {
+      "title": "CLASSIC COCKTAIL TYPES",
+      "color": "purple",
+      "words": [
+        "FIZZ",
+        "PUNCH",
+        "SLING",
+        "SOUR"
+      ]
+    }
+  ]
+}

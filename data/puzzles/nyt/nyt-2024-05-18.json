@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-18",
+  "groups": [
+    {
+      "title": "ANIMALS WHOSE NAMES ARE TWO ANIMALS",
+      "color": "yellow",
+      "words": [
+        "BULLDOG",
+        "CATFISH",
+        "HORSEFLY",
+        "TURTLEDOVE"
+      ]
+    },
+    {
+      "title": "SHARP TURNS",
+      "color": "green",
+      "words": [
+        "DOGLEG",
+        "HAIRPIN",
+        "SWITCHBACK",
+        "ZAG"
+      ]
+    },
+    {
+      "title": "CLASSIC PARTY GAMES",
+      "color": "blue",
+      "words": [
+        "CATEGORIES",
+        "CHARADES",
+        "FISHBOWL",
+        "WEREWOLF"
+      ]
+    },
+    {
+      "title": "THINGS WITH SPRING/S",
+      "color": "purple",
+      "words": [
+        "CLOCK",
+        "MATTRESS",
+        "MOUSETRAP",
+        "TRAMPOLINE"
+      ]
+    }
+  ]
+}

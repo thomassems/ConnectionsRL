@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-21",
+  "groups": [
+    {
+      "title": "KINDS OF SHIRTS",
+      "color": "yellow",
+      "words": [
+        "FLANNEL",
+        "OXFORD",
+        "POLO",
+        "TEE"
+      ]
+    },
+    {
+      "title": "SPHERES IN MILK TEA",
+      "color": "green",
+      "words": [
+        "BOBA",
+        "BUBBLE",
+        "PEARL",
+        "TAPIOCA"
+      ]
+    },
+    {
+      "title": "MARINE INVERTEBRATES, FAMILIARLY",
+      "color": "blue",
+      "words": [
+        "CORAL",
+        "JELLY",
+        "SPONGE",
+        "STAR"
+      ]
+    },
+    {
+      "title": "STARTS OF PASTA NAMES",
+      "color": "purple",
+      "words": [
+        "FETT",
+        "PENN",
+        "TORTE",
+        "ZIT"
+      ]
+    }
+  ]
+}

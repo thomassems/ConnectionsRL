@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-04",
+  "groups": [
+    {
+      "title": "EQUIP",
+      "color": "yellow",
+      "words": [
+        "FURNISH",
+        "OUTFIT",
+        "PROVISION",
+        "STOCK"
+      ]
+    },
+    {
+      "title": "INDIVIDUALITY",
+      "color": "green",
+      "words": [
+        "BEING",
+        "CHARACTER",
+        "EGO",
+        "SELF"
+      ]
+    },
+    {
+      "title": "FURNITURE",
+      "color": "blue",
+      "words": [
+        "CHEST",
+        "CONSOLE",
+        "VANITY",
+        "WARDROBE"
+      ]
+    },
+    {
+      "title": "WORDS WITH APOSTROPHES REMOVED",
+      "color": "purple",
+      "words": [
+        "CANT",
+        "ID",
+        "SHELL",
+        "WERE"
+      ]
+    }
+  ]
+}

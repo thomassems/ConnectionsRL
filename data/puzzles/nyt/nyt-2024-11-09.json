@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-09",
+  "groups": [
+    {
+      "title": "CONTORTED",
+      "color": "yellow",
+      "words": [
+        "BENT",
+        "GNARLY",
+        "TWISTED",
+        "WARPED"
+      ]
+    },
+    {
+      "title": "SMALLEST AMOUNT",
+      "color": "green",
+      "words": [
+        "LICK",
+        "OUNCE",
+        "SHRED",
+        "TRACE"
+      ]
+    },
+    {
+      "title": "ALGEBRA TERMS",
+      "color": "blue",
+      "words": [
+        "EXPONENT",
+        "POWER",
+        "RADICAL",
+        "ROOT"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “ROOM” TO MEAN LAVATORY",
+      "color": "purple",
+      "words": [
+        "BATH",
+        "POWDER",
+        "REST",
+        "THRONE"
+      ]
+    }
+  ]
+}

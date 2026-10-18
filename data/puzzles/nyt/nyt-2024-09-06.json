@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-06",
+  "groups": [
+    {
+      "title": "QUANTITY",
+      "color": "yellow",
+      "words": [
+        "AMOUNT",
+        "COUNT",
+        "NUMBER",
+        "TOTAL"
+      ]
+    },
+    {
+      "title": "INCIDENT",
+      "color": "green",
+      "words": [
+        "AFFAIR",
+        "EPISODE",
+        "EVENT",
+        "MATTER"
+      ]
+    },
+    {
+      "title": "THINGS RECEIVED IN THE MAIL",
+      "color": "blue",
+      "words": [
+        "BILL",
+        "CARD",
+        "CATALOG",
+        "LETTER"
+      ]
+    },
+    {
+      "title": "WHAT “SPRING” MIGHT REFER TO",
+      "color": "purple",
+      "words": [
+        "BOUNCE",
+        "COIL",
+        "GEYSER",
+        "SEASON"
+      ]
+    }
+  ]
+}

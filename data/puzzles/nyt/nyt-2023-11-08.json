@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-08",
+  "groups": [
+    {
+      "title": "BROUGHT TO THE BEACH",
+      "color": "yellow",
+      "words": [
+        "FLIP-FLOP",
+        "SUNSCREEN",
+        "TOWEL",
+        "UMBRELLA"
+      ]
+    },
+    {
+      "title": "TYPES OF FRENCH FRIES",
+      "color": "green",
+      "words": [
+        "CURLY",
+        "SHOESTRING",
+        "WAFFLE",
+        "WEDGE"
+      ]
+    },
+    {
+      "title": "EQUIVOCATE",
+      "color": "blue",
+      "words": [
+        "HEDGE",
+        "SEE-SAW",
+        "WAVER",
+        "YO-YO"
+      ]
+    },
+    {
+      "title": "SECOND WORDS OF VODKA COCKTAILS",
+      "color": "purple",
+      "words": [
+        "BREEZE",
+        "MARY",
+        "MULE",
+        "RUSSIAN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-10-02",
+  "groups": [
+    {
+      "title": "PUT ON THE LINE",
+      "color": "yellow",
+      "words": [
+        "BET",
+        "CHANCE",
+        "GAMBLE",
+        "RISK"
+      ]
+    },
+    {
+      "title": "USE A KITCHEN KNIFE",
+      "color": "green",
+      "words": [
+        "CUBE",
+        "DICE",
+        "JULIENNE",
+        "SLICE"
+      ]
+    },
+    {
+      "title": "ROBERT DE NIRO FILMS",
+      "color": "blue",
+      "words": [
+        "CASINO",
+        "HEAT",
+        "JOKER",
+        "TAXI DRIVER"
+      ]
+    },
+    {
+      "title": "DISTINCTIVE NUMBER OF ARMS (OR LACK THEREOF)",
+      "color": "purple",
+      "words": [
+        "OCTOPUS",
+        "SHIVA",
+        "SLOT MACHINE",
+        "VENUS DE MILO"
+      ]
+    }
+  ]
+}

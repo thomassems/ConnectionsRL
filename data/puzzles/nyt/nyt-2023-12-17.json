@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-17",
+  "groups": [
+    {
+      "title": "RESERVE FOR LATER",
+      "color": "yellow",
+      "words": [
+        "BANK",
+        "SAVE",
+        "STASH",
+        "STORE"
+      ]
+    },
+    {
+      "title": "BOLDNESS, FIGURATIVELY",
+      "color": "green",
+      "words": [
+        "GALL",
+        "GUTS",
+        "NERVE",
+        "STONES"
+      ]
+    },
+    {
+      "title": "USED TO BUILD A SNOWMAN",
+      "color": "blue",
+      "words": [
+        "CARROT",
+        "COAL",
+        "SNOW",
+        "STICKS"
+      ]
+    },
+    {
+      "title": "FUNNY ___",
+      "color": "purple",
+      "words": [
+        "BONE",
+        "BUSINESS",
+        "GIRL",
+        "PAGES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-01-02",
+  "groups": [
+    {
+      "title": "B.L.T. INGREDIENTS",
+      "color": "yellow",
+      "words": [
+        "BREAD",
+        "BACON",
+        "LETTUCE",
+        "TOMATO"
+      ]
+    },
+    {
+      "title": "OBSTRUCT",
+      "color": "green",
+      "words": [
+        "BLOCK",
+        "CLOG",
+        "JAM",
+        "STOP"
+      ]
+    },
+    {
+      "title": "BASEBALL STATS",
+      "color": "blue",
+      "words": [
+        "DOUBLE",
+        "HIT",
+        "RUN",
+        "WALK"
+      ]
+    },
+    {
+      "title": "SMALL ___",
+      "color": "purple",
+      "words": [
+        "FRY",
+        "TALK",
+        "WONDER",
+        "WORLD"
+      ]
+    }
+  ]
+}

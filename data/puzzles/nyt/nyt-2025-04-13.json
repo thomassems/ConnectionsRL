@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-13",
+  "groups": [
+    {
+      "title": "STEAL",
+      "color": "yellow",
+      "words": [
+        "NICK",
+        "PINCH",
+        "POCKET",
+        "SWIPE"
+      ]
+    },
+    {
+      "title": "ATTENDANCE STATUS",
+      "color": "green",
+      "words": [
+        "ABSENT",
+        "EXCUSED",
+        "LATE",
+        "PRESENT"
+      ]
+    },
+    {
+      "title": "FONT-MODIFYING WORDS",
+      "color": "blue",
+      "words": [
+        "GOTHIC",
+        "ROMAN",
+        "SANS",
+        "TYPEWRITER"
+      ]
+    },
+    {
+      "title": "___BERRY",
+      "color": "purple",
+      "words": [
+        "CAPER",
+        "ELDER",
+        "GOOSE",
+        "LOGAN"
+      ]
+    }
+  ]
+}

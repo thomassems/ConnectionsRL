@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-04-08",
+  "groups": [
+    {
+      "title": "BRIEF MOMENT",
+      "color": "yellow",
+      "words": [
+        "FLASH",
+        "HEARTBEAT",
+        "JIFF",
+        "WINK"
+      ]
+    },
+    {
+      "title": "DISPUTE",
+      "color": "green",
+      "words": [
+        "CLASH",
+        "SCRAP",
+        "TANGLE",
+        "TIFF"
+      ]
+    },
+    {
+      "title": "SLANG FOR ZERO",
+      "color": "blue",
+      "words": [
+        "JACK",
+        "LOVE",
+        "SQUAT",
+        "ZIP"
+      ]
+    },
+    {
+      "title": "ACCESSORIES FOR MR. PEANUT",
+      "color": "purple",
+      "words": [
+        "CANE",
+        "MONOCLE",
+        "SPAT",
+        "TOP HAT"
+      ]
+    }
+  ]
+}

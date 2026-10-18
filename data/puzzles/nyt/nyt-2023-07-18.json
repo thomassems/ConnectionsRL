@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-07-18",
+  "groups": [
+    {
+      "title": "MARINE MAMMALS",
+      "color": "yellow",
+      "words": [
+        "DOLPHIN",
+        "MANATEE",
+        "OTTER",
+        "SEAL"
+      ]
+    },
+    {
+      "title": "BIKE PARTS",
+      "color": "green",
+      "words": [
+        "BRAKE",
+        "CHAIN",
+        "SADDLE",
+        "SPOKE"
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR SELL",
+      "color": "blue",
+      "words": [
+        "HAWK",
+        "MOVE",
+        "PEDDLE",
+        "VEND"
+      ]
+    },
+    {
+      "title": "COUNTRIES WHEN “A” IS ADDED",
+      "color": "purple",
+      "words": [
+        "CHIN",
+        "CUB",
+        "MALT",
+        "TONG"
+      ]
+    }
+  ]
+}

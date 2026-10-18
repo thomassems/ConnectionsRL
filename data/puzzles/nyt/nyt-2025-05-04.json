@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-04",
+  "groups": [
+    {
+      "title": "QUALITIES OF OVERCOOKED MEAT",
+      "color": "yellow",
+      "words": [
+        "CHEWY",
+        "DRY",
+        "STRINGY",
+        "TOUGH"
+      ]
+    },
+    {
+      "title": "PLAY SOME ELECTRIC GUITAR",
+      "color": "green",
+      "words": [
+        "JAM",
+        "NOODLE",
+        "SHRED",
+        "SOLO"
+      ]
+    },
+    {
+      "title": "INGREDIENTS IN BUBBLE TEA",
+      "color": "blue",
+      "words": [
+        "BOBA",
+        "MILK",
+        "SUGAR",
+        "TEA"
+      ]
+    },
+    {
+      "title": "PLANETS/DWARF PLANET WITH FIRST LETTER CHANGED",
+      "color": "purple",
+      "words": [
+        "BLUTO",
+        "CARS",
+        "DARTH",
+        "GENUS"
+      ]
+    }
+  ]
+}

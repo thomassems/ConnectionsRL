@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-08-29",
+  "groups": [
+    {
+      "title": "DEPART QUICKLY",
+      "color": "yellow",
+      "words": [
+        "BOOK",
+        "BOUNCE",
+        "RUN",
+        "SPLIT"
+      ]
+    },
+    {
+      "title": "ANIMALS THAT END WITH “X”",
+      "color": "green",
+      "words": [
+        "FOX",
+        "IBEX",
+        "LYNX",
+        "ORYX"
+      ]
+    },
+    {
+      "title": "SHADES OF BLACK",
+      "color": "blue",
+      "words": [
+        "EBONY",
+        "JET",
+        "ONYX",
+        "RAVEN"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE DAYS OF THE WEEK",
+      "color": "purple",
+      "words": [
+        "ASH",
+        "BLACK",
+        "CYBER",
+        "FAT"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-02-24",
+  "groups": [
+    {
+      "title": "MANUFACTURING LOCATIONS",
+      "color": "yellow",
+      "words": [
+        "FACTORY",
+        "MILL",
+        "PLANT",
+        "SHOP"
+      ]
+    },
+    {
+      "title": "WIN + LETTER",
+      "color": "green",
+      "words": [
+        "WIND",
+        "WINE",
+        "WING",
+        "WINK"
+      ]
+    },
+    {
+      "title": "PARTS OF FRUIT YOU MIGHT NOT EAT",
+      "color": "blue",
+      "words": [
+        "CORE",
+        "RIND",
+        "SEED",
+        "STEM"
+      ]
+    },
+    {
+      "title": "WEIGHTS IN BOXING",
+      "color": "purple",
+      "words": [
+        "FEATHER",
+        "HEAVY",
+        "LIGHT",
+        "MIDDLE"
+      ]
+    }
+  ]
+}

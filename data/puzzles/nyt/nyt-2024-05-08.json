@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-05-08",
+  "groups": [
+    {
+      "title": "SHADES OF RED",
+      "color": "yellow",
+      "words": [
+        "BRICK",
+        "CHERRY",
+        "ROSE",
+        "RUBY"
+      ]
+    },
+    {
+      "title": "LITTLE BIT OF A BEVERAGE",
+      "color": "green",
+      "words": [
+        "DROP",
+        "SPLASH",
+        "SPOT",
+        "SPRINKLE"
+      ]
+    },
+    {
+      "title": "CHOICEST",
+      "color": "blue",
+      "words": [
+        "BEST",
+        "CREAM",
+        "PICK",
+        "TOP"
+      ]
+    },
+    {
+      "title": "___ BATH",
+      "color": "purple",
+      "words": [
+        "BIRD",
+        "BUBBLE",
+        "MUD",
+        "SPONGE"
+      ]
+    }
+  ]
+}

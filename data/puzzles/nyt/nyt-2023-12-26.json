@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-12-26",
+  "groups": [
+    {
+      "title": "ROAD NAMES",
+      "color": "yellow",
+      "words": [
+        "ALLEY",
+        "DRIVE",
+        "LANE",
+        "STREET"
+      ]
+    },
+    {
+      "title": "PAPER IN A BOOK",
+      "color": "green",
+      "words": [
+        "FOLIO",
+        "LEAF",
+        "PAGE",
+        "SHEET"
+      ]
+    },
+    {
+      "title": "RESTRAIN",
+      "color": "blue",
+      "words": [
+        "CHECK",
+        "CURB",
+        "LIMIT",
+        "STEM"
+      ]
+    },
+    {
+      "title": "THINGS YOU CAN DO TO YOUR NOSE",
+      "color": "purple",
+      "words": [
+        "BLOW",
+        "HOLD",
+        "PICK",
+        "THUMB"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-04",
+  "groups": [
+    {
+      "title": "CRUSH INTO A COMPACT SHAPE",
+      "color": "yellow",
+      "words": [
+        "BALL",
+        "CRUMPLE",
+        "SCRUNCH",
+        "WAD"
+      ]
+    },
+    {
+      "title": "FASTENERS",
+      "color": "green",
+      "words": [
+        "BUCKLE",
+        "CLIP",
+        "HOOK",
+        "SNAP"
+      ]
+    },
+    {
+      "title": "MARK AS COMPLETED",
+      "color": "blue",
+      "words": [
+        "CHECK",
+        "CROSS",
+        "STRIKE",
+        "TICK"
+      ]
+    },
+    {
+      "title": "DEPICTED IN DALÍ’S “THE PERSISTENCE OF MEMORY”",
+      "color": "purple",
+      "words": [
+        "ANT",
+        "BRANCH",
+        "CLOCK",
+        "MELTING"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-10",
+  "groups": [
+    {
+      "title": "THINGS A DOG CAN FETCH",
+      "color": "yellow",
+      "words": [
+        "BALL",
+        "BONE",
+        "FRISBEE",
+        "STICK"
+      ]
+    },
+    {
+      "title": "CONCEAL",
+      "color": "green",
+      "words": [
+        "BLOCK",
+        "COVER",
+        "HIDE",
+        "OBSCURE"
+      ]
+    },
+    {
+      "title": "MAC KEYBOARD KEYS",
+      "color": "blue",
+      "words": [
+        "COMMAND",
+        "CONTROL",
+        "OPTION",
+        "SHIFT"
+      ]
+    },
+    {
+      "title": "EXPERIENCE A MEMORY LAPSE",
+      "color": "purple",
+      "words": [
+        "BLANK",
+        "FLAKE",
+        "FORGET",
+        "SPACE"
+      ]
+    }
+  ]
+}

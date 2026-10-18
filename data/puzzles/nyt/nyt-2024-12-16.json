@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-16",
+  "groups": [
+    {
+      "title": "TYPES OF RADIO",
+      "color": "yellow",
+      "words": [
+        "AM",
+        "HAM",
+        "SATELLITE",
+        "WALKIE-TALKIE"
+      ]
+    },
+    {
+      "title": "KINDS OF PLAY FIGHTS",
+      "color": "green",
+      "words": [
+        "FOOD",
+        "PILLOW",
+        "SNOWBALL",
+        "WATER BALLOON"
+      ]
+    },
+    {
+      "title": "SNACK CAKES",
+      "color": "blue",
+      "words": [
+        "DEVIL DOG",
+        "DING DONG",
+        "HOHO",
+        "YODEL"
+      ]
+    },
+    {
+      "title": "CLASSIC JOKE STAPLES",
+      "color": "purple",
+      "words": [
+        "BAR",
+        "CHICKEN",
+        "KNOCK-KNOCK",
+        "LIGHT BULB"
+      ]
+    }
+  ]
+}

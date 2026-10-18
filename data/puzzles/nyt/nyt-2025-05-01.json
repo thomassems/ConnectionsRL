@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-01",
+  "groups": [
+    {
+      "title": "WINNINGS",
+      "color": "yellow",
+      "words": [
+        "POT",
+        "PRIZE",
+        "PURSE",
+        "REWARD"
+      ]
+    },
+    {
+      "title": "STOP, AS A HABIT",
+      "color": "green",
+      "words": [
+        "BREAK",
+        "DROP",
+        "KICK",
+        "SHAKE"
+      ]
+    },
+    {
+      "title": "MOVIE CAMERA VERBS",
+      "color": "blue",
+      "words": [
+        "DOLLY",
+        "PAN",
+        "TILT",
+        "ZOOM"
+      ]
+    },
+    {
+      "title": "WORDS THAT PRECEDE \"-SIZE\" TO MEAN SMALL",
+      "color": "purple",
+      "words": [
+        "BITE",
+        "FUN",
+        "POCKET",
+        "TRAVEL"
+      ]
+    }
+  ]
+}

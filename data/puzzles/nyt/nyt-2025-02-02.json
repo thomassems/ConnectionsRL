@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-02",
+  "groups": [
+    {
+      "title": "DEJECTED",
+      "color": "yellow",
+      "words": [
+        "BLUE",
+        "DOWN",
+        "HANGDOG",
+        "SORRY"
+      ]
+    },
+    {
+      "title": "BIRDS THAT ARE VERBS",
+      "color": "green",
+      "words": [
+        "DUCK",
+        "GROUSE",
+        "HAWK",
+        "SWALLOW"
+      ]
+    },
+    {
+      "title": "TV COMEDY FAMILIES",
+      "color": "blue",
+      "words": [
+        "GRIFFIN",
+        "MUNSTER",
+        "PARTRIDGE",
+        "PICKLES"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “K”",
+      "color": "purple",
+      "words": [
+        "MART",
+        "POP",
+        "STREET",
+        "SWISS"
+      ]
+    }
+  ]
+}

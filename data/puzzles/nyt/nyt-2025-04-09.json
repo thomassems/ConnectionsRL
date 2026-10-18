@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-09",
+  "groups": [
+    {
+      "title": "ROUND THREE-DIMENSIONAL OBJECTS",
+      "color": "yellow",
+      "words": [
+        "BALL",
+        "GLOBE",
+        "ORB",
+        "SPHERE"
+      ]
+    },
+    {
+      "title": "PUNCH",
+      "color": "green",
+      "words": [
+        "POP",
+        "POUND",
+        "SLUG",
+        "SOCK"
+      ]
+    },
+    {
+      "title": "ANIMALS IN THE WITCHES' BREW IN “MACBETH”",
+      "color": "blue",
+      "words": [
+        "BAT",
+        "DOG",
+        "FROG",
+        "NEWT"
+      ]
+    },
+    {
+      "title": "FOX___",
+      "color": "purple",
+      "words": [
+        "HOLE",
+        "HOUND",
+        "GLOVE",
+        "TROT"
+      ]
+    }
+  ]
+}

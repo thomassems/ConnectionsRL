@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-08-25",
+  "groups": [
+    {
+      "title": "HOPPING MAD",
+      "color": "yellow",
+      "words": [
+        "BOILING",
+        "FUMING",
+        "LIVID",
+        "STEAMING"
+      ]
+    },
+    {
+      "title": "STATUS",
+      "color": "green",
+      "words": [
+        "POSITION",
+        "RANKING",
+        "STANDING",
+        "STATION"
+      ]
+    },
+    {
+      "title": "WORDS THAT MAKE UP THE ACRONYM “HVAC”",
+      "color": "blue",
+      "words": [
+        "AIR",
+        "CONDITIONING",
+        "HEATING",
+        "VENTILATION"
+      ]
+    },
+    {
+      "title": "ACTIVITIES THAT INVOLVE FOLDING",
+      "color": "purple",
+      "words": [
+        "BAKING",
+        "LAUNDRY",
+        "ORIGAMI",
+        "POKER"
+      ]
+    }
+  ]
+}

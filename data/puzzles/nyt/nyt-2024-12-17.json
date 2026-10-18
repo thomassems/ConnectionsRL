@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-17",
+  "groups": [
+    {
+      "title": "INTREPIDITY",
+      "color": "yellow",
+      "words": [
+        "GRIT",
+        "HEART",
+        "NERVE",
+        "PLUCK"
+      ]
+    },
+    {
+      "title": "ROAD",
+      "color": "green",
+      "words": [
+        "ARTERY",
+        "AVENUE",
+        "DRAG",
+        "DRIVE"
+      ]
+    },
+    {
+      "title": "KINDS OF PAPER",
+      "color": "blue",
+      "words": [
+        "CONSTRUCTION",
+        "GRAPH",
+        "TISSUE",
+        "WAX"
+      ]
+    },
+    {
+      "title": "KINDS OF TENNIS COURTS",
+      "color": "purple",
+      "words": [
+        "CARPET",
+        "CLAY",
+        "GRASS",
+        "HARD"
+      ]
+    }
+  ]
+}

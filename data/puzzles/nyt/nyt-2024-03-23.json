@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-23",
+  "groups": [
+    {
+      "title": "KUDOS",
+      "color": "yellow",
+      "words": [
+        "CREDIT",
+        "GLORY",
+        "PRAISE",
+        "PROPS"
+      ]
+    },
+    {
+      "title": "BECOME AWARE OF",
+      "color": "green",
+      "words": [
+        "DISCOVER",
+        "FIND",
+        "LEARN",
+        "REALIZE"
+      ]
+    },
+    {
+      "title": "PURSUE",
+      "color": "blue",
+      "words": [
+        "CHASE",
+        "TAIL",
+        "TRACK",
+        "SHADOW"
+      ]
+    },
+    {
+      "title": "SEEN IN A PASSPORT",
+      "color": "purple",
+      "words": [
+        "NAME",
+        "PHOTO",
+        "STAMP",
+        "VISA"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-12-05",
+  "groups": [
+    {
+      "title": "APTITUDE",
+      "color": "yellow",
+      "words": [
+        "FLAIR",
+        "GIFT",
+        "INSTINCT",
+        "NOSE"
+      ]
+    },
+    {
+      "title": "EXTERIOR",
+      "color": "green",
+      "words": [
+        "FACE",
+        "FRONT",
+        "OUTSIDE",
+        "SURFACE"
+      ]
+    },
+    {
+      "title": "TECH COMPANIES",
+      "color": "blue",
+      "words": [
+        "AMAZON",
+        "APPLE",
+        "INTUIT",
+        "ORACLE"
+      ]
+    },
+    {
+      "title": "___STONE",
+      "color": "purple",
+      "words": [
+        "BRIM",
+        "LIME",
+        "RHINE",
+        "YELLOW"
+      ]
+    }
+  ]
+}

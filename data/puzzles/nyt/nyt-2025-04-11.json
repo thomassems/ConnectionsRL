@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-04-11",
+  "groups": [
+    {
+      "title": "SOURCES OF VITAMINS",
+      "color": "yellow",
+      "words": [
+        "CITRUS",
+        "LEAFY GREENS",
+        "SUNSHINE",
+        "SUPPLEMENTS"
+      ]
+    },
+    {
+      "title": "PLACES USED IN RETAIL SUFFIXES",
+      "color": "green",
+      "words": [
+        "CITY",
+        "LAND",
+        "TOWN",
+        "WORLD"
+      ]
+    },
+    {
+      "title": "PLACES TO FIND STARS",
+      "color": "blue",
+      "words": [
+        "AMERICAN FLAG",
+        "GALAXY",
+        "RED CARPET",
+        "UBER RATING"
+      ]
+    },
+    {
+      "title": "WORDS AFTER “GO”",
+      "color": "purple",
+      "words": [
+        "ALL OUT",
+        "BETWEEN",
+        "KART",
+        "STEADY"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-25",
+  "groups": [
+    {
+      "title": "SECLUDED",
+      "color": "yellow",
+      "words": [
+        "HIDDEN",
+        "PRIVATE",
+        "REMOTE",
+        "SECRET"
+      ]
+    },
+    {
+      "title": "AGGREGATE SIZE",
+      "color": "green",
+      "words": [
+        "AMOUNT",
+        "NUMBER",
+        "QUANTITY",
+        "VOLUME"
+      ]
+    },
+    {
+      "title": "BODIES OF WATER",
+      "color": "blue",
+      "words": [
+        "CANAL",
+        "CHANNEL",
+        "SOUND",
+        "STRAIT"
+      ]
+    },
+    {
+      "title": "READS THE SAME ROTATED 180°",
+      "color": "purple",
+      "words": [
+        "96",
+        "MOW",
+        "NOON",
+        "SIS"
+      ]
+    }
+  ]
+}

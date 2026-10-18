@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-01",
+  "groups": [
+    {
+      "title": "GARLIC BREAD INGREDIENTS",
+      "color": "yellow",
+      "words": [
+        "BREAD",
+        "BUTTER",
+        "GARLIC",
+        "PARSLEY"
+      ]
+    },
+    {
+      "title": "WAGER",
+      "color": "green",
+      "words": [
+        "BET",
+        "GAMBLE",
+        "RISK",
+        "STAKE"
+      ]
+    },
+    {
+      "title": "DISNEYLAND LANDS",
+      "color": "blue",
+      "words": [
+        "ADVENTURE",
+        "FANTASY",
+        "FRONTIER",
+        "TOMORROW"
+      ]
+    },
+    {
+      "title": "___ BAT",
+      "color": "purple",
+      "words": [
+        "BASEBALL",
+        "CRICKET",
+        "FRUIT",
+        "VAMPIRE"
+      ]
+    }
+  ]
+}

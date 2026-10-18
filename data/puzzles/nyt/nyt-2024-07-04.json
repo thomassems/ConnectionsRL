@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-04",
+  "groups": [
+    {
+      "title": "ROMANTIC RAPPORT",
+      "color": "yellow",
+      "words": [
+        "ATTRACTION",
+        "CHEMISTRY",
+        "FIREWORKS",
+        "SPARKS"
+      ]
+    },
+    {
+      "title": "THINGS STORED BY A WEB BROWSER",
+      "color": "green",
+      "words": [
+        "CACHE",
+        "COOKIES",
+        "DATA",
+        "HISTORY"
+      ]
+    },
+    {
+      "title": "SINGLE ROTATION",
+      "color": "blue",
+      "words": [
+        "CYCLE",
+        "LAP",
+        "TURN",
+        "REVOLUTION"
+      ]
+    },
+    {
+      "title": "WORDS BEFORE “BELL”",
+      "color": "purple",
+      "words": [
+        "BAR",
+        "DINNER",
+        "LIBERTY",
+        "TINKER"
+      ]
+    }
+  ]
+}

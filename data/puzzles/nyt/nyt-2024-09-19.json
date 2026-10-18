@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-09-19",
+  "groups": [
+    {
+      "title": "PREFIX MEANING “VERY”",
+      "color": "yellow",
+      "words": [
+        "EXTRA",
+        "HYPER",
+        "OVER",
+        "SUPER"
+      ]
+    },
+    {
+      "title": "KINDS OF PARTIES",
+      "color": "green",
+      "words": [
+        "BIRTHDAY",
+        "COCKTAIL",
+        "DINNER",
+        "SURPRISE"
+      ]
+    },
+    {
+      "title": "PBS SHOWS",
+      "color": "blue",
+      "words": [
+        "FRONTLINE",
+        "NATURE",
+        "NOVA",
+        "MASTERPIECE"
+      ]
+    },
+    {
+      "title": "PLACES IN FRANCE",
+      "color": "purple",
+      "words": [
+        "ANGERS",
+        "CHAMPAGNE",
+        "NICE",
+        "REUNION"
+      ]
+    }
+  ]
+}

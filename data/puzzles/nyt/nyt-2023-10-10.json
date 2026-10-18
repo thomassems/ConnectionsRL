@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-10-10",
+  "groups": [
+    {
+      "title": "ORIGIN",
+      "color": "yellow",
+      "words": [
+        "GENESIS",
+        "GERM",
+        "SEED",
+        "SOURCE"
+      ]
+    },
+    {
+      "title": "BIBLE BOOKS",
+      "color": "green",
+      "words": [
+        "ACTS",
+        "JOB",
+        "KINGS",
+        "MARK"
+      ]
+    },
+    {
+      "title": "N.H.L. TEAMS",
+      "color": "blue",
+      "words": [
+        "FLAMES",
+        "KRAKEN",
+        "STARS",
+        "WILD"
+      ]
+    },
+    {
+      "title": "POWER ___",
+      "color": "purple",
+      "words": [
+        "NAP",
+        "PLANT",
+        "RANGER",
+        "TRIP"
+      ]
+    }
+  ]
+}

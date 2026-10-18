@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-01-10",
+  "groups": [
+    {
+      "title": "BE CONTINGENT (ON)",
+      "color": "yellow",
+      "words": [
+        "DEPEND",
+        "HINGE",
+        "RELY",
+        "REST"
+      ]
+    },
+    {
+      "title": "“CALM DOWN”",
+      "color": "green",
+      "words": [
+        "CHILL",
+        "EASY",
+        "ENOUGH",
+        "RELAX"
+      ]
+    },
+    {
+      "title": "INGREDIENTS IN AN OLD FASHIONED",
+      "color": "blue",
+      "words": [
+        "BITTERS",
+        "ORANGE",
+        "RYE",
+        "SUGAR"
+      ]
+    },
+    {
+      "title": "FEATURED IN THE MONTY HALL PROBLEM",
+      "color": "purple",
+      "words": [
+        "CAR",
+        "DOOR",
+        "GOAT",
+        "HOST"
+      ]
+    }
+  ]
+}

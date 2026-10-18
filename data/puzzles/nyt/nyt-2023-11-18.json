@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-11-18",
+  "groups": [
+    {
+      "title": "QUICK PEEK",
+      "color": "yellow",
+      "words": [
+        "GANDER",
+        "GLANCE",
+        "GLIMPSE",
+        "LOOK"
+      ]
+    },
+    {
+      "title": "DECEIT",
+      "color": "green",
+      "words": [
+        "ACT",
+        "BLUFF",
+        "CHARADE",
+        "FRONT"
+      ]
+    },
+    {
+      "title": "PARTS OF A MOUNTAIN",
+      "color": "blue",
+      "words": [
+        "CLIFF",
+        "CRAG",
+        "LEDGE",
+        "RIDGE"
+      ]
+    },
+    {
+      "title": "HOMOPHONES",
+      "color": "purple",
+      "words": [
+        "PEAK",
+        "PEEK",
+        "PEKE",
+        "PIQUE"
+      ]
+    }
+  ]
+}

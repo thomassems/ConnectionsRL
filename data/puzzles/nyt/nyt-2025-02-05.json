@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-02-05",
+  "groups": [
+    {
+      "title": "PARTS OF A COMPENSATION PACKAGE",
+      "color": "yellow",
+      "words": [
+        "BONUS",
+        "INSURANCE",
+        "SALARY",
+        "VACATION"
+      ]
+    },
+    {
+      "title": "INDICATION",
+      "color": "green",
+      "words": [
+        "FLAG",
+        "GIVEAWAY",
+        "SIGN",
+        "TELL"
+      ]
+    },
+    {
+      "title": "THINGS TO DO WITH A DECK OF CARDS",
+      "color": "blue",
+      "words": [
+        "CUT",
+        "DEAL",
+        "FAN",
+        "SHUFFLE"
+      ]
+    },
+    {
+      "title": "WHAT “BILL” MIGHT REFER TO",
+      "color": "purple",
+      "words": [
+        "BANKNOTE",
+        "BEAK",
+        "INVOICE",
+        "WILLIAM"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-03-24",
+  "groups": [
+    {
+      "title": "YELLOW-BROWN SHADES",
+      "color": "yellow",
+      "words": [
+        "BEIGE",
+        "CAMEL",
+        "KHAKI",
+        "TAN"
+      ]
+    },
+    {
+      "title": "FAIL TO ATTEND",
+      "color": "green",
+      "words": [
+        "CUT",
+        "DITCH",
+        "MISS",
+        "SKIP"
+      ]
+    },
+    {
+      "title": "DECISIVE VICTORY",
+      "color": "blue",
+      "words": [
+        "BLOWOUT",
+        "ROMP",
+        "ROUT",
+        "SWEEP"
+      ]
+    },
+    {
+      "title": "___ WHEEL",
+      "color": "purple",
+      "words": [
+        "CHEESE",
+        "COLOR",
+        "HAMSTER",
+        "PRAYER"
+      ]
+    }
+  ]
+}

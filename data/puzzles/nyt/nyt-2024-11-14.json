@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-11-14",
+  "groups": [
+    {
+      "title": "DEPLETE",
+      "color": "yellow",
+      "words": [
+        "DRAIN",
+        "EMPTY",
+        "EXHAUST",
+        "SAP"
+      ]
+    },
+    {
+      "title": "PLAY MUSIC WITH PASSION",
+      "color": "green",
+      "words": [
+        "GROOVE",
+        "JAM",
+        "ROCK",
+        "SHRED"
+      ]
+    },
+    {
+      "title": "WORDS ON A RESTAURANT RECEIPT",
+      "color": "blue",
+      "words": [
+        "TAX",
+        "TIP",
+        "TOTAL",
+        "SIGNATURE"
+      ]
+    },
+    {
+      "title": "FORMS OF SUGAR",
+      "color": "purple",
+      "words": [
+        "CUBE",
+        "GRAIN",
+        "POWDER",
+        "SYRUP"
+      ]
+    }
+  ]
+}

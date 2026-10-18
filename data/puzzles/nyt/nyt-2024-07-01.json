@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2024-07-01",
+  "groups": [
+    {
+      "title": "SHOW THE WAY",
+      "color": "yellow",
+      "words": [
+        "DIRECT",
+        "GUIDE",
+        "LEAD",
+        "USHER"
+      ]
+    },
+    {
+      "title": "SCHEME",
+      "color": "green",
+      "words": [
+        "CON",
+        "HUSTLE",
+        "RACKET",
+        "STING"
+      ]
+    },
+    {
+      "title": "SEEN ON A U.S. DOLLAR BILL",
+      "color": "blue",
+      "words": [
+        "EAGLE",
+        "PYRAMID",
+        "SEAL",
+        "WASHINGTON"
+      ]
+    },
+    {
+      "title": "FIRST WORDS OF CANADIAN PROVINCES/TERRITORIES",
+      "color": "purple",
+      "words": [
+        "BRITISH",
+        "NORTHWEST",
+        "NOVA",
+        "PRINCE"
+      ]
+    }
+  ]
+}

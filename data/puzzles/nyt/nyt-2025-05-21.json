@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2025-05-21",
+  "groups": [
+    {
+      "title": "PROHIBIT, AS ENTRY",
+      "color": "yellow",
+      "words": [
+        "BAR",
+        "BLOCK",
+        "DENY",
+        "REFUSE"
+      ]
+    },
+    {
+      "title": "FOLDERS ON A MAC",
+      "color": "green",
+      "words": [
+        "DESKTOP",
+        "MUSIC",
+        "PICTURES",
+        "TRASH"
+      ]
+    },
+    {
+      "title": "MEDICINE FORMATS",
+      "color": "blue",
+      "words": [
+        "CREAM",
+        "PATCH",
+        "SPRAY",
+        "TABLET"
+      ]
+    },
+    {
+      "title": "THINGS THAT OPEN LIKE A CLAM",
+      "color": "purple",
+      "words": [
+        "CLAM",
+        "COMPACT",
+        "LAPTOP",
+        "WAFFLE IRON"
+      ]
+    }
+  ]
+}

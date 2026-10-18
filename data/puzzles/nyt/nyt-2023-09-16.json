@@ -1,0 +1,45 @@
+{
+  "puzzle_id": "nyt-2023-09-16",
+  "groups": [
+    {
+      "title": "FAIRY TALE FIGURES",
+      "color": "yellow",
+      "words": [
+        "GIANT",
+        "PRINCESS",
+        "WITCH",
+        "WOLF"
+      ]
+    },
+    {
+      "title": "CHESS TERMS",
+      "color": "green",
+      "words": [
+        "BISHOP",
+        "MATE",
+        "GAMBIT",
+        "QUEEN"
+      ]
+    },
+    {
+      "title": "“PEANUTS” CHARACTERS",
+      "color": "blue",
+      "words": [
+        "CHARLIE",
+        "PEPPERMINT PATTY",
+        "PIGPEN",
+        "WOODSTOCK"
+      ]
+    },
+    {
+      "title": "I LOVE ___",
+      "color": "purple",
+      "words": [
+        "LUCY",
+        "NEW YORK",
+        "ROCK 'N ROLL",
+        "YOU"
+      ]
+    }
+  ]
+}

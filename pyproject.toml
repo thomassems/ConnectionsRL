@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "connections-rl"
+version = "0.1.0"
+description = "An RL playground for Connections puzzles"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.optional-dependencies]
+wordnet = ["nltk>=3.9,<4"]
+fasttext = ["fasttext>=0.9.3,<1"]
+train = ["nltk>=3.9,<4", "numpy>=2,<3", "torch>=2.6,<3"]
+
+[tool.setuptools.packages.find]
+include = ["connections_rl*"]
