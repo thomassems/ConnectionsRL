@@ -201,6 +201,31 @@ The diagnostic rerun used seeds 7, 17, and 27 on the same 141 validation puzzles
 
 Across all three runs, the share of follow-up guesses that reused at least three words from a known `incorrect` guess fell from 326/643 to 69/612 after DQN. This suggests the network learned to use some negative feedback. The initial ranking of purple groups remains weak: after DQN, only 4, 2, and 0 of 141 purple groups ranked in the top ten, depending on seed. The two added seeds support the improvement on this validation set, but three runs do not establish performance on the held-out test set.
 
+### Repeated RL passes
+
+To test whether more experience on the same training puzzles helps, a second experiment resumed the saved supervised checkpoints for seeds 7, 17, and 27. Each run used a fresh optimizer, played all 476 training puzzles three times, and measured greedy play on the same 141 validation puzzles after every pass. The clue features, network, rewards, and data split were unchanged. The within-run pass comparison is controlled; its one-pass scores can differ from the earlier runs, which carried optimizer state from supervised training into RL.
+
+| RL passes | Wins, seeds 7 / 17 / 27 | Mean wins | Mean groups solved | Purple groups initially in top 10, mean |
+| ---: | ---: | ---: | ---: | ---: |
+| 0 | 14 / 12 / 17 | 14.3 | 0.94 | 3.3 |
+| 1 | 22 / 18 / 16 | 18.7 | 1.19 | 2.3 |
+| 2 | 22 / 22 / 19 | 21.0 | 1.25 | 2.0 |
+| 3 | 25 / 20 / 18 | 21.0 | 1.24 | 1.3 |
+
+The second pass improved average validation performance; the third did not improve it overall. Individual puzzle wins changed in both directions. Extra RL experience did not improve initial purple-group recognition, which needs better clue inputs. These are validation observations across only three seeds, not a claim about held-out test performance.
+
+`--evaluate-each-rl-epoch` saves validation traces in the report and an ignored checkpoint after each pass. For example, with a saved seed-7 supervised checkpoint:
+
+```sh
+.venv/bin/python -m connections_rl.train \
+  --resume-supervised .venv/checkpoints/candidate_q.supervised.pt \
+  --seed 7 --rl-epochs 3 --evaluate-each-rl-epoch \
+  --output .venv/checkpoints/repeated_rl_seed7.pt \
+  --report reports/repeated_rl_seed7.json
+```
+
+`scripts/summarize_repeated_rl.py` checks that each report used the same validation puzzles and writes the comparison to `reports/repeated_rl_summary.json`. The three per-seed reports contain the per-puzzle traces; their checkpoints remain outside Git.
+
 ```python
 from connections_rl import (
     FastTextVectors, MeaningClueProvider, WordFormClueProvider, WordNetKnowledgeCache
