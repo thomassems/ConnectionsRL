@@ -1,0 +1,315 @@
+{
+  "validation_count": 141,
+  "test_count_used": 0,
+  "manifest_sha256": "2346e606b7e39378641823162003c109fb624dae07f94cf23f55f610792fd621",
+  "seeds": [
+    {
+      "seed": 7,
+      "report": "reports/repeated_rl_seed7.json",
+      "stages": [
+        {
+          "rl_epochs": 0,
+          "wins": 14,
+          "mean_groups": 0.9290780141843972,
+          "mean_reward": -4.8255319148936175,
+          "zero_group_puzzles": 70,
+          "purple_top_10": 4,
+          "purple_median_rank": 925,
+          "incorrect_followup_overlap_at_least_3": 105,
+          "incorrect_followup_count": 209,
+          "one_away_next_correct": 27,
+          "one_away_followup_count": 187
+        },
+        {
+          "rl_epochs": 1,
+          "wins": 22,
+          "mean_groups": 1.2695035460992907,
+          "mean_reward": -3.792907801418439,
+          "zero_group_puzzles": 42,
+          "purple_top_10": 3,
+          "purple_median_rank": 967,
+          "incorrect_followup_overlap_at_least_3": 14,
+          "incorrect_followup_count": 190,
+          "one_away_next_correct": 39,
+          "one_away_followup_count": 194
+        },
+        {
+          "rl_epochs": 2,
+          "wins": 22,
+          "mean_groups": 1.2836879432624113,
+          "mean_reward": -3.8085106382978715,
+          "zero_group_puzzles": 47,
+          "purple_top_10": 2,
+          "purple_median_rank": 1011,
+          "incorrect_followup_overlap_at_least_3": 12,
+          "incorrect_followup_count": 196,
+          "one_away_next_correct": 26,
+          "one_away_followup_count": 185
+        },
+        {
+          "rl_epochs": 3,
+          "wins": 25,
+          "mean_groups": 1.326241134751773,
+          "mean_reward": -3.499290780141843,
+          "zero_group_puzzles": 49,
+          "purple_top_10": 2,
+          "purple_median_rank": 1003,
+          "incorrect_followup_overlap_at_least_3": 40,
+          "incorrect_followup_count": 188,
+          "one_away_next_correct": 30,
+          "one_away_followup_count": 187
+        }
+      ]
+    },
+    {
+      "seed": 17,
+      "report": "reports/repeated_rl_seed17.json",
+      "stages": [
+        {
+          "rl_epochs": 0,
+          "wins": 12,
+          "mean_groups": 0.8794326241134752,
+          "mean_reward": -5.080851063829788,
+          "zero_group_puzzles": 73,
+          "purple_top_10": 4,
+          "purple_median_rank": 805,
+          "incorrect_followup_overlap_at_least_3": 124,
+          "incorrect_followup_count": 220,
+          "one_away_next_correct": 28,
+          "one_away_followup_count": 177
+        },
+        {
+          "rl_epochs": 1,
+          "wins": 18,
+          "mean_groups": 1.1631205673758864,
+          "mean_reward": -4.235460992907802,
+          "zero_group_puzzles": 48,
+          "purple_top_10": 2,
+          "purple_median_rank": 974,
+          "incorrect_followup_overlap_at_least_3": 40,
+          "incorrect_followup_count": 197,
+          "one_away_next_correct": 31,
+          "one_away_followup_count": 196
+        },
+        {
+          "rl_epochs": 2,
+          "wins": 22,
+          "mean_groups": 1.2553191489361701,
+          "mean_reward": -3.86241134751773,
+          "zero_group_puzzles": 49,
+          "purple_top_10": 3,
+          "purple_median_rank": 981,
+          "incorrect_followup_overlap_at_least_3": 49,
+          "incorrect_followup_count": 201,
+          "one_away_next_correct": 34,
+          "one_away_followup_count": 178
+        },
+        {
+          "rl_epochs": 3,
+          "wins": 20,
+          "mean_groups": 1.2198581560283688,
+          "mean_reward": -4.1319148936170205,
+          "zero_group_puzzles": 50,
+          "purple_top_10": 1,
+          "purple_median_rank": 1023,
+          "incorrect_followup_overlap_at_least_3": 52,
+          "incorrect_followup_count": 215,
+          "one_away_next_correct": 29,
+          "one_away_followup_count": 173
+        }
+      ]
+    },
+    {
+      "seed": 27,
+      "report": "reports/repeated_rl_seed27.json",
+      "stages": [
+        {
+          "rl_epochs": 0,
+          "wins": 17,
+          "mean_groups": 1.0070921985815602,
+          "mean_reward": -4.563120567375886,
+          "zero_group_puzzles": 64,
+          "purple_top_10": 2,
+          "purple_median_rank": 919,
+          "incorrect_followup_overlap_at_least_3": 97,
+          "incorrect_followup_count": 214,
+          "one_away_next_correct": 30,
+          "one_away_followup_count": 182
+        },
+        {
+          "rl_epochs": 1,
+          "wins": 16,
+          "mean_groups": 1.1418439716312057,
+          "mean_reward": -4.4198581560283685,
+          "zero_group_puzzles": 46,
+          "purple_top_10": 2,
+          "purple_median_rank": 1026,
+          "incorrect_followup_overlap_at_least_3": 53,
+          "incorrect_followup_count": 200,
+          "one_away_next_correct": 33,
+          "one_away_followup_count": 196
+        },
+        {
+          "rl_epochs": 2,
+          "wins": 19,
+          "mean_groups": 1.2127659574468086,
+          "mean_reward": -4.195744680851063,
+          "zero_group_puzzles": 45,
+          "purple_top_10": 1,
+          "purple_median_rank": 1012,
+          "incorrect_followup_overlap_at_least_3": 47,
+          "incorrect_followup_count": 211,
+          "one_away_next_correct": 34,
+          "one_away_followup_count": 183
+        },
+        {
+          "rl_epochs": 3,
+          "wins": 18,
+          "mean_groups": 1.1631205673758864,
+          "mean_reward": -4.273758865248226,
+          "zero_group_puzzles": 49,
+          "purple_top_10": 1,
+          "purple_median_rank": 944,
+          "incorrect_followup_overlap_at_least_3": 34,
+          "incorrect_followup_count": 204,
+          "one_away_next_correct": 34,
+          "one_away_followup_count": 188
+        }
+      ]
+    }
+  ],
+  "across_seeds": [
+    {
+      "rl_epochs": 0,
+      "wins": {
+        "mean": 14.333333333333334,
+        "min": 12,
+        "max": 17
+      },
+      "mean_groups": {
+        "mean": 0.9385342789598109,
+        "min": 0.8794326241134752,
+        "max": 1.0070921985815602
+      },
+      "mean_reward": {
+        "mean": -4.823167848699764,
+        "min": -5.080851063829788,
+        "max": -4.563120567375886
+      },
+      "zero_group_puzzles": {
+        "mean": 69,
+        "min": 64,
+        "max": 73
+      },
+      "purple_top_10": {
+        "mean": 3.3333333333333335,
+        "min": 2,
+        "max": 4
+      },
+      "purple_median_rank": {
+        "mean": 883,
+        "min": 805,
+        "max": 925
+      }
+    },
+    {
+      "rl_epochs": 1,
+      "wins": {
+        "mean": 18.666666666666668,
+        "min": 16,
+        "max": 22
+      },
+      "mean_groups": {
+        "mean": 1.1914893617021276,
+        "min": 1.1418439716312057,
+        "max": 1.2695035460992907
+      },
+      "mean_reward": {
+        "mean": -4.149408983451536,
+        "min": -4.4198581560283685,
+        "max": -3.792907801418439
+      },
+      "zero_group_puzzles": {
+        "mean": 45.333333333333336,
+        "min": 42,
+        "max": 48
+      },
+      "purple_top_10": {
+        "mean": 2.3333333333333335,
+        "min": 2,
+        "max": 3
+      },
+      "purple_median_rank": {
+        "mean": 989,
+        "min": 967,
+        "max": 1026
+      }
+    },
+    {
+      "rl_epochs": 2,
+      "wins": {
+        "mean": 21,
+        "min": 19,
+        "max": 22
+      },
+      "mean_groups": {
+        "mean": 1.2505910165484633,
+        "min": 1.2127659574468086,
+        "max": 1.2836879432624113
+      },
+      "mean_reward": {
+        "mean": -3.955555555555555,
+        "min": -4.195744680851063,
+        "max": -3.8085106382978715
+      },
+      "zero_group_puzzles": {
+        "mean": 47,
+        "min": 45,
+        "max": 49
+      },
+      "purple_top_10": {
+        "mean": 2,
+        "min": 1,
+        "max": 3
+      },
+      "purple_median_rank": {
+        "mean": 1001.3333333333334,
+        "min": 981,
+        "max": 1012
+      }
+    },
+    {
+      "rl_epochs": 3,
+      "wins": {
+        "mean": 21,
+        "min": 18,
+        "max": 25
+      },
+      "mean_groups": {
+        "mean": 1.2364066193853427,
+        "min": 1.1631205673758864,
+        "max": 1.326241134751773
+      },
+      "mean_reward": {
+        "mean": -3.9683215130023632,
+        "min": -4.273758865248226,
+        "max": -3.499290780141843
+      },
+      "zero_group_puzzles": {
+        "mean": 49.333333333333336,
+        "min": 49,
+        "max": 50
+      },
+      "purple_top_10": {
+        "mean": 1.3333333333333333,
+        "min": 1,
+        "max": 2
+      },
+      "purple_median_rank": {
+        "mean": 990,
+        "min": 944,
+        "max": 1023
+      }
+    }
+  ]
+}
