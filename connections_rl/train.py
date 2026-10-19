@@ -307,6 +307,8 @@ def main(argv: list[str] | None = None) -> int:
                         help="only rerun validation diagnostics for a saved checkpoint")
     parser.add_argument("--supervised-epochs", type=int, default=3)
     parser.add_argument("--rl-epochs", type=int, default=1)
+    parser.add_argument("--evaluate-each-rl-epoch", action="store_true",
+                        help="save validation results and a checkpoint after each RL pass")
     parser.add_argument("--train-limit", type=int)
     parser.add_argument("--validation-limit", type=int)
     parser.add_argument("--seed", type=int, default=7)
@@ -380,12 +382,29 @@ def main(argv: list[str] | None = None) -> int:
             "vector_source_sha256": vectors.metadata.get("source_sha256"),
         }, warm_path)
     before_rl = evaluate(validation_paths, get_features, model, vectors)
+    validation_by_rl_epoch = []
     for epoch in range(args.rl_epochs):
         rl_result = reinforcement_epoch(
             model, paths, get_features, vectors, optimizer, args.seed + epoch,
         )
         training.append({"phase": "reinforcement", "epoch": epoch + 1, **rl_result})
-    after_rl = evaluate(validation_paths, get_features, model, vectors) if args.rl_epochs else None
+        if args.evaluate_each_rl_epoch:
+            evaluation = evaluate(validation_paths, get_features, model, vectors)
+            validation_by_rl_epoch.append({"epoch": epoch + 1, **evaluation})
+            epoch_path = args.output.with_name(
+                args.output.stem + f".epoch-{epoch + 1}" + args.output.suffix
+            )
+            epoch_path.parent.mkdir(parents=True, exist_ok=True)
+            torch.save({
+                "model_state": model.state_dict(), "seed": args.seed,
+                "manifest_sha256": manifest_hash,
+                "vector_source_sha256": vectors.metadata.get("source_sha256"),
+            }, epoch_path)
+    if args.rl_epochs:
+        after_rl = (validation_by_rl_epoch[-1] if args.evaluate_each_rl_epoch
+                    else evaluate(validation_paths, get_features, model, vectors))
+    else:
+        after_rl = None
     args.output.parent.mkdir(parents=True, exist_ok=True)
     torch.save({
         "model_state": model.state_dict(), "seed": args.seed,
@@ -403,6 +422,8 @@ def main(argv: list[str] | None = None) -> int:
         "validation_after_supervised": before_rl,
         "validation_after_rl": after_rl,
     }
+    if args.evaluate_each_rl_epoch:
+        report["validation_by_rl_epoch"] = validation_by_rl_epoch
     args.report.parent.mkdir(parents=True, exist_ok=True)
     args.report.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
     print(f"Saved checkpoint {args.output} and report {args.report}")
