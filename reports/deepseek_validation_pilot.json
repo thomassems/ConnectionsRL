@@ -1,0 +1,790 @@
+{
+  "count": 10,
+  "wins": 5,
+  "win_rate": 0.5,
+  "mean_groups_solved": 2.7,
+  "mean_reward": 1.6800000000000002,
+  "solved_groups_by_color": {
+    "blue": 5,
+    "green": 8,
+    "purple": 5,
+    "yellow": 9
+  },
+  "fallback_guesses": 2,
+  "agent": "llm",
+  "provider": "deepseek",
+  "model": "deepseek-chat",
+  "effort": null,
+  "seed": 7,
+  "split": "validation",
+  "test_count_used": 0,
+  "manifest_sha256": "2346e606b7e39378641823162003c109fb624dae07f94cf23f55f610792fd621",
+  "input_tokens": 21073,
+  "output_tokens": 3676,
+  "estimated_cost_usd": 0.0097,
+  "results": [
+    {
+      "puzzle_id": "nyt-2024-10-01",
+      "status": "won",
+      "groups_solved": 4,
+      "mistakes": 1,
+      "turns": 5,
+      "total_reward": 8.8,
+      "guesses": [
+        {
+          "words": [
+            "SHAPE",
+            "CONDITION",
+            "FORM",
+            "HEALTH"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "CURRENT",
+            "QUICK",
+            "RAPID",
+            "WAVE"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 2,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "TIZZY",
+            "STEW",
+            "LATHER",
+            "SWEAT"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "CURRENT",
+            "WAVE",
+            "CASCADE",
+            "RAPID"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "blue",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "RINSE",
+            "QUICK",
+            "NORMAL",
+            "SANITIZE"
+          ],
+          "feedback": "correct",
+          "reward": 6.0,
+          "revealed_color": "purple",
+          "attempts": 1,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-02",
+      "status": "won",
+      "groups_solved": 4,
+      "mistakes": 3,
+      "turns": 7,
+      "total_reward": 6.0,
+      "guesses": [
+        {
+          "words": [
+            "RISK",
+            "CHANCE",
+            "GAMBLE",
+            "BET"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SLICE",
+            "CUBE",
+            "JULIENNE",
+            "DICE"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SLOT MACHINE",
+            "CASINO",
+            "TAXI DRIVER",
+            "VENUS DE MILO"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SLOT MACHINE",
+            "TAXI DRIVER",
+            "VENUS DE MILO",
+            "JOKER"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SLOT MACHINE",
+            "CASINO",
+            "OCTOPUS",
+            "JOKER"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "TAXI DRIVER",
+            "HEAT",
+            "CASINO",
+            "JOKER"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "blue",
+          "attempts": 2,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SLOT MACHINE",
+            "SHIVA",
+            "OCTOPUS",
+            "VENUS DE MILO"
+          ],
+          "feedback": "correct",
+          "reward": 6.0,
+          "revealed_color": "purple",
+          "attempts": 1,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-03",
+      "status": "lost",
+      "groups_solved": 1,
+      "mistakes": 4,
+      "turns": 5,
+      "total_reward": -5.4,
+      "guesses": [
+        {
+          "words": [
+            "SODA",
+            "MILK",
+            "JUICE",
+            "PUNCH"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SMITE",
+            "PANT",
+            "STICK",
+            "PRUNE"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "PANT",
+            "POT",
+            "STICK",
+            "PRUNE"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SMITE",
+            "PANT",
+            "STICK",
+            "BOOKEND"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 3,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SMITE",
+            "STICK",
+            "BOOKEND",
+            "PRUNE"
+          ],
+          "feedback": "incorrect",
+          "reward": -5.0,
+          "revealed_color": null,
+          "attempts": 3,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-04",
+      "status": "won",
+      "groups_solved": 4,
+      "mistakes": 0,
+      "turns": 4,
+      "total_reward": 9.0,
+      "guesses": [
+        {
+          "words": [
+            "DIVOT",
+            "DENT",
+            "DING",
+            "DIMPLE"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "DALE",
+            "DORY",
+            "DAISY",
+            "DOC"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "blue",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "DAB",
+            "DASH",
+            "DOLLOP",
+            "DROP"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "DREAM",
+            "DINNER",
+            "DELIVERY",
+            "DUE"
+          ],
+          "feedback": "correct",
+          "reward": 6.0,
+          "revealed_color": "purple",
+          "attempts": 1,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-05",
+      "status": "lost",
+      "groups_solved": 2,
+      "mistakes": 4,
+      "turns": 6,
+      "total_reward": -5.2,
+      "guesses": [
+        {
+          "words": [
+            "THONG",
+            "BIKINI",
+            "G-STRING",
+            "HIPSTER"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "T-BONE",
+            "FILET",
+            "SINK",
+            "JACUZZI"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "Q-TIP",
+            "CHAPSTICK",
+            "TOOTHBRUSH",
+            "DRILL"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "T-BONE",
+            "FILET",
+            "SKIRT",
+            "HANGER"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 3,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "Q-TIP",
+            "CHAPSTICK",
+            "XEROX",
+            "X-RAY"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 2,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "CHAPSTICK",
+            "DRILL",
+            "JACUZZI",
+            "Q-TIP"
+          ],
+          "feedback": "one_away",
+          "reward": -5.0,
+          "revealed_color": null,
+          "attempts": 3,
+          "fell_back": true
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-06",
+      "status": "won",
+      "groups_solved": 4,
+      "mistakes": 0,
+      "turns": 4,
+      "total_reward": 9.0,
+      "guesses": [
+        {
+          "words": [
+            "WITHDRAW",
+            "LEAVE",
+            "FLEE",
+            "RETREAT"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "HOME",
+            "ABOUT",
+            "CONTACT",
+            "LOGIN"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "blue",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "GOAT",
+            "CREAM",
+            "COTTAGE",
+            "STRING"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "purple",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SHED",
+            "KNEAD",
+            "PURR",
+            "SCRATCH"
+          ],
+          "feedback": "correct",
+          "reward": 6.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-07",
+      "status": "lost",
+      "groups_solved": 0,
+      "mistakes": 4,
+      "turns": 4,
+      "total_reward": -5.6,
+      "guesses": [
+        {
+          "words": [
+            "VROOM",
+            "BEEP BEEP",
+            "SKRRT",
+            "WHOOP"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "HOOT",
+            "HAR-HAR",
+            "YUK",
+            "YAHOO"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "VROOM",
+            "BEEP BEEP",
+            "SKRRT",
+            "DING-DONG"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "BEEP BEEP",
+            "BUBBLES",
+            "DING-DONG",
+            "DODO"
+          ],
+          "feedback": "incorrect",
+          "reward": -5.0,
+          "revealed_color": null,
+          "attempts": 3,
+          "fell_back": true
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-08",
+      "status": "won",
+      "groups_solved": 4,
+      "mistakes": 0,
+      "turns": 4,
+      "total_reward": 9.0,
+      "guesses": [
+        {
+          "words": [
+            "FORBID",
+            "BAN",
+            "DENY",
+            "BLOCK"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "WITCH",
+            "PUMPKIN",
+            "BAT",
+            "SPIDER"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "NOTE",
+            "STAFF",
+            "ACCIDENTAL",
+            "REST"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "blue",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "CANE",
+            "APPLE",
+            "CORN",
+            "BAR"
+          ],
+          "feedback": "correct",
+          "reward": 6.0,
+          "revealed_color": "purple",
+          "attempts": 1,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-09",
+      "status": "lost",
+      "groups_solved": 2,
+      "mistakes": 4,
+      "turns": 6,
+      "total_reward": -4.4,
+      "guesses": [
+        {
+          "words": [
+            "FROTH",
+            "FIZZ",
+            "FOAM",
+            "BUBBLES"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "JACKKNIFE",
+            "BOILERPLATE",
+            "BILLBOARD",
+            "PITCHFORK"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "PROGRESS",
+            "DEVELOP",
+            "MATURE",
+            "BLOSSOM"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "JACKKNIFE",
+            "SPIN",
+            "BILLBOARD",
+            "PITCHFORK"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "JACKKNIFE",
+            "MOJO",
+            "BUTTERCUP",
+            "WITHERSPOON"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 2,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "JACKKNIFE",
+            "SPIN",
+            "MOJO",
+            "WITHERSPOON"
+          ],
+          "feedback": "incorrect",
+          "reward": -5.0,
+          "revealed_color": null,
+          "attempts": 2,
+          "fell_back": false
+        }
+      ]
+    },
+    {
+      "puzzle_id": "nyt-2024-10-10",
+      "status": "lost",
+      "groups_solved": 2,
+      "mistakes": 4,
+      "turns": 6,
+      "total_reward": -4.4,
+      "guesses": [
+        {
+          "words": [
+            "RAD",
+            "BAD",
+            "FLY",
+            "ILL"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "green",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "LEG",
+            "ARM",
+            "EYE",
+            "HIP"
+          ],
+          "feedback": "correct",
+          "reward": 1.0,
+          "revealed_color": "yellow",
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SEW",
+            "SAW",
+            "DOE",
+            "ELF"
+          ],
+          "feedback": "incorrect",
+          "reward": -1.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "ELF",
+            "FAR",
+            "BIG",
+            "HER"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "SEW",
+            "SAW",
+            "DOE",
+            "TEA"
+          ],
+          "feedback": "one_away",
+          "reward": -0.2,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        },
+        {
+          "words": [
+            "BIG",
+            "FAR",
+            "HER",
+            "TEA"
+          ],
+          "feedback": "incorrect",
+          "reward": -5.0,
+          "revealed_color": null,
+          "attempts": 1,
+          "fell_back": false
+        }
+      ]
+    }
+  ]
+}

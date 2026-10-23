@@ -22,6 +22,7 @@ The goal is to explore how an RL agent can learn to identify semantic relationsh
 - `connections_rl/network.py` builds cached candidate features and defines the small trainable scorer.
 - `connections_rl/train.py` runs supervised warm start, game-playing DQN updates, and validation.
 - `connections_rl/play_network.py` plays one puzzle with a saved network checkpoint.
+- `connections_rl/llm_solver.py` plays puzzles with a Claude language model as a reference agent and upper bound.
 - `tests/` checks the episode rules using the synthetic puzzle.
 
 The neural network is implemented as an initial experiment; its training results are reported separately from the fixed-rule baseline.
@@ -102,6 +103,29 @@ The extraction command refuses to overwrite an existing cache. To evaluate with 
 These results compare fixed clue rules with and without pretrained vectors. They do not measure a trained neural network. The fastText vectors are distributed under [CC BY-SA 3.0](https://fasttext.cc/docs/en/crawl-vectors.html#license); the source archive and extracted cache are kept out of Git.
 
 `scripts/ingest_nyt.py` can fetch other dated windows with `--start YYYY-MM-DD --days N`. It skips dates already in the manifest, validates each new puzzle, and preserves prior records when extending the collection. It accepts `--archive path/to/connections.json` for a color-order cross-check, but that check can reject dates where the archive and current NYT response disagree. Regenerate the split with `.venv/bin/python scripts/make_splits.py` after changing the collection. The endpoint and the archive are external sources, so reruns may differ if either source changes.
+
+## LLM reference agent
+
+`connections_rl/llm_solver.py` plays the same environment with a Claude language model instead of the trained network. It is a strong reference agent and an upper bound: it shows how much of the gap to a perfect solver is a modeling-capacity problem versus a representation problem in the clue features. It is **not** the trainable RL agent and does not learn from rewards.
+
+Each turn sends the model the same observation any agent sees — the words still in play, mistakes remaining, and the full feedback history (correct guesses reveal their category; one-away and incorrect results are reported as the environment reports them). The model never receives the private answer key or `puzzle_id`. Its reply is parsed as a four-word JSON guess, matched case-insensitively back to the exact remaining words, and checked against the environment's rules; an illegal or unparseable reply is sent back for a limited number of retries before falling back to the first legal combination so a bad turn never stalls the game.
+
+The solver talks to the model through a small `ChatModel` protocol, so the game logic is tested offline with scripted fake models and has no hard dependency on the network. It reaches the model with the Anthropic SDK and works with any API that speaks the Anthropic Messages format. Two providers are built in:
+
+- `anthropic` (default): Claude, keyed by `ANTHROPIC_API_KEY`, default model `claude-opus-5-5`.
+- `deepseek`: DeepSeek's [Anthropic-compatible endpoint](https://api-docs.deepseek.com/guides/anthropic_api) at `https://api.deepseek.com/anthropic`, keyed by `DEEPSEEK_API_KEY`, default model `deepseek-chat` (pass `--model deepseek-reasoner` for the reasoning model). DeepSeek does not accept the Anthropic-only `output_config` field, so reasoning `--effort` is omitted for this provider.
+
+Install the optional client and run the validation split (the held-out test split is never loaded). The API key is read from the environment or a local `.env` file of `KEY=VALUE` lines (`.env` is gitignored):
+
+```sh
+.venv/bin/python -m pip install -e '.[llm]'
+.venv/bin/python -m connections_rl.llm_solver \
+  --provider deepseek \
+  --limit 10 \
+  --output reports/deepseek_validation_pilot.json
+```
+
+`--provider` picks the API, `--model`/`--effort`/`--max-tokens` tune it, `--env-file` points at a key file other than `.env`, `--limit` plays only the first N validation puzzles for a cheap pilot, and `--puzzle path/to/puzzle.json` plays a single file. **Each run calls the API once per turn and costs money**; start with `--limit` on a small sample before the full 141-puzzle validation set. The report records the provider and model, every guess, the per-puzzle outcome, aggregate wins/groups/reward by the same definitions as the baseline reports, token counts, and a rough cost estimate for the priced models.
 
 ## Puzzle data
 
