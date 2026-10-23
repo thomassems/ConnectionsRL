@@ -1,0 +1,80 @@
+{
+  "puzzle_count": 141,
+  "test_count_used": 0,
+  "manifest_sha256": "2346e606b7e39378641823162003c109fb624dae07f94cf23f55f610792fd621",
+  "configurations": [
+    {
+      "provider": "deepseek",
+      "model": "deepseek-chat",
+      "effort": null,
+      "runs": 3,
+      "reports": [
+        "reports/deepseek_chat_val_1.json",
+        "reports/deepseek_chat_val_2.json",
+        "reports/deepseek_chat_val_3.json"
+      ],
+      "wins": {
+        "mean": 45.666666666666664,
+        "min": 38,
+        "max": 51,
+        "stdev": 5.557777333511022
+      },
+      "win_rate": {
+        "mean": 0.32387706855791965,
+        "min": 0.2695035460992908,
+        "max": 0.3617021276595745,
+        "stdev": 0.03941686052135478
+      },
+      "mean_groups_solved": {
+        "mean": 2.0189125295508275,
+        "min": 1.8936170212765957,
+        "max": 2.127659574468085,
+        "stdev": 0.09626133839953821
+      },
+      "mean_reward": {
+        "mean": -1.1002364066193855,
+        "min": -1.9134751773049645,
+        "max": -0.473758865248227,
+        "stdev": 0.6024149081720109
+      },
+      "color_solve_rate": {
+        "yellow": {
+          "mean": 0.7139479905437353,
+          "min": 0.6950354609929078,
+          "max": 0.723404255319149,
+          "stdev": 0.01337317789478106
+        },
+        "green": {
+          "mean": 0.5484633569739953,
+          "min": 0.5390070921985816,
+          "max": 0.5602836879432624,
+          "stdev": 0.008845525737054247
+        },
+        "blue": {
+          "mean": 0.408983451536643,
+          "min": 0.36879432624113473,
+          "max": 0.46099290780141844,
+          "stdev": 0.03855675279030755
+        },
+        "purple": {
+          "mean": 0.3475177304964539,
+          "min": 0.2907801418439716,
+          "max": 0.3829787234042553,
+          "stdev": 0.04053529125173109
+        }
+      },
+      "fallback_guesses": {
+        "mean": 15.666666666666666,
+        "min": 12,
+        "max": 21,
+        "stdev": 3.858612300930075
+      },
+      "total_estimated_cost_usd": 0.3281,
+      "win_consistency": {
+        "won_by_every_run": 21,
+        "won_by_some_run": 72,
+        "won_by_no_run": 69
+      }
+    }
+  ]
+}

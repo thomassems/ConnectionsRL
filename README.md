@@ -125,7 +125,19 @@ Install the optional client and run the validation split (the held-out test spli
   --output reports/deepseek_validation_pilot.json
 ```
 
-`--provider` picks the API, `--model`/`--effort`/`--max-tokens` tune it, `--env-file` points at a key file other than `.env`, `--limit` plays only the first N validation puzzles for a cheap pilot, and `--puzzle path/to/puzzle.json` plays a single file. **Each run calls the API once per turn and costs money**; start with `--limit` on a small sample before the full 141-puzzle validation set. The report records the provider and model, every guess, the per-puzzle outcome, aggregate wins/groups/reward by the same definitions as the baseline reports, token counts, and a rough cost estimate for the priced models.
+`--provider` picks the API, `--model`/`--effort`/`--max-tokens` tune it, `--env-file` points at a key file other than `.env`, `--limit` plays only the first N validation puzzles for a cheap pilot, and `--puzzle path/to/puzzle.json` plays a single file. **Each run calls the API once per turn and costs money**; start with `--limit` on a small sample before the full 141-puzzle validation set. The report records the provider and model, every guess, the per-puzzle outcome, aggregate wins/groups/reward by the same definitions as the baseline reports, a per-color solve rate in `solved_rate_by_color`, token counts, and a rough cost estimate for the priced models.
+
+The model is nondeterministic, so a single run is noisy; repeat it with distinct `--output` paths and compare with `scripts/summarize_llm_runs.py`, which groups repeats of one configuration into a mean and spread and ranks distinct configurations into a leaderboard with a purple-group column and a per-puzzle win-consistency count. It requires every report to cover the same puzzle set.
+
+```sh
+.venv/bin/python scripts/summarize_llm_runs.py \
+  reports/deepseek_chat_val_1.json \
+  reports/deepseek_chat_val_2.json \
+  reports/deepseek_chat_val_3.json \
+  --output reports/deepseek_chat_variance.json
+```
+
+Three `deepseek-chat` runs over the 141 validation puzzles won 51, 38, and 48 — a mean of 45.7 (32.4%), standard deviation 5.6 — solved a mean of 2.02 groups, and cost about $0.11 each. Per-color solve rates averaged yellow 71%, green 55%, blue 41%, purple 35%. The purple rate is the notable result: it is near zero for the fixed-rule baselines and the trained network, so a general language model recovers most of the purple-group signal the clue features miss. Across the three runs only 21 puzzles were won every time while 72 were won by at least one, which sets the repeat count needed for a fair comparison. These are validation observations, not a held-out test score, and the counts will drift because the model is not deterministic. The reasoning model (`--model deepseek-reasoner`) and `claude-opus-5-5` can be compared the same way with more time and cost.
 
 ## Puzzle data
 
