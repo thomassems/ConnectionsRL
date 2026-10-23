@@ -304,6 +304,9 @@ def play_puzzle(
     }
 
 
+COLORS = ("yellow", "green", "blue", "purple")
+
+
 def summarize(results: list[dict]) -> dict:
     from collections import Counter
 
@@ -313,6 +316,18 @@ def summarize(results: list[dict]) -> dict:
         if guess["revealed_color"] is not None
     )
     count = len(results)
+    # Each puzzle has exactly one group of each color, so the number of
+    # correctly identified groups of a color, out of `count`, is that color's
+    # recognition rate -- the metric where the feature models were weakest
+    # (purple).
+    solved_by_color = {
+        color: {
+            "solved": color_counts.get(color, 0),
+            "of": count,
+            "rate": color_counts.get(color, 0) / count if count else 0.0,
+        }
+        for color in COLORS
+    }
     return {
         "count": count,
         "wins": wins,
@@ -320,6 +335,7 @@ def summarize(results: list[dict]) -> dict:
         "mean_groups_solved": sum(r["groups_solved"] for r in results) / count if count else 0.0,
         "mean_reward": sum(r["total_reward"] for r in results) / count if count else 0.0,
         "solved_groups_by_color": dict(sorted(color_counts.items())),
+        "solved_rate_by_color": solved_by_color,
         "fallback_guesses": sum(
             guess["fell_back"] for result in results for guess in result["guesses"]
         ),

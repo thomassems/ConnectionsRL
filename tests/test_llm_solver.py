@@ -150,6 +150,11 @@ class PlayAndSummaryTests(unittest.TestCase):
         self.assertEqual(report["mean_groups_solved"], 4.0)
         self.assertEqual(report["fallback_guesses"], 0)
         self.assertEqual(sum(report["solved_groups_by_color"].values()), 4)
+        # Every color solved once in one perfectly solved puzzle -> rate 1.0.
+        rates = report["solved_rate_by_color"]
+        self.assertEqual(set(rates), {"yellow", "green", "blue", "purple"})
+        for color in rates:
+            self.assertEqual(rates[color], {"solved": 1, "of": 1, "rate": 1.0})
 
     def test_build_prompt_lists_state_without_answers(self) -> None:
         prompt = build_prompt(self.observation())
