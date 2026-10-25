@@ -8,12 +8,13 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from connections_rl.environment import ConnectionsEnv
+from connections_rl.environment import ConnectionsEnv, GuessRecord, Observation
 from connections_rl.llm_solver import (
     PROVIDERS,
     AnthropicChat,
     Completion,
     LLMSolver,
+    active_one_away,
     build_prompt,
     estimate_cost,
     load_env_file,
@@ -165,6 +166,54 @@ class PlayAndSummaryTests(unittest.TestCase):
 
     def observation(self):
         return ConnectionsEnv(load_puzzle(EXAMPLE)).reset(seed=7)
+
+
+def _obs(remaining, history=()):
+    return Observation(
+        remaining_words=tuple(remaining),
+        solved_groups=(),
+        mistakes_left=4 - sum(r.feedback != "correct" for r in history),
+        guess_history=tuple(history),
+        status="in_progress",
+    )
+
+
+class OneAwayHintTests(unittest.TestCase):
+    def test_active_one_away_returns_recent_still_available_guess(self) -> None:
+        remaining = ["A", "B", "C", "D", "E", "F", "G", "H"]
+        history = (
+            GuessRecord(("A", "B", "C", "X"), "incorrect"),      # X no longer in play
+            GuessRecord(("A", "B", "C", "D"), "one_away"),       # all four still in play
+        )
+        self.assertEqual(active_one_away(_obs(remaining, history)), ("A", "B", "C", "D"))
+
+    def test_stale_one_away_ignored_once_a_member_is_solved(self) -> None:
+        # D got solved into another group, so the A,B,C,D one-away is stale.
+        remaining = ["A", "B", "C", "E", "F", "G", "H"]
+        history = (GuessRecord(("A", "B", "C", "D"), "one_away"),)
+        self.assertIsNone(active_one_away(_obs(remaining, history)))
+
+    def test_no_one_away_returns_none(self) -> None:
+        remaining = ["A", "B", "C", "D"]
+        history = (GuessRecord(("A", "B", "C", "D"), "incorrect"),)
+        self.assertIsNone(active_one_away(_obs(remaining, history)))
+
+    def test_prompt_includes_hint_when_active_and_enabled(self) -> None:
+        obs = _obs(["A", "B", "C", "D", "E"],
+                   (GuessRecord(("A", "B", "C", "D"), "one_away"),))
+        with_hint = build_prompt(obs, one_away_hint=True)
+        without = build_prompt(obs, one_away_hint=False)
+        self.assertIn("ONE AWAY", with_hint)
+        self.assertIn("which single word is the odd one", with_hint)
+        self.assertIn("lock in a different group", with_hint)
+        self.assertNotIn("which single word is the odd one", without)
+
+    def test_solver_passes_its_flag_into_the_prompt(self) -> None:
+        obs = _obs(["A", "B", "C", "D", "E"],
+                   (GuessRecord(("A", "B", "C", "D"), "one_away"),))
+        model = ScriptedModel(['{"words": ["A", "B", "C", "E"]}'])
+        LLMSolver(model, one_away_hint=True).choose(obs)
+        self.assertIn("which single word is the odd one", model.prompts[0][0]["content"])
 
 
 class CostTests(unittest.TestCase):
