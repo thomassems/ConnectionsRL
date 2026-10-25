@@ -168,10 +168,42 @@ def _format_history(history: tuple[GuessRecord, ...]) -> str:
     return "\n".join(lines)
 
 
-def build_prompt(observation: Observation) -> str:
+def active_one_away(observation: Observation) -> tuple[str, str, str, str] | None:
+    """Return the most recent ONE-AWAY guess still worth completing.
+
+    A one-away guess tells you exactly three of its four words share a group.
+    That stays actionable only while all four of those words are still in play;
+    if one has since been solved into another group, the hint is stale.
+    """
+    remaining = set(observation.remaining_words)
+    for record in reversed(observation.guess_history):
+        if record.feedback == "one_away" and set(record.words).issubset(remaining):
+            return record.words
+    return None
+
+
+def _one_away_instruction(words: tuple[str, str, str, str]) -> str:
+    listed = ", ".join(words)
+    return (
+        f"\n\nIMPORTANT: Your guess [{listed}] was ONE AWAY, so exactly three of "
+        "those four words share a group and one does not belong. Decide which case "
+        "you are in:\n"
+        "- If you can identify which single word is the odd one, re-try this group "
+        "with that one word swapped for another word still in play.\n"
+        "- If you CANNOT tell which word doesn't belong, do not keep guessing this "
+        "group. Instead, lock in a different group you are highly confident about "
+        "first; solving it removes words and often reveals the odd one here.\n"
+        "Do not repeat a group you already guessed."
+    )
+
+
+def build_prompt(observation: Observation, one_away_hint: bool = True) -> str:
     """Render one turn's game state as a user message."""
     remaining = ", ".join(observation.remaining_words)
     solved = len(observation.solved_groups)
+    hint = ""
+    if one_away_hint and (words := active_one_away(observation)) is not None:
+        hint = _one_away_instruction(words)
     return (
         f"Words still in play ({len(observation.remaining_words)}): {remaining}\n"
         f"Groups solved: {solved} of 4\n"
@@ -180,6 +212,7 @@ def build_prompt(observation: Observation) -> str:
         "Choose the four words you are most confident form a group. Reply with "
         "only a JSON object of the form {\"words\": [\"W1\", \"W2\", \"W3\", \"W4\"]}, "
         "copying four distinct words exactly from the words still in play."
+        f"{hint}"
     )
 
 
@@ -238,12 +271,14 @@ class LLMSolver:
 
     model: ChatModel
     max_invalid_retries: int = 2
+    one_away_hint: bool = True
     input_tokens: int = field(default=0, init=False)
     output_tokens: int = field(default=0, init=False)
 
     def choose(self, observation: Observation) -> tuple[FourWords, dict]:
         legality = _legality(observation)
-        messages = [{"role": "user", "content": build_prompt(observation)}]
+        messages = [{"role": "user",
+                     "content": build_prompt(observation, self.one_away_hint)}]
         last_text = ""
         for attempt in range(self.max_invalid_retries + 1):
             completion = self.model.complete(SYSTEM_PROMPT, messages)
@@ -387,6 +422,8 @@ def main(argv: list[str] | None = None) -> int:
                         help="reasoning effort; ignored by providers that lack it")
     parser.add_argument("--max-tokens", type=int, default=2048)
     parser.add_argument("--max-invalid-retries", type=int, default=2)
+    parser.add_argument("--no-one-away-hint", dest="one_away_hint", action="store_false",
+                        help="disable the keep-3-swap-1 nudge after a one-away result")
     parser.add_argument("--env-file", type=Path, default=Path(".env"),
                         help="file of KEY=VALUE lines to load before reading the API key")
     parser.add_argument("--seed", type=int, default=7)
@@ -423,7 +460,8 @@ def main(argv: list[str] | None = None) -> int:
         model=model, max_tokens=args.max_tokens, effort=effort,
         base_url=provider["base_url"], api_key=api_key,
     )
-    solver = LLMSolver(chat, max_invalid_retries=args.max_invalid_retries)
+    solver = LLMSolver(chat, max_invalid_retries=args.max_invalid_retries,
+                       one_away_hint=args.one_away_hint)
     results = []
     for position, path in enumerate(paths, 1):
         results.append(play_puzzle(path, solver, args.seed))
@@ -436,6 +474,7 @@ def main(argv: list[str] | None = None) -> int:
         "provider": args.provider,
         "model": model,
         "effort": effort,
+        "one_away_hint": args.one_away_hint,
         "seed": args.seed,
         "split": "validation" if args.puzzle is None else "single",
         "test_count_used": 0,
