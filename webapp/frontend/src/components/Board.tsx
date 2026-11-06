@@ -14,8 +14,9 @@ const COLOR_LABEL: Record<string, string> = {
 };
 
 export function Board({ state, activeGuess }: Props) {
-  const selected = new Set(activeGuess?.words ?? []);
-  // Shake the highlighted tiles only on a wrong guess.
+  // Order of the four selected words, so tiles pop in one after another.
+  const order = new Map<string, number>();
+  activeGuess?.words.forEach((word, i) => order.set(word, i));
   const wrong = activeGuess != null && activeGuess.feedback !== "correct";
   const correct = activeGuess != null && activeGuess.feedback === "correct";
 
@@ -23,7 +24,9 @@ export function Board({ state, activeGuess }: Props) {
     <div className="board">
       {state.solved.map((group) => (
         <div key={group.color} className={`solved-row ${group.color}`}>
-          <div className="solved-title">{COLOR_LABEL[group.color]}: {group.title}</div>
+          <div className="solved-title">
+            {COLOR_LABEL[group.color]}: {group.title}
+          </div>
           <div className="solved-words">{group.words.join(" · ")}</div>
         </div>
       ))}
@@ -31,23 +34,38 @@ export function Board({ state, activeGuess }: Props) {
       {state.remaining.length > 0 && (
         <div className="tile-grid">
           {state.remaining.map((word) => {
-            const isSelected = selected.has(word);
+            const picked = order.has(word);
             const cls = [
               "tile",
-              isSelected && correct ? "tile-correct" : "",
-              isSelected && wrong ? "tile-wrong" : "",
-              isSelected ? "tile-selected" : "",
+              picked ? "tile-selected" : "",
+              picked && correct ? "tile-correct" : "",
+              picked && wrong ? "tile-wrong" : "",
             ]
               .filter(Boolean)
               .join(" ");
+            const style = picked
+              ? { animationDelay: `${(order.get(word) ?? 0) * 70}ms` }
+              : undefined;
             return (
-              <div key={word} className={cls}>
+              <div key={word} className={cls} style={style}>
                 <span>{word}</span>
               </div>
             );
           })}
         </div>
       )}
+
+      <div className="mistakes">
+        <span className="mistakes-label">Mistakes remaining</span>
+        <span className="dots">
+          {[0, 1, 2, 3].map((i) => (
+            <span
+              key={i}
+              className={`mdot ${i < 4 - state.mistakesUsed ? "on" : "off"}`}
+            />
+          ))}
+        </span>
+      </div>
     </div>
   );
 }
