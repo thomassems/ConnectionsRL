@@ -11,8 +11,8 @@ interface Props {
 }
 
 const PROVIDERS = [
-  { id: "anthropic", label: "Anthropic (Claude)", defaultModel: "claude-opus-5-5" },
   { id: "deepseek", label: "DeepSeek", defaultModel: "deepseek-chat" },
+  { id: "anthropic", label: "Anthropic (Claude)", defaultModel: "claude-opus-5-5" },
 ];
 
 export function SolvePanel({
@@ -23,7 +23,7 @@ export function SolvePanel({
   onSelectStored,
   onRun,
 }: Props) {
-  const [provider, setProvider] = useState("anthropic");
+  const [provider, setProvider] = useState("deepseek");
   const [model, setModel] = useState("");
   const [hint, setHint] = useState(true);
   const current = PROVIDERS.find((p) => p.id === provider)!;
