@@ -129,9 +129,15 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
   transition: transform 0.12s, background 0.12s, color 0.12s;
 }
 
-.tile-selected { background: #4a5878; color: #fff; transform: translateY(-2px); }
-.tile-correct { background: var(--correct); color: #06240f; }
-.tile-wrong { animation: shake 0.4s; }
+.tile-selected { background: #3b4a6b; color: #fff; animation: pop 0.3s ease both; }
+.tile-selected.tile-correct { background: var(--correct); color: #06240f; }
+.tile-selected.tile-wrong { animation: shake 0.45s ease; }
+
+@keyframes pop {
+  0% { transform: scale(1); }
+  45% { transform: scale(1.1); }
+  100% { transform: scale(1.04); }
+}
 
 @keyframes shake {
   0%, 100% { transform: translateX(0); }
@@ -145,6 +151,12 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
   border-radius: var(--radius);
   padding: 10px 14px;
   color: #11131a;
+  /* Match a tile row's height so the board doesn't shrink when a group
+     moves out of the grid into a solved bar. */
+  min-height: 72px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   animation: drop-in 0.3s ease;
 }
 .solved-row.yellow { background: var(--yellow); }
@@ -159,22 +171,90 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
   to { opacity: 1; transform: translateY(0); }
 }
 
+/* ---------------- Board wrapper, toast, thinking, mistakes ---------------- */
+.board-wrap { position: relative; }
+
+.toast-layer {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  pointer-events: none;
+  z-index: 5;
+}
+.toast {
+  margin-top: 30%;
+  background: #f7f7f2;
+  color: #121212;
+  font-weight: 700;
+  font-size: 15px;
+  padding: 12px 18px;
+  border-radius: 8px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.45);
+  animation: toast-pop 0.22s ease both;
+}
+.toast.one_away { background: #f7f7f2; color: #121212; }
+@keyframes toast-pop {
+  from { opacity: 0; transform: translateY(-8px) scale(0.96); }
+  to { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.mistakes {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 14px;
+  color: var(--muted);
+  font-size: 13px;
+}
+.dots { display: inline-flex; gap: 8px; }
+.mdot { width: 12px; height: 12px; border-radius: 50%; background: var(--muted); transition: opacity 0.2s, transform 0.2s; }
+.mdot.off { opacity: 0.2; transform: scale(0.8); }
+
+/* Reserve a fixed slot so stepping doesn't shift the controls as the
+   reasoning panel appears and disappears. */
+.thinking-slot {
+  min-height: 92px;
+  margin-top: 14px;
+}
+
+.thinking {
+  background: var(--panel-2);
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 8px;
+  padding: 10px 14px;
+  animation: drop-in 0.25s ease;
+}
+.thinking-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--muted);
+  margin-bottom: 6px;
+}
+.thinking-dot {
+  width: 8px; height: 8px; border-radius: 50%;
+  background: var(--accent);
+  animation: pulse 1.1s ease-in-out infinite;
+}
+@keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.3; } }
+.thinking-body { margin: 0; font-size: 14px; line-height: 1.45; }
+
 /* ---------------- Controls ---------------- */
 .controls { margin-top: 16px; }
 
-.feedback-banner {
+.status-line {
   text-align: center;
-  font-weight: 700;
-  padding: 8px;
-  border-radius: 8px;
-  margin-bottom: 10px;
-  background: var(--panel-2);
+  font-size: 13px;
   color: var(--muted);
-  min-height: 20px;
+  margin-bottom: 10px;
 }
-.feedback-banner.correct { background: rgba(63,181,104,0.18); color: var(--correct); }
-.feedback-banner.one_away { background: rgba(224,169,63,0.18); color: var(--oneaway); }
-.feedback-banner.incorrect { background: rgba(224,90,90,0.18); color: var(--wrong); }
 
 .scrubber { width: 100%; accent-color: var(--accent); }
 
@@ -186,18 +266,6 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
 }
 .control-row button { min-width: 44px; }
 .control-row .primary { min-width: 90px; }
-
-.speed-row {
-  display: flex;
-  gap: 6px;
-  align-items: center;
-  justify-content: center;
-  margin-top: 12px;
-  color: var(--muted);
-  font-size: 13px;
-}
-.chip { padding: 4px 10px; font-size: 13px; }
-.chip.active { background: var(--accent); color: #0b1220; border-color: var(--accent); }
 
 /* ---------------- Sidebar ---------------- */
 .sidebar { display: flex; flex-direction: column; gap: 16px; }

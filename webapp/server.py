@@ -202,7 +202,7 @@ def run_live(puzzle_id: str, options: dict) -> dict:
     ``one_away_hint``, ``seed``. The chosen provider's API key must be present
     in the environment or ``.env``.
     """
-    provider_name = options.get("provider", "anthropic")
+    provider_name = options.get("provider") or "deepseek"
     if provider_name not in PROVIDERS:
         raise ValueError(f"unknown provider {provider_name!r}")
     provider = PROVIDERS[provider_name]

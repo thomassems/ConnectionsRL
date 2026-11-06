@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import {
   fetchPuzzle,
   fetchPuzzles,
@@ -19,6 +19,8 @@ import { Board } from "./components/Board";
 import { Controls } from "./components/Controls";
 import { GuessLog } from "./components/GuessLog";
 import { SolvePanel } from "./components/SolvePanel";
+import { Toast } from "./components/Toast";
+import { Thinking } from "./components/Thinking";
 
 interface ActiveSolve {
   meta: SolveMeta;
@@ -30,19 +32,44 @@ export default function App() {
   const [puzzle, setPuzzle] = useState<Puzzle | null>(null);
   const [stored, setStored] = useState<StoredSolve[]>([]);
   const [active, setActive] = useState<ActiveSolve | null>(null);
-  const [speed, setSpeed] = useState(1);
+  const speed = 0.5; // fixed slow playback; most use the step button
   const [running, setRunning] = useState(false);
   const [runError, setRunError] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [toast, setToast] = useState<{ message: string; kind: string } | null>(null);
+  const toastTimer = useRef<number | null>(null);
 
   const guesses = active?.result.guesses ?? [];
   const playback = usePlayback(guesses, speed);
-  const { cursor, activeGuess, seek } = playback;
+  const { cursor, activeGuess, resolved, seek } = playback;
 
   const boardState = useMemo(
     () => (puzzle ? stateAfter(puzzle, guesses, cursor) : null),
     [puzzle, guesses, cursor],
   );
+
+  // Reasoning stays visible after a guess resolves: show the guess being
+  // previewed, otherwise the most recently resolved one, until the next step.
+  const shownGuess = activeGuess ?? (cursor > 0 ? guesses[cursor - 1] : null);
+
+  // Pop a toast when a guess resolves, NYT-style.
+  useEffect(() => {
+    if (!resolved) return;
+    const guess = guesses[resolved.index];
+    if (!guess) return;
+    const message = guess.feedback === "one_away" ? "One away…" : null;
+    if (!message) return; // only the one-away popup; others just resolve
+    setToast({ message, kind: guess.feedback });
+    if (toastTimer.current) window.clearTimeout(toastTimer.current);
+    toastTimer.current = window.setTimeout(() => setToast(null), 1500);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [resolved]);
+
+  // Clear any toast when the solve being watched changes.
+  useEffect(() => {
+    setToast(null);
+    if (toastTimer.current) window.clearTimeout(toastTimer.current);
+  }, [guesses]);
 
   // Load the catalogue once, then show a random puzzle to start.
   useEffect(() => {
@@ -141,22 +168,26 @@ export default function App() {
               {meta && <span className="pill accent">{meta.label}</span>}
             </div>
 
-            <Board state={boardState} activeGuess={activeGuess} />
+            <div className="board-wrap">
+              <Board state={boardState} activeGuess={activeGuess} />
+              <Toast message={toast?.message ?? null} kind={toast?.kind ?? ""} />
+            </div>
+
+            <div className="thinking-slot">
+              <Thinking guess={shownGuess} />
+            </div>
 
             {guesses.length > 0 ? (
               <Controls
                 cursor={cursor}
                 total={playback.total}
                 playing={playback.playing}
-                activeGuess={activeGuess}
-                speed={speed}
                 onPlay={playback.play}
                 onPause={playback.pause}
                 onStepBack={playback.stepBack}
                 onStepForward={playback.stepForward}
                 onRestart={playback.restart}
                 onSeek={seek}
-                onSpeed={setSpeed}
               />
             ) : (
               <p className="muted center">

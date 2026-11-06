@@ -30,6 +30,7 @@ export interface Guess {
   revealed_color: Color | null;
   attempts: number;
   fell_back: boolean;
+  rationale?: string | null;
 }
 
 export interface SolveResult {
