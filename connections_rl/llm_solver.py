@@ -210,7 +210,8 @@ def build_prompt(observation: Observation, one_away_hint: bool = True) -> str:
         f"Mistakes remaining: {observation.mistakes_left} of 4\n\n"
         f"Guess history:\n{_format_history(observation.guess_history)}\n\n"
         "Choose the four words you are most confident form a group. Reply with "
-        "only a JSON object of the form {\"words\": [\"W1\", \"W2\", \"W3\", \"W4\"]}, "
+        "only a JSON object of the form {\"reason\": \"<one short sentence naming "
+        "what connects these four>\", \"words\": [\"W1\", \"W2\", \"W3\", \"W4\"]}, "
         "copying four distinct words exactly from the words still in play."
         f"{hint}"
     )
@@ -232,6 +233,48 @@ def parse_guess(text: str) -> list[str] | None:
     quoted = re.findall(r'"([^"]+)"', text)
     if len(quoted) >= 4:
         return [word.strip() for word in quoted[:4]]
+    return None
+
+
+def extract_rationale(text: str, max_len: int = 400) -> str | None:
+    """Pull the model's prose reasoning out of a reply, dropping the JSON guess.
+
+    The prompt asks the model to think it through and then emit a JSON object,
+    so the reply is usually a short explanation followed by ``{"words": [...]}``.
+    This returns that explanation (whitespace collapsed, truncated) so the UI can
+    show what the agent thought those four words had in common, or ``None`` when
+    the reply was only the JSON.
+    """
+    if not text:
+        return None
+    cleaned = re.sub(r"\{.*\}", "", text, flags=re.DOTALL)
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    if not cleaned:
+        return None
+    if len(cleaned) > max_len:
+        cleaned = cleaned[: max_len].rstrip() + "…"
+    return cleaned
+
+
+def parse_reason(text: str, max_len: int = 400) -> str | None:
+    """Return the ``reason`` field from a model reply's JSON, if present.
+
+    The prompt asks the model to put a one-sentence justification in the JSON
+    alongside its guess (``{"reason": ..., "words": [...]}``). Reading it from
+    the structured reply is more reliable than stripping prose, since models are
+    told to reply with only the JSON object.
+    """
+    match = re.search(r"\{.*\}", text, re.DOTALL)
+    if not match:
+        return None
+    try:
+        data = json.loads(match.group(0))
+    except json.JSONDecodeError:
+        return None
+    if isinstance(data, dict) and isinstance(data.get("reason"), str):
+        reason = data["reason"].strip()
+        if reason:
+            return reason[:max_len].rstrip() + "…" if len(reason) > max_len else reason
     return None
 
 
@@ -288,21 +331,27 @@ class LLMSolver:
             words = parse_guess(completion.text)
             resolved = legality.resolve(words) if words else None
             if resolved is not None:
-                return resolved, {"attempts": attempt + 1, "fell_back": False}
+                return resolved, {
+                    "attempts": attempt + 1,
+                    "fell_back": False,
+                    "rationale": parse_reason(completion.text)
+                    or extract_rationale(completion.text),
+                }
             messages.append({"role": "assistant", "content": completion.text or "(no reply)"})
             messages.append({
                 "role": "user",
                 "content": (
                     "That was not a legal guess. Reply with ONLY the JSON object "
-                    "{\"words\": [...]} containing four distinct words copied "
-                    "exactly from the words still in play, none from a group you "
-                    "already solved and not a combination you already guessed."
+                    "{\"reason\": \"...\", \"words\": [...]} containing four distinct "
+                    "words copied exactly from the words still in play, none from a "
+                    "group you already solved and not a combination you already guessed."
                 ),
             })
         return _fallback_guess(observation), {
             "attempts": self.max_invalid_retries + 1,
             "fell_back": True,
             "last_reply": last_text,
+            "rationale": parse_reason(last_text) or extract_rationale(last_text),
         }
 
 
@@ -327,6 +376,7 @@ def play_puzzle(
             "revealed_color": feedback.revealed_group.color if feedback.revealed_group else None,
             "attempts": meta["attempts"],
             "fell_back": meta["fell_back"],
+            "rationale": meta.get("rationale"),
         })
     return {
         "puzzle_id": puzzle.puzzle_id,
@@ -414,7 +464,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--puzzles", type=Path, default=Path("data/puzzles/nyt"))
     parser.add_argument("--split", type=Path, default=Path("data/splits/nyt-v1.json"))
     parser.add_argument("--output", type=Path, default=Path("reports/llm_validation.json"))
-    parser.add_argument("--provider", default="anthropic", choices=sorted(PROVIDERS),
+    parser.add_argument("--provider", default="deepseek", choices=sorted(PROVIDERS),
                         help="which Anthropic-format API to call")
     parser.add_argument("--model", help="model id (defaults to the provider's)")
     parser.add_argument("--effort", default="medium",
