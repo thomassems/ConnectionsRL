@@ -30,6 +30,7 @@ import random
 import threading
 import traceback
 from dataclasses import dataclass
+from datetime import datetime
 from functools import lru_cache
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
@@ -49,12 +50,68 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PUZZLE_DIR = REPO_ROOT / "data" / "puzzles" / "nyt"
 MANIFEST = PUZZLE_DIR / "manifest.json"
 REPORTS_DIR = REPO_ROOT / "reports"
+# Live runs triggered from the UI are saved here so they persist and show up
+# in a puzzle's stored-solve list, kept apart from the curated benchmark reports.
+LIVE_DIR = REPORTS_DIR / "live"
 DEFAULT_SEED = 7
 
-# One live run at a time. Running the solver takes many seconds and costs
-# money, so a global lock keeps a trigger-happy UI from launching several at
-# once against the same (or different) puzzles.
+# One live run at a time. Running the solver takes many seconds (minutes for
+# the reasoner) and costs money, so a global lock keeps a trigger-happy UI from
+# launching several at once against the same (or different) puzzles.
 _run_lock = threading.Lock()
+
+# Live runs execute in a background thread so the HTTP request returns at once;
+# the UI polls the job for the result. This avoids a minutes-long request being
+# dropped by the dev proxy before the (slow) reasoner finishes. Each job is a
+# dict: status "running"|"done"|"error", plus result/meta or error when done.
+_jobs: dict[str, dict] = {}
+_jobs_lock = threading.Lock()
+_MAX_JOBS = 50
+
+
+def _start_run(puzzle_id: str, options: dict) -> str | None:
+    """Kick off a live run in a background thread; return its job id.
+
+    Returns ``None`` if a run is already in progress (single-flight).
+    """
+    if not _run_lock.acquire(blocking=False):
+        return None
+    import uuid  # noqa: PLC0415 - stdlib, imported lazily
+
+    job_id = uuid.uuid4().hex
+    with _jobs_lock:
+        # Keep the registry from growing without bound in long sessions.
+        if len(_jobs) >= _MAX_JOBS:
+            for stale in [k for k, v in _jobs.items() if v["status"] != "running"][:10]:
+                _jobs.pop(stale, None)
+        _jobs[job_id] = {"status": "running", "puzzle_id": puzzle_id,
+                         "progress": {"guesses": 0, "solved": 0}}
+
+    def on_progress(guesses: int, solved: int) -> None:
+        with _jobs_lock:
+            job = _jobs.get(job_id)
+            if job is not None:
+                job["progress"] = {"guesses": guesses, "solved": solved}
+
+    def worker() -> None:
+        update: dict = {}
+        try:
+            out = run_live(puzzle_id, options, on_progress=on_progress)
+            update = {"status": "done", "result": out["result"], "meta": out["meta"]}
+        except PermissionError as exc:
+            update = {"status": "error", "error": str(exc), "needs_api_key": True}
+        except FileNotFoundError:
+            update = {"status": "error", "error": "puzzle not found"}
+        except Exception as exc:  # pragma: no cover - defensive
+            traceback.print_exc()
+            update = {"status": "error", "error": str(exc)}
+        finally:
+            with _jobs_lock:
+                _jobs[job_id].update(update)
+            _run_lock.release()
+
+    threading.Thread(target=worker, daemon=True).start()
+    return job_id
 
 
 # --------------------------------------------------------------------------- #
@@ -131,9 +188,15 @@ class StoredSolve:
     one_away_hint: bool | None
     seed: int | None
     result: dict
+    temperature: float | None = None
+    live: bool = False
 
     def meta(self, index: int) -> dict:
         label = self.model or self.source
+        if self.live:
+            label += " · live"
+        if self.temperature is not None:
+            label += f" · temp {self.temperature:g}"
         if self.one_away_hint is not None:
             label += " · hint on" if self.one_away_hint else " · hint off"
         return {
@@ -143,8 +206,10 @@ class StoredSolve:
             "provider": self.provider,
             "model": self.model,
             "effort": self.effort,
+            "temperature": self.temperature,
             "one_away_hint": self.one_away_hint,
             "seed": self.seed,
+            "live": self.live,
             "status": self.result.get("status"),
             "groups_solved": self.result.get("groups_solved"),
             "mistakes": self.result.get("mistakes"),
@@ -152,13 +217,19 @@ class StoredSolve:
         }
 
 
+def _report_paths() -> list[Path]:
+    """Curated reports first, then saved live runs."""
+    paths = sorted(REPORTS_DIR.glob("*.json")) if REPORTS_DIR.exists() else []
+    if LIVE_DIR.exists():
+        paths += sorted(LIVE_DIR.glob("*.json"))
+    return paths
+
+
 @lru_cache(maxsize=1)
 def _stored_index() -> dict[str, list[StoredSolve]]:
     """Map each puzzle_id to the solves found across all LLM reports."""
     index: dict[str, list[StoredSolve]] = {}
-    if not REPORTS_DIR.exists():
-        return index
-    for path in sorted(REPORTS_DIR.glob("*.json")):
+    for path in _report_paths():
         try:
             report = json.loads(path.read_text(encoding="utf-8"))
         except (json.JSONDecodeError, OSError):
@@ -178,6 +249,8 @@ def _stored_index() -> dict[str, list[StoredSolve]]:
                 effort=report.get("effort"),
                 one_away_hint=report.get("one_away_hint"),
                 seed=report.get("seed"),
+                temperature=report.get("temperature"),
+                live=report.get("source_kind") == "live",
                 result=result,
             )
             index.setdefault(result["puzzle_id"], []).append(solve)
@@ -195,12 +268,29 @@ def stored_solves(puzzle_id: str) -> list[dict]:
 # --------------------------------------------------------------------------- #
 # Live agent runs
 # --------------------------------------------------------------------------- #
-def run_live(puzzle_id: str, options: dict) -> dict:
-    """Play one puzzle with the LLM solver and return the per-puzzle result.
+def _save_live_run(puzzle_id: str, report: dict) -> str:
+    """Write one live run as its own report and return its file stem.
+
+    The file is shaped like the curated reports so ``_stored_index`` picks it
+    up; ``source_kind`` marks it as a live run. Microsecond timestamps keep
+    rapid successive runs from colliding.
+    """
+    LIVE_DIR.mkdir(parents=True, exist_ok=True)
+    stem = f"{puzzle_id}-live-{datetime.now():%Y%m%d-%H%M%S-%f}"
+    (LIVE_DIR / f"{stem}.json").write_text(
+        json.dumps(report, indent=2) + "\n", encoding="utf-8"
+    )
+    return stem
+
+
+def run_live(puzzle_id: str, options: dict, on_progress=None) -> dict:
+    """Play one puzzle with the LLM solver, save it, and return the solve.
 
     ``options`` mirrors the CLI flags: ``provider``, ``model``, ``effort``,
-    ``one_away_hint``, ``seed``. The chosen provider's API key must be present
-    in the environment or ``.env``.
+    ``temperature``, ``one_away_hint``, ``seed``. The chosen provider's API key
+    must be present in the environment or ``.env``. The finished run is saved so
+    it joins the puzzle's stored solves; the return value matches a
+    ``stored_solves`` entry (so the UI can select it from the refreshed list).
     """
     provider_name = options.get("provider") or "deepseek"
     if provider_name not in PROVIDERS:
@@ -210,6 +300,9 @@ def run_live(puzzle_id: str, options: dict) -> dict:
     effort = options.get("effort", "medium") if provider["supports_effort"] else None
     seed = int(options.get("seed", DEFAULT_SEED))
     one_away_hint = bool(options.get("one_away_hint", True))
+    temperature = options.get("temperature")
+    if temperature is not None:
+        temperature = max(0.0, min(1.0, float(temperature)))
 
     load_env_file(REPO_ROOT / ".env")
     api_key = os.environ.get(provider["api_key_env"])
@@ -227,33 +320,45 @@ def run_live(puzzle_id: str, options: dict) -> dict:
         model=model,
         max_tokens=int(options.get("max_tokens", 2048)),
         effort=effort,
+        temperature=temperature,
         base_url=provider["base_url"],
         api_key=api_key,
     )
     solver = LLMSolver(chat, one_away_hint=one_away_hint)
-    result = play_puzzle(path, solver, seed)
-    return {
-        "result": result,
-        "meta": {
-            "id": f"live#{provider_name}:{model}",
-            "label": f"{model} · live",
-            "source": "live",
-            "provider": provider_name,
-            "model": model,
-            "effort": effort,
-            "one_away_hint": one_away_hint,
-            "seed": seed,
-            "status": result["status"],
-            "groups_solved": result["groups_solved"],
-            "mistakes": result["mistakes"],
-            "turns": result["turns"],
-            "input_tokens": solver.input_tokens,
-            "output_tokens": solver.output_tokens,
-            "estimated_cost_usd": estimate_cost(
-                model, solver.input_tokens, solver.output_tokens
-            ),
-        },
+    result = play_puzzle(path, solver, seed, on_guess=on_progress)
+
+    report = {
+        "agent": "llm",
+        "provider": provider_name,
+        "model": model,
+        "effort": effort,
+        "temperature": temperature,
+        "one_away_hint": one_away_hint,
+        "seed": seed,
+        "source_kind": "live",
+        "created_at": datetime.now().isoformat(timespec="seconds"),
+        "input_tokens": solver.input_tokens,
+        "output_tokens": solver.output_tokens,
+        "estimated_cost_usd": estimate_cost(
+            model, solver.input_tokens, solver.output_tokens
+        ),
+        "results": [result],
     }
+    stem = _save_live_run(puzzle_id, report)
+    _stored_index.cache_clear()  # so the new run appears in stored solves
+
+    # Return it in the same shape as a stored solve, with cost/token extras.
+    for entry in stored_solves(puzzle_id):
+        if entry["source"] == stem:
+            saved_result = entry.pop("result")
+            entry.update({
+                "input_tokens": report["input_tokens"],
+                "output_tokens": report["output_tokens"],
+                "estimated_cost_usd": report["estimated_cost_usd"],
+            })
+            return {"result": saved_result, "meta": entry}
+    # Fallback: should not happen, but never fail the request over it.
+    return {"result": result, "meta": {"id": f"{stem}#0", "label": f"{model} · live"}}
 
 
 # --------------------------------------------------------------------------- #
@@ -296,6 +401,14 @@ class Handler(BaseHTTPRequestHandler):
                 self._send(200, {"ok": True})
             elif path == "/api/puzzles":
                 self._send(200, {"puzzles": catalogue()})
+            elif path.startswith("/api/runs/"):
+                job_id = path[len("/api/runs/"):]
+                with _jobs_lock:
+                    job = _jobs.get(job_id)
+                if job is None:
+                    self._send(404, {"error": "unknown run"})
+                else:
+                    self._send(200, {k: v for k, v in job.items() if k != "puzzle_id"})
             elif path.startswith("/api/puzzles/") and path.endswith("/solves"):
                 puzzle_id = path[len("/api/puzzles/"):-len("/solves")]
                 self._send(200, {"solves": stored_solves(puzzle_id)})
@@ -316,21 +429,16 @@ class Handler(BaseHTTPRequestHandler):
             self._send(404, {"error": "not found"})
             return
         puzzle_id = path[len("/api/puzzles/"):-len("/run")]
-        options = self._read_json()
-        if not _run_lock.acquire(blocking=False):
-            self._send(429, {"error": "an agent run is already in progress"})
-            return
-        try:
-            self._send(200, run_live(puzzle_id, options))
-        except PermissionError as exc:
-            self._send(400, {"error": str(exc), "needs_api_key": True})
-        except FileNotFoundError:
+        if not (PUZZLE_DIR / f"{puzzle_id}.json").exists():
             self._send(404, {"error": "puzzle not found"})
-        except Exception as exc:  # pragma: no cover - defensive
-            traceback.print_exc()
-            self._send(500, {"error": str(exc)})
-        finally:
-            _run_lock.release()
+            return
+        options = self._read_json()
+        job_id = _start_run(puzzle_id, options)
+        if job_id is None:
+            self._send(409, {"error": "an agent run is already in progress"})
+        else:
+            # 202 Accepted: the run is underway; poll GET /api/runs/{job_id}.
+            self._send(202, {"job_id": job_id, "status": "running"})
 
     def log_message(self, fmt: str, *args) -> None:
         # Quieter than the default; one concise line per request.

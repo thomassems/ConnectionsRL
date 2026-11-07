@@ -109,6 +109,7 @@ class AnthropicChat:
         model: str = "claude-opus-5-5",
         max_tokens: int = 2048,
         effort: str | None = "medium",
+        temperature: float | None = None,
         client: object | None = None,
         base_url: str | None = None,
         api_key: str | None = None,
@@ -116,6 +117,7 @@ class AnthropicChat:
         self.model = model
         self.max_tokens = max_tokens
         self.effort = effort
+        self.temperature = temperature
         if client is None:
             import anthropic  # noqa: PLC0415 - optional dependency
 
@@ -136,6 +138,10 @@ class AnthropicChat:
         }
         if self.effort is not None:
             params["output_config"] = {"effort": self.effort}
+        if self.temperature is not None:
+            # The installed SDK doesn't expose ``temperature`` as a typed
+            # argument, so pass it through the raw request body instead.
+            params["extra_body"] = {"temperature": self.temperature}
         response = self._client.messages.create(**params)
         if getattr(response, "stop_reason", None) == "refusal":
             return Completion("", _usage(response, "input"), _usage(response, "output"))
@@ -356,8 +362,18 @@ class LLMSolver:
 
 
 def play_puzzle(
-    path: Path, solver: LLMSolver, seed: int, rewards: RewardConfig | None = None
+    path: Path,
+    solver: LLMSolver,
+    seed: int,
+    rewards: RewardConfig | None = None,
+    on_guess=None,
 ) -> dict:
+    """Play one puzzle to completion.
+
+    ``on_guess`` is an optional callback invoked after each resolved guess as
+    ``on_guess(guesses_so_far, groups_solved)``, so a caller can report live
+    progress while a slow model works.
+    """
     puzzle = load_puzzle(path)
     env = ConnectionsEnv(puzzle, rewards)
     observation = env.reset(seed=seed)
@@ -378,6 +394,8 @@ def play_puzzle(
             "fell_back": meta["fell_back"],
             "rationale": meta.get("rationale"),
         })
+        if on_guess is not None:
+            on_guess(len(guesses), len(observation.solved_groups))
     return {
         "puzzle_id": puzzle.puzzle_id,
         "status": observation.status,
@@ -471,6 +489,8 @@ def main(argv: list[str] | None = None) -> int:
                         choices=["low", "medium", "high", "xhigh", "max"],
                         help="reasoning effort; ignored by providers that lack it")
     parser.add_argument("--max-tokens", type=int, default=2048)
+    parser.add_argument("--temperature", type=float,
+                        help="sampling temperature 0-1; omitted uses the API default")
     parser.add_argument("--max-invalid-retries", type=int, default=2)
     parser.add_argument("--no-one-away-hint", dest="one_away_hint", action="store_false",
                         help="disable the keep-3-swap-1 nudge after a one-away result")
@@ -508,6 +528,7 @@ def main(argv: list[str] | None = None) -> int:
 
     chat = AnthropicChat(
         model=model, max_tokens=args.max_tokens, effort=effort,
+        temperature=args.temperature,
         base_url=provider["base_url"], api_key=api_key,
     )
     solver = LLMSolver(chat, max_invalid_retries=args.max_invalid_retries,
@@ -524,6 +545,7 @@ def main(argv: list[str] | None = None) -> int:
         "provider": args.provider,
         "model": model,
         "effort": effort,
+        "temperature": args.temperature,
         "one_away_hint": args.one_away_hint,
         "seed": args.seed,
         "split": "validation" if args.puzzle is None else "single",
