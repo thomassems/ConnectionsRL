@@ -26,8 +26,7 @@ A puzzle is sixteen words plus the four groups they actually belong to. The envi
 
 ```mermaid
 flowchart LR
-    P["<b>Puzzle</b><br/>16 words"] --> E
-    E["<b>Environment</b><br/>holds the answer,<br/>grades guesses,<br/>4 mistakes allowed"]
+    E["<b>Environment</b><br/>the 16 words<br/>the hidden answer<br/>4 mistakes allowed"]
     A["<b>Agent</b><br/>scores all 1,820<br/>legal guesses"]
     E -->|"words in play<br/>mistakes left<br/>guess history<br/>last reward"| A
     A -->|"guess of<br/>4 words"| E
