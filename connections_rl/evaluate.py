@@ -97,12 +97,37 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--wordnet-data", type=Path)
     parser.add_argument("--seed", type=int, default=7)
     parser.add_argument("--limit", type=int, help="evaluate only the first N sorted puzzles")
+    parser.add_argument(
+        "--split",
+        choices=("train", "validation"),
+        help="evaluate only the puzzles in this split of --split-file",
+    )
+    parser.add_argument(
+        "--split-file",
+        type=Path,
+        default=Path("data/splits/nyt-v1.json"),
+        help="split definition used by --split (the held-out test split is never selectable)",
+    )
     args = parser.parse_args(argv)
     if args.limit is not None and args.limit < 1:
         parser.error("--limit must be positive")
     if args.fasttext and args.vector_cache:
         parser.error("choose either --fasttext or --vector-cache")
     paths = sorted(path for path in args.puzzles.glob("*.json") if path.name != "manifest.json")
+    split_sha256 = None
+    if args.split is not None:
+        if not args.split_file.exists():
+            parser.error(f"split file not found: {args.split_file}")
+        split_data = json.loads(args.split_file.read_text(encoding="utf-8"))
+        wanted = set(split_data["splits"][args.split])
+        split_sha256 = hashlib.sha256(args.split_file.read_bytes()).hexdigest()
+        paths = [path for path in paths if path.stem in wanted]
+        missing = wanted - {path.stem for path in paths}
+        if missing:
+            parser.error(
+                f"{len(missing)} puzzle(s) in the {args.split} split are missing from "
+                f"{args.puzzles}, e.g. {sorted(missing)[0]}"
+            )
     if args.limit is not None:
         paths = paths[:args.limit]
     if not paths:
@@ -138,6 +163,9 @@ def main(argv: list[str] | None = None) -> int:
         "fasttext_source_sha256": vectors.metadata.get("source_sha256")
         if isinstance(vectors, FastTextSubsetVectors) else None,
         "seed": args.seed,
+        "split": args.split,
+        "split_sha256": split_sha256,
+        "test_count_used": 0,
         "puzzles_manifest_sha256": hashlib.sha256(manifest.read_bytes()).hexdigest()
         if manifest.exists() else None,
     })
