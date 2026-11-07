@@ -34,6 +34,7 @@ export default function App() {
   const [active, setActive] = useState<ActiveSolve | null>(null);
   const speed = 0.5; // fixed slow playback; most use the step button
   const [running, setRunning] = useState(false);
+  const [runStatus, setRunStatus] = useState<string | null>(null);
   const [runError, setRunError] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [toast, setToast] = useState<{ message: string; kind: string } | null>(null);
@@ -119,13 +120,26 @@ export default function App() {
       if (!puzzle) return;
       setRunning(true);
       setRunError(null);
+      setRunStatus("Starting…");
       try {
-        const response = await runAgent(puzzle.puzzle_id, options);
+        const response = await runAgent(puzzle.puzzle_id, options, (p) => {
+          const mins = Math.floor(p.elapsedSec / 60);
+          const secs = String(p.elapsedSec % 60).padStart(2, "0");
+          const clock = `${mins}:${secs}`;
+          setRunStatus(
+            p.guesses > 0
+              ? `Thinking… guess ${p.guesses + 1}, ${p.solved}/4 solved · ${clock}`
+              : `Thinking… ${clock}`,
+          );
+        });
         setActive({ meta: response.meta, result: response.result });
+        // The run was saved; refresh the list so it appears among stored solves.
+        setStored(await fetchStoredSolves(puzzle.puzzle_id));
       } catch (e) {
         setRunError(String((e as Error).message || e));
       } finally {
         setRunning(false);
+        setRunStatus(null);
       }
     },
     [puzzle],
@@ -221,6 +235,7 @@ export default function App() {
               stored={stored}
               activeId={meta?.id ?? null}
               running={running}
+              runStatus={runStatus}
               runError={runError}
               onSelectStored={(solve) => setActive({ meta: solve, result: solve.result })}
               onRun={onRun}

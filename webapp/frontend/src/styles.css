@@ -349,6 +349,11 @@ button.primary { background: var(--accent); border-color: var(--accent); color: 
 
 .field { display: flex; flex-direction: column; gap: 4px; margin-bottom: 10px; font-size: 13px; color: var(--muted); }
 .field select, .field input { max-width: none; width: 100%; }
+.field input[type="range"] { accent-color: var(--accent); }
+.field input[type="range"]:disabled { opacity: 0.4; }
+.field-row { display: flex; justify-content: space-between; align-items: baseline; }
+.field-value { color: var(--text); font-variant-numeric: tabular-nums; }
+.field-hint { color: var(--muted); font-size: 11px; }
 .checkbox { display: flex; align-items: center; gap: 8px; font-size: 13px; margin-bottom: 12px; }
 .checkbox input { accent-color: var(--accent); }
 
