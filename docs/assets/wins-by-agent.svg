@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 310" width="760" height="310" role="img">
+<style>
+  .bg { fill: #ffffff; }
+  .title { fill: #1f2328; font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .sub { fill: #656d76; font: 400 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .label { fill: #1f2328; font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .value { fill: #1f2328; font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .tick { fill: #656d76; font: 400 11.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .grid { stroke: #d8dee4; stroke-width: 1; }
+  .axis { stroke: #8c959f; stroke-width: 1; }
+  .whisker { stroke: #1f2328; stroke-width: 1.5; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; }
+    .title { fill: #e6edf3; }
+    .sub { fill: #9198a1; }
+    .label { fill: #e6edf3; }
+    .value { fill: #e6edf3; }
+    .tick { fill: #9198a1; }
+    .grid { stroke: #30363d; }
+    .axis { stroke: #6e7681; }
+    .whisker { stroke: #e6edf3; }
+  }
+</style>
+<rect class="bg" x="0" y="0" width="760" height="310" rx="6"/>
+<text class="title" x="24" y="34">Puzzles won, out of 141</text>
+<text class="sub" x="24" y="56">Same 141 validation puzzles for every agent. Held-out test puzzles were not used.</text>
+<line class="grid" x1="196.0" y1="72" x2="196.0" y2="248"/>
+<text class="tick" x="196.0" y="266" text-anchor="middle">0</text>
+<line class="grid" x1="274.0" y1="72" x2="274.0" y2="248"/>
+<text class="tick" x="274.0" y="266" text-anchor="middle">10</text>
+<line class="grid" x1="352.0" y1="72" x2="352.0" y2="248"/>
+<text class="tick" x="352.0" y="266" text-anchor="middle">20</text>
+<line class="grid" x1="430.0" y1="72" x2="430.0" y2="248"/>
+<text class="tick" x="430.0" y="266" text-anchor="middle">30</text>
+<line class="grid" x1="508.0" y1="72" x2="508.0" y2="248"/>
+<text class="tick" x="508.0" y="266" text-anchor="middle">40</text>
+<line class="grid" x1="586.0" y1="72" x2="586.0" y2="248"/>
+<text class="tick" x="586.0" y="266" text-anchor="middle">50</text>
+<line class="grid" x1="664.0" y1="72" x2="664.0" y2="248"/>
+<text class="tick" x="664.0" y="266" text-anchor="middle">60</text>
+<text class="label" x="24" y="91.0">Rule baseline</text>
+<text class="sub" x="24" y="107.0">WordNet + spelling clues</text>
+<rect x="196" y="80.0" width="46.8" height="22" rx="3" fill="#8c8f94"/>
+<text class="value" x="254.8" y="96.0">6</text>
+<text class="label" x="24" y="137.0">+ fastText vectors</text>
+<text class="sub" x="24" y="153.0">same rules, plus vector similarity</text>
+<rect x="196" y="126.0" width="78.0" height="22" rx="3" fill="#5b8def"/>
+<text class="value" x="286.0" y="142.0">10</text>
+<text class="label" x="24" y="183.0">Trained network</text>
+<text class="sub" x="24" y="199.0">321k-param scorer, mean of 3 seeds</text>
+<rect x="196" y="172.0" width="148.2" height="22" rx="3" fill="#e0922f"/>
+<line class="whisker" x1="320.8" y1="183.0" x2="367.6" y2="183.0"/>
+<line class="whisker" x1="320.8" y1="178.0" x2="320.8" y2="188.0"/>
+<line class="whisker" x1="367.6" y1="178.0" x2="367.6" y2="188.0"/>
+<text class="value" x="379.6" y="188.0">19.0  (16–22)</text>
+<text class="label" x="24" y="229.0">Language model</text>
+<text class="sub" x="24" y="245.0">deepseek-chat, mean of 3 runs</text>
+<rect x="196" y="218.0" width="356.2" height="22" rx="3" fill="#1f9d6b"/>
+<line class="whisker" x1="492.4" y1="229.0" x2="593.8" y2="229.0"/>
+<line class="whisker" x1="492.4" y1="224.0" x2="492.4" y2="234.0"/>
+<line class="whisker" x1="593.8" y1="224.0" x2="593.8" y2="234.0"/>
+<text class="value" x="605.8" y="234.0">45.7  (38–51)</text>
+<line class="axis" x1="196" y1="72" x2="196" y2="248"/>
+<text class="sub" x="24" y="296">Whiskers show the best and worst individual run; the rule baselines are deterministic.</text>
+</svg>

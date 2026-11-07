@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 400" width="760" height="400" role="img">
+<style>
+  .bg { fill: #ffffff; }
+  .title { fill: #1f2328; font: 600 17px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .sub { fill: #656d76; font: 400 12.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .label { fill: #1f2328; font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .value { fill: #1f2328; font: 600 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .tick { fill: #656d76; font: 400 11.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+  .grid { stroke: #d8dee4; stroke-width: 1; }
+  .axis { stroke: #8c959f; stroke-width: 1; }
+  .whisker { stroke: #1f2328; stroke-width: 1.5; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; }
+    .title { fill: #e6edf3; }
+    .sub { fill: #9198a1; }
+    .label { fill: #e6edf3; }
+    .value { fill: #e6edf3; }
+    .tick { fill: #9198a1; }
+    .grid { stroke: #30363d; }
+    .axis { stroke: #6e7681; }
+    .whisker { stroke: #e6edf3; }
+  }
+</style>
+<rect class="bg" x="0" y="0" width="760" height="400" rx="6"/>
+<text class="title" x="24" y="34">Share of groups solved, by group color</text>
+<text class="sub" x="24" y="56">Yellow is the easiest category and purple the trickiest, usually wordplay rather than meaning.</text>
+<line class="grid" x1="64" y1="282.0" x2="724" y2="282.0"/>
+<text class="tick" x="54" y="286.0" text-anchor="end">0%</text>
+<line class="grid" x1="64" y1="235.5" x2="724" y2="235.5"/>
+<text class="tick" x="54" y="239.5" text-anchor="end">25%</text>
+<line class="grid" x1="64" y1="189.0" x2="724" y2="189.0"/>
+<text class="tick" x="54" y="193.0" text-anchor="end">50%</text>
+<line class="grid" x1="64" y1="142.5" x2="724" y2="142.5"/>
+<text class="tick" x="54" y="146.5" text-anchor="end">75%</text>
+<line class="grid" x1="64" y1="96.0" x2="724" y2="96.0"/>
+<text class="tick" x="54" y="100.0" text-anchor="end">100%</text>
+<rect x="82.5" y="246.4" width="26" height="35.6" rx="3" fill="#8c8f94"/>
+<text class="tick" x="95.5" y="240.4" text-anchor="middle">19</text>
+<rect x="116.5" y="233.2" width="26" height="48.8" rx="3" fill="#5b8def"/>
+<text class="tick" x="129.5" y="227.2" text-anchor="middle">26</text>
+<rect x="150.5" y="196.3" width="26" height="85.7" rx="3" fill="#e0922f"/>
+<text class="tick" x="163.5" y="190.3" text-anchor="middle">46</text>
+<rect x="184.5" y="149.2" width="26" height="132.8" rx="3" fill="#1f9d6b"/>
+<text class="tick" x="197.5" y="143.2" text-anchor="middle">71</text>
+<circle cx="112.5" cy="304.0" r="6" fill="#eab308"/>
+<text class="label" x="124.5" y="308.0">Yellow</text>
+<rect x="247.5" y="231.9" width="26" height="50.1" rx="3" fill="#8c8f94"/>
+<text class="tick" x="260.5" y="225.9" text-anchor="middle">27</text>
+<rect x="281.5" y="225.3" width="26" height="56.7" rx="3" fill="#5b8def"/>
+<text class="tick" x="294.5" y="219.3" text-anchor="middle">30</text>
+<rect x="315.5" y="207.7" width="26" height="74.3" rx="3" fill="#e0922f"/>
+<text class="tick" x="328.5" y="201.7" text-anchor="middle">40</text>
+<rect x="349.5" y="180.0" width="26" height="102.0" rx="3" fill="#1f9d6b"/>
+<text class="tick" x="362.5" y="174.0" text-anchor="middle">55</text>
+<circle cx="277.5" cy="304.0" r="6" fill="#22a06b"/>
+<text class="label" x="289.5" y="308.0">Green</text>
+<rect x="412.5" y="259.6" width="26" height="22.4" rx="3" fill="#8c8f94"/>
+<text class="tick" x="425.5" y="253.6" text-anchor="middle">12</text>
+<rect x="446.5" y="253.0" width="26" height="29.0" rx="3" fill="#5b8def"/>
+<text class="tick" x="459.5" y="247.0" text-anchor="middle">16</text>
+<rect x="480.5" y="240.2" width="26" height="41.8" rx="3" fill="#e0922f"/>
+<text class="tick" x="493.5" y="234.2" text-anchor="middle">22</text>
+<rect x="514.5" y="205.9" width="26" height="76.1" rx="3" fill="#1f9d6b"/>
+<text class="tick" x="527.5" y="199.9" text-anchor="middle">41</text>
+<circle cx="442.5" cy="304.0" r="6" fill="#3b82f6"/>
+<text class="label" x="454.5" y="308.0">Blue</text>
+<rect x="577.5" y="268.8" width="26" height="13.2" rx="3" fill="#8c8f94"/>
+<text class="tick" x="590.5" y="262.8" text-anchor="middle">7</text>
+<rect x="611.5" y="264.9" width="26" height="17.1" rx="3" fill="#5b8def"/>
+<text class="tick" x="624.5" y="258.9" text-anchor="middle">9</text>
+<rect x="645.5" y="253.4" width="26" height="28.6" rx="3" fill="#e0922f"/>
+<text class="tick" x="658.5" y="247.4" text-anchor="middle">15</text>
+<rect x="679.5" y="217.4" width="26" height="64.6" rx="3" fill="#1f9d6b"/>
+<text class="tick" x="692.5" y="211.4" text-anchor="middle">35</text>
+<circle cx="607.5" cy="304.0" r="6" fill="#a855f7"/>
+<text class="label" x="619.5" y="308.0">Purple</text>
+<line class="axis" x1="64" y1="282.0" x2="724" y2="282.0"/>
+<rect x="64.0" y="338.0" width="12" height="12" rx="2" fill="#8c8f94"/>
+<text class="label" x="83.0" y="348.0">Rule baseline</text>
+<rect x="186.8" y="338.0" width="12" height="12" rx="2" fill="#5b8def"/>
+<text class="label" x="205.8" y="348.0">+ vectors</text>
+<rect x="279.2" y="338.0" width="12" height="12" rx="2" fill="#e0922f"/>
+<text class="label" x="298.2" y="348.0">Trained network</text>
+<rect x="417.2" y="338.0" width="12" height="12" rx="2" fill="#1f9d6b"/>
+<text class="label" x="436.2" y="348.0">Language model</text>
+<text class="sub" x="24" y="382">Network and language-model bars average 3 runs each; the rule baselines are single deterministic runs.</text>
+</svg>

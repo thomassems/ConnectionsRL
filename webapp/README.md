@@ -1,15 +1,17 @@
 # Connections Agent Replay (local web app)
 
 A private local tool to browse the saved puzzles and watch the LLM agent solve
-them — either replaying a run already saved in `reports/`, or running the agent
+them, either replaying a run already saved in `reports/`, or running the agent
 live against a puzzle you pick.
+
+![The app after a finished solve: all four groups revealed in their NYT colours, the guess log on the right, and the agent's reasoning for the last guess below the board](../docs/assets/app.png)
 
 It has two parts:
 
-- **`server.py`** — a dependency-free Python HTTP API (standard library only)
+- **`server.py`**: a dependency-free Python HTTP API (standard library only)
   that reads puzzles from `data/puzzles/nyt/`, stored solves from `reports/`,
   and can run `connections_rl.llm_solver` on demand.
-- **`frontend/`** — a Vite + React + TypeScript single-page app that draws the
+- **`frontend/`**: a Vite + React + TypeScript single-page app that draws the
   board, animates each guess, and lets you scrub through the solve.
 
 ## Run it
