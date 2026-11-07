@@ -5,28 +5,45 @@ interface Props {
   stored: StoredSolve[];
   activeId: string | null;
   running: boolean;
+  runStatus: string | null;
   runError: string | null;
   onSelectStored: (solve: StoredSolve) => void;
   onRun: (options: RunOptions) => void;
 }
 
-const PROVIDERS = [
-  { id: "deepseek", label: "DeepSeek", defaultModel: "deepseek-chat" },
-  { id: "anthropic", label: "Anthropic (Claude)", defaultModel: "claude-opus-5-5" },
+interface ProviderInfo {
+  id: string;
+  label: string;
+  models: string[];
+}
+
+const PROVIDERS: ProviderInfo[] = [
+  { id: "deepseek", label: "DeepSeek", models: ["deepseek-chat", "deepseek-reasoner"] },
+  {
+    id: "anthropic",
+    label: "Anthropic (Claude)",
+    models: ["claude-opus-5-5", "claude-sonnet-5-5", "claude-haiku-5-5"],
+  },
 ];
+
+// deepseek-reasoner does its own chain-of-thought and ignores temperature.
+const IGNORES_TEMPERATURE = new Set(["deepseek-reasoner"]);
 
 export function SolvePanel({
   stored,
   activeId,
   running,
+  runStatus,
   runError,
   onSelectStored,
   onRun,
 }: Props) {
   const [provider, setProvider] = useState("deepseek");
-  const [model, setModel] = useState("");
+  const [model, setModel] = useState(PROVIDERS[0].models[0]);
   const [hint, setHint] = useState(true);
+  const [temperature, setTemperature] = useState(1);
   const current = PROVIDERS.find((p) => p.id === provider)!;
+  const tempIgnored = IGNORES_TEMPERATURE.has(model);
 
   return (
     <div className="solve-panel">
@@ -57,8 +74,9 @@ export function SolvePanel({
         <select
           value={provider}
           onChange={(e) => {
-            setProvider(e.target.value);
-            setModel("");
+            const next = PROVIDERS.find((p) => p.id === e.target.value)!;
+            setProvider(next.id);
+            setModel(next.models[0]);
           }}
         >
           {PROVIDERS.map((p) => (
@@ -68,13 +86,32 @@ export function SolvePanel({
       </label>
       <label className="field">
         <span>Model</span>
-        <input
-          type="text"
-          value={model}
-          placeholder={current.defaultModel}
-          onChange={(e) => setModel(e.target.value)}
-        />
+        <select value={model} onChange={(e) => setModel(e.target.value)}>
+          {current.models.map((m) => (
+            <option key={m} value={m}>{m}</option>
+          ))}
+        </select>
       </label>
+
+      <label className="field">
+        <span className="field-row">
+          Temperature
+          <span className="field-value">{tempIgnored ? "—" : temperature.toFixed(1)}</span>
+        </span>
+        <input
+          type="range"
+          min={0}
+          max={1}
+          step={0.1}
+          value={temperature}
+          disabled={tempIgnored}
+          onChange={(e) => setTemperature(Number(e.target.value))}
+        />
+        {tempIgnored && (
+          <span className="field-hint">The reasoner ignores temperature.</span>
+        )}
+      </label>
+
       <label className="checkbox">
         <input
           type="checkbox"
@@ -90,18 +127,25 @@ export function SolvePanel({
         onClick={() =>
           onRun({
             provider,
-            model: model.trim() || undefined,
+            model,
             one_away_hint: hint,
             seed: 7,
+            temperature: tempIgnored ? undefined : temperature,
           })
         }
       >
-        {running ? "Running… (watch it live)" : "Run agent"}
+        {running ? runStatus ?? "Running…" : "Run agent"}
       </button>
+      {running && (
+        <p className="muted small">
+          The reasoner can take a minute or two — it’ll replay here when done.
+        </p>
+      )}
       {runError && <p className="error">{runError}</p>}
       <p className="muted small">
-        A live run calls the model's API and costs tokens. It needs the
-        provider's API key in your environment or <code>.env</code>.
+        A live run calls the model's API, costs tokens, and is saved to this
+        puzzle's stored solves. It needs the provider's API key in your
+        environment or <code>.env</code>.
       </p>
     </div>
   );

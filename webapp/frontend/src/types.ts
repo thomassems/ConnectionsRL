@@ -74,6 +74,7 @@ export interface RunOptions {
   provider: string;
   model?: string;
   effort?: string;
+  temperature?: number;
   one_away_hint: boolean;
   seed: number;
 }
