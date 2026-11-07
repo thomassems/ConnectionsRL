@@ -27,10 +27,10 @@ A puzzle is sixteen words plus the four groups they actually belong to. The envi
 ```mermaid
 flowchart LR
     P["<b>Puzzle</b><br/>16 words"] --> E
-    E["<b>Environment</b><br/>holds the answer,<br/>grades guesses<br/>4 mistakes allowed"]
+    E["<b>Environment</b><br/>holds the answer,<br/>grades guesses,<br/>4 mistakes allowed"]
     A["<b>Agent</b><br/>scores all 1,820<br/>legal guesses"]
-    E -->|"words still in play, mistakes left,<br/>full guess history, last reward"| A
-    A -->|"guess of 4 words"| E
+    E -->|"words in play<br/>mistakes left<br/>guess history<br/>last reward"| A
+    A -->|"guess of<br/>4 words"| E
 ```
 
 Every agent sees exactly the same observation and none of them can see the groups. What differs is how each one turns 1,820 legal four-word combinations into a single guess:
