@@ -28,9 +28,11 @@ A puzzle is sixteen words plus the four groups they actually belong to. The envi
 flowchart LR
     E["<b>Environment</b><br/>the 16 words<br/>the hidden answer<br/>4 mistakes allowed"]
     A["<b>Agent</b><br/>scores all 1,820<br/>legal guesses"]
-    E -->|"words in play<br/>mistakes left<br/>guess history<br/>last reward"| A
-    A -->|"guess of<br/>4 words"| E
+    E -->|"observation"| A
+    A -->|"guess of 4 words"| E
 ```
+
+The observation is the words still in play, how many mistakes are left, the full history of guesses and what each one scored.
 
 Every agent sees exactly the same observation and none of them can see the groups. What differs is how each one turns 1,820 legal four-word combinations into a single guess:
 
